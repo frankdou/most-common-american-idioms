@@ -5,10 +5,12 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <title>Most Common American Idioms</title>
         <style>
-            #content {
-                margin: 20px;
+            body {
+                margin: 0;
             }
-
+            #content {
+                padding: 1rem;
+            }
             .sample {
                 margin-top: 30px;
             }
@@ -16,9 +18,14 @@
                 position: sticky;
                 bottom: 0;
                 display: flex;
+                gap: 0.4rem;
                 & > * {
+                    color: #fff;
                     flex: 1;
                     padding: 1rem;
+                    display: flex;
+                    justify-content: center;
+                    background-color: #94a3b8;
                 }
             }
         </style>
@@ -27,8 +34,8 @@
     <body>
         <div id="content"></div>
         <div class="actions">
-            <button id="pre">Pre</button>
-            <button id="next">Next</button>
+            <div id="pre">Pre</div>
+            <div id="next">Next</div>
         </div>
         <script src="book.js"></script>
         <script>
