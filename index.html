@@ -1,96 +1,122 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Most Common American Idioms</title>
+        <style>
+            #content {
+                margin: 20px;
+            }
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Most Common American Idioms</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-        }
+            .sample {
+                margin-top: 30px;
+            }
+            .actions {
+                position: sticky;
+                bottom: 0;
+                display: flex;
+                & > * {
+                    flex: 1;
+                    padding: 1rem;
+                }
+            }
+        </style>
+    </head>
 
-        #content {
-            margin: 20px;
-        }
+    <body>
+        <div id="content"></div>
+        <div class="actions">
+            <button id="pre">Pre</button>
+            <button id="next">Next</button>
+        </div>
+        <script src="book.js"></script>
+        <script>
+            function getQueryParam(paramName) {
+                const url = new URL(window.location)
+                const value = url.searchParams.get(paramName)
 
-        .sample {
-            margin-top: 30px;
-        }
+                if (value === null) {
+                    const nDefault = 1
 
-        #btnNext {
-            position: sticky;
-            width: 100%;
-            bottom: 0;
-            height: 60px;
-            font-size: 24px;
-        }
-    </style>
-</head>
+                    setQueryParam("pageNumber", nDefault)
 
-<body>
-    <div id="content"></div>
-    <button id="btnNext">Next</button>
-    <script src="book.js"></script>
-    <script>
-        let currentIndex = 0;
+                    return nDefault
+                }
 
-        function showNextIdiom() {
-            const index = currentIndex;
-            const contentDiv = document.getElementById('content');
-            contentDiv.innerHTML = '';
+                return parseInt(value, 10)
+            }
 
-            const item = books[index];
-            const itemDiv = document.createElement('div');
-            itemDiv.className = 'item';
+            function setQueryParam(key, value) {
+                const url = new URL(window.location)
+                url.searchParams.set(key, value)
+                window.history.replaceState({}, "", url)
+            }
 
-            const title = document.createElement('h2');
-            title.textContent = `${index + 1}. ${item.name}`;
-            itemDiv.appendChild(title);
+            function showIdiom(index) {
+                const contentDiv = document.getElementById("content")
+                contentDiv.innerHTML = ""
 
-            const desc = document.createElement('p');
-            desc.textContent = item.desc;
-            itemDiv.appendChild(desc);
+                const item = books[index - 1]
+                const itemDiv = document.createElement("div")
+                itemDiv.className = "item"
 
-            for (let i = 0; i < item.examples.length; i++) {
-                const sampleDiv = document.createElement('div');
-                sampleDiv.className = 'sample';
-                const example = item.examples[i]
-                const title = document.createElement('b');
-                title.innerText = `例句 ${i + 1}`;
-                sampleDiv.appendChild(title);
+                const title = document.createElement("h2")
+                title.textContent = `${index}. ${item.name}`
+                itemDiv.appendChild(title)
 
-                const enSentence = document.createElement('p');
-                enSentence.innerText = example.en;
-                sampleDiv.appendChild(enSentence);
+                const desc = document.createElement("p")
+                desc.textContent = item.desc
+                itemDiv.appendChild(desc)
 
-                const cnSentence = document.createElement('p');
-                cnSentence.innerText = example.cn;
-                sampleDiv.appendChild(cnSentence);
+                for (let i = 0; i < item.examples.length; i++) {
+                    const sampleDiv = document.createElement("div")
+                    sampleDiv.className = "sample"
+                    const example = item.examples[i]
+                    const title = document.createElement("b")
+                    title.innerText = `例句 ${i + 1}`
+                    sampleDiv.appendChild(title)
 
-                const audio = document.createElement('audio');
-                audio.controls = true;
-                const source = document.createElement('source');
-                source.src = example.audio_link;
-                source.type = 'audio/mpeg';
-                audio.appendChild(source);
-                sampleDiv.appendChild(audio);
-                itemDiv.appendChild(sampleDiv);
-            };
+                    const enSentence = document.createElement("p")
+                    enSentence.innerText = example.en
+                    sampleDiv.appendChild(enSentence)
 
-            contentDiv.appendChild(itemDiv);
-        }
+                    const cnSentence = document.createElement("p")
+                    cnSentence.innerText = example.cn
+                    sampleDiv.appendChild(cnSentence)
 
-        document.getElementById('btnNext').addEventListener('click', () => {
-            currentIndex += 1;
-            showNextIdiom();
-        });
+                    const audio = document.createElement("audio")
+                    audio.controls = true
+                    const source = document.createElement("source")
+                    source.src = example.audio_link
+                    source.type = "audio/mpeg"
+                    audio.appendChild(source)
+                    sampleDiv.appendChild(audio)
+                    itemDiv.appendChild(sampleDiv)
+                }
 
-        // Display the first item initially
-        showNextIdiom(currentIndex);
-    </script>
+                contentDiv.appendChild(itemDiv)
+            }
 
-</body>
+            document.getElementById("pre").addEventListener("click", () => {
+                let tmp = getQueryParam("pageNumber")
 
+                if (tmp === 1) return
+
+                tmp -= 1
+
+                setQueryParam("pageNumber", tmp)
+                showIdiom(tmp)
+            })
+
+            document.getElementById("next").addEventListener("click", () => {
+                const tmp = getQueryParam("pageNumber") + 1
+
+                setQueryParam("pageNumber", tmp)
+                showIdiom(tmp)
+            })
+
+            showIdiom(getQueryParam("pageNumber"))
+        </script>
+    </body>
 </html>
