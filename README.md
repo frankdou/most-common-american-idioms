@@ -18,3 +18,6 @@ Moreover, you can use the [Enjoy App](https://1000h.org/enjoy-app/) from the [10
 ---
 
 If you need any further adjustments, please let me know!
+
+
+Based on https://github.com/JinXJinX/most-common-american-idioms.
