@@ -1,0 +1,37 @@
+{
+  "n": 7,
+  "name": "A blessing in disguise",
+  "meaning": {
+    "zh": "“塞翁失马，焉知非福” 或 “因祸得福”。\n\n这个短语的来历可以追溯到 18 世纪。其字面意思是隐藏起来的祝福，意指一开始看起来是坏事，但最终却带来了好结果。这表明一些表面上的不幸事件实际上可能会导致更好的结果或意外的好处。",
+    "en": "This phrase can be traced back to the 18th century. The literal meaning is a blessing that is disguised, suggesting that something that seems bad at first may ultimately result in something good. It highlights the idea that apparent misfortunes can sometimes lead to unexpected benefits."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Losing that job was *a blessing in disguise*; it pushed me to start my own business.",
+          "zh": "失去那份工作是塞翁失马，焉知非福；它促使我开办了自己的公司。"
+        }
+      ],
+      "audio": "audio/007.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Breaking up with her was really *a blessing in disguise* because she found someone even better.",
+          "zh": "分手对她来说真的是因祸得福，因为她找到了一个更好的人。"
+        }
+      ],
+      "audio": "audio/007.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Failing that exam was *a blessing in disguise*; it made me realize I needed to change my study habits.",
+          "zh": "考试不及格真是塞翁失马，焉知非福；它让我意识到我需要改变我的学习习惯。"
+        }
+      ],
+      "audio": "audio/007.3.mp3"
+    }
+  ]
+}

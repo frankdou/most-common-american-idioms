@@ -1,0 +1,37 @@
+{
+  "n": 322,
+  "name": "Do or die",
+  "meaning": {
+    "zh": "“背水一战” 或 “不成功便成仁”。\n\n这个成语出自军事行动中，一旦决定开始行动，就没有回头路，要么成功要么面临严重后果。在现代用法中，它多用于描述一种必须冒险或者拼尽全力的情况，因为失败将带来不可接受的后果。",
+    "en": "This idiom comes from military settings where once an action is initiated, there is no turning back; it’s either success or facing dire consequences. In modern usage, it describes a situation where one must take a risk or make a maximum effort because failure is not an option."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "This game is a *do or die* situation for the team.",
+          "zh": "这场比赛对球队来说是一场背水一战。"
+        }
+      ],
+      "audio": "audio/322.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "It’s a *do or die* moment for the company in the market.",
+          "zh": "这是公司在市场上的背水一战时刻。"
+        }
+      ],
+      "audio": "audio/322.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I have to nail this presentation. It's *do or die*.",
+          "zh": "我必须搞定这次演讲。这是背水一战。"
+        }
+      ],
+      "audio": "audio/322.3.mp3"
+    }
+  ]
+}

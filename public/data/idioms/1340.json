@@ -1,0 +1,37 @@
+{
+  "n": 1340,
+  "name": "You can bet your bottom dollar",
+  "meaning": {
+    "zh": "“你可以打包票” 或 “你完全可以相信”。\n\n这个习语源于赌博或投注的情景。在赌桌上，“bottom dollar” 指的是你的最后一块钱，表示你愿意用你最后的金钱去下注，意味着你非常确信某事会发生。因此，这个短语在现代用于表示对某件事情有非常高的信心，适合用在你要向对方强调一个十分肯定的观点的时候。",
+    "en": "This idiom originates from gambling or betting scenarios. \"Bottom dollar\" refers to your last dollar, which implies that you are so sure about something that you are willing to risk your last bit of money. Therefore, this phrase is used in modern contexts to express strong confidence in something, and it is fitting when you want to emphasize a point you are very certain about."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "You can bet your bottom dollar that she'll be at the party tonight.",
+          "zh": "你可以打包票她今晚一定会参加派对。"
+        }
+      ],
+      "audio": "audio/1340.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I'll bet my bottom dollar this project will be a success.",
+          "zh": "我敢打包票这个项目会成功。"
+        }
+      ],
+      "audio": "audio/1340.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "You can bet your bottom dollar that the weather will be great for the weekend.",
+          "zh": "你完全可以相信这个周末的天气会很好。"
+        }
+      ],
+      "audio": "audio/1340.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 1260,
+  "name": "Treat/handle someone with kid gloves",
+  "meaning": {
+    "zh": "“温柔地对待某人” 或 “小心翼翼地处理某人的问题”。\n\n这个短语的起源可以追溯到17世纪，当时 “kid gloves” 是用小山羊皮制成的手套。这种手套质地非常柔软，不容易损坏。因此，这个短语后来被用来表示对待某人时非常小心和温柔，如同使用小山羊皮手套那样。",
+    "en": "This phrase can be traced back to the 17th century when \"kid gloves\" were made from the soft and delicate leather of young goats. Because these gloves were so soft and not likely to damage anything they touched, the phrase came to mean treating someone very carefully and gently, as if handling something fragile."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He has been very stressed lately, so please *handle him with kid gloves*.",
+          "zh": "他最近压力很大，所以请温柔地对待他。"
+        }
+      ],
+      "audio": "audio/1260.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The manager decided to *treat the new intern with kid gloves* to make sure she felt comfortable.",
+          "zh": "经理决定对新实习生小心翼翼地处理，以确保她感到舒服。"
+        }
+      ],
+      "audio": "audio/1260.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "When discussing sensitive topics, it's best to *handle the subject with kid gloves*.",
+          "zh": "讨论敏感话题时，最好小心翼翼地处理。"
+        }
+      ],
+      "audio": "audio/1260.3.mp3"
+    }
+  ]
+}

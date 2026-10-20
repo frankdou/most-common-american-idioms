@@ -1,0 +1,37 @@
+{
+  "n": 1024,
+  "name": "See the light",
+  "meaning": {
+    "zh": "“看见光明” 或 “顿悟”。\n\n这个短语源自宗教与文学中描述一个人从黑暗中看到光明的情景，象征着获得启示或者理解了某种真理。在日常使用中，通常表示一个人突然明白了某事，或者有了新的见解。",
+    "en": "This phrase originates from religious and literary descriptions of someone seeing the light after being in darkness, which symbolizes gaining enlightenment or understanding some truth. In daily usage, it often signifies that a person suddenly understands something or has a new insight."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "After struggling with the math problem for hours, she finally *saw the light*.",
+          "zh": "在苦苦挣扎了解这道数学题几个小时后，她终于顿悟了。"
+        }
+      ],
+      "audio": "audio/1024.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He didn't believe in the project at first, but he eventually *saw the light* and became its biggest advocate.",
+          "zh": "他一开始并不相信这个项目，但最终他顿悟了，成了它最大的支持者。"
+        }
+      ],
+      "audio": "audio/1024.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I was skeptical about her idea until she explained it to me, and then I *saw the light*.",
+          "zh": "我对她的想法一直持怀疑态度，直到她向我解释清楚，我才恍然大悟。"
+        }
+      ],
+      "audio": "audio/1024.3.mp3"
+    }
+  ]
+}

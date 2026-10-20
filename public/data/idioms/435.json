@@ -1,0 +1,37 @@
+{
+  "n": 435,
+  "name": "Footloose and fancy-free",
+  "meaning": {
+    "zh": "“无拘无束，无牵无挂”。\n\n这个短语起源于 “footloose” 的意思是 “没有被束缚的” 或 “自由的”，而 “fancy-free” 的意思是 “没有烦恼或担忧的”，合在一起表示 “完全自由，无任何牵挂或责任”。在现代使用中，这个短语通常用来描述那些没有固定义务或约束的人，往往是指单身的人。",
+    "en": "The phrase originates from \"footloose,\" meaning \"not tied or bound\" or \"free to go,\" and \"fancy-free,\" meaning \"carefree and untroubled,\" combined to describe complete freedom with no ties or responsibilities. In modern usage, the idiom is often used to describe people who have no binding commitments, often implying they are single."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "After finishing college, he felt *footloose and fancy-free* for the first time in years.",
+          "zh": "大学毕业后，他多年里第一次感到无拘无束，无牵无挂。"
+        }
+      ],
+      "audio": "audio/435.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She's been traveling the world, *footloose and fancy-free*, ever since she quit her job.",
+          "zh": "自从她辞职后，她就一直在无拘无束地环游世界。"
+        }
+      ],
+      "audio": "audio/435.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Living *footloose and fancy-free* sounds appealing, but it can also be lonely at times.",
+          "zh": "无拘无束，无牵无挂的生活听起来很吸引人，但有时候也会感到孤单。"
+        }
+      ],
+      "audio": "audio/435.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 327,
+  "name": "Doesn't know beans about it",
+  "meaning": {
+    "zh": "“对某事一无所知” 或 “完全不了解某事”。\n\n这个短语可能起源于美国的俚语，当时 “beans”（豆子）常被当作无关紧要的小东西。因此，当说某人 “doesn't know beans about it” 时，意思是某人对某事一无所知，连最基本的常识都没有。",
+    "en": "This phrase likely originates from American slang where \"beans\" were considered trivial small things. Therefore, saying someone \"doesn't know beans about it\" implies that the person knows nothing about a particular subject, not even the most basic facts."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He *doesn't know beans about* car mechanics.",
+          "zh": "他对汽车机械一无所知。"
+        }
+      ],
+      "audio": "audio/327.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She tried to give advice on cooking, but she *doesn't know beans about* it.",
+          "zh": "她试图给出烹饪建议，但她对此一窍不通。"
+        }
+      ],
+      "audio": "audio/327.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Don’t ask him about taxes; he *doesn't know beans about* finance.",
+          "zh": "不要问他关于税务的事情，他对金融一无所知。"
+        }
+      ],
+      "audio": "audio/327.3.mp3"
+    }
+  ]
+}

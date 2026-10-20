@@ -1,0 +1,37 @@
+{
+  "n": 644,
+  "name": "In a pinch",
+  "meaning": {
+    "zh": "“在紧要关头” 或 “在必要时”。\n\n这个短语起源于形象的比喻，指某种情况下像被捏住或压迫一样紧迫。它用来表示在没有其他选择或在紧急情况时，某些事情或方法虽然不是最理想的，但仍然可以临时派上用场。",
+    "en": "This phrase originates from a figurative analogy, referring to a situation that feels urgent or pressuring, as if being pinched. It is used to imply that something, though not ideal, can work in a situation where there are no other options or in an emergency."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I can use my phone as a flashlight *in a pinch*.",
+          "zh": "在紧要关头，我可以用手机当手电筒使用。"
+        }
+      ],
+      "audio": "audio/644.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He can help us with the project *in a pinch*.",
+          "zh": "在必要时，他可以帮助我们完成这个项目。"
+        }
+      ],
+      "audio": "audio/644.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "*In a pinch*, we can use the old printer.",
+          "zh": "在紧要关头，我们可以用那个旧打印机。"
+        }
+      ],
+      "audio": "audio/644.3.mp3"
+    }
+  ]
+}

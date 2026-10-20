@@ -1,0 +1,37 @@
+{
+  "n": 1078,
+  "name": "Stay on budget",
+  "meaning": {
+    "zh": "“控制预算” 或 “按预算行事”。\n\n这个短语起源于财务管理中，意指在计划的预算范围内进行花费或开销。无论是个人、家庭还是企业都需要 “stay on budget” 来确保收支平衡，避免超支。",
+    "en": "This phrase originates from financial management, meaning to make expenses or expenditures within the planned budget. Whether it's for an individual, a family, or a business, \"stay on budget\" is essential to ensure balance between income and expenses and avoid overspending."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "We need to stay on budget for this project to be profitable.",
+          "zh": "我们需要保持在预算范围内，使这个项目有利可图。"
+        }
+      ],
+      "audio": "audio/1078.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "It's important to stay on budget during holidays to avoid debt.",
+          "zh": "假日期间保持在预算范围内很重要，以避免债务。"
+        }
+      ],
+      "audio": "audio/1078.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Families must stay on budget with their monthly expenses.",
+          "zh": "家庭需要在他们的月度开支中保持预算。"
+        }
+      ],
+      "audio": "audio/1078.3.mp3"
+    }
+  ]
+}

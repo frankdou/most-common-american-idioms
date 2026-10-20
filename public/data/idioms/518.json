@@ -1,0 +1,37 @@
+{
+  "n": 518,
+  "name": "Go haywire",
+  "meaning": {
+    "zh": "“失控” 或 “乱套”。\n\n“Go haywire” 这个短语源自于19世纪，当时的农民们使用一种叫做 “干草电线”（haywire）的铁丝将干草捆绑在一起。这些铁丝常常会因为使用频繁而缠绕在一起，成为杂乱无章、难以处理的状态。因此，这个短语后来用以表示某事物变得混乱失控、不再按照正常情况运行。",
+    "en": "This idiom originates from the 19th century when farmers used a wire called \"haywire\" to bundle hay. These wires often became tangled and difficult to manage due to frequent use. Hence, the phrase came to be used to denote something becoming chaotic or out of control, no longer functioning as it should."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Everything went *haywire* when the system crashed.",
+          "zh": "系统崩溃后，一切都乱套了。"
+        }
+      ],
+      "audio": "audio/518.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "My plans for the weekend went *haywire* due to the bad weather.",
+          "zh": "由于天气恶劣，我的周末计划全都失控了。"
+        }
+      ],
+      "audio": "audio/518.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The robot started to *go haywire* and wouldn't stop moving.",
+          "zh": "机器人开始失控，并且不停地移动。"
+        }
+      ],
+      "audio": "audio/518.3.mp3"
+    }
+  ]
+}

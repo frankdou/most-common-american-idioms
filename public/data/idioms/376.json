@@ -1,0 +1,37 @@
+{
+  "n": 376,
+  "name": "Egg on your face",
+  "meaning": {
+    "zh": "“颜面尽失” 或 “出丑”。\n\n这个短语的来源不太明确，但一种说法是它来自于戏剧表演中，当演员表现不佳时，有时会被观众扔鸡蛋表示不满，因而演员的脸上沾满鸡蛋。这就有了 “egg on your face” 用以形容某人因做错事或说错话而感到羞愧或尴尬的情况。",
+    "en": "This phrase's origin is somewhat unclear, but one theory is it comes from theatrical performances where poor performances would lead to the audience throwing eggs at the actors, hence the actor's face would be covered in eggs. Therefore, \"egg on your face\" is used to describe someone feeling embarrassed or foolish due to a mistake they made."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "When the CEO's prediction about the market was completely wrong, he ended up with *egg on his face*.",
+          "zh": "当首席执行官对市场的预测完全出错时，他颜面尽失。"
+        }
+      ],
+      "audio": "audio/376.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I thought I knew the answer, but I was completely wrong and had *egg on my face*.",
+          "zh": "我以为我知道答案，但完全错了，结果出丑了。"
+        }
+      ],
+      "audio": "audio/376.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She had *egg on her face* after her business proposal was rejected in front of everyone.",
+          "zh": "她的商业提案在众人面前被否决后，感到非常尴尬。"
+        }
+      ],
+      "audio": "audio/376.3.mp3"
+    }
+  ]
+}

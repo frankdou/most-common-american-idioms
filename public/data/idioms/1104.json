@@ -1,0 +1,37 @@
+{
+  "n": 1104,
+  "name": "Take the floor",
+  "meaning": {
+    "zh": "“发言” 或 “开始讲话”。\n\n这个短语最初用于正式会议或辩论中，指一个人从座位上站起来，正式开始发言或发表意见。“Take the floor” 意味着这个人被允许或指定为主要的发言者，控制会议或讨论的进程。在现代用法中，它可以应用于任何需要正式发言的场合。",
+    "en": "This phrase originated from formal meetings or debates, where a person would stand up and begin speaking or presenting their opinion. \"Take the floor\" means that the person is allowed or designated as the main speaker, controlling the proceedings of the meeting or discussion. In modern usage, it can be applied to any situation requiring formal speaking."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "After the chairman's introduction, she was invited to *take the floor* and present her ideas.",
+          "zh": "在主席的介绍之后，她被邀请上台发言并展示她的想法。"
+        }
+      ],
+      "audio": "audio/1104.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The CEO will *take the floor* to address the company's financial performance.",
+          "zh": "CEO 将会发言，说明公司的财务表现。"
+        }
+      ],
+      "audio": "audio/1104.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "When he *took the floor*, everyone listened attentively to his proposal.",
+          "zh": "当他发言时，所有人都专心聆听他的提议。"
+        }
+      ],
+      "audio": "audio/1104.3.mp3"
+    }
+  ]
+}

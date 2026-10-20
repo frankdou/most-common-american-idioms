@@ -1,0 +1,37 @@
+{
+  "n": 1064,
+  "name": "Sour grapes",
+  "meaning": {
+    "zh": "“酸葡萄” 或 “假装不在乎其实得不到的东西”。\n\n这个短语来自于伊索寓言《狐狸和葡萄》的故事。故事讲的是一只狐狸试图去摘高处的葡萄，但最终未能得手。它于是谎称那些葡萄是酸的，也就是说，并不那么好吃。这个寓言用来描述那些因得不到自己想要的东西而贬低它的人。",
+    "en": "This phrase originates from Aesop's fable \"The Fox and the Grapes\". In the story, a fox tries to reach some grapes hanging high on a vine but fails after several attempts. The fox then declares that the grapes are sour and not worth eating. This fable is used to describe people who belittle something they cannot have."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "After losing the game, he said it wasn't worth playing, but that sounded like *sour grapes*.",
+          "zh": "比赛输了之后他说这个比赛并不值得玩，但这听起来像是酸葡萄心理。"
+        }
+      ],
+      "audio": "audio/1064.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She called the job boring after not getting it, but it seemed like *sour grapes* to me.",
+          "zh": "她在没有得到那份工作后说那工作很无聊，但在我看来这显然是酸葡萄心理。"
+        }
+      ],
+      "audio": "audio/1064.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "It's just *sour grapes* when he says he didn't want the promotion anyway.",
+          "zh": "他说他根本就不想升职，这只是酸葡萄心理罢了。"
+        }
+      ],
+      "audio": "audio/1064.3.mp3"
+    }
+  ]
+}

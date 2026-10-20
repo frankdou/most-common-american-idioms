@@ -1,0 +1,37 @@
+{
+  "n": 339,
+  "name": "Don't know if I'm coming or going",
+  "meaning": {
+    "zh": "“晕头转向” 或 “不知所措”。\n\n这个短语起源于美国英语，指的是一个人处在极度混乱和忙碌的状态中，以至于无法明确分辨自己在做什么或要去哪里。在现代社会，这个短语广泛用于描述一个人因压力或事情过多而感到极度困惑和无所适从的状态。",
+    "en": "This phrase originates from American English and refers to a person being in an extremely confused and hectic state, to the point where they can't tell what they are doing or where they are going. In modern society, this idiom is widely used to describe someone feeling extremely bewildered and disoriented due to stress or having too many things to do."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "With all these deadlines, I *don't know if I'm coming or going*.",
+          "zh": "面对所有这些截止日期，我简直晕头转向了。"
+        }
+      ],
+      "audio": "audio/339.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "After a long day at work, she *didn't know if she was coming or going*.",
+          "zh": "在工作了一整天之后，她完全不知所措。"
+        }
+      ],
+      "audio": "audio/339.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He's so busy these days he *doesn't know if he's coming or going*.",
+          "zh": "他最近忙得团团转，整个人都晕头转向。"
+        }
+      ],
+      "audio": "audio/339.3.mp3"
+    }
+  ]
+}

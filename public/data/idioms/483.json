@@ -1,0 +1,37 @@
+{
+  "n": 483,
+  "name": "Get the message",
+  "meaning": {
+    "zh": "“收到信息” 或 “领会意思”。\n\n这个短语的来历可以追溯到通信的基本概念，它代指一个人理解或领会他人想要传达的意思。在对话中，当有人说 “get the message” 时，意味着他们已经明白了对方的意图或要求。",
+    "en": "The origin of this phrase can be traced back to the basic concept of communication, signifying that someone understands or comprehends what another person is trying to convey. When someone says \"get the message\" in a conversation, it means they have understood the other person's intention or request."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I've told him to clean up his room twice, but he still doesn't *get the message*.",
+          "zh": "我已经告诉他两次要整理房间了，但他还是没有领会我的意思。"
+        }
+      ],
+      "audio": "audio/483.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She smiled and nodded, indicating that she *got the message*.",
+          "zh": "她微笑着点了点头，表示她明白了意思。"
+        }
+      ],
+      "audio": "audio/483.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "If he's not replying to your texts, maybe it's time to *get the message*.",
+          "zh": "如果他不回复你的短信，也许是时候明白他的意思了。"
+        }
+      ],
+      "audio": "audio/483.3.mp3"
+    }
+  ]
+}

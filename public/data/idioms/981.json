@@ -1,0 +1,37 @@
+{
+  "n": 981,
+  "name": "Red herring",
+  "meaning": {
+    "zh": "“红鲱鱼” 或 “诱饵”。\n\n这个短语原指一种特别腌制的鲱鱼，它在运输过程中呈现出红色且气味很重。最初，这个短语用来形容用这种鱼来干扰猎狗的嗅觉以训练它们。但后来，“red herring” 被用来形容一种引开注意力或掩盖真正问题的策略，在各种情境中，尤其是争论或侦查案件时被用来误导他人，使其无法注意到真正的焦点。",
+    "en": "This phrase originally referred to a type of smoked herring that turned red during the curing process and had a strong smell. Initially, the term described using this fish to distract hunting dogs during training. However, over time, \"red herring\" came to mean a tactic intended to divert attention or cover up the real issue, particularly in discussions or investigations, to mislead people from noticing the actual focus."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The detective knew the clue was a *red herring* to divert them from the real crime.",
+          "zh": "侦探知道这个线索是一个红鲱鱼，目的是让他们偏离真正的犯罪。"
+        }
+      ],
+      "audio": "audio/981.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Her argument about the budget was just a *red herring* to avoid discussing the main issue.",
+          "zh": "她关于预算的辩论只是一个红鲱鱼策略，目的在于回避讨论主要问题。"
+        }
+      ],
+      "audio": "audio/981.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Don't be fooled by his *red herring*; stay focused on what's important.",
+          "zh": "不要被他的红鲱鱼迷惑了，保持关注于重要的事情。"
+        }
+      ],
+      "audio": "audio/981.3.mp3"
+    }
+  ]
+}

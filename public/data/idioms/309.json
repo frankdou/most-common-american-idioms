@@ -1,0 +1,37 @@
+{
+  "n": 309,
+  "name": "Dead in the water",
+  "meaning": {
+    "zh": "《中国成语使用频率较少的表达》 “陷入困境” 或 “已经不再有任何进展可能”。该成语通常用来描述计划、项目或人处于停滞状态，无法继续前进或改善。\n\n这个短语来源于航海术语，当船失去动力而不能移动时，就像死鱼一样漂浮在水面上。后来，这个表达又被引申到形容其他事情完全停滞不前、完全没戏了的状态。",
+    "en": "This phrase originates from maritime terminology where a boat is said to be \"dead in the water\" when it has lost power and cannot move, essentially floating like a dead fish. This term has since been expanded to describe any situation, plan, or person that is completely stalled and has no chance of progressing."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The project is *dead in the water* without additional funding.",
+          "zh": "如果没有额外资金，项目就完全没戏了。"
+        }
+      ],
+      "audio": "audio/309.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Our business proposal is *dead in the water* after the main investor backed out.",
+          "zh": "自从主要投资者退出后，我们的商业提案就陷入困境了。"
+        }
+      ],
+      "audio": "audio/309.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The negotiations are *dead in the water* due to ongoing disputes.",
+          "zh": "由于持续的争端，谈判已经毫无进展。"
+        }
+      ],
+      "audio": "audio/309.3.mp3"
+    }
+  ]
+}

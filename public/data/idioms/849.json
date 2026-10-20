@@ -1,0 +1,37 @@
+{
+  "n": 849,
+  "name": "No rhyme or reason",
+  "meaning": {
+    "zh": "“毫无道理” 或 “没有任何逻辑”。\n\n这个短语可以追溯到数百年前，最早出现在 1540 年的文献中。它描述了一个缺乏逻辑或无法解释的情况。这个表达源自诗歌和音乐中的 “韵律（rhyme）” 和 “节律（reason）”，表示某事既没有押韵（形式上相配），也不合情理（在内容上合逻辑）。",
+    "en": "This phrase can be traced back hundreds of years, first appearing in literature in 1540. It describes a situation that lacks logic or is inexplicable. The expression originates from poetry and music, where \"rhyme\" and \"reason\" denote proper matching in form and logical consistency in content, respectively."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "There is no rhyme or reason to the way he organizes his desk.",
+          "zh": "他整理桌子的方式毫无道理。"
+        }
+      ],
+      "audio": "audio/849.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Why they chose that solution has no rhyme or reason.",
+          "zh": "他们为什么选择那个方案简直毫无逻辑。"
+        }
+      ],
+      "audio": "audio/849.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The weather has been crazy lately with no rhyme or reason.",
+          "zh": "最近的天气反常得毫无道理。"
+        }
+      ],
+      "audio": "audio/849.3.mp3"
+    }
+  ]
+}

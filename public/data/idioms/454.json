@@ -1,0 +1,37 @@
+{
+  "n": 454,
+  "name": "Gave someone the thumbs-up",
+  "meaning": {
+    "zh": "\"竖起大拇指\" 或 \"表示赞成\"。\n\n这个短语起源于古罗马，当时的人们用竖起大拇指来表示赞成和支持，这个动作在今天仍然被广泛使用，尤其是在戏剧表演和斗兽场的情景。如今，它在全球范围内都是认可和赞同的象征，通常用在对某人的行为或决定表示同意或祝贺的场合。",
+    "en": "This phrase originates from ancient Rome, where people would use the thumbs-up gesture to signify approval and support. This gesture is still widely used today, especially in theatrical performances and gladiatorial contexts. Nowadays, it is universally recognized as a symbol of approval and is often used to express agreement or congratulations for someone’s actions or decisions."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The manager gave me the *thumbs-up* for my proposal.",
+          "zh": "经理对我的提议竖起了大拇指。"
+        }
+      ],
+      "audio": "audio/454.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "After reviewing the project, they *gave it a thumbs-up*.",
+          "zh": "在审查项目后，他们给出了赞成的手势。"
+        }
+      ],
+      "audio": "audio/454.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She smiled and *gave him a thumbs-up* after he finished his presentation.",
+          "zh": "他做完演示后，她笑着竖起了大拇指。"
+        }
+      ],
+      "audio": "audio/454.3.mp3"
+    }
+  ]
+}

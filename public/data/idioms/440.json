@@ -1,0 +1,37 @@
+{
+  "n": 440,
+  "name": "Fork over/shell out money",
+  "meaning": {
+    "zh": "“掏钱” 或 “付款”。这两个短语都有一种不情愿地付钱的意味。\n\n“Fork over” 和 “shell out” 都是非正式的俚语表达，表示要为某个东西支付一笔钱，通常是大量的钱或是不情愿支付的钱。“Fork over” 的起源可追溯到19世纪牛仔文化，指的是拿出或转交某个物品，而 “shell out” 的起源可能和脱壳或掏出某个东西有关。",
+    "en": "These idioms originate from informal speech patterns. \"Fork over\" can be traced back to the 19th-century slang used by cowboys, where it meant to hand over something. \"Shell out\" likely derives from the act of taking something out from a protective shell, metaphorically implying the act of dishing out money."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I had to *fork over* a lot of money to fix my car.",
+          "zh": "我不得不掏很多钱来修我的车。"
+        }
+      ],
+      "audio": "audio/440.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "You'll need to *shell out* some cash for this top-of-the-line laptop.",
+          "zh": "你需要为这款高端笔记本多掏些钱。"
+        }
+      ],
+      "audio": "audio/440.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The kids persuaded their parents to *fork over* the money for a new game console.",
+          "zh": "孩子们说服父母掏钱买了一台新游戏机。"
+        }
+      ],
+      "audio": "audio/440.3.mp3"
+    }
+  ]
+}

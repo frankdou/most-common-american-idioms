@@ -1,0 +1,37 @@
+{
+  "n": 969,
+  "name": "Put something on ice",
+  "meaning": {
+    "zh": "“搁置某事” 或 “暂缓处理某事”。\n\n这个短语起源于冰的保鲜功能。在制冷技术普及之前，人们会把东西放在冰上来防止变质。这就引申为将某些计划或项目暂时搁置，以便日后再处理，就像保存食品一样。",
+    "en": "This phrase originates from the preservative quality of ice. Before the widespread use of refrigeration, people would place items on ice to prevent spoilage. This extended to mean postponing or shelving plans or projects temporarily, akin to preserving food for future use."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "We'll have to *put the project on ice* until we get more funds.",
+          "zh": "我们得把这个项目搁置，直到我们获得更多资金。"
+        }
+      ],
+      "audio": "audio/969.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Due to the unexpected problems, they decided to *put the plan on ice*.",
+          "zh": "由于出现了意料之外的问题，他们决定暂缓计划。"
+        }
+      ],
+      "audio": "audio/969.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "We need to *put the marketing campaign on ice* for now.",
+          "zh": "我们现在需要暂时搁置市场推广活动。"
+        }
+      ],
+      "audio": "audio/969.3.mp3"
+    }
+  ]
+}

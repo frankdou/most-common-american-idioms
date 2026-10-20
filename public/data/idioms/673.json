@@ -1,0 +1,37 @@
+{
+  "n": 673,
+  "name": "It takes two to tango",
+  "meaning": {
+    "zh": "“一个巴掌拍不响” 或 “两人才能跳探戈”。\n\n这个短语源自探戈这种舞蹈形式，其特点是需要两个人配合才能完成。引申来说，它表示某事的成功或失败，通常需要双方共同努力或有共同责任。这是一种形象的说法，其意味是某些情况是由至少两个人共同促成的，单方面是无法解决问题或达成目标的。",
+    "en": "This phrase originates from the dance form of tango, which requires two dancers to perform. By extension, it means that the success or failure of an action often depends on the cooperation or mutual effort of two parties. It’s an idiomatic way to suggest that certain situations are the result of actions by at least two people and cannot be resolved or achieved by one person alone."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Don't blame just one person for the argument; it *takes two to tango*.",
+          "zh": "不要只责怪一个人引起争论，一个巴掌拍不响。"
+        }
+      ],
+      "audio": "audio/673.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "If this project is going to succeed, *it takes two to tango*.",
+          "zh": "如果这个项目要成功，两人必须合作。"
+        }
+      ],
+      "audio": "audio/673.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Remember, in any partnership, *it takes two to tango*.",
+          "zh": "记住，在任何伙伴关系中，需要双方共同努力。"
+        }
+      ],
+      "audio": "audio/673.3.mp3"
+    }
+  ]
+}

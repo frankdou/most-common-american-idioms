@@ -1,0 +1,37 @@
+{
+  "n": 956,
+  "name": "Pulled the rug out from under me",
+  "meaning": {
+    "zh": "“突然让人失去依靠” 或 “突然让人陷入困境”。\n\n这个短语的来源可以追溯到一种将人置于困境的戏剧化情景，就像突然从别人脚下拉走地毯一样，让他们失去平衡，摔倒在地。它用来描述某人在没有预警的情况下，使别人处于困境或失去支撑的局面，通常带有不愉快或使人意外的含义。",
+    "en": "This phrase originates from an illustrative situation where pulling a rug from under someone causes them to lose balance and fall. It is used to describe a scenario where someone unexpectedly puts another person in a difficult or unsupported situation, often leaving them feeling surprised or troubled."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "My boss *pulled the rug out from under me* by canceling the project without notice.",
+          "zh": "我的老板突然取消了项目，让我措手不及。"
+        }
+      ],
+      "audio": "audio/956.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "When they cut the funding, it really *pulled the rug out from under us*.",
+          "zh": "当他们削减经费时，真的让我们陷入了困境。"
+        }
+      ],
+      "audio": "audio/956.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She felt like her best friend *pulled the rug out from under her* by revealing her secret.",
+          "zh": "她觉得她的好朋友揭露了她的秘密，突然让她失去了依靠。"
+        }
+      ],
+      "audio": "audio/956.3.mp3"
+    }
+  ]
+}

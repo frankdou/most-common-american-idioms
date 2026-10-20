@@ -1,0 +1,37 @@
+{
+  "n": 572,
+  "name": "Hand over fist",
+  "meaning": {
+    "zh": "“迅速且大量地” 或 “快速获利”。\n\n这个成语最早源自航海术语，形容船员快速地沿着绳子往上爬时的手部动作，看起来就像手一个接一个地抓住绳子。后来，这个成语被延伸为迅速地获得或失去某些东西，尤其指快速获利或快速亏损。",
+    "en": "This idiom originates from a nautical term describing the action of sailors quickly climbing a rope hand over hand. It was later extended to mean acquiring or losing something rapidly, especially in the context of making quick profits or experiencing quick losses."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The new product was a hit and the company started making money *hand over fist*.",
+          "zh": "新产品大获成功，公司迅速开始赚钱。"
+        }
+      ],
+      "audio": "audio/572.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "They've been losing customers *hand over fist* since their service declined.",
+          "zh": "自从服务质量下降后，他们迅速失去了大量顾客。"
+        }
+      ],
+      "audio": "audio/572.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Investors are profiting *hand over fist* from the booming stock market.",
+          "zh": "投资者们从繁荣的股市中迅速获利。"
+        }
+      ],
+      "audio": "audio/572.3.mp3"
+    }
+  ]
+}

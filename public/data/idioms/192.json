@@ -1,0 +1,37 @@
+{
+  "n": 192,
+  "name": "Burn the midnight oil",
+  "meaning": {
+    "zh": "“熬夜” 或 “开夜工”。\n\n这个成语起源于16世纪或更早时候，当时的夜晚照明主要依靠油灯。在那个时代，人们常常不得不在油灯下工作或学习到深夜。这一短语因此用来描述人们牺牲睡眠时间，晚上努力工作或学习的情景。",
+    "en": "This idiom originates from as early as the 16th century when nighttime illumination was primarily provided by oil lamps. People often had to work or study late into the night by the light of these lamps. Therefore, the phrase came to describe scenarios where individuals sacrifice sleep to work or study late at night."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "She had to *burn the midnight oil* to finish her project on time.",
+          "zh": "她不得不熬夜赶工以准时完成她的项目。"
+        }
+      ],
+      "audio": "audio/192.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He was *burning the midnight oil* studying for his final exams.",
+          "zh": "他为了期末考试熬夜学习。"
+        }
+      ],
+      "audio": "audio/192.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "We've been *burning the midnight oil* to meet the client's deadline.",
+          "zh": "为了赶上客户的截止日期，我们一直在熬夜工作。"
+        }
+      ],
+      "audio": "audio/192.3.mp3"
+    }
+  ]
+}

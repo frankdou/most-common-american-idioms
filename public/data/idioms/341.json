@@ -1,0 +1,37 @@
+{
+  "n": 341,
+  "name": "Don't put all your eggs in one basket",
+  "meaning": {
+    "zh": "“不要把所有鸡蛋都放在一个篮子里”，意思是不要把所有的资源或希望都集中在一个地方或一个项目上，以避免风险集中而导致全部损失。\n\n这个短语的起源很显然是来自于一种简单直观的比喻：如果把所有的鸡蛋都放在同一个篮子里，一旦篮子掉地，所有的鸡蛋都会摔碎。而如果分散到不同的篮子里，即使一个篮子掉了，还有其他的鸡蛋能够保存完好。这句话被用来强调在投资、决策或追求目标时，分散风险的重要性。",
+    "en": "This idiom originates from a simple and intuitive analogy: if you put all your eggs in one basket and the basket falls, all the eggs will break. But if you spread them across different baskets, even if one basket falls, some eggs will remain intact. It emphasizes the importance of diversifying risk in investments, decisions, or pursuits to prevent total loss."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He invested in multiple stocks to ensure he didn't put all his eggs in one basket.",
+          "zh": "他投资了多只股票，以确保自己不会把所有鸡蛋放在一个篮子里。"
+        }
+      ],
+      "audio": "audio/341.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "When planning for college, she applied to several schools and didn't put all her eggs in one basket.",
+          "zh": "在申请大学时，她申请了好几所学校，没有把所有的希望都放在一个学校。"
+        }
+      ],
+      "audio": "audio/341.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "For his new business, he decided to diversify his product line rather than put all his eggs in one basket.",
+          "zh": "为了他的新业务，他决定多样化产品线，而不是把所有的资源集中在一个产品上。"
+        }
+      ],
+      "audio": "audio/341.3.mp3"
+    }
+  ]
+}

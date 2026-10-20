@@ -1,0 +1,37 @@
+{
+  "n": 69,
+  "name": "All thumbs",
+  "meaning": {
+    "zh": "笨手笨脚，手指不灵活。\n\n这个短语的来源可以追溯到19世纪，指的是一个人非常不协调，无法灵活地使用手指。想象一个人所有的手指都是拇指，那么他在进行精细动作时将会显得非常笨拙。这通常用于描述那些在某些任务上显得特别不熟练或者笨拙的人。",
+    "en": "This phrase dates back to the 19th century and refers to someone who is very clumsy or not dexterous with their hands. Imagine if a person's fingers were all thumbs; they would find it very difficult to perform tasks requiring fine motor skills. This is often used to describe someone who is particularly awkward or unskillful at certain tasks."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I'm all thumbs when it comes to wrapping gifts.",
+          "zh": "说到包礼物，我总是笨手笨脚的。"
+        }
+      ],
+      "audio": "audio/069.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He's all thumbs in the kitchen and always makes a mess.",
+          "zh": "他在厨房里总是笨手笨脚的，总是搞得一团糟。"
+        }
+      ],
+      "audio": "audio/069.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I'm all thumbs when trying to put together IKEA furniture.",
+          "zh": "我在组装宜家的家具时总是笨手笨脚的。"
+        }
+      ],
+      "audio": "audio/069.3.mp3"
+    }
+  ]
+}

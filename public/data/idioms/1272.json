@@ -1,0 +1,37 @@
+{
+  "n": 1272,
+  "name": "Under a cloud",
+  "meaning": {
+    "zh": "“处于困境” 或 “被怀疑”。\n\n这个短语源自于阴云密布的天气，给人一种压抑和不安的感觉。用来形容一个人处于不利的情况或被怀疑的状态。无论是个人行为和名誉被质疑，还是因为某种原因而陷入麻烦，都可以用 “under a cloud” 来描述。",
+    "en": "This idiom originates from the imagery of a cloudy and overcast sky, which evokes feelings of gloom and unease. It is used to describe someone who is in an unfavorable situation or under suspicion. Whether one's actions and reputation are being questioned or they are in trouble for some reason, \"under a cloud\" aptly describes that state."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Since the scandal, he's been *under a cloud* at work.",
+          "zh": "自从那次丑闻以来，他在工作上一直处于困境。"
+        }
+      ],
+      "audio": "audio/1272.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The athlete's career is *under a cloud* after the doping allegations.",
+          "zh": "由于涉药指控，这名运动员的职业生涯受到了质疑。"
+        }
+      ],
+      "audio": "audio/1272.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She has been *under a cloud* ever since that financial misstep.",
+          "zh": "自从那次财务失误后，她一直被怀疑。"
+        }
+      ],
+      "audio": "audio/1272.3.mp3"
+    }
+  ]
+}

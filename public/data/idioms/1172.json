@@ -1,0 +1,37 @@
+{
+  "n": 1172,
+  "name": "Threw me for a loop",
+  "meaning": {
+    "zh": "“让我大吃一惊” 或 “让我措手不及”。\n\n这个短语源自拳击和西方口语中，\"loop\"指的是一个环绕或旋转的动作。当某人的预期被剧烈地颠覆，或者发生了令人惊讶的事情，他们就有了被 “环绕” 或 “旋转” 的感觉。因此，“threw me for a loop” 表示让一个人感到非常意外和措手不及的情况。",
+    "en": "This idiom originates from boxing and Western colloquial expressions, where \"loop\" refers to a circling or spinning motion. When someone's expectations are drastically overturned or something surprising happens, they feel like they've been \"spun\" or \"looped\". Therefore, \"threw me for a loop\" signifies a situation where someone is greatly surprised or caught off guard."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The sudden resignation of our manager *threw me for a loop*.",
+          "zh": "我们经理的突然辞职让我大吃一惊。"
+        }
+      ],
+      "audio": "audio/1172.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "His unexpected confession really *threw me for a loop*.",
+          "zh": "他意外的告白让我措手不及。"
+        }
+      ],
+      "audio": "audio/1172.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I was *thrown for a loop* when they announced the merger.",
+          "zh": "当他们宣布合并时，我感到非常意外。"
+        }
+      ],
+      "audio": "audio/1172.3.mp3"
+    }
+  ]
+}

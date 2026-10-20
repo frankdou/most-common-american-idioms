@@ -1,0 +1,37 @@
+{
+  "n": 25,
+  "name": "A hot potato",
+  "meaning": {
+    "zh": "“烫手山芋”。\n\n这个短语源自拿着烫热的土豆，如果你拿在手里会非常烫，很难保持不被烫伤，所以你得快速传递出去。在英语中，它形象地表示那些难以处理、令人尴尬或有争议的问题或话题。因为这些问题很麻烦，让人很难轻松应对，所以比喻为 “烫手山芋”。",
+    "en": "This phrase originated from the idea of holding a hot potato, which, if held in hand, would be very hot and difficult to hold without getting burned, prompting you to pass it on quickly. In English, it metaphorically describes issues or topics that are difficult to handle, causing embarrassment or controversy."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The issue of rising taxes has become a *hot potato* for the government.",
+          "zh": "税收上涨问题已经变成了政府的烫手山芋。"
+        }
+      ],
+      "audio": "audio/025.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The CEO's resignation turned into a *hot potato* during the board meeting.",
+          "zh": "在董事会会议上，CEO 的辞职变成了一个烫手山芋。"
+        }
+      ],
+      "audio": "audio/025.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Nobody wants to discuss the *hot potato* of job cuts right now.",
+          "zh": "现在没有人愿意讨论裁员这个烫手山芋。"
+        }
+      ],
+      "audio": "audio/025.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 356,
+  "name": "Draw a blank",
+  "meaning": {
+    "zh": "“想不起来” 或 “毫无头绪”。\n\n这个短语最早起源于射击比赛中，在比赛中抽到空白子弹（即没有弹头的子弹，只有弹壳和炸药），意味着没有击中目标。在现代英语中，“draw a blank” 泛指任何情形中当人需要回忆或想出某件事时，却什么都想不起来的情况。",
+    "en": "The phrase originates from shooting competitions, where drawing a blank cartridge (a cartridge with no bullet, only the casing and gunpowder) meant failing to hit the target. In modern usage, \"draw a blank\" broadly refers to situations where someone tries to recall or come up with something but fails to do so."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I tried to remember her name, but I completely *drew a blank*.",
+          "zh": "我试着想起她的名字，但我却完全想不起来。"
+        }
+      ],
+      "audio": "audio/356.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "During the exam, I suddenly *drew a blank* and couldn't answer the question.",
+          "zh": "考试时，我突然脑子一片空白，答不出那个问题。"
+        }
+      ],
+      "audio": "audio/356.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "When asked about the details of the project, he *drew a blank*.",
+          "zh": "当被问及项目的细节时，他一时毫无头绪。"
+        }
+      ],
+      "audio": "audio/356.3.mp3"
+    }
+  ]
+}

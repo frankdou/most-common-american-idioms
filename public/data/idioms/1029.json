@@ -1,0 +1,37 @@
+{
+  "n": 1029,
+  "name": "Shake a leg",
+  "meaning": {
+    "zh": "“快点” 或 “赶紧行动”。\n\n这个短语据说来源于19世纪的英国，起初用于海员中，要求他们迅速从床上起来，开始一天的工作。后来，这个短语在美国的使用开始广泛，成为一种催促他人加快动作的常用表达。",
+    "en": "This phrase is said to originate from 19th-century Britain, initially used among sailors to urge them to quickly get out of bed and start their day's work. Later, the phrase became widely used in the United States, becoming a common expression to hasten someone's actions."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Come on, we need to leave soon. Shake a leg!",
+          "zh": "快点，我们得马上离开。赶紧行动吧！"
+        }
+      ],
+      "audio": "audio/1029.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "If we want to catch the bus, we have to shake a leg.",
+          "zh": "如果我们想赶上公交车，就得快点了。"
+        }
+      ],
+      "audio": "audio/1029.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "You'd better shake a leg or you'll be late for the meeting.",
+          "zh": "你最好快点，不然会议就要迟到了。"
+        }
+      ],
+      "audio": "audio/1029.3.mp3"
+    }
+  ]
+}

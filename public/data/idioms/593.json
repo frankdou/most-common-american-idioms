@@ -1,0 +1,37 @@
+{
+  "n": 593,
+  "name": "Head honcho",
+  "meaning": {
+    "zh": "“头头” 或 “大佬”。\n\n这个短语源自西班牙语单词 “jefe”，在日语中被转译为 “班长” 或 “酋长”，意思是领袖或首领。随着时间的推移，这个短语被引入英语并且逐渐演变成 “head honcho”，用来指代某个组织或团体中的最高领导人或最重要的人物。这个短语常用于非正式场合，具有一种轻松、玩笑的语气。",
+    "en": "This phrase originates from the Spanish word “jefe,” which was transliterated into Japanese as “班長” or “酋長,” meaning leader or chief. Over time, this term was adopted into English and gradually evolved into \"head honcho,\" used to refer to the highest leader or the most important person in an organization or group. The phrase is commonly used in informal settings, often carrying a light-hearted or humorous tone."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The *head honcho* will be in town next week for the annual meeting.",
+          "zh": "大佬下周会来城里参加年度会议。"
+        }
+      ],
+      "audio": "audio/593.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "You'll need approval from the *head honcho* to proceed with the project.",
+          "zh": "你需要得到头头的批准才能继续推进这个项目。"
+        }
+      ],
+      "audio": "audio/593.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Everyone looks up to the *head honcho* for guidance and decisions.",
+          "zh": "每个人都仰望头头，寻求指引和决策。"
+        }
+      ],
+      "audio": "audio/593.3.mp3"
+    }
+  ]
+}

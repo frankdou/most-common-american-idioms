@@ -1,0 +1,37 @@
+{
+  "n": 661,
+  "name": "In the least",
+  "meaning": {
+    "zh": "“一点也不” 和 “根本不”。\n\n此成语起源于英语中 “least” 一词，表示最小程度。短语 “in the least” 用于否定句中，强调即使是最小程度上也不认同或发生某事。“in the least” 所表达的常常是对一种态度、感觉或情况的彻底否定。",
+    "en": "This idiom originates from the English word \"least,\" meaning the smallest degree. The phrase \"in the least\" is used in negative sentences to emphasize that something is not true or does not happen to even the smallest extent. It often conveys a complete negation of a certain attitude, feeling, or situation."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I'm not worried *in the least* about the exam.",
+          "zh": "我对考试一点都不担心。"
+        }
+      ],
+      "audio": "audio/661.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She didn't seem tired *in the least* after the long journey.",
+          "zh": "长途旅行之后，她看起来一点也不累。"
+        }
+      ],
+      "audio": "audio/661.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "If you're *in the least* unsure, you should ask for help.",
+          "zh": "如果你有一点点不确定，你就应该寻求帮助。"
+        }
+      ],
+      "audio": "audio/661.3.mp3"
+    }
+  ]
+}

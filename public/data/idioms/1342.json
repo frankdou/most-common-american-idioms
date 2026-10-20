@@ -1,0 +1,37 @@
+{
+  "n": 1342,
+  "name": "You can say that again",
+  "meaning": {
+    "zh": "“你说得很对” 或 “我完全同意”。\n\n这个短语来源于对某人的话表示强烈认同，其含义是对方的话值得重复一遍以示强调。例如，当你非常同意某人的观点时，就可以用这个短语来表示你的强烈认同。",
+    "en": "This phrase originates from expressing strong agreement with what someone has said, indicating that the statement is worth repeating for emphasis. For instance, when you strongly agree with someone's opinion, you can use this phrase to signify your endorsement."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "\"The weather has been terrible today.\" \"You can say that again!\"",
+          "zh": "“今天的天气真糟糕。” “你说得很对！”"
+        }
+      ],
+      "audio": "audio/1342.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "\"It's been a long week.\" \"You can say that again.\"",
+          "zh": "“这周真漫长。” “你说得没错。”"
+        }
+      ],
+      "audio": "audio/1342.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "\"These prices are outrageous.\" \"You can say that again.\"",
+          "zh": "“这些价格太离谱了。” “我完全同意。”"
+        }
+      ],
+      "audio": "audio/1342.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 1060,
+  "name": "Sold me out",
+  "meaning": {
+    "zh": "“出卖我” 或 “背叛我”。\n\n这个短语起源于商业中的 “出售” 行为，扩展到了人际关系中，指某人为了自身利益而背叛或出卖别人。常用于描述个人之间因背叛而产生的负面情绪。",
+    "en": "This phrase originates from the act of \"selling\" in commerce and has expanded to interpersonal relationships, referring to someone betraying or selling out another person for their own benefit. It is often used to describe the negative emotions caused by betrayal between individuals."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I can't believe you *sold me out* to the boss.",
+          "zh": "我不能相信你把我出卖给老板了。"
+        }
+      ],
+      "audio": "audio/1060.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He *sold me out* just to get a promotion.",
+          "zh": "他为了升职出卖了我。"
+        }
+      ],
+      "audio": "audio/1060.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "It's hard to trust someone again after they *sold you out*.",
+          "zh": "在被人出卖之后，很难再信任别人。"
+        }
+      ],
+      "audio": "audio/1060.3.mp3"
+    }
+  ]
+}

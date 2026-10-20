@@ -1,0 +1,37 @@
+{
+  "n": 106,
+  "name": "Backhanded compliment",
+  "meaning": {
+    "zh": "“挖苦” 或 “双刃剑的恭维”。\n\n“Backhanded compliment” 的起源与打网球时 “反拍” 的动作相关，其本意指的是一种看似恭维，但实际上更像是在贬低或讽刺的言辞。在许多情况下，这种恭维话语表面上听起来像是在赞美，但实际上却含有讽刺或轻蔑，让人感到不舒服。",
+    "en": "The phrase originates from the motion of a \"backhand\" in tennis, implying an indirect or less sincere action. A backhanded compliment is a statement that on the surface appears to be a compliment but actually contains an element of insult or criticism. In many scenarios, these compliments sound like praise but carry an underlying sense of sarcasm or disdain, making the recipient uncomfortable."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "She said my speech was great for someone who didn't go to college—what a *backhanded compliment*!",
+          "zh": "她说 对于一个没上过大学的人来说，我的演讲很棒——真是个挖苦人的恭维！"
+        }
+      ],
+      "audio": "audio/106.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "When he told me my cooking was surprisingly good, I knew it was a *backhanded compliment*.",
+          "zh": "当他说我的厨艺出奇地好时，我就知道那是一个挖苦人的恭维。"
+        }
+      ],
+      "audio": "audio/106.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Receiving a *backhanded compliment* can be more insulting than getting no compliment at all.",
+          "zh": "收到一个挖苦人的恭维，比根本没有任何恭维还要让人感到羞辱。"
+        }
+      ],
+      "audio": "audio/106.3.mp3"
+    }
+  ]
+}

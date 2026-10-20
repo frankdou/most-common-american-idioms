@@ -1,0 +1,37 @@
+{
+  "n": 134,
+  "name": "Better late than never",
+  "meaning": {
+    "zh": "“迟做总比不做好” 或 “亡羊补牢，犹未晚也”。\n\n这个短语源自古希腊的谚语，意思是即便延迟了行动，晚做也比不做要好。它表达了一种积极的态度，鼓励人们即使迟了也要去完成一件事情，而不是因为拖延而放弃。",
+    "en": "This phrase originates from an ancient Greek proverb, meaning that it's better to do something late than not doing it at all. It conveys a positive attitude, encouraging people to complete tasks even if they're behind schedule, rather than giving up due to delays."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He finally finished the project. Better late than never.",
+          "zh": "他终于完成了项目。迟做总比不做好。"
+        }
+      ],
+      "audio": "audio/134.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She apologized for her mistake. Better late than never.",
+          "zh": "她为她的错误道歉了。迟做总比不做好。"
+        }
+      ],
+      "audio": "audio/134.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "They started cleaning the house yesterday. Better late than never.",
+          "zh": "他们昨天开始打扫房子。迟做总比不做好。"
+        }
+      ],
+      "audio": "audio/134.3.mp3"
+    }
+  ]
+}

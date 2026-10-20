@@ -1,0 +1,37 @@
+{
+  "n": 803,
+  "name": "Make a pit stop",
+  "meaning": {
+    "zh": "“短暂停留” 或 “中途停留”。\n\n这个短语源于赛车运动中的 “进站加油”，赛车在长时间的比赛中，会暂时停下来加油、更换轮胎或进行维修。同样地，在日常生活中，这个短语表示在一段旅程中进行短暂的休息或停留，通常是为了满足基本需要，如上厕所、加油或购买食品。",
+    "en": "This phrase originates from the racing sport, where cars make a quick stop in the pit to refuel, change tires, or make repairs during a long race. Similarly, in everyday life, this idiom is used to describe a short break or stop during a journey, usually to fulfill basic needs like using the restroom, refueling, or buying food."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "We need to *make a pit stop* at the next gas station for a bathroom break.",
+          "zh": "我们需要在下一个加油站短暂停留一下，去个洗手间。"
+        }
+      ],
+      "audio": "audio/803.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Let's *make a pit stop* at the convenience store for some snacks.",
+          "zh": "我们在便利店短暂停留一下，买些零食吧。"
+        }
+      ],
+      "audio": "audio/803.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Before we hit the highway, let's *make a pit stop* to refuel the car.",
+          "zh": "在我们上高速公路之前，先短暂停留加油吧。"
+        }
+      ],
+      "audio": "audio/803.3.mp3"
+    }
+  ]
+}

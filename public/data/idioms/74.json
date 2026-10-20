@@ -1,0 +1,37 @@
+{
+  "n": 74,
+  "name": "An apple a day keeps the doctor away",
+  "meaning": {
+    "zh": "“一天一个苹果，医生远离我” 或者 “每日一苹果，医生远离我”。\n\n这个短语源于19世纪的威尔士谚语 “Eat an apple on going to bed, and you’ll keep the doctor from earning his bread”。 它强调了经常食用水果，特别是苹果，有助于保持健康并减少去看医生的频率。这个表达经常被用来鼓励人们养成吃水果的好习惯，从而促进健康。",
+    "en": "This phrase originates from a 19th-century Welsh proverb: “Eat an apple on going to bed, and you’ll keep the doctor from earning his bread.” It emphasizes that regularly consuming fruits, especially apples, helps maintain good health and can reduce the frequency of visiting the doctor. This expression is often used to encourage people to develop the habit of eating fruits for better health."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "My grandma always says, \"*An apple a day keeps the doctor away*.\"",
+          "zh": "我奶奶总说：“每天一个苹果，医生远离我”。"
+        }
+      ],
+      "audio": "audio/074.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I try to eat more fruits because I believe in \"*an apple a day keeps the doctor away*.\"",
+          "zh": "我尝试多吃水果，因为我相信 “每日一个苹果，医生远离我”。"
+        }
+      ],
+      "audio": "audio/074.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "You should include more apples in your diet. Remember, \"*an apple a day keeps the doctor away*.\"",
+          "zh": "你应该在饮食中添加更多的苹果。记住，“每天一个苹果，医生远离我”。"
+        }
+      ],
+      "audio": "audio/074.3.mp3"
+    }
+  ]
+}

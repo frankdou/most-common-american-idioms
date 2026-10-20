@@ -1,0 +1,37 @@
+{
+  "n": 487,
+  "name": "Get to the point",
+  "meaning": {
+    "zh": "“直奔主题” 或 “切入正题”。\n\n这个短语的来历在于人们在交流过程中经常会绕圈子，不直接进入重点内容或主题。为了节省时间或者避免误会，人们常常需要提醒对方直说重点，也就是 “get to the point”。",
+    "en": "The origin of this phrase comes from the need in communication to avoid beating around the bush and to dive straight into the main subject or key information. It's often used to save time or prevent misunderstandings."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Please *get to the point*; we don't have much time.",
+          "zh": "请直奔主题，我们时间不多了。"
+        }
+      ],
+      "audio": "audio/487.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He tends to talk a lot, but seldom *gets to the point*.",
+          "zh": "他总是说很多话，但很少切入正题。"
+        }
+      ],
+      "audio": "audio/487.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Can you *get to the point* and tell us what you really need?",
+          "zh": "你能直接告诉我们你真正需要什么吗？"
+        }
+      ],
+      "audio": "audio/487.3.mp3"
+    }
+  ]
+}

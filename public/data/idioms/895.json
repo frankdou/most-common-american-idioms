@@ -1,0 +1,37 @@
+{
+  "n": 895,
+  "name": "Open a can of worms",
+  "meaning": {
+    "zh": "“打开一罐蚯蚓” 或 “引发一连串麻烦”。\n\n这个短语起源于钓鱼用的蚯蚓。原本蚯蚓被装在罐子里，一旦打开罐子，蚯蚓会四处逃窜，变得难以控制。用来比喻事情看似简单，但一旦触碰或处理，就会引发一连串复杂的问题或新的麻烦。",
+    "en": "This phrase originates from fishing bait stored in cans. Once the can is opened, worms wriggle out in all directions and become hard to control. It metaphorically represents a seemingly simple issue that, when touched or handled, results in a series of complicated problems or new troubles."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Bringing up that old argument will only *open a can of worms*.",
+          "zh": "提起那个旧争论只会打开一罐蚯蚓，引发更多麻烦。"
+        }
+      ],
+      "audio": "audio/895.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Changing the project scope right now would *open a can of worms*.",
+          "zh": "现在更改项目范围会引发一连串的问题。"
+        }
+      ],
+      "audio": "audio/895.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Discussing those sensitive topics might *open a can of worms* we’re not ready to handle.",
+          "zh": "讨论那些敏感话题可能会引发我们还没准备好的麻烦。"
+        }
+      ],
+      "audio": "audio/895.3.mp3"
+    }
+  ]
+}

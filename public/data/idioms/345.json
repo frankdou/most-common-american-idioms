@@ -1,0 +1,37 @@
+{
+  "n": 345,
+  "name": "Done to a turn",
+  "meaning": {
+    "zh": "“恰到好处” 或 “刚刚好”。\n\n这个短语最早用于描述肉类在正确的时间烹饪至最佳状态，即不多也不少，刚刚好。扩展到其他场合，“done to a turn” 即表示某事物达到了完美状态，不需要任何改进。",
+    "en": "This phrase originally described meat cooked to the perfect degree, neither undercooked nor overcooked, but just right. Extended to other contexts, \"done to a turn\" means that something has been done to perfection and needs no improvement."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The steak was *done to a turn*, juicy and flavorful.",
+          "zh": "牛排烹饪得恰到好处，多汁而美味。"
+        }
+      ],
+      "audio": "audio/345.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Her speech was *done to a turn*, impressing everyone in the audience.",
+          "zh": "她的演讲恰到好处，给所有听众留下了深刻印象。"
+        }
+      ],
+      "audio": "audio/345.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The cake was *done to a turn*, with the perfect texture and taste.",
+          "zh": "蛋糕烹饪得恰到好处，口感和味道都非常完美。"
+        }
+      ],
+      "audio": "audio/345.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 202,
+  "name": "By the book",
+  "meaning": {
+    "zh": "“按照规定” 或 “严格遵守规则”。\n\n这个短语源自于公司或组织中书面的规章制度，意味着严格按照既定的规定和程序办事。无论是法律、规则还是政策，“by the book” 都表示严格遵守，不打折扣，切实执行。",
+    "en": "This phrase originates from written rules and regulations in companies or organizations, meaning to follow the established rules and procedures strictly. Whether it's laws, rules, or policies, \"by the book\" indicates strict adherence without deviation."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The new manager insists on doing everything *by the book*.",
+          "zh": "新经理坚持一切照章办事。"
+        }
+      ],
+      "audio": "audio/202.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He's known for handling legal cases strictly *by the book*.",
+          "zh": "他以严格按照规定处理法律案件而闻名。"
+        }
+      ],
+      "audio": "audio/202.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "If you want to avoid trouble, you’d better do it *by the book*.",
+          "zh": "如果你想避免麻烦，最好按照规定来做。"
+        }
+      ],
+      "audio": "audio/202.3.mp3"
+    }
+  ]
+}

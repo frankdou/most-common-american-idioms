@@ -1,0 +1,37 @@
+{
+  "n": 161,
+  "name": "Blow off steam",
+  "meaning": {
+    "zh": "“发泄情绪” 或 “释放压力”。\n\n这个短语源自蒸汽机的原理。当蒸汽机内的压力过大时，需要释放多余的蒸汽以防爆炸。这个过程被称为 “blowing off steam”。因此，在日常生活中，这个短语被用来比喻人们通过某种方式发泄情绪或缓解压力，以防止情绪积压而爆发。",
+    "en": "This phrase originates from the mechanism of steam engines. When the pressure inside the steam engine gets too high, excess steam needs to be released to prevent an explosion. This process is known as \"blowing off steam\". Thus, in everyday life, this phrase is used metaphorically to describe people releasing their emotions or relieving stress to prevent an emotional outburst."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "After a long week at work, I usually blow off steam by going for a run.",
+          "zh": "在工作了一整周之后，我通常通过跑步来发泄情绪。"
+        }
+      ],
+      "audio": "audio/161.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He went to the gym to blow off some steam after the argument.",
+          "zh": "吵完架后，他去了健身房发泄情绪。"
+        }
+      ],
+      "audio": "audio/161.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "They needed to blow off steam after dealing with the difficult client all day.",
+          "zh": "在应付了一整天难缠的客户之后，他们需要发泄一下情绪。"
+        }
+      ],
+      "audio": "audio/161.3.mp3"
+    }
+  ]
+}

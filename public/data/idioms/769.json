@@ -1,0 +1,37 @@
+{
+  "n": 769,
+  "name": "Like pulling teeth",
+  "meaning": {
+    "zh": "“像拔牙一样痛苦” 或 “非常艰难的事情”。\n\n这个短语源自拔牙时的剧痛和不适感，用以形容某事极其困难或令人不愉快，就像是从牙床上拔掉牙齿一样难受。在现代使用中，经常被用来形容那些需要极大努力才能完成的任务或面临的难题。",
+    "en": "This phrase originates from the extreme pain and discomfort associated with pulling teeth, used to describe a task that is exceptionally difficult or unpleasant, much like the experience of having a tooth removed. In modern usage, it frequently characterizes tasks that require significant effort to complete or challenges faced."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Getting him to tidy up his room is *like pulling teeth*.",
+          "zh": "让他打扫房间就像拔牙一样难。"
+        }
+      ],
+      "audio": "audio/769.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Convincing them to change their minds was *like pulling teeth*.",
+          "zh": "说服他们改变想法就像拔牙一样艰难。"
+        }
+      ],
+      "audio": "audio/769.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Getting a straight answer from him is *like pulling teeth*.",
+          "zh": "从他那里得到直接的回答像拔牙一样难。"
+        }
+      ],
+      "audio": "audio/769.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 455,
+  "name": "Get a handle on something",
+  "meaning": {
+    "zh": "“掌握某事” 或 “弄清某事”。\n\n这个短语源于物理学上的抓手（handle），表示通过掌握 “抓手” 来控制或应对某个物体。在日常生活中，它常用来比喻对某事物变得熟悉或能够控制，使得事情变得更好处理。",
+    "en": "This phrase originates from the physical concept of a handle, indicating that by getting hold of the \"handle,\" one can control or manage an object. In everyday life, it's often used metaphorically to mean becoming familiar with or able to manage something, making it easier to deal with."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I'm finally starting to *get a handle on* my new job responsibilities.",
+          "zh": "我终于开始掌握我新工作的职责了。"
+        }
+      ],
+      "audio": "audio/455.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "It took me a while, but I've *gotten a handle on* the project requirements.",
+          "zh": "虽然花了一些时间，但我已经弄清了这个项目的需求。"
+        }
+      ],
+      "audio": "audio/455.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He needs to *get a handle on* his finances before things get worse.",
+          "zh": "他需要在情况更糟之前掌控好他的财务。"
+        }
+      ],
+      "audio": "audio/455.3.mp3"
+    }
+  ]
+}

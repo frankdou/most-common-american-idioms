@@ -1,0 +1,37 @@
+{
+  "n": 393,
+  "name": "Fancy pants",
+  "meaning": {
+    "zh": "“爱炫耀的人” 或 “打扮得花里胡哨的人”。\n\n这个短语的来源可以追溯到20世纪初，通常形容一个穿着讲究或过分装饰的人。它带有轻微的贬义，表示某人过于注重外表或爱夸耀。",
+    "en": "The phrase originates from the early 20th century, usually describing someone who dresses elaborately or in a flashy manner. It carries a slight negative connotation, indicating that someone is overly concerned with their appearance or shows off too much."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Look at Mr. *Fancy Pants* over there with his shiny new car.",
+          "zh": "看看那边的炫耀先生，开着他的新车。"
+        }
+      ],
+      "audio": "audio/393.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She's such a *fancy pants*, always showing off her designer clothes.",
+          "zh": "她真是个爱炫耀的人，总是炫耀她的名牌服装。"
+        }
+      ],
+      "audio": "audio/393.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Don't be such a *fancy pants*; we're just going to a casual dinner.",
+          "zh": "别那么打扮得花里胡哨的，我们只是去吃个随便的晚餐。"
+        }
+      ],
+      "audio": "audio/393.3.mp3"
+    }
+  ]
+}

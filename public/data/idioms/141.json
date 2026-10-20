@@ -1,0 +1,37 @@
+{
+  "n": 141,
+  "name": "Big wheel",
+  "meaning": {
+    "zh": "“大人物” 或 “有权势的人”。\n\n这个短语的起源可以追溯到20世纪中期的美国俚语，指的是拥有权力和影响力的人。在社会或者组织中，给人一种像摩天轮一样在高处俯视一切的感觉。这个表达常用于描述那些职位高、受人尊敬或权势很大的人。",
+    "en": "This phrase originates from mid-20th century American slang, referring to people with power and influence. In a social or organizational context, it conveys the sense of someone towering above others, much like a Ferris wheel. It's used to describe individuals in high positions who are respected or very powerful."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He became a *big wheel* in the tech industry after his startup succeeded.",
+          "zh": "自从他的创业公司成功后，他成为科技行业的大人物。"
+        }
+      ],
+      "audio": "audio/141.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Everyone wants to meet the *big wheel* at the conference.",
+          "zh": "大家都想在会议上见见这位大人物。"
+        }
+      ],
+      "audio": "audio/141.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She's the *big wheel* around here, making all the important decisions.",
+          "zh": "她是这里的权势人物，所有重要决定都是她做的。"
+        }
+      ],
+      "audio": "audio/141.3.mp3"
+    }
+  ]
+}

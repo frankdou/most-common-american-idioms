@@ -1,0 +1,37 @@
+{
+  "n": 657,
+  "name": "In the boondocks",
+  "meaning": {
+    "zh": "在 “偏远地区”； “偏僻的地方”。\n\n这个表达起源于菲律宾塔加洛语中的 “bundok”，意思是 “山”。美国士兵在菲律宾服役期间借用了这个词，并将其音译为 \"boondocks\"，用来形容偏远荒凉的地方。如今，这个短语广泛用于描述远离城市或文明的偏僻地带。",
+    "en": "This expression originates from the Tagalog word \"bundok\" in the Philippines, which means \"mountain.\" American soldiers stationed in the Philippines borrowed this word and adapted it to \"boondocks\" to describe remote, rural areas. Today, the phrase is widely used to refer to places that are far from cities or civilization."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "We got lost and ended up in the boondocks.",
+          "zh": "我们迷路了，最终到了偏僻的地方。"
+        }
+      ],
+      "audio": "audio/657.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "His grandparents live way out in the boondocks.",
+          "zh": "他祖父母住在很远的偏远地区。"
+        }
+      ],
+      "audio": "audio/657.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "There's no cellphone signal in the boondocks.",
+          "zh": "在偏僻的地方没有手机信号。"
+        }
+      ],
+      "audio": "audio/657.3.mp3"
+    }
+  ]
+}

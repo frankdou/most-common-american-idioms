@@ -1,0 +1,37 @@
+{
+  "n": 847,
+  "name": "No dice",
+  "meaning": {
+    "zh": "“不行” 或 “不符合要求”。\n\n这个短语起源于一个赌博的习俗，当某人掷骰子，但没有掷出一个有效结果时，就会说 \"no dice\"。后来，这个短语在日常语言中被用来表示任何尝试失败或者某事不成功。",
+    "en": "This phrase originated from a gambling custom, where if someone rolls dice and does not get a valid result, they say \"no dice.\" Later, the phrase was adopted into everyday language to indicate any attempt that failed or something being unsuccessful."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I asked for a raise, but *no dice*.",
+          "zh": "我要求加薪，但不行。"
+        }
+      ],
+      "audio": "audio/847.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "We tried to get tickets for the concert, but *no dice*.",
+          "zh": "我们试图买到演唱会的票，但没成功。"
+        }
+      ],
+      "audio": "audio/847.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He thought he could fix the car quickly, but *no dice*.",
+          "zh": "他以为可以很快修好车，但没有成功。"
+        }
+      ],
+      "audio": "audio/847.3.mp3"
+    }
+  ]
+}

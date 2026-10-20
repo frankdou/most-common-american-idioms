@@ -1,0 +1,37 @@
+{
+  "n": 576,
+  "name": "Hard sell",
+  "meaning": {
+    "zh": "“强行推销” 或 “极力推荐”。\n\n这个短语起源于销售领域，指的是销售人员通过施加压力、穷追猛打的方式迫使消费者购买产品或服务。不同于更为柔和的 “软推销”，“强行推销” 通常会让消费者感到不舒服甚至厌烦。",
+    "en": "This phrase originates from the sales industry, describing a situation where a salesperson uses high-pressure tactics to force or aggressively encourage a consumer to buy a product or service. Unlike the more subtle \"soft sell,\" a hard sell often leaves the consumer feeling uncomfortable or annoyed."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The car salesman was giving me a *hard sell* on the latest model.",
+          "zh": "那位汽车销售员拼命向我推销最新款的车型。"
+        }
+      ],
+      "audio": "audio/576.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I don't like when phone companies do a *hard sell* on their plans.",
+          "zh": "我不喜欢电话公司拼命推销他们的套餐计划。"
+        }
+      ],
+      "audio": "audio/576.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Sometimes a *hard sell* approach can backfire and drive customers away.",
+          "zh": "有时候，强行推销的方式可能会适得其反，把顾客吓跑。"
+        }
+      ],
+      "audio": "audio/576.3.mp3"
+    }
+  ]
+}

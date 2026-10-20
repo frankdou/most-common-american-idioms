@@ -1,0 +1,37 @@
+{
+  "n": 295,
+  "name": "Curiosity killed the cat",
+  "meaning": {
+    "zh": "“好奇害死猫”。意思是过度的好奇可能会导致麻烦或危险。\n\n这个短语的根源可以追溯到16世纪的英国剧作家Ben Jonson，他在戏剧中提到了这个概念。后来，这个短语在英语世界中流传开来，用以告诫人们不要过分好奇，因为过度的探究可能会带来不必要的麻烦或危险。",
+    "en": "This phrase can be traced back to the 16th century British playwright Ben Jonson, who mentioned a similar idea in his plays. Later, this phrase became commonly used in the English-speaking world to warn people that excessive curiosity can lead to trouble or danger."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I was going to ask about his personal life, but then I thought, *curiosity killed the cat*.",
+          "zh": "我原本想问问他的私生活，但后来想起好奇害死猫。"
+        }
+      ],
+      "audio": "audio/295.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "You shouldn't go poking around in his room, remember, *curiosity killed the cat*.",
+          "zh": "你不应该到他房间里到处翻找，记住，好奇害死猫。"
+        }
+      ],
+      "audio": "audio/295.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She decided not to investigate the noise any further, thinking *curiosity killed the cat*.",
+          "zh": "她决定不再追究那个噪音，想着好奇害死猫。"
+        }
+      ],
+      "audio": "audio/295.3.mp3"
+    }
+  ]
+}

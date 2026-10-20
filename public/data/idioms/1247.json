@@ -1,0 +1,37 @@
+{
+  "n": 1247,
+  "name": "To the hilt",
+  "meaning": {
+    "zh": "“全力以赴” 或 “彻底地”。\n\n这个短语来源于剑的结构，所谓\"剑柄\"（hilt）是剑的手柄，而\"to the hilt\"意指将剑完全刺入，直至剑柄无法再进。后来这个短语被引申来表示 “全力以赴” 或 “彻底地” 完成某事，不留余地。",
+    "en": "This phrase originates from the structure of a sword, where the \"hilt\" is the handle of the sword. \"To the hilt\" means to thrust the sword in completely until only the hilt is left visible. The metaphor was extended to mean doing something fully or completely, without holding back."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He backed his friend’s idea *to the hilt*.",
+          "zh": "他全力支持朋友的想法。"
+        }
+      ],
+      "audio": "audio/1247.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She is committed *to the hilt* to achieving her goals.",
+          "zh": "她全力以赴地致力于实现自己的目标。"
+        }
+      ],
+      "audio": "audio/1247.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "They fought *to the hilt* to protect their rights.",
+          "zh": "他们全力以赴地争取自己的权利。"
+        }
+      ],
+      "audio": "audio/1247.3.mp3"
+    }
+  ]
+}

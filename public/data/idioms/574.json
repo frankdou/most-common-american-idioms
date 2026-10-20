@@ -1,0 +1,37 @@
+{
+  "n": 574,
+  "name": "Hang tight",
+  "meaning": {
+    "zh": "“稍安勿躁” 或 “耐心等待”。\n\n“Hang tight” 是一个口语化的短语，源自 “紧紧抓住” 的概念，常用于鼓励别人保持耐心或冷静。在面对需要等待或忍耐的情况时，这个短语强调了要有耐心，并暗示情况会有所改善。",
+    "en": "This idiom comes from the idea of holding on tightly, often used to encourage someone to be patient or stay calm. In situations requiring waiting or enduring, it emphasizes the need for patience and suggests that things will improve."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "*Hang tight,* the doctor will be with you shortly.",
+          "zh": "稍安勿躁，医生很快就会来。"
+        }
+      ],
+      "audio": "audio/574.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "*Hang tight,* I'll be right back.",
+          "zh": "稍等一下，我马上回来。"
+        }
+      ],
+      "audio": "audio/574.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Just *hang tight,* everything will be okay.",
+          "zh": "耐心点，一切都会好的。"
+        }
+      ],
+      "audio": "audio/574.3.mp3"
+    }
+  ]
+}

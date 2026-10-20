@@ -1,0 +1,37 @@
+{
+  "n": 1213,
+  "name": "To get in touch with",
+  "meaning": {
+    "zh": "“联系” 或 “取得联系”。\n\n这个短语起源于英语中的 “touch” 一词，用于描述两物体接触。随着时间的推移，这个词也被用来描述人与人之间交流或联系，特别是在电话或书信交流的语境下。“To get in touch with” 通常用于表示想要或需要联系某人。",
+    "en": "This phrase originates from the word \"touch\" in English, which was originally used to describe physical contact between two objects. Over time, it also began to be used to describe communication or contact between people, particularly in contexts involving telephone or written correspondence. \"To get in touch with\" is commonly used to express the desire or need to communicate with someone."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I need to *get in touch with* John about the meeting.",
+          "zh": "我需要联系约翰谈谈会议的事。"
+        }
+      ],
+      "audio": "audio/1213.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She finally managed to *get in touch with* her old friend.",
+          "zh": "她终于设法联系上了她的老朋友。"
+        }
+      ],
+      "audio": "audio/1213.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "If you have any questions, please *get in touch with* our support team.",
+          "zh": "如果你有任何问题，请联系我们的支持团队。"
+        }
+      ],
+      "audio": "audio/1213.3.mp3"
+    }
+  ]
+}

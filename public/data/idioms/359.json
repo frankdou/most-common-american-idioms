@@ -1,0 +1,37 @@
+{
+  "n": 359,
+  "name": "Drive someone up the wall",
+  "meaning": {
+    "zh": "“让某人抓狂” 或 “使某人非常生气”。\n\n这个短语的起源可以追溯到20世纪初。其原意是指把某人逼上墙，即把某人逼到忍无可忍的程度。想象一下一个人被逼得不得不爬上墙的情景，可以形象地表现出这种极端的情绪状态。这一俗语常用于描述一种烦恼、沮丧或极端愤怒的情绪反应。",
+    "en": "This phrase can be traced back to the early 20th century. The original meaning implied driving someone to the wall, forcing them to an unbearable situation. Imagine someone being driven to climb up a wall; it vividly depicts an extreme emotional state. It is often used to describe feelings of annoyance, frustration, or extreme anger."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The constant noise from the construction site is driving me up the wall.",
+          "zh": "建筑工地持续不断的噪音让我抓狂。"
+        }
+      ],
+      "audio": "audio/359.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "His habit of leaving dirty dishes in the sink drives me up the wall.",
+          "zh": "他把脏碗盘丢在水槽里的习惯让我很生气。"
+        }
+      ],
+      "audio": "audio/359.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The traffic jam this morning drove me up the wall.",
+          "zh": "今天早上的交通堵塞让我快要发疯了。"
+        }
+      ],
+      "audio": "audio/359.3.mp3"
+    }
+  ]
+}

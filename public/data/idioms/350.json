@@ -1,0 +1,37 @@
+{
+  "n": 350,
+  "name": "Down in the mouth",
+  "meaning": {
+    "zh": "“垂头丧气” 或 “情绪低落”。\n\n这个短语起源于人的面部表情。当人们情绪低落时，嘴角通常会自然地下垂，也就是 “down in the mouth”。因此，这个表达用来描述一个人感到悲伤或沮丧。",
+    "en": "This phrase originates from the facial expression of a person. When someone feels low or depressed, their mouth corners tend to droop, thus \"down in the mouth.\" Therefore, this expression is used to describe someone feeling sad or dejected."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "After hearing the bad news, she was really *down in the mouth*.",
+          "zh": "听到坏消息后，她真的很垂头丧气。"
+        }
+      ],
+      "audio": "audio/350.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He's been *down in the mouth* ever since he failed the exam.",
+          "zh": "自从考试不及格后，他一直很沮丧。"
+        }
+      ],
+      "audio": "audio/350.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "You seem a bit *down in the mouth* today; is everything okay?",
+          "zh": "你今天看起来有点垂头丧气，一切都好吗？"
+        }
+      ],
+      "audio": "audio/350.3.mp3"
+    }
+  ]
+}

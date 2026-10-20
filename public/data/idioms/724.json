@@ -1,0 +1,37 @@
+{
+  "n": 724,
+  "name": "Knock it off",
+  "meaning": {
+    "zh": "“别闹了” 或 “停止做某事”。\n\n这个短语起源于20世纪初的美国俚语，通常用来要求某人停止做某种令人讨厌或分心的行为。它通常在非正式的对话中使用，特别是在试图让朋友或孩子停止打扰或扰乱时。",
+    "en": "This phrase originates from early 20th-century American slang, and is commonly used to tell someone to stop doing something annoying or distracting. It is typically used in informal conversations, especially when trying to get friends or children to stop being disruptive or bothersome."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Hey, knock it off! I'm trying to concentrate.",
+          "zh": "嘿，别闹了！我在努力集中注意力。"
+        }
+      ],
+      "audio": "audio/724.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Would you knock it off with the drumming? It's really loud.",
+          "zh": "你能不能别再打鼓了？声音太大了。"
+        }
+      ],
+      "audio": "audio/724.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Knock it off or you'll be sent to your room.",
+          "zh": "别闹了，不然你就得回房间去。"
+        }
+      ],
+      "audio": "audio/724.3.mp3"
+    }
+  ]
+}

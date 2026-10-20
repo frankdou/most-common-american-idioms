@@ -1,0 +1,37 @@
+{
+  "n": 816,
+  "name": "Mark time",
+  "meaning": {
+    "zh": "“原地踏步” 或 “虚度光阴(等待某事发生)”。\n\n这个短语的起源可以追溯到军队用语，指士兵在原地踏步，而不实际前进。随着时间的推移，它被用于描述在没有实际前进或生产性行动的情况下等待或消磨时间的情景。",
+    "en": "This phrase originates from military language, where soldiers march in place without moving forward. Over time, it has come to describe situations where one is waiting or passing the time without making real progress or taking productive action."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I've been *marking time* at this job until I find something better.",
+          "zh": "我在这份工作上原地踏步，直到找到更好的工作。"
+        }
+      ],
+      "audio": "audio/816.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He felt like he was just *marking time* until the meeting started.",
+          "zh": "他觉得自己在会议开始之前只是虚度光阴。"
+        }
+      ],
+      "audio": "audio/816.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Instead of *marking time*, why not use this period to learn new skills?",
+          "zh": "与其虚度光阴，为什么不利用这段时间学习新技能呢？"
+        }
+      ],
+      "audio": "audio/816.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 329,
+  "name": "Dog days of summer",
+  "meaning": {
+    "zh": "“夏日炎炎” 或 “三伏天”。\n\n这个短语的起源于古罗马，当时人们观察到在夏季最热的时期，天狼星（Sirius）会在日出时与太阳一同升起，于是将这一段时间称为 “狗日”。如今，这个短语用来形容夏季最炎热、最难耐的那段日子。",
+    "en": "This phrase originates from ancient Rome, where people observed that during the hottest period of summer, the star Sirius (also known as the Dog Star) would rise at sunrise. They called this period the \"dog days.\" Nowadays, the phrase is used to describe the hottest and most unbearable days of summer."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The *dog days of summer* make it hard to enjoy outdoor activities.",
+          "zh": "夏日炎炎让人很难享受户外活动。"
+        }
+      ],
+      "audio": "audio/329.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "During the *dog days of summer*, businesses often see a decline in customers.",
+          "zh": "在夏日炎炎期间，商业通常会看到顾客减少。"
+        }
+      ],
+      "audio": "audio/329.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "We usually go on vacation during the *dog days of summer* to escape the heat.",
+          "zh": "我们通常在夏日炎炎期间去度假，以避开酷暑。"
+        }
+      ],
+      "audio": "audio/329.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 363,
+  "name": "Drop someone a line",
+  "meaning": {
+    "zh": "“给某人写信” 或 “给某人发消息”。\n\n这个短语起源于传统邮寄信件的时代，当时人们会写下几行字来与他人保持联系。因此，“drop someone a line” 原本是指写封简短的信件。如今，在社交网络和即时通讯工具广泛使用的背景下，这个短语也可以用来指发短信或发送电子邮件。",
+    "en": "This phrase originates from the era of traditional mail, where people would write a few lines to keep in touch with others. Hence, \"drop someone a line\" originally meant to send a short letter. Nowadays, with the widespread use of social networks and instant messaging tools, this phrase can also refer to sending a text or an email."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I'll drop you a line when I get to Paris.",
+          "zh": "到巴黎后，我会给你写信。"
+        }
+      ],
+      "audio": "audio/363.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Drop me a line whenever you have time.",
+          "zh": "什么时候有时间，给我写信。"
+        }
+      ],
+      "audio": "audio/363.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She promised to drop him a line every week.",
+          "zh": "她答应每周给他写信。"
+        }
+      ],
+      "audio": "audio/363.3.mp3"
+    }
+  ]
+}

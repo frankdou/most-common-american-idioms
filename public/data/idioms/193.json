@@ -1,0 +1,37 @@
+{
+  "n": 193,
+  "name": "Burned out",
+  "meaning": {
+    "zh": "“累坏了” 或 “精疲力竭”。\n\n这个短语源于描述机器或装置因过度使用而烧毁或停止工作的情况，而在现代，人们也用这个短语来形容一个人因长期高强度工作或过度压力而感到极度疲劳、失去动力或无法继续正常工作。",
+    "en": "This phrase originates from describing machines or devices that have been used so much they burn out or stop working. In modern times, it is also used to describe a person who is extremely tired, has lost motivation, or is unable to function normally due to prolonged high-intensity work or excessive stress."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "After months of nonstop work, she's completely *burned out*.",
+          "zh": "几个月不停歇地工作后，她已经完全累坏了。"
+        }
+      ],
+      "audio": "audio/193.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "If you don't take a break, you risk getting *burned out*.",
+          "zh": "如果你不休息，你就有可能会精疲力竭。"
+        }
+      ],
+      "audio": "audio/193.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He decided to quit his job because he was feeling *burned out*.",
+          "zh": "他决定辞职，因为他感到身心俱疲。"
+        }
+      ],
+      "audio": "audio/193.3.mp3"
+    }
+  ]
+}

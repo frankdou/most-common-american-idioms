@@ -1,0 +1,37 @@
+{
+  "n": 484,
+  "name": "Get the sack",
+  "meaning": {
+    "zh": "“被解雇” 或 “被炒鱿鱼”。\n\n“Get the sack” 的起源可以追溯到工业革命时期的英国。当一名工人被解雇时，他们会被要求收拾自己的工具和个人物品，通常这些物品会被装进一个麻袋（sack）里带走。久而久之，\"get the sack\" 就成为了解雇的代名词。",
+    "en": "This phrase originates from the period of the Industrial Revolution in Britain. When a worker was dismissed, they were asked to pack up their tools and personal belongings, which would typically be carried away in a sack. Over time, \"get the sack\" became synonymous with being dismissed from a job."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He got the sack after missing several important deadlines.",
+          "zh": "他因为错过了几个重要的截止日期而被解雇了。"
+        }
+      ],
+      "audio": "audio/484.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She was worried she'd get the sack if she didn't improve her performance.",
+          "zh": "她担心如果不提高表现会被解雇。"
+        }
+      ],
+      "audio": "audio/484.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Getting the sack was a wake-up call for him to take his job seriously.",
+          "zh": "被解雇对他来说是一个警钟，提醒他要认真对待工作。"
+        }
+      ],
+      "audio": "audio/484.3.mp3"
+    }
+  ]
+}

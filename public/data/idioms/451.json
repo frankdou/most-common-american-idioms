@@ -1,0 +1,37 @@
+{
+  "n": 451,
+  "name": "Full of hot air",
+  "meaning": {
+    "zh": "“夸夸其谈” 或 “满嘴跑火车”，表示某人在说大话、不切实际或言辞夸张。\n\n这个表达源自于气球，里面充满了空气，但没有实际的重量或内容。因此，当一个人被形容为 \"full of hot air\" 时，意味着他的话语就像满是热气的气球，没有实质内容和价值。从而形容那些言过其实、夸夸而谈的人。",
+    "en": "This expression comes from the idea of a balloon filled with air, which is light and lacking in substance. Therefore, when a person is described as \"full of hot air\", it implies that their speech is like a balloon filled with hot air - lacking real substance and value. It is used to describe people who exaggerate or make grandiose statements without real meaning."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He said he could solve all our problems, but I think he's just *full of hot air*.",
+          "zh": "他说他能解决我们所有的问题，但我觉得他不过是夸夸其谈。"
+        }
+      ],
+      "audio": "audio/451.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Don't listen to him; he's always *full of hot air*.",
+          "zh": "别听他的，他总是在满嘴跑火车。"
+        }
+      ],
+      "audio": "audio/451.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The politician's promises sounded like he was *full of hot air*.",
+          "zh": "那位政客的承诺听起来像是在夸夸其谈。"
+        }
+      ],
+      "audio": "audio/451.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 937,
+  "name": "Play second fiddle",
+  "meaning": {
+    "zh": "“甘居其次” 或 “当副手”。\n\n这个短语起源于管弦乐队中，小提琴通常是首席乐器，担任主要旋律。而 “第二小提琴” 则负责补充和支持，这意味表现出较次或辅助的地位。这个惯用语用以形容一个人相对于另一个人处于次要或辅助的位置，通常在工作团队或关系中使用。",
+    "en": "This phrase comes from orchestras, where the first violin plays the main melody and is the leading instrument. The \"second fiddle\" provides support and plays a subordinate part. This idiom is used to describe someone who is in a secondary or supportive position relative to another person, often in a work team or relationship."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I'm tired of always playing second fiddle to him at work.",
+          "zh": "我厌倦了在工作中总是甘居其次于他之下。"
+        }
+      ],
+      "audio": "audio/937.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She is too ambitious to play second fiddle to anyone.",
+          "zh": "她太有野心了，无法甘心当别人的副手。"
+        }
+      ],
+      "audio": "audio/937.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "In their partnership, he often felt like he was playing second fiddle.",
+          "zh": "在他们的合作关系中，他常觉得自己在做副手。"
+        }
+      ],
+      "audio": "audio/937.3.mp3"
+    }
+  ]
+}

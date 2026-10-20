@@ -1,0 +1,37 @@
+{
+  "n": 68,
+  "name": "All set",
+  "meaning": {
+    "zh": "“一切准备就绪” 或 “万事俱备”。\n\n这个短语起源于生活中的各种场景中，例如旅游、会议或活动之前，为了表示所有事情、物品已妥善完毕，准备工作已经完成。它广泛应用在各种日常和正式的情境中，指示准备工作已经完成，可以开始或继续接下来的活动。",
+    "en": "This phrase originates from various scenarios in life, such as before traveling, meetings, or events, used to indicate that everything is in order and ready to go. It is widely used in both casual and formal situations to show that preparations are complete and things can proceed or start."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "We’re *all set* for the trip. Did you pack your bag?",
+          "zh": "我们的旅行准备就绪。你把行李打包了吗？"
+        }
+      ],
+      "audio": "audio/068.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The team is *all set* for the presentation tomorrow.",
+          "zh": "团队已经为明天的演示做好了准备。"
+        }
+      ],
+      "audio": "audio/068.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Dinner’s *all set*. Let's eat.",
+          "zh": "晚餐准备就绪。我们开始吃吧。"
+        }
+      ],
+      "audio": "audio/068.3.mp3"
+    }
+  ]
+}

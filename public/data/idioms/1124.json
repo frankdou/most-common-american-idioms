@@ -1,0 +1,37 @@
+{
+  "n": 1124,
+  "name": "That's all she wrote",
+  "meaning": {
+    "zh": "“事情就到这里”，或 “事情结束了”。用来表达某件事情已经完全结束或达到了最终结果，没有更多的内容可供补充。\n\n这个短语的起源有多种说法，一种较为普遍的说法是，来源于第二次世界大战期间士兵们从家收到的简单信件，信中只有一句 “That's all she wrote”（她就写了这些），表示已经没有更多的信息传递给收信人。这句话后来被提炼为一个固定表达，用以形容事情已尘埃落定或没有更多可以谈论的事情。",
+    "en": "This phrase has various speculated origins, but a common explanation dates back to World War II. Soldiers would receive short letters from home, and they would say \"That's all she wrote,\" indicating that there was no more information in the letter. Over time, this phrase became a fixed expression used to signify that something is completely finished or there is nothing more to discuss."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "After the team lost the final game, *that's all she wrote.*",
+          "zh": "在队伍输掉最后一场比赛后，事情就到此为止了。"
+        }
+      ],
+      "audio": "audio/1124.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "When he walked out of the room, *that's all she wrote.*",
+          "zh": "当他走出房间时，事情就算结束了。"
+        }
+      ],
+      "audio": "audio/1124.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She handed in her resignation letter and *that's all she wrote.*",
+          "zh": "她提交了辞职信，事情就结束了。"
+        }
+      ],
+      "audio": "audio/1124.3.mp3"
+    }
+  ]
+}

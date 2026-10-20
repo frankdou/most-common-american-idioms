@@ -1,0 +1,37 @@
+{
+  "n": 948,
+  "name": "Pull someone's leg",
+  "meaning": {
+    "zh": "“开某人的玩笑” 或 “捉弄某人”。\n\n这个短语的起源有点不明确，但已知它早在19世纪末就已经被使用了。可能与犯罪活动有关，早期的解释之一是小偷会通过拉一个人的腿让其失去平衡，然后乘机偷走财物。而到现代社会，这个短语已变成通俗的表达方式，用来表示友好的玩笑和无恶意的捉弄。",
+    "en": "This phrase's origin is somewhat unclear, but it's known to have been used as far back as the late 19th century. One theory suggests it might be related to a form of petty crime where a thief would trip someone up by pulling their leg to unbalance them and then rob them. In modern times, it has evolved to mean friendly teasing or a harmless joke."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I thought he was serious, but he was just *pulling my leg*.",
+          "zh": "我以为他是认真的，但他只是在开我的玩笑。"
+        }
+      ],
+      "audio": "audio/948.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Stop *pulling my leg*! Did you really meet a celebrity?",
+          "zh": "别开玩笑了！你真的遇到名人了吗？"
+        }
+      ],
+      "audio": "audio/948.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She loves *pulling her friends' legs* with outrageous stories.",
+          "zh": "她喜欢用离谱的故事来捉弄她的朋友们。"
+        }
+      ],
+      "audio": "audio/948.3.mp3"
+    }
+  ]
+}

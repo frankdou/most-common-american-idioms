@@ -1,0 +1,37 @@
+{
+  "n": 608,
+  "name": "Hit the books",
+  "meaning": {
+    "zh": "“用功读书” 或 “刻苦学习”。\n\n这个短语的字面意思是 “猛击书本”，实际表示开始认真的学习。这个表达源自英语中的一种形象化说法，把 “hit” 比喻成投身学习的一种强烈动作，强调学习的投入和努力程度。在现代口语中，可以用来形容决心努力学习或备考的场景。",
+    "en": "The phrase’s literal translation is \"to hit the books,\" which actually means to start studying seriously. This expression comes from an English figurative way of saying, where \"hit\" is used metaphorically to indicate a strong action of getting into studying, emphasizing the level of commitment and effort put into it. In modern colloquial language, it can be used to describe scenarios of determined studying or exam preparation."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I've got a big exam next week, so it's time to *hit the books*.",
+          "zh": "我下周有一个大考试，所以现在得用功读书了。"
+        }
+      ],
+      "audio": "audio/608.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She had to *hit the books* all weekend to prepare for her final.",
+          "zh": "她整个周末都在用功读书，为期末考试做准备。"
+        }
+      ],
+      "audio": "audio/608.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "If you want to pass the exam, you'll need to *hit the books* every day.",
+          "zh": "如果你想通过考试，就得每天刻苦学习。"
+        }
+      ],
+      "audio": "audio/608.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 150,
+  "name": "Black and blue",
+  "meaning": {
+    "zh": "“青一块紫一块” 或 “遍体鳞伤”。\n\n这个短语源自实际的身体伤痕，当一个人受到严重的打击或伤害时，皮肤表面会出现黑色和蓝色的淤血痕迹。因此，这个短语形象地描述了遭受重大身体伤害或情感创伤的情况。",
+    "en": "This phrase originates from the physical bruises on the body. When a person is seriously hit or injured, the skin surface shows black and blue blood marks. Hence, the phrase vividly describes a situation of severe physical injury or emotional trauma."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "After the fight, he was *black and blue* all over.",
+          "zh": "打斗之后，他全身都是青一块紫一块的。"
+        }
+      ],
+      "audio": "audio/150.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She fell down the stairs and her legs were *black and blue*.",
+          "zh": "她从楼梯上摔下来，腿上青一块紫一块的。"
+        }
+      ],
+      "audio": "audio/150.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Emotionally, he felt *black and blue* after the breakup.",
+          "zh": "情感上，他在分手后觉得遍体鳞伤。"
+        }
+      ],
+      "audio": "audio/150.3.mp3"
+    }
+  ]
+}

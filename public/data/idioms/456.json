@@ -1,0 +1,37 @@
+{
+  "n": 456,
+  "name": "Get a hold of something",
+  "meaning": {
+    "zh": "“抓住某物” 或 “掌握某事”。\n\n这个短语起源于日常生活中捕捉、抓住某个实物的动作。但是在现代英语中，它常被用来比喻掌握某个观点、技能或情况。",
+    "en": "This phrase originates from the everyday action of physically grabbing or seizing an object. However, in modern English, it is often used metaphorically to mean understanding a concept, skill, or situation."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "It took me a while to get a hold of the new software.",
+          "zh": "我花了一段时间才掌握新软件。"
+        }
+      ],
+      "audio": "audio/456.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She finally got a hold of the financial reports.",
+          "zh": "她终于掌握了财务报告。"
+        }
+      ],
+      "audio": "audio/456.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "You need to get a hold of yourself and calm down.",
+          "zh": "你需要控制好自己，并冷静下来。"
+        }
+      ],
+      "audio": "audio/456.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 779,
+  "name": "Long face",
+  "meaning": {
+    "zh": "“苦瓜脸” 或 “面带愁容”。\n\n这个短语源于人的面部表情。当人们感到悲伤、失望或沮丧时，通常会拉长脸部肌肉，使面部看起来比平常更长。“Long face” 就是形容这种情绪低落时的面部表情。",
+    "en": "This phrase originates from the facial expression of people. When people feel sad, disappointed, or discouraged, they usually stretch their facial muscles, making their face look longer than usual. \"Long face\" represents this expression of low spirits."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Why the *long face*? Did something bad happen?",
+          "zh": "怎么苦瓜脸？发生什么坏事了吗？"
+        }
+      ],
+      "audio": "audio/779.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Tom had a *long face* after losing his job.",
+          "zh": "汤姆失业后脸色很难看。"
+        }
+      ],
+      "audio": "audio/779.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She walked in with a *long face* and we knew something was wrong.",
+          "zh": "她一脸愁容地走了进来，我们就知道出事了。"
+        }
+      ],
+      "audio": "audio/779.3.mp3"
+    }
+  ]
+}

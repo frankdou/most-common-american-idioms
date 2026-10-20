@@ -1,0 +1,37 @@
+{
+  "n": 430,
+  "name": "Follow the money",
+  "meaning": {
+    "zh": "“顺藤摸瓜” 或 “追踪资金流向”。\n\n这个短语最早来源于1974年美国著名的 “水门事件”，记者鲍勃·伍德沃德和卡尔·伯恩斯坦通过追查资金的流向，揭露了非法活动的真相，并最终导致尼克松总统辞职。这个短语常用于调查和揭露腐败或其他非法活动时，建议通过追查资金流动来找到真相。",
+    "en": "The phrase originated from the famous 1974 \"Watergate\" scandal in the United States, where journalists Bob Woodward and Carl Bernstein traced the flow of money to unearth illegal activities, which eventually led to President Nixon's resignation. The phrase is often used in the context of investigation and uncovering corruption or other illegal activities, suggesting that the truth can be found by tracking the flow of money."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "If we want to understand who's behind this scheme, we need to *follow the money*.",
+          "zh": "如果我们想搞清楚是谁在策划这件事，我们需要顺藤摸瓜，追踪资金流向。"
+        }
+      ],
+      "audio": "audio/430.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The detective said they'd *follow the money* to catch the criminals.",
+          "zh": "侦探说他们会追踪资金流向来抓住罪犯。"
+        }
+      ],
+      "audio": "audio/430.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "In many corruption cases, investigators usually *follow the money* to find evidence.",
+          "zh": "在许多腐败案件中，调查人员通常会顺藤摸瓜，寻找证据。"
+        }
+      ],
+      "audio": "audio/430.3.mp3"
+    }
+  ]
+}

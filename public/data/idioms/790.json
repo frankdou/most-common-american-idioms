@@ -1,0 +1,37 @@
+{
+  "n": 790,
+  "name": "Lost at sea",
+  "meaning": {
+    "zh": "“迷失在海上” 或 “茫然不知所措”。\n\n这个短语源自于实际的航海过程中迷失方向的情景，常被用来比喻在某个情境或任务中毫无头绪、不知该如何进行。在现代语言中，这个短语广泛用于表达一个人对某件事感到完全迷茫，不知道从何下手的状态。",
+    "en": "This phrase originates from the literal situation of being lost at sea, a scenario where one has no sense of direction. It is often used metaphorically to describe a situation where someone feels completely clueless or unsure about how to proceed. In modern usage, \"lost at sea\" broadly conveys a sense of bewilderment and uncertainty in the face of complex tasks or situations."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Without proper guidance, many new employees feel *lost at sea* in their first week.",
+          "zh": "没有适当的指导，很多新员工在第一周都会感到茫然不知所措。"
+        }
+      ],
+      "audio": "audio/790.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "When she moved to a new city, she often felt *lost at sea*.",
+          "zh": "当她搬到一个新城市时，她经常感到不知所措。"
+        }
+      ],
+      "audio": "audio/790.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "After the sudden change in project guidelines, the team was *lost at sea*.",
+          "zh": "项目指南突然改变后，团队感到完全迷失了方向。"
+        }
+      ],
+      "audio": "audio/790.3.mp3"
+    }
+  ]
+}

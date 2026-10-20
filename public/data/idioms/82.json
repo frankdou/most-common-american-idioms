@@ -1,0 +1,37 @@
+{
+  "n": 82,
+  "name": "Around-the-clock",
+  "meaning": {
+    "zh": "“全天候” 或 “24 小时不停”。\n\n这个短语来源于描述某种活动或服务不间断地持续进行，通常用于表示某种努力、监控或服务在一天的所有时间段里都在进行。它通常应用于紧急情况、医疗服务或者需要全天候关注的场合，如安全监控或者技术支持。",
+    "en": "This phrase originates from describing an activity or service that continues non-stop throughout the entire 24-hour day, often used to indicate an effort, watch, or service happening during all periods of the day. It is typically applied in contexts like emergencies, medical services, or situations requiring constant attention, such as security monitoring or technical support."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The hospital provides *around-the-clock* care for its patients.",
+          "zh": "医院为患者提供全天候护理。"
+        }
+      ],
+      "audio": "audio/082.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The tech team is working *around-the-clock* to fix the server issues.",
+          "zh": "技术团队正在全天候工作以修复服务器问题。"
+        }
+      ],
+      "audio": "audio/082.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The police have been monitoring the area *around-the-clock* after the incident.",
+          "zh": "事件发生后，警察一直在该地区进行全天候监控。"
+        }
+      ],
+      "audio": "audio/082.3.mp3"
+    }
+  ]
+}

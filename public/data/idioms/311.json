@@ -1,0 +1,37 @@
+{
+  "n": 311,
+  "name": "Dead ringer",
+  "meaning": {
+    "zh": "“极为相似的人或物” 或 “替身”。\n\n“Dead ringer” 这个短语起源于十九世纪美国的赛马文化。当时，为了迷惑观众和获取不正当的利益，有些人会用长相非常相似的马来替换原本参赛的马匹。这个短语后来被引申为形容两个事物之间高度的相似性，尤其是外貌上的相似。",
+    "en": "The phrase \"dead ringer\" originates from the 19th-century American horse racing culture. At that time, to deceive spectators and gain unfair profits, some people would replace the original racehorse with another horse that looked very similar. This phrase later evolved to describe a high degree of similarity between two things, especially in terms of appearance."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "She’s a *dead ringer* for her mother.",
+          "zh": "她和她妈妈简直一模一样。"
+        }
+      ],
+      "audio": "audio/311.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "That actor is a *dead ringer* for a young Al Pacino.",
+          "zh": "那个演员和年轻时的阿尔·帕西诺简直一个模子刻出来的。"
+        }
+      ],
+      "audio": "audio/311.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The new model is a *dead ringer* for the old one, but with updated features.",
+          "zh": "新型号和旧型号一模一样，只是功能有所更新。"
+        }
+      ],
+      "audio": "audio/311.3.mp3"
+    }
+  ]
+}

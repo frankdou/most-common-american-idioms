@@ -1,0 +1,37 @@
+{
+  "n": 863,
+  "name": "Off the record",
+  "meaning": {
+    "zh": "“非正式谈话” 或 “不公开发表”。\n\n这个短语起源于新闻界，指的是记者和消息来源之间的非正式交流，不用于正式的报道。它表示信息是私下里提供的，不可以在公开发表或引用。",
+    "en": "This phrase originates from journalism, referring to informal conversations between reporters and sources that are not intended for official publication. It signifies that the information is provided privately and should not be publicly stated or quoted."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He made it clear that his comments were strictly *off the record*.",
+          "zh": "他明确表示，他的评论是非正式的，不公开发表。"
+        }
+      ],
+      "audio": "audio/863.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Can we speak *off the record* for a moment?",
+          "zh": "我们可以非正式地聊几句吗？"
+        }
+      ],
+      "audio": "audio/863.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The information I am about to share is *off the record*.",
+          "zh": "我要分享的信息是非正式的，不公开的。"
+        }
+      ],
+      "audio": "audio/863.3.mp3"
+    }
+  ]
+}

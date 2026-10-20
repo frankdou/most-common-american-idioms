@@ -1,0 +1,37 @@
+{
+  "n": 117,
+  "name": "Beat someone to the draw",
+  "meaning": {
+    "zh": "“抢在别人前面” 或 “抢先一步”。\n\n这个短语起源于美国西部的牛仔时期，在决斗中，谁能够更快地从枪套里拔出手枪并射击，就能赢得比赛。因此，这个短语用来表示在某件事情上抢在别人前面，先发制人。",
+    "en": "This idiom originates from the Wild West era in the United States, where in a duel, the one who could draw their pistol faster and shoot would win. Thus, the phrase is used to indicate getting ahead of someone in doing something, acting first."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I wanted to surprise her with a gift, but her friend *beat me to the draw*.",
+          "zh": "我本想送她一份礼物，但她的朋友抢先一步。"
+        }
+      ],
+      "audio": "audio/117.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He tried to make the proposal, but his colleague *beat him to the draw*.",
+          "zh": "他打算提出提案，但他的同事抢先一步。"
+        }
+      ],
+      "audio": "audio/117.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I was going to buy that last ticket, but someone *beat me to the draw*.",
+          "zh": "我本想买最后一张票，但有人抢先一步。"
+        }
+      ],
+      "audio": "audio/117.3.mp3"
+    }
+  ]
+}

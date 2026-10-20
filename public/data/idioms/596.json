@@ -1,0 +1,37 @@
+{
+  "n": 596,
+  "name": "Heads-up",
+  "meaning": {
+    "zh": "“提醒” 或 “事先通知”。\n\n这个短语来源于棒球和其他体育活动，表示让队员提高警觉、准备好接受球。如今，这个短语被广泛用于非正式的交流中，用来指对某件事情的事先提醒或通知，以便接收者能够做好准备应对。",
+    "en": "This phrase originates from baseball and other sports, where it signals players to raise their heads and be alert for the ball. Today, this phrase is commonly used informally to refer to giving someone advance notice or a warning about something so they can be prepared."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Thanks for the *heads-up* about the meeting tomorrow.",
+          "zh": "谢谢你提醒我明天的会议。"
+        }
+      ],
+      "audio": "audio/596.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I just wanted to give you a *heads-up* that the boss is in a bad mood today.",
+          "zh": "我只是想提醒你一下，老板今天心情不好。"
+        }
+      ],
+      "audio": "audio/596.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She gave me a *heads-up* about the traffic jam on my usual route.",
+          "zh": "她提醒我在我平时的路线上有堵车。"
+        }
+      ],
+      "audio": "audio/596.3.mp3"
+    }
+  ]
+}

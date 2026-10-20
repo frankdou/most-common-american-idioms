@@ -1,0 +1,37 @@
+{
+  "n": 56,
+  "name": "Actions Speak Louder Than Words",
+  "meaning": {
+    "zh": "“行动胜于言辞”。\n\n这个短语起源于16世纪的英国，意指实际行动比言辞更能表达一个人的真实意图和感受。它提醒人们不要仅仅依赖言辞，而是要通过实际行动来证明自己。",
+    "en": "This phrase originates from 16th-century England, and it means that actions are a more powerful demonstration of one’s intentions and feelings than words. It reminds people not to rely solely on what others say but to look at what they do to truly understand their intentions."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He keeps promising to help, but *actions speak louder than words*; so far, he hasn't done anything.",
+          "zh": "他说了很多次要帮忙，但行动胜于言辞，到目前为止他什么都没做。"
+        }
+      ],
+      "audio": "audio/056.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She says she loves him, but since *actions speak louder than words*, she's planning a surprise for him this weekend.",
+          "zh": "她说她爱他，但因为行动胜于言辞，她正在计划这个周末给他一个惊喜。"
+        }
+      ],
+      "audio": "audio/056.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "In politics, *actions speak louder than words*; politicians need to show their commitment through their deeds.",
+          "zh": "在政治中，行动胜于言辞：政治家需要通过他们的作为来展示他们的承诺。"
+        }
+      ],
+      "audio": "audio/056.3.mp3"
+    }
+  ]
+}

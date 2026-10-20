@@ -1,0 +1,37 @@
+{
+  "n": 9,
+  "name": "A breath of fresh air",
+  "meaning": {
+    "zh": "“一缕新鲜空气” 或 “耳目一新”。\n\n这个短语起源于实际的新鲜空气，当人们置身于一个封闭或沉闷的环境中，突然吸入新鲜空气会令人感到舒适和振奋。这个比喻通常用来形容令人愉快、带来新鲜感或像是焕然一新的人或事物。",
+    "en": "This phrase originates from actual fresh air. When people are in a confined or stuffy environment, breathing in fresh air can make them feel comfortable and invigorated. This metaphor is often used to describe a person or thing that brings pleasure, a new perspective, or a refreshing change."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Her innovative ideas were a *breath of fresh air* for the company.",
+          "zh": "她的创新理念给公司带来了耳目一新的感觉。"
+        }
+      ],
+      "audio": "audio/009.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "After months of routine work, the unexpected day off was like a *breath of fresh air*.",
+          "zh": "经历了几个月的常规工作后，这次意外的休息日就像一缕新鲜空气。"
+        }
+      ],
+      "audio": "audio/009.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The new manager is a *breath of fresh air*; she's already made amazing improvements.",
+          "zh": "新经理真是一缕新鲜空气，她已经做出了令人惊叹的改进。"
+        }
+      ],
+      "audio": "audio/009.3.mp3"
+    }
+  ]
+}

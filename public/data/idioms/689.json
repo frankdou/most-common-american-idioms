@@ -1,0 +1,37 @@
+{
+  "n": 689,
+  "name": "Jump the gun",
+  "meaning": {
+    "zh": "“抢跑” 或 “操之过急”。\n\n这个短语起源于田径赛跑。在田径比赛中，选手需要等发令枪响后才能起跑，如果提早起跑就被称为 \"jump the gun\"。在现代用法中，这一短语被用来比喻那些过早采取行动或过早做决定的人，相当于中文里的 “操之过急”。",
+    "en": "This phrase originates from track and field racing, where runners must wait for the starter's pistol to fire before beginning the race. If a runner starts too early, they are said to \"jump the gun.\" In contemporary usage, it describes anyone who starts something prematurely or makes decisions too hastily, similar in meaning to the Chinese phrase \"操之过急\"."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He *jumped the gun* and announced the results before they were final.",
+          "zh": "他操之过急，在结果尚未最终确定前就宣布了出来。"
+        }
+      ],
+      "audio": "audio/689.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Don't *jump the gun*. We need to think this through thoroughly.",
+          "zh": "不要操之过急。我们需要全面考虑这件事。"
+        }
+      ],
+      "audio": "audio/689.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She *jumped the gun* by submitting her application before getting all the necessary documents.",
+          "zh": "她在没有准备好所有必要文件的情况下就提交了申请，实在是太急了。"
+        }
+      ],
+      "audio": "audio/689.3.mp3"
+    }
+  ]
+}

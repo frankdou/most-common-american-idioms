@@ -1,0 +1,37 @@
+{
+  "n": 1028,
+  "name": "Set my teeth on edge",
+  "meaning": {
+    "zh": "使人烦躁不安，令人极度反感。\n\n这个短语的起源可以追溯到《圣经》和莎士比亚的作品。在《圣经》里，提到了葡萄未熟时吃起来会让牙酸的感觉，莎士比亚则进一步发展了这个表达，以形容某些让人极度不适或厌恶的事物或行为。",
+    "en": "This idiom originates from the Bible and Shakespeare's works. In the Bible, it mentioned how eating unripe grapes sets teeth on edge, which evolved in Shakespeare's usage to describe something that causes extreme discomfort or irritation."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "His loud chewing really *sets my teeth on edge*.",
+          "zh": "他大声咀嚼的声音真让我烦躁不安。"
+        }
+      ],
+      "audio": "audio/1028.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The sound of nails on a chalkboard *sets my teeth on edge*.",
+          "zh": "指甲在黑板上刮的声音真让我受不了。"
+        }
+      ],
+      "audio": "audio/1028.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Her constant humming *sets my teeth on edge*.",
+          "zh": "她不停的哼哼声真叫我受不了。"
+        }
+      ],
+      "audio": "audio/1028.3.mp3"
+    }
+  ]
+}

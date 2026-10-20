@@ -1,0 +1,37 @@
+{
+  "n": 921,
+  "name": "Pedal to the metal",
+  "meaning": {
+    "zh": "“全力以赴” 或 “全速前进”。\n\n这个成语起源于汽车和赛车领域，字面意思是把油门踩到底（踏板踩到金属部分）。用在比喻意义上，它表示尽全力、最大限度地努力或快速行动。",
+    "en": "This idiom originates from the automotive and racing worlds, literally meaning to press the gas pedal to the floor (pedal to the metal). Figuratively, it means to exert maximum effort, strive to the fullest, or move quickly."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "We need to put the *pedal to the metal* to meet the deadline.",
+          "zh": "我们需要全力以赴以赶上截止日期。"
+        }
+      ],
+      "audio": "audio/921.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "With only a few weeks left, it's time to go *pedal to the metal* on this project.",
+          "zh": "只剩几个星期了，是时候在这个项目上全速前进了。"
+        }
+      ],
+      "audio": "audio/921.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He went *pedal to the metal* during the final lap of the race.",
+          "zh": "在比赛的最后一圈，他全速前进。"
+        }
+      ],
+      "audio": "audio/921.3.mp3"
+    }
+  ]
+}

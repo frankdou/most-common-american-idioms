@@ -1,0 +1,37 @@
+{
+  "n": 780,
+  "name": "Long in the tooth",
+  "meaning": {
+    "zh": "“年纪大了” 或 “上了年纪”。\n\n这个短语起源于观察马的牙齿长度。随着马的年纪增长，它们的牙齿会变长。因此，\"long in the tooth\" 被借用来形容人或事物的年纪较大，甚至有点过时或老旧。",
+    "en": "This phrase originates from observing the length of a horse's teeth. As a horse ages, its teeth grow longer. Thus, \"long in the tooth\" has been borrowed to describe someone or something as old, and sometimes outdated or past its prime."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "My grandfather is getting a bit *long in the tooth* for hiking.",
+          "zh": "我祖父年纪有点大了，不适合再去徒步旅行。"
+        }
+      ],
+      "audio": "audio/780.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "That computer model is *long in the tooth*, it's time for an upgrade.",
+          "zh": "那个电脑型号已经有点过时了，是时候升级了。"
+        }
+      ],
+      "audio": "audio/780.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The actor might be a bit *long in the tooth*, but he's still very talented.",
+          "zh": "这位演员可能有点年纪大了，但他依然非常有才华。"
+        }
+      ],
+      "audio": "audio/780.3.mp3"
+    }
+  ]
+}

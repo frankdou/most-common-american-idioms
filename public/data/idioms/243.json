@@ -1,0 +1,37 @@
+{
+  "n": 243,
+  "name": "Chuffed to bits",
+  "meaning": {
+    "zh": "“高兴极了” 或 “非常满足”。\n\n这个短语主要在英国英语中使用，用来形容一个人非常高兴或满足。最早出现于20世纪初，“chuffed” 一词可能源于 “chuff”，一种表示高兴的方言，而 “to bits” 则增加了情感上的强度。",
+    "en": "This phrase is mainly used in British English to describe someone who is very happy or pleased. It dates back to the early 20th century, with \"chuffed\" possibly deriving from a dialectal word “chuff,” indicating pleasure, and “to bits” intensifying the emotional expression."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He was *chuffed to bits* after winning the award.",
+          "zh": "他在获奖后高兴极了。"
+        }
+      ],
+      "audio": "audio/243.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She was *chuffed to bits* with her new car.",
+          "zh": "她对她的新车非常满意。"
+        }
+      ],
+      "audio": "audio/243.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I'm *chuffed to bits* that the project was successful.",
+          "zh": "我非常高兴项目取得成功。"
+        }
+      ],
+      "audio": "audio/243.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 568,
+  "name": "Half the battle",
+  "meaning": {
+    "zh": "“事半功倍” 或 “成功的一半”。\n\n这个短语来源于战斗或战争中的策略。它表示，某项任务如果已经完成了最困难或最关键的部分，那么剩余的部分将会相对容易。现代社会中，这个短语常用于描述克服了主要障碍和难题，完成了关键步骤，从而剩下的任务变得容易的情形。",
+    "en": "This phrase originates from combat or warfare strategy. It signifies that if the most challenging or crucial part of a task has been accomplished, then the remaining part will be relatively easy. In modern society, this idiom is commonly used to describe situations where overcoming the main obstacles or key steps makes the remaining tasks easier."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Understanding the problem is *half the battle*.",
+          "zh": "理解问题就已经成功了一半。"
+        }
+      ],
+      "audio": "audio/568.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Finding the right tools for the job is *half the battle*.",
+          "zh": "找到合适的工具就已经事半功倍了。"
+        }
+      ],
+      "audio": "audio/568.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Convincing the team of the project's importance is *half the battle*.",
+          "zh": "让团队认识到项目的重要性就已经成功了一半。"
+        }
+      ],
+      "audio": "audio/568.3.mp3"
+    }
+  ]
+}

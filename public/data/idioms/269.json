@@ -1,0 +1,37 @@
+{
+  "n": 269,
+  "name": "Comfort food",
+  "meaning": {
+    "zh": "“安慰食品” 或 “慰藉食品”。\n\n“Comfort food” 是指那些食物，在我们情绪低落或需要安慰时，能够带来温暖和满足感。这些食物通常具有怀旧的意义或能够唤起美好回忆。舒适食物通常与个体的童年或特别的情感联系在一起。",
+    "en": "\"Comfort food\" refers to those foods that bring warmth and satisfaction when we're feeling down or need comfort. These foods often have nostalgic significance or can evoke pleasant memories. Comfort food is usually associated with one's childhood or particular emotional connections."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "When I'm stressed, I turn to macaroni and cheese as my *comfort food*.",
+          "zh": "当我感到压力时，我会吃奶酪通心粉作为我的安慰食品。"
+        }
+      ],
+      "audio": "audio/269.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Chicken soup is classic *comfort food* for many people.",
+          "zh": "鸡汤是许多人经典的慰藉食品。"
+        }
+      ],
+      "audio": "audio/269.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Ice cream has always been my go-to *comfort food* after a bad day.",
+          "zh": "在糟糕的一天之后，冰淇淋一直是我的首选安慰食品。"
+        }
+      ],
+      "audio": "audio/269.3.mp3"
+    }
+  ]
+}

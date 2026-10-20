@@ -1,0 +1,37 @@
+{
+  "n": 174,
+  "name": "Bread and butter",
+  "meaning": {
+    "zh": "依靠维生的主要收入来源 或 基本生计的工作。\n\n这个短语源自于最基本的食物：面包和黄油。面包和黄油是人们维持生计的基本食品，因此这个短语用来形容一个人最基本、最重要的收入来源或工作，它能保证其日常生活所需。",
+    "en": "This phrase originates from the basic food items: bread and butter. Bread and butter are essential foods for sustaining life, similar to how an important income source or job is essential for a person's livelihood. It describes what provides the essential means of living."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "His freelance work is just extra; his *bread and butter* comes from his full-time job.",
+          "zh": "他的自由职业收入只是额外的，他的主要收入来源是他的全职工作。"
+        }
+      ],
+      "audio": "audio/174.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Tourism is the *bread and butter* of this small town.",
+          "zh": "旅游业是这个小镇的主要生计来源。"
+        }
+      ],
+      "audio": "audio/174.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Farming used to be their *bread and butter*, but now most people have moved to urban jobs.",
+          "zh": "过去，农业是他们的主要收入来源，但现在大多数人已经转向城市工作。"
+        }
+      ],
+      "audio": "audio/174.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 578,
+  "name": "Haste makes waste",
+  "meaning": {
+    "zh": "“欲速则不达”。\n\n这个成语在英文中的字面意思是 “匆忙导致浪费”。它起源于古老的谚语，提醒人们在急于完成任务时很有可能会因为疏忽或错误而浪费更多时间和资源。因此，该表达强调做事应耐心细致，而不是急于求成。",
+    "en": "The idiom \"Haste makes waste\" means that rushing through tasks often leads to mistakes and inefficiencies, ultimately wasting more time and resources. It underscores the importance of doing things carefully and thoroughly, rather than hurrying through them."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Don't rush through your homework; remember, *haste makes waste*.",
+          "zh": "不要匆忙做完你的作业；记住，欲速则不达。"
+        }
+      ],
+      "audio": "audio/578.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "We learned the hard way that *haste makes waste* when we built that shed.",
+          "zh": "当我们建那个棚子时，我们通过惨痛的教训了解到，欲速则不达。"
+        }
+      ],
+      "audio": "audio/578.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "*Haste makes waste*, so let's take our time and do this right.",
+          "zh": "欲速则不达，所以我们要慢慢来，把这件事做对。"
+        }
+      ],
+      "audio": "audio/578.3.mp3"
+    }
+  ]
+}

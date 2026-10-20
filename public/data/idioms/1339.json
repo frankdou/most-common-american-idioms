@@ -1,0 +1,37 @@
+{
+  "n": 1339,
+  "name": "You can bet your boots",
+  "meaning": {
+    "zh": "“你可以肯定” 或 “你可以赌上你的全部”（表示对某事有完全的信心）。\n\n这个短语源自美国西部，当时靴子被认为是非常重要的财物之一。一个人如果把他的靴子都拿来打赌，那么说明他对赢得这场赌局非常有信心。因此，这个表达用来表示对某事的绝对信心。",
+    "en": "This phrase originates from the American West, where boots were considered a crucial part of one’s possessions. If someone was willing to bet their boots, it indicated they were extremely confident about winning the bet. Thus, the expression is used to denote complete confidence in something."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "You can bet your boots that she'll be on time.",
+          "zh": "你可以肯定她会准时到的。"
+        }
+      ],
+      "audio": "audio/1339.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "When he says he'll finish the project by Friday, you can bet your boots he will.",
+          "zh": "当他说他将在周五完成这个项目时，你可以肯定他会做到。"
+        }
+      ],
+      "audio": "audio/1339.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "If they offer a discount, you can bet your boots I'll be the first in line!",
+          "zh": "如果他们提供折扣，你可以肯定我会第一个排队！"
+        }
+      ],
+      "audio": "audio/1339.3.mp3"
+    }
+  ]
+}

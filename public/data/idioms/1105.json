@@ -1,0 +1,37 @@
+{
+  "n": 1105,
+  "name": "Take the plunge",
+  "meaning": {
+    "zh": "“冒险一试” 或 “果断行动”。\n\n这个短语源于跳水或者潜水的动作，表示从高处跳入水中的决定。引申意义上，这个表达表述了跳入新体验或冒险的决心和勇气，通常在面对不确定或具有挑战性的情况时使用。现代人也用它来形容做重大决策，比如换工作、搬家或开始新项目。",
+    "en": "This phrase comes from the action of diving or plunging into water, signifying the decision to jump from a height into the water. By extension, it describes the resolve and bravery needed to dive into new experiences or adventures, especially in situations fraught with uncertainty or challenges. In contemporary usage, it often relates to making significant decisions, such as changing jobs, relocating, or starting a new project."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "After years of working in a corporate job, she finally decided to *take the plunge* and start her own business.",
+          "zh": "在公司工作多年之后，她终于决定冒险一试，创业开了自己的公司。"
+        }
+      ],
+      "audio": "audio/1105.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "They had been dating for five years, so they decided it was time to *take the plunge* and get married.",
+          "zh": "他们已经约会五年了，所以决定该是时候勇敢迈出一步结婚了。"
+        }
+      ],
+      "audio": "audio/1105.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Moving to a new city alone can be daunting, but sometimes you just have to *take the plunge*.",
+          "zh": "一个人搬到一个新城市可能会让人望而生畏，但有时你就是需要果断行动。"
+        }
+      ],
+      "audio": "audio/1105.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 247,
+  "name": "Clear the air",
+  "meaning": {
+    "zh": "“消除误会” 或 “澄清事实”。\n\n这个短语起源于一个比喻，将误会或紧张气氛比作空气中的尘埃或烟雾。通过澄清事实或解决分歧，就像清除空气中的杂质一样，使一切变得更加清晰和明了。在现代社会，这个短语通常用来形容通过对话或解释，解决彼此之间的误解或矛盾，使关系恢复正常。",
+    "en": "This idiom originates from a metaphor which compares misunderstandings or a tense atmosphere to dust or smoke in the air. By clarifying facts or resolving differences, it's like clearing impurities from the air, making everything clearer. In modern society, it is commonly used to describe solving misunderstandings or conflicts through discussion or explanation, thus restoring normal relations."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "We had a long meeting to *clear the air* about the project's failure.",
+          "zh": "我们开了一个长会来消除对项目失败的误会。"
+        }
+      ],
+      "audio": "audio/247.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "After their argument, they needed to sit down and *clear the air*.",
+          "zh": "在争论之后，他们需要坐下来消除误会。"
+        }
+      ],
+      "audio": "audio/247.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "It's important to *clear the air* if there's any confusion or tension in the team.",
+          "zh": "如果团队中有任何困惑或紧张情绪，澄清误会是很重要的。"
+        }
+      ],
+      "audio": "audio/247.3.mp3"
+    }
+  ]
+}

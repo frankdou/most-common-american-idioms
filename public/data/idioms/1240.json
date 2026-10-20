@@ -1,0 +1,37 @@
+{
+  "n": 1240,
+  "name": "To smooth things over",
+  "meaning": {
+    "zh": "“平息事态” 或 “缓和情况”。\n\n这个短语的意思是通过做一些行动或提供一些言论来缓解或解决情况，尤其是消除误会或冲突。它常常用于描述一个人试图修复人际关系或平息纷争的情景。",
+    "en": "This phrase means to alleviate or resolve a situation by taking certain actions or offering words, especially to eliminate misunderstandings or conflicts. It is often used to describe someone trying to mend relationships or ease tensions."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He tried to *smooth things over* between his two friends who had a disagreement.",
+          "zh": "他试图在两个发生争执的朋友之间平息事态。"
+        }
+      ],
+      "audio": "audio/1240.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The manager held a meeting to *smooth things over* after the company faced criticism.",
+          "zh": "公司面对批评后，经理召开了一次会议来缓和情况。"
+        }
+      ],
+      "audio": "audio/1240.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She brought flowers to *smooth things over* with her neighbor after their argument.",
+          "zh": "她带了花给邻居，以平息他们的争吵。"
+        }
+      ],
+      "audio": "audio/1240.3.mp3"
+    }
+  ]
+}

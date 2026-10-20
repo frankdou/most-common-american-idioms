@@ -1,0 +1,37 @@
+{
+  "n": 521,
+  "name": "Go off the deep end",
+  "meaning": {
+    "zh": "“失去冷静” 或 “失去理智”。这个短语指一个人在情绪上突然崩溃或变得非常生气，通常表现出非理性的行为。\n\n这个短语的起源可以追溯到游泳池的深水区。游泳池通常有浅水区和深水区，浅水区较安全，而深水区则需要更高的游泳技能。一个人如果没有准备就跳入深水区，可能会感到慌乱和失控，借此比喻人情绪上的失控。",
+    "en": "This phrase can be traced back to swimming pools, which usually have a shallow end and a deep end. The shallow end is safer, while the deep end requires higher swimming skills. If someone jumps into the deep end unprepared, they might feel panicked and out of control, which is used here as a metaphor for emotional breakdown."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "When he heard the bad news, he just *went off the deep end* and started shouting.",
+          "zh": "当他听到坏消息时，他简直失去了理智，开始大喊大叫。"
+        }
+      ],
+      "audio": "audio/521.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Don’t *go off the deep end*. Let's figure this out calmly.",
+          "zh": "别失去冷静，我们冷静地解决这个问题。"
+        }
+      ],
+      "audio": "audio/521.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She *went off the deep end* when she found out her project had been canceled.",
+          "zh": "当她得知项目被取消时，她失去了冷静。"
+        }
+      ],
+      "audio": "audio/521.3.mp3"
+    }
+  ]
+}

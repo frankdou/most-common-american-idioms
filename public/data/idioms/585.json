@@ -1,0 +1,37 @@
+{
+  "n": 585,
+  "name": "Have two left feet",
+  "meaning": {
+    "zh": "“笨手笨脚” 或 “不善舞蹈”。\n\n这个短语字面意思是拥有两个左脚，意味着一个人在跳舞或运动时非常笨拙或不协调。它通常用来形容那些不擅长舞蹈、经常踩错步子或容易摔倒的人。这一表达也可以泛指在某些活动中显得特别笨拙或缺乏技能的人。",
+    "en": "This phrase literally means having two left feet, suggesting that a person is very clumsy or uncoordinated when it comes to dancing or physical activities. It is often used to describe those who are not good at dancing, frequently stepping on the wrong foot or tripping. It can also generally refer to someone who is exceptionally clumsy or lacks skill in certain activities."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "When it comes to dancing, John *has two left feet*.",
+          "zh": "说到跳舞，约翰简直笨手笨脚。"
+        }
+      ],
+      "audio": "audio/585.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She tried to join the dance class, but she *has two left feet*.",
+          "zh": "她试图加入舞蹈课，但她跳得很笨拙。"
+        }
+      ],
+      "audio": "audio/585.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Don't worry if you *have two left feet*, everyone gets better with practice.",
+          "zh": "别担心你笨手笨脚的，每个人都能通过练习变得更好。"
+        }
+      ],
+      "audio": "audio/585.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 882,
+  "name": "On the line",
+  "meaning": {
+    "zh": "“处于危险中” 或 “处在风险之中”。\n\n这个短语最早出现在打赌或赌博中，意味着 “将东西放在赌注线上”，表示某件事悬而未决、处于风险中。后来，这个表达逐渐用来描述任何处于危险或风险的情形，可以用在强调某个决定或行动的潜在巨大影响时。",
+    "en": "This phrase originally appeared in the context of betting or gambling, meaning \"putting things on the betting line,\" indicating that something is at risk or uncertain. Over time, this expression has come to describe any situation that is dangerous or risky, often used to emphasize the significant potential consequences of a decision or action."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "His job is *on the line* after the recent mistakes.",
+          "zh": "在最近的错误之后，他的工作处于风险之中。"
+        }
+      ],
+      "audio": "audio/882.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She put her reputation *on the line* by speaking out against the policy.",
+          "zh": "她冒着名誉受损的风险公开反对该政策。"
+        }
+      ],
+      "audio": "audio/882.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "When lives are *on the line*, every decision matters.",
+          "zh": "当生命处于危险之中时，每一个决策都至关重要。"
+        }
+      ],
+      "audio": "audio/882.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 755,
+  "name": "Let bygones be bygones",
+  "meaning": {
+    "zh": "“既往不咎” 或 “过去的事就让它过去吧”。\n\n这个短语源自古英语，意为 “让过去的事成为过去”。它旨在表达一个人决定放下过去的矛盾或问题，不再追究已经发生的事情，而是着眼于未来。它通常用于希望化解过去的矛盾或不愉快的经历，倡导宽恕和前行。",
+    "en": "This phrase originates from Old English, meaning \"let the past be the past.\" It is meant to express a person's decision to let go of past conflicts or issues and not to dwell on things that have already happened, but to focus on the future. It is typically used when someone wants to resolve past conflicts or unpleasant experiences, encouraging forgiveness and moving forward."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "After their argument, they decided to let bygones be bygones and move on.",
+          "zh": "争吵之后，他们决定既往不咎，继续前行。"
+        }
+      ],
+      "audio": "audio/755.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "It's better for our peace of mind to let bygones be bygones.",
+          "zh": "为了我们的内心平静，最好让过去的事就这么过去。"
+        }
+      ],
+      "audio": "audio/755.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Let's let bygones be bygones and start fresh.",
+          "zh": "让我们既往不咎，从头开始吧。"
+        }
+      ],
+      "audio": "audio/755.3.mp3"
+    }
+  ]
+}

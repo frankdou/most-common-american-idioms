@@ -1,0 +1,37 @@
+{
+  "n": 1253,
+  "name": "Touch and go",
+  "meaning": {
+    "zh": "“危险的” 或 “情况不确定的”。\n\n这个短语源自于飞行术语，其中 “touch and go” 描述的是飞机在跑道上短暂停留然后立即起飞的动作。这种情况经常用来形容比较危险或者结果非常不确定的事情。",
+    "en": "This phrase originates from aviation terminology, where \"touch and go\" describes a maneuver where an aircraft briefly touches down on the runway and immediately takes off again. It is often used to describe situations that are perilous or highly uncertain."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "It was *touch and go* for a while after the surgery.",
+          "zh": "在手术之后，有段时间情况非常不稳定。"
+        }
+      ],
+      "audio": "audio/1253.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The rescue mission was *touch and go* due to the severe weather conditions.",
+          "zh": "由于恶劣的天气条件，救援任务非常危险。"
+        }
+      ],
+      "audio": "audio/1253.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "It’s *touch and go* whether the company will survive the financial crisis.",
+          "zh": "公司是否能渡过财务危机还是个未知数。"
+        }
+      ],
+      "audio": "audio/1253.3.mp3"
+    }
+  ]
+}

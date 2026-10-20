@@ -1,0 +1,37 @@
+{
+  "n": 360,
+  "name": "Driving me nuts",
+  "meaning": {
+    "zh": "“让我抓狂” 或 “让我发疯”。\n\n这个短语的起源不太明确，但 “nuts” 在古英语中有 “疯癫” 的意思。“Driving me nuts” 意指一个人或事物让你变得疯狂、烦躁，就像你失去了理智一样。通常用来表达对某件事或某个人的极度不满或烦恼。",
+    "en": "The origin of this phrase is unclear, but \"nuts\" in old English means \"crazy\". \"Driving me nuts\" signifies that someone or something is making you go crazy or feel extremely annoyed, as if you've lost your sanity. It's commonly used to express extreme dissatisfaction or frustration with a situation or person."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The constant noise from the construction site is driving me nuts.",
+          "zh": "施工现场不断的噪音让我抓狂。"
+        }
+      ],
+      "audio": "audio/360.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "My little brother keeps using my things without asking and it's driving me nuts.",
+          "zh": "我弟弟总是不经过我同意就用我的东西，这让我非常抓狂。"
+        }
+      ],
+      "audio": "audio/360.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The traffic in the city is driving me nuts; it's impossible to get anywhere on time.",
+          "zh": "城市里的交通让我抓狂，根本无法准时到达任何地方。"
+        }
+      ],
+      "audio": "audio/360.3.mp3"
+    }
+  ]
+}

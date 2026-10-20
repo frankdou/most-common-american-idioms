@@ -1,0 +1,37 @@
+{
+  "n": 1125,
+  "name": "That's the last straw",
+  "meaning": {
+    "zh": "“这是最后一根稻草” 或 “压垮骆驼的最后一根稻草”。\n\n这个短语来源于一句寓言，讲的是一个骆驼被逐渐增加的负担压垮，直到最后一小撮稻草终于使它不堪重负。这个表达常用于形容人在面对持续的压力或问题时，最终一个小问题或事件使人再也无法忍受、承受或妥协。",
+    "en": "This phrase originates from a fable about a camel being loaded with increasing amounts of burden until a small straw finally breaks its back. This expression is often used to describe a situation where a person is dealing with continuous pressure or problems, and finally, one small issue or event causes them to no longer bear, endure, or compromise."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "When he arrived late again, it was *the last straw* for his boss.",
+          "zh": "当他再次迟到时，这对他的老板来说是最后一根稻草。"
+        }
+      ],
+      "audio": "audio/1125.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Her constant complaints were *the last straw* in their relationship.",
+          "zh": "她不断的抱怨是他们关系中的最后一根稻草。"
+        }
+      ],
+      "audio": "audio/1125.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Finding out about his lie was *the last straw* for her.",
+          "zh": "发现他的谎言对她来说就是压垮她的最后一根稻草。"
+        }
+      ],
+      "audio": "audio/1125.3.mp3"
+    }
+  ]
+}

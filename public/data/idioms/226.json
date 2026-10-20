@@ -1,0 +1,37 @@
+{
+  "n": 226,
+  "name": "Catch the bus",
+  "meaning": {
+    "zh": "“赶上公交车” 或者 “追赶公交车”。\n\n这个短语指的是某人赶上并搭乘公交车。有时候，可以用来比喻一种及时赶上的情况。通常用于需要赶时间的场景，特别是指人们为按时抵达某个地点而感到匆忙的情形。",
+    "en": "This idiom refers to someone catching and boarding a bus. Sometimes, it is used metaphorically to indicate a situation where someone manages to arrive on time. It is typically used in scenarios where punctuality is important and people feel rushed to reach a destination on time."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I need to leave now if I want to *catch the bus*.",
+          "zh": "如果我想赶上公交车，我现在得走了。"
+        }
+      ],
+      "audio": "audio/226.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She ran as fast as she could to *catch the bus*.",
+          "zh": "她尽可能快地跑，以赶上公交车。"
+        }
+      ],
+      "audio": "audio/226.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He missed breakfast because he had to *catch the bus*.",
+          "zh": "他为了赶公交车而错过了早餐。"
+        }
+      ],
+      "audio": "audio/226.3.mp3"
+    }
+  ]
+}

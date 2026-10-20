@@ -1,0 +1,37 @@
+{
+  "n": 734,
+  "name": "Laid off",
+  "meaning": {
+    "zh": "“被裁员” 或 “被解雇”。\n\n这个短语起源于公司在经济不景气或需求减少时，选择暂时或永久性解雇员工。和 “fired” 不同，\"laid off\" 通常不是由于员工表现不佳，而是因为公司本身的原因，如重组、预算削减等，无法继续提供工作岗位。",
+    "en": "This phrase originates from situations where companies temporarily or permanently dismiss employees due to economic downturns or decreased demand. Unlike \"fired,\" \"laid off\" is typically not due to the employee's poor performance but rather due to the company's circumstances such as restructuring, budget cuts, etc."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He was laid off last month because the company had to downsize.",
+          "zh": "他上个月被裁员了，因为公司不得不裁员。"
+        }
+      ],
+      "audio": "audio/734.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Many workers were laid off during the economic crisis.",
+          "zh": "许多工人在经济危机期间被裁员了。"
+        }
+      ],
+      "audio": "audio/734.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She is worried about being laid off due to the merger.",
+          "zh": "她担心因为合并而被裁员。"
+        }
+      ],
+      "audio": "audio/734.3.mp3"
+    }
+  ]
+}

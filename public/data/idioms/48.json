@@ -1,0 +1,37 @@
+{
+  "n": 48,
+  "name": "A sweet tooth",
+  "meaning": {
+    "zh": "“爱吃甜食” 或 “有甜食癖好”。\n\n这个短语可以追溯到 19 世纪，表示一个人特别喜欢甜食。“Tooth” 在这里是一个比喻，指的是对甜食的偏爱或嗜好。与中文中的 “甜食癖好” 相似，“a sweet tooth” 形象地描绘出一个人对甜食的热爱。",
+    "en": "This phrase can be traced back to the 19th century, indicating a person's strong liking for sweet food. \"Tooth\" here is used metaphorically to refer to a craving or preference for sweets. Similar to the Chinese phrase \"甜食癖好,\" \"a sweet tooth\" vividly describes one's fondness for sugary treats."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "She has *a sweet tooth* and never skips dessert.",
+          "zh": "她有甜食癖好，从不跳过甜点。"
+        }
+      ],
+      "audio": "audio/048.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "If you have *a sweet tooth*, you'll love this candy shop.",
+          "zh": "如果你爱吃甜食，你会喜欢这家糖果店的。"
+        }
+      ],
+      "audio": "audio/048.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He's trying to cut down on sugar, but his *sweet tooth* makes it hard.",
+          "zh": "他在努力减少糖分摄入，但他的甜食癖好让这变得很难。"
+        }
+      ],
+      "audio": "audio/048.3.mp3"
+    }
+  ]
+}

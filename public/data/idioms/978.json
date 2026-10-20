@@ -1,0 +1,37 @@
+{
+  "n": 978,
+  "name": "Read someone the riot act",
+  "meaning": {
+    "zh": "“严厉训斥某人” 或 “警告某人”。\n\n这个短语起源于英国1725年的《骚乱法案》。根据该法案，地方当局在驱散骚动人群时需宣读《骚乱法案》的部分内容，警告他们如果不在一小时内解散，将面临法律处罚。这个短语现指对某人进行严厉的训斥或警告。",
+    "en": "This phrase originates from the British \"Riot Act\" of 1725. According to the Act, local authorities needed to read a part of it to disperse a riotous crowd, warning them that if they didn't disperse within an hour, they would face legal consequences. Nowadays, the phrase means to severely reprimand or warn someone."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The manager really *read Tom the riot act* for missing the deadline.",
+          "zh": "经理因为 Tom 错过了最后期限而严厉训斥了他。"
+        }
+      ],
+      "audio": "audio/978.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "After their poor performance, the coach *read the team the riot act*.",
+          "zh": "在他们表现不佳后，教练严厉地训斥了全队。"
+        }
+      ],
+      "audio": "audio/978.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "When the kids came home late, their mom *read them the riot act*.",
+          "zh": "孩子们回家晚了，他们妈妈狠狠地训斥了他们。"
+        }
+      ],
+      "audio": "audio/978.3.mp3"
+    }
+  ]
+}

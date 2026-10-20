@@ -1,0 +1,37 @@
+{
+  "n": 1051,
+  "name": "Slim chance",
+  "meaning": {
+    "zh": "“机会渺茫” 或 “几乎没有可能”。\n\n这个短语来源于形容词 “slim” 的一种含义，即 “稀少的” 或 “微小的”。当与 “chance” 结合时，就表示机会很小或几乎不存在。通常用于描述某件事成功或发生的几率非常低。",
+    "en": "This phrase originates from the use of the adjective “slim” to mean “scarce” or “small.” When combined with “chance,” it indicates that the opportunity or likelihood of something happening is very low. It is often used to describe very low probabilities of success or occurrence."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "There's a *slim chance* we will see snow this early in the season.",
+          "zh": "这个季节这么早看到雪的机会渺茫。"
+        }
+      ],
+      "audio": "audio/1051.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He has only a *slim chance* of winning the lottery.",
+          "zh": "他赢得彩票的机会渺茫。"
+        }
+      ],
+      "audio": "audio/1051.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Despite the *slim chances*, they decided to go ahead with the project.",
+          "zh": "尽管机会渺茫，他们还是决定继续进行这个项目。"
+        }
+      ],
+      "audio": "audio/1051.3.mp3"
+    }
+  ]
+}

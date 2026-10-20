@@ -1,0 +1,37 @@
+{
+  "n": 610,
+  "name": "Hit the hay",
+  "meaning": {
+    "zh": "“准备睡觉” 或 “上床睡觉”。\n\n这个短语源自过去，当床垫是由干草填充的，人们通常会说 “hit the hay” 来表示准备去睡觉。虽然现代的床已经不再用干草填充，这个表达却依然沿用下来，成为了表示即将入眠的习惯用语。",
+    "en": "This phrase originates from the past when mattresses were stuffed with hay, and people would commonly say \"hit the hay\" to indicate they were going to sleep. Although modern beds are no longer filled with hay, this expression has continued to be used as a habitual way to indicate going to sleep."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I'm really exhausted; it's time to *hit the hay*.",
+          "zh": "我真的很累了，该上床睡觉了。"
+        }
+      ],
+      "audio": "audio/610.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "After a long day of work, he decided to *hit the hay* early.",
+          "zh": "辛苦工作了一整天之后，他决定早点休息。"
+        }
+      ],
+      "audio": "audio/610.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "It's getting late, I should probably *hit the hay* soon.",
+          "zh": "天越来越晚了，我应该早点睡觉。"
+        }
+      ],
+      "audio": "audio/610.3.mp3"
+    }
+  ]
+}

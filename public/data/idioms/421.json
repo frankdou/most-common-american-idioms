@@ -1,0 +1,37 @@
+{
+  "n": 421,
+  "name": "Flea market",
+  "meaning": {
+    "zh": "“跳蚤市场” 或 “二手市场”。\n\n“跳蚤市场” 源自法语 “marché aux puces”，字面意思是 “跳蚤市场”。这种市场出售二手物品，可能包括古董、旧家具、旧衣物等，因此得名。这些市场因其丰富多样的小摊位和价格实惠的商品而受到人们的喜爱。",
+    "en": "The term \"flea market\" originates from the French phrase \"marché aux puces,\" which literally means \"market with fleas.\" This type of market sells second-hand goods, possibly including antiques, used furniture, and clothing, hence the name. These markets are loved for their variety of stalls and affordable prices."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "We found some amazing vintage items at the *flea market* last weekend.",
+          "zh": "上个周末我们在跳蚤市场发现了一些很棒的复古物品。"
+        }
+      ],
+      "audio": "audio/421.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She loves visiting the *flea market* to find unique decorations for her house.",
+          "zh": "她喜欢逛跳蚤市场，寻找独特的家居装饰品。"
+        }
+      ],
+      "audio": "audio/421.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The *flea market* is a great place to get good deals on used books.",
+          "zh": "跳蚤市场是买二手书的好地方，能找到很多划算的交易。"
+        }
+      ],
+      "audio": "audio/421.3.mp3"
+    }
+  ]
+}

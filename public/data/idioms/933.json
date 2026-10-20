@@ -1,0 +1,37 @@
+{
+  "n": 933,
+  "name": "Pitch in",
+  "meaning": {
+    "zh": "“帮忙” 或 “共同出力”。\n\n这个短语源自于19世纪中期美国的一种联合作战或合作工作的说法。在田野或战场上 “pitch in” 意指每个人都投劳做出贡献，共同完成一项任务。这个短语后来被广泛应用于各种需要合作和共同努力的场合。",
+    "en": "This phrase originated in the mid-19th century in America, where it referred to combined efforts in battlefields or farm fields. \"Pitch in\" meant everyone contributing their labor to accomplish a task together. It later became widely used in any context requiring teamwork and cooperation."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Let's all *pitch in* and clean up the park.",
+          "zh": "大家一起来帮忙打扫公园吧。"
+        }
+      ],
+      "audio": "audio/933.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "When the project got behind schedule, everyone had to *pitch in* extra hours.",
+          "zh": "当项目落后于进度时，大家都必须一起加班。"
+        }
+      ],
+      "audio": "audio/933.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "If we all *pitch in*, we can finish this task more quickly.",
+          "zh": "如果我们所有人都出力，这项任务就能更快完成。"
+        }
+      ],
+      "audio": "audio/933.3.mp3"
+    }
+  ]
+}

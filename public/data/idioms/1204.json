@@ -1,0 +1,37 @@
+{
+  "n": 1204,
+  "name": "To corner the market",
+  "meaning": {
+    "zh": "“垄断市场” 或 “垄断某行业”。\n\n这个短语起源于商业术语，指通过拥有大量的某种商品、服务或市场份额，从而拥有对市场定价的控制权。在现代商业语境中，这个短语用以描述某家公司或个人在某个市场领域中占据了绝对优势或支配地位。",
+    "en": "This phrase originates from a business term implying that by owning a substantial amount of a specific commodity, service, or market share, an entity can control the market prices. In modern business contexts, it describes a company or individual having a dominant or controlling position in a particular market sector."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "They tried to *corner the market* on rare spices but failed.",
+          "zh": "他们试图垄断稀有香料市场，但失败了。"
+        }
+      ],
+      "audio": "audio/1204.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "With their new technology, they have *cornered the market* on electric cars.",
+          "zh": "凭借他们的新技术，他们已经垄断了电动汽车市场。"
+        }
+      ],
+      "audio": "audio/1204.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "It's hard to *corner the market* in the smartphone industry due to high competition.",
+          "zh": "由于竞争激烈，很难在智能手机行业中垄断市场。"
+        }
+      ],
+      "audio": "audio/1204.3.mp3"
+    }
+  ]
+}

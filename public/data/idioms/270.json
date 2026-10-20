@@ -1,0 +1,37 @@
+{
+  "n": 270,
+  "name": "Comparing apples to oranges",
+  "meaning": {
+    "zh": "“将苹果和橙子作比较” 或 “风马牛不相及的比较”。\n\n这个成语的起源主要源自于苹果和橙子虽然都是水果，但在本质上有很大的不同，不能直接进行比较。这个表达用来说明两个事物本质上不同，无法进行公平的比较。",
+    "en": "The idiom originates from the fact that apples and oranges, while both fruits, are fundamentally different in many ways, making them incomparable. It is used to indicate that two things are being compared that are so different that the comparison is not valid."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Comparing the two jobs is like *comparing apples to oranges*; they require completely different skill sets.",
+          "zh": "将这两份工作作比较就像比较苹果和橙子；它们所需的技能完全不同。"
+        }
+      ],
+      "audio": "audio/270.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "You can't say one is better without the context; that's like *comparing apples to oranges*.",
+          "zh": "没有具体背景你不能说哪个更好，这就像拿苹果和橙子作比较一样。"
+        }
+      ],
+      "audio": "audio/270.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Assessing a student and a teacher's performance is *comparing apples to oranges*; their roles are too different.",
+          "zh": "评估一位学生和老师的表现如同比较苹果和橙子；他们的角色差异太大了。"
+        }
+      ],
+      "audio": "audio/270.3.mp3"
+    }
+  ]
+}

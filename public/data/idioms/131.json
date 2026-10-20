@@ -1,0 +1,37 @@
+{
+  "n": 131,
+  "name": "Beside the point",
+  "meaning": {
+    "zh": "“离题” 或 “不相关”。\n\n这个短语起源于射箭或打靶比赛中，如果箭或子弹没有射中目标，就可以说是 “beside the point”，引申为某人的发言或行为与当前讨论的话题或目标无关。在日常用语中，这个短语用于表示某事不相关或偏离了主要讨论的主题。",
+    "en": "This idiom originates from archery or target shooting competitions, where if an arrow or bullet doesn't hit the target, it can be said to be \"beside the point.\" It has come to mean that someone's speech or behavior is unrelated to the current discussion or goal. In everyday language, this phrase is used to indicate that something is irrelevant or off the main topic."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "What you're saying is interesting, but it's *beside the point*.",
+          "zh": "你说的很有趣，但离题了。"
+        }
+      ],
+      "audio": "audio/131.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Her comments were completely *beside the point* and didn't help our discussion.",
+          "zh": "她的评论完全离题，对我们的讨论没有帮助。"
+        }
+      ],
+      "audio": "audio/131.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Whether he likes the plan or not is *beside the point*; we need to focus on its feasibility.",
+          "zh": "他是否喜欢这个计划并不重要；我们需要关注它的可行性。"
+        }
+      ],
+      "audio": "audio/131.3.mp3"
+    }
+  ]
+}

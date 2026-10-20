@@ -1,0 +1,37 @@
+{
+  "n": 618,
+  "name": "Hold your tongue",
+  "meaning": {
+    "zh": "“闭嘴” 或 “保持沉默”。\n\n这个短语源自于对人们在某些场合下需要保持沉默的形象化表达。实际上，古英语中 “tongue” 一词也可指言辞和言论的含义。因此 “hold your tongue” 就表示不要说话，停止发表意见。适用于当别人认为你不应插话或发表不当言论时。",
+    "en": "This phrase originates from the figurative expression where people are advised to remain silent in certain situations. In Old English, the word \"tongue\" also referred to speech and remarks. Therefore, \"hold your tongue\" means to refrain from speaking or stop giving opinions. It's used when someone believes you shouldn't interject or make an inappropriate comment."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "When the judge entered the room, everyone had to *hold their tongues*.",
+          "zh": "当法官进入房间时，每个人都必须闭嘴。"
+        }
+      ],
+      "audio": "audio/618.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She wanted to argue, but decided to *hold her tongue*.",
+          "zh": "她想争论，但决定还是保持沉默。"
+        }
+      ],
+      "audio": "audio/618.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "My mother always says that if you have nothing nice to say, you should *hold your tongue*.",
+          "zh": "我妈妈总是说，如果你没有好话要说，就应该闭嘴。"
+        }
+      ],
+      "audio": "audio/618.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 1061,
+  "name": "Something is killing me",
+  "meaning": {
+    "zh": "“某事正在折磨我” 或 “某事令我非常痛苦”。\n\n这个短语通常用来表达某件事情或一种情况让人感到极大的痛苦或不适，无论是在身体上还是精神上。它强调了事情的严重性，表示那件事情已经超出了可以承受的范围。",
+    "en": "This phrase is often used to express that something is causing extreme pain or discomfort, whether physically or mentally. It emphasizes the severity of the situation, indicating that the burden has exceeded bearable limits."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "This headache is killing me.",
+          "zh": "这头痛真要命。"
+        }
+      ],
+      "audio": "audio/1061.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The suspense of waiting for the results is killing me.",
+          "zh": "等待结果的悬念让我痛苦不堪。"
+        }
+      ],
+      "audio": "audio/1061.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "This deadline is killing me.",
+          "zh": "这个截止日期快把我压垮了。"
+        }
+      ],
+      "audio": "audio/1061.3.mp3"
+    }
+  ]
+}

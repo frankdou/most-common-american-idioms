@@ -1,0 +1,37 @@
+{
+  "n": 636,
+  "name": "If I had a nickel for every time something happened",
+  "meaning": {
+    "zh": "“如果每次某事发生我都能得到一分钱”。这个短语通常用来强调某事情发生的频率很高，有时也带有夸张的成分。\n\n这个短语的来源可以追溯到美国，常用于表达某件事情发生得很频繁，甚至多到 “如果每次都能赚一点钱” 就能累积成一笔可观的金额。它可以用于表达不满、惊讶或幽默。",
+    "en": "This idiom originates from the U.S. and is commonly used to emphasize that something happens very frequently, even implying that if you could earn a little money each time it happened, it would add up to a significant amount. It can be used to express frustration, surprise, or humor."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "If I had a nickel for every time he was late, I'd be rich.",
+          "zh": "如果每次他迟到我都能得到一分钱，我已经会很富有了。"
+        }
+      ],
+      "audio": "audio/636.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "If I had a nickel for every time someone asked me that question, I could retire.",
+          "zh": "如果每次有人问我那个问题我都能得到一分钱，我可以退休了。"
+        }
+      ],
+      "audio": "audio/636.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "If I had a nickel for every time my phone battery died, I'd have a lot of nickels.",
+          "zh": "如果每次我的手机没电我都能得到一分钱，我会有很多很多钱。"
+        }
+      ],
+      "audio": "audio/636.3.mp3"
+    }
+  ]
+}

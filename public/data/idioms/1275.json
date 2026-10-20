@@ -1,0 +1,41 @@
+{
+  "n": 1275,
+  "name": "Under the weather",
+  "meaning": {
+    "zh": "“感觉不舒服” 或 “生病”。\n\n这个习语源自航海用语。在航海时代，当船员生病时，他们会被命令待在甲板以下的区域，这样他们就不会受到恶劣天气的影响。这也意味着他们可以有时间和空间去恢复健康。在现代，\"under the weather\" 已经广泛用来形容一个人因为生病或其他原因感觉不舒服。",
+    "en": "This idiom originates from nautical terminology. In the sailing days, when sailors were ill, they were sent below deck to protect them from harsh weather and to allow them to recover. In modern times, \"under the weather\" has become a common expression to describe someone feeling sick or unwell for any reason."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I'm feeling a bit *under the weather* today, so I might take the day off.",
+          "zh": "我今天感觉有点不舒服，所以可能会请一天假。"
+        }
+      ],
+      "audio": "audio/1275.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She was *under the weather* last week but is feeling better now.",
+          "zh": "她上周感觉不舒服，但现在感觉好多了。"
+        }
+      ],
+      "audio": "audio/1275.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "If you're *under the weather*, it's best to rest and drink plenty of fluids.",
+          "zh": "如果你感觉不舒服，最好休息并多喝水。"
+        },
+        {
+          "en": "```",
+          "zh": ""
+        }
+      ],
+      "audio": "audio/1275.3.mp3"
+    }
+  ]
+}

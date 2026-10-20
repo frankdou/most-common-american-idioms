@@ -1,0 +1,37 @@
+{
+  "n": 810,
+  "name": "Make out what someone said",
+  "meaning": {
+    "zh": "“听清楚某人说的话” 或 “弄明白某人说的内容”。\n\n这个短语的起源可以追溯到古英语，意思是 “弄清楚” 或 “理解” 的意思。在现代英语中，尤其在交流场合中，这个短语经常用来表示听者是否能够听清或理解另一个人所说的话，尤其是在背景噪音较多的情况下。",
+    "en": "This phrase has its roots in Old English, meaning \"to decipher\" or \"to understand.\" In modern English, especially in communication contexts, this phrase is often used to indicate whether the listener can clearly hear or comprehend what someone else is saying, particularly in noisy environments."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I couldn't *make out what he said* over the phone because of the poor connection.",
+          "zh": "由于信号差，我听不清他说的话。"
+        }
+      ],
+      "audio": "audio/810.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Can you *make out what she said* in the meeting? It was quite noisy.",
+          "zh": "你能听清她在会议上说什么了吗？现场非常嘈杂。"
+        }
+      ],
+      "audio": "audio/810.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "It's hard to *make out what he's saying* with all the background noise.",
+          "zh": "在各种背景噪音下，很难听清他在说什么。"
+        }
+      ],
+      "audio": "audio/810.3.mp3"
+    }
+  ]
+}

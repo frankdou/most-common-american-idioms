@@ -1,0 +1,37 @@
+{
+  "n": 1122,
+  "name": "That is to say",
+  "meaning": {
+    "zh": "“也就是说”。\n\n该短语用来进一步解释或重述之前的话，以确保信息清楚明确。例如，当你给出一个复杂的观点后，可以使用 “That is to say” 来重新解释，以更简单或直白的方式说出来。在口语和书面语中都很常见。",
+    "en": "The phrase is used to further explain or restate what has been said, ensuring clarity and understanding. For example, after providing a complex idea, you might use \"That is to say\" to rephrase it in a simpler or more straightforward way. It is common in both spoken and written language."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He is a polyglot, *that is to say*, he speaks many languages.",
+          "zh": "他是个多语言者，也就是说，他会说很多种语言。"
+        }
+      ],
+      "audio": "audio/1122.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The project failed, *that is to say*, it didn't meet our expectations.",
+          "zh": "项目失败了，也就是说，它没有达到我们的期望。"
+        }
+      ],
+      "audio": "audio/1122.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "We need more time, *that is to say*, we won't finish by the deadline.",
+          "zh": "我们需要更多时间，也就是说，我们无法在截止日期前完成。"
+        }
+      ],
+      "audio": "audio/1122.3.mp3"
+    }
+  ]
+}

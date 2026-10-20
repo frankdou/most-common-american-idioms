@@ -1,0 +1,37 @@
+{
+  "n": 45,
+  "name": "A storm in a teacup",
+  "meaning": {
+    "zh": "“小题大做” 或 “夸张的小事”。\n\n这个短语起源于英国，自18世纪开始被使用，形容在一个小容器（如茶杯）中引发的风暴不可能对外界造成重大影响。因此，用它来表示人们对小事的过度反应或不必要的担忧。",
+    "en": "This phrase originates from Britain and has been in use since the 18th century. It describes a storm in a small container, like a teacup, which couldn't possibly impact the outside world. Thus, it is used to signify an overreaction or unnecessary worry about minor matters."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The argument between them was just *a storm in a teacup*; it was nothing serious.",
+          "zh": "他们之间的争论不过是小题大做，根本没什么大不了的。"
+        }
+      ],
+      "audio": "audio/045.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Don't worry about that mistake; it's just *a storm in a teacup*.",
+          "zh": "不用担心那个错误，那只是小题大做。"
+        }
+      ],
+      "audio": "audio/045.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The media is making *a storm in a teacup* out of this minor issue.",
+          "zh": "媒体在这个小问题上小题大做。"
+        }
+      ],
+      "audio": "audio/045.3.mp3"
+    }
+  ]
+}

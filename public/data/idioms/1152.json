@@ -1,0 +1,37 @@
+{
+  "n": 1152,
+  "name": "The road less travelled",
+  "meaning": {
+    "zh": "“不寻常的选择” 或 “不同寻常的道路”。\n\n这个短语源自美国诗人罗伯特 · 弗罗斯特（Robert Frost）的一首诗《未选择的路》（The Road Not Taken）。在这首诗中，诗人选择了一条较少人走的路，比喻他在生活中做出了不同寻常的决定。在现代使用中，这个短语用来描述那些不按照常规、不走寻常路的决定或选择，即选择冒险、独特或自己独创的路线。",
+    "en": "This phrase originates from a poem by American poet Robert Frost titled \"The Road Not Taken\". In the poem, the poet chooses a less-traveled path, symbolizing his unusual and distinctive decisions in life. Nowadays, the phrase is used to describe choices or decisions that do not follow the conventional path, implying an adventurous, unique, or independent route."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "She took *the road less travelled* and started her own business instead of working for a big company.",
+          "zh": "她选择了不寻常的道路，开始了自己的生意，而不是为大公司打工。"
+        }
+      ],
+      "audio": "audio/1152.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Choosing *the road less travelled* often means facing more challenges, but can also lead to greater rewards.",
+          "zh": "选择不寻常的道路往往意味着面临更多的挑战，但也可能带来更大的回报。"
+        }
+      ],
+      "audio": "audio/1152.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He decided to take *the road less travelled* by moving to a small town and living off the grid.",
+          "zh": "他决定选择不寻常的道路，搬到一个小镇并过上离网生活。"
+        }
+      ],
+      "audio": "audio/1152.3.mp3"
+    }
+  ]
+}

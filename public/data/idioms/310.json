@@ -1,0 +1,37 @@
+{
+  "n": 310,
+  "name": "Dead quiet",
+  "meaning": {
+    "zh": "“鸦雀无声” 或 “非常安静”。\n\n在这个短语中，“dead” 用来形容一种极端的状态，而 “quiet” 则表示安静。所以 “dead quiet” 就是形容极度安静，有时甚至让人感到压抑或异样的静谧。",
+    "en": "This phrase uses \"dead\" to describe an extreme state and \"quiet\" to indicate silence. Thus, \"dead quiet\" means extremely quiet, often to the point of being eerie or unnatural."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The classroom was *dead quiet* during the exam.",
+          "zh": "考试期间，教室里鸦雀无声。"
+        }
+      ],
+      "audio": "audio/310.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "It was *dead quiet* in the woods at night.",
+          "zh": "晚上，树林里非常安静。"
+        }
+      ],
+      "audio": "audio/310.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "After the joke fell flat, the room went *dead quiet*.",
+          "zh": "笑话没能逗乐，房间里一下子变得非常安静。"
+        }
+      ],
+      "audio": "audio/310.3.mp3"
+    }
+  ]
+}

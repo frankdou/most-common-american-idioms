@@ -1,0 +1,37 @@
+{
+  "n": 621,
+  "name": "Horse around",
+  "meaning": {
+    "zh": "“瞎胡闹” 或 “玩闹”。\n\n这个短语源于马匹常常爱嬉戏和奔跑的天性，人们用这一形象化的表达来形容人的打闹和无所事事的状态。通常用来描述那些不严肃的、搞笑的、或者无目的的行为。",
+    "en": "This phrase originates from the playful and sometimes reckless nature of horses. It's used as a figurative expression to describe people engaging in silly, unserious, or aimless behavior."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The kids were *horsing around* in the living room and broke a vase.",
+          "zh": "孩子们在客厅里瞎胡闹，结果打碎了一个花瓶。"
+        }
+      ],
+      "audio": "audio/621.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Stop *horsing around*, we need to get this project done!",
+          "zh": "别瞎闹了，我们需要完成这个项目！"
+        }
+      ],
+      "audio": "audio/621.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "They spent the whole afternoon *horsing around* by the lake.",
+          "zh": "他们整个下午都在湖边瞎闹。"
+        }
+      ],
+      "audio": "audio/621.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 112,
+  "name": "Batting a thousand",
+  "meaning": {
+    "zh": "“百分百成功” 或 “表现非常出色”。\n\n这个短语源于棒球运动。棒球中的击球率（batting average）按千分制来计算。如果一个球员的击球成功率是100%，那么他的击球率就是1.000，即 “batting a thousand”。这个表达后来被扩大应用，用来表示一个人在任何领域都完全成功或表现极为出色，毫无失误。",
+    "en": "This phrase originates from baseball. In baseball, the batting average is calculated on a scale of thousandths. If a player's hitting success rate is 100%, his batting average would be 1.000, or \"batting a thousand.\" This expression has been broadened to indicate that someone is completely successful or performing excellently in any area without any mistakes."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He's been *batting a thousand* with his business deals lately.",
+          "zh": "他最近在商业交易中表现非常出色。"
+        }
+      ],
+      "audio": "audio/112.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Since joining the team, she's been *batting a thousand* with her project completions.",
+          "zh": "自从加入团队以来，她完成项目时表现得非常出色。"
+        }
+      ],
+      "audio": "audio/112.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "His predictions have been *batting a thousand* this season.",
+          "zh": "他本赛季的预测一直都非常准确。"
+        }
+      ],
+      "audio": "audio/112.3.mp3"
+    }
+  ]
+}

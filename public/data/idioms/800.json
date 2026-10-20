@@ -1,0 +1,37 @@
+{
+  "n": 800,
+  "name": "Make a big stink",
+  "meaning": {
+    "zh": "“大张旗鼓地抱怨” 或 “过分嚷嚷”。\n\n这个短语源自于 “臭味”，用来形容一个人通过抱怨或抗议引发混乱或引起他人注意。“Make a big stink” 的意思是通过表达不满或激烈的反应来引起广泛关注、制造出很大的动静。这个短语常常用于描述那些通过夸张化表达来传递不满的人或行为。",
+    "en": "This phrase originates from the idea of a \"stink,\" something unpleasant that draws attention. \"Make a big stink\" means to cause a commotion or attract a lot of attention by complaining or protesting loudly. It is often used to describe actions meant to express strong dissatisfaction and make others aware of an issue."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "If they refuse to refund you, you have every right to make a big stink about it.",
+          "zh": "如果他们拒绝退款，你完全有权大张旗鼓地抱怨。"
+        }
+      ],
+      "audio": "audio/800.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She made a big stink when her order was wrong, insisting on speaking to the manager.",
+          "zh": "她的订单弄错了，因此她大吵大闹，坚持要和经理对话。"
+        }
+      ],
+      "audio": "audio/800.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "There's no need to make a big stink about every little mistake.",
+          "zh": "没有必要对每一个小错误都大惊小怪。"
+        }
+      ],
+      "audio": "audio/800.3.mp3"
+    }
+  ]
+}

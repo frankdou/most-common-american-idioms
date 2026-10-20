@@ -1,0 +1,37 @@
+{
+  "n": 160,
+  "name": "Blow a fuse",
+  "meaning": {
+    "zh": "“暴怒” 或 “大发脾气”。\n\n这个短语源自电路中的熔断器。当电路过载时，熔断器会断开电路以防止损坏。比喻人们在情绪过载时 “爆发”，表现出极端的愤怒和情绪失控。通常用来形容在某一时刻突然失去冷静、暴跳如雷的人。",
+    "en": "This phrase originates from the electrical circuit concept where a fuse blows (or breaks) to prevent damage when overloaded. Metaphorically, it describes someone suddenly losing their temper and showing extreme anger, similar to an electrical overload causing a fuse to break. It is often used to depict someone suddenly becoming very angry and losing their composure."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "When he saw the mess in the kitchen, he totally *blew a fuse*.",
+          "zh": "当他看到厨房的混乱时，他彻底暴怒了。"
+        }
+      ],
+      "audio": "audio/160.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She *blew a fuse* when her computer crashed and she lost her work.",
+          "zh": "当她的电脑崩溃并丢失工作时，她大发脾气。"
+        }
+      ],
+      "audio": "audio/160.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He *blew a fuse* after hearing the disappointing news.",
+          "zh": "在听到令人失望的消息后，他暴跳如雷。"
+        }
+      ],
+      "audio": "audio/160.3.mp3"
+    }
+  ]
+}

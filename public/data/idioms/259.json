@@ -1,0 +1,37 @@
+{
+  "n": 259,
+  "name": "Collecting dust",
+  "meaning": {
+    "zh": "“积灰” 或 “被闲置”。\n\n这个短语可以追溯到放置在某处、长时间未使用的物品上积累灰尘的情况。因此，\"collecting dust\" 成为描述那些很久没被使用或根本用不上，只是摆在那里占地方的物品。它可以用来形容物品、设备，甚至计划和项目。",
+    "en": "This phrase can trace its origin to the situation where an item sitting somewhere unused for a long time accumulates dust. Therefore, \"collecting dust\" has come to describe items that haven't been used for a long time or at all, just taking up space. It can be used to describe objects, equipment, and even plans and projects."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "My old guitar has been *collecting dust* in the closet.",
+          "zh": "我的旧吉他一直放在壁橱里积灰。"
+        }
+      ],
+      "audio": "audio/259.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Those textbooks from college are just *collecting dust* on the shelf.",
+          "zh": "那些大学时期的课本一直在书架上积灰。"
+        }
+      ],
+      "audio": "audio/259.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The exercise equipment in the garage is *collecting dust*.",
+          "zh": "车库里的健身器材已经在积灰了。"
+        }
+      ],
+      "audio": "audio/259.3.mp3"
+    }
+  ]
+}

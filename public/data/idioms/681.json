@@ -1,0 +1,37 @@
+{
+  "n": 681,
+  "name": "Itchy feet",
+  "meaning": {
+    "zh": "“渴望旅行” 或 “不安分”。\n\n这个习语起源于人们形容想要四处走动的欲望时用的body metonymy，即 “脚痒”，意味想要移动或者外出的迫切心情。通常用来描述一种想要离开目前环境，开始新的冒险的强烈渴望。",
+    "en": "This idiom originates from a body metonymy used to describe the desire to move around, literally translating to \"itchy feet.\" It signifies a strong urge to leave one's current environment and embark on new adventures."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "After a year of staying in the same place, he started getting *itchy feet*.",
+          "zh": "在同一个地方呆了一年之后，他开始感到不安分了。"
+        }
+      ],
+      "audio": "audio/681.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She's had *itchy feet* ever since she got back from Europe and keeps talking about her next trip.",
+          "zh": "自从她从欧洲回来后，她总是提起她的下一次旅行，总是不安分。"
+        }
+      ],
+      "audio": "audio/681.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "With *itchy feet*, he decided to quit his job and travel the world.",
+          "zh": "怀着对旅行的渴望，他决定辞掉工作去环游世界。"
+        }
+      ],
+      "audio": "audio/681.3.mp3"
+    }
+  ]
+}

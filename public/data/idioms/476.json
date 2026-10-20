@@ -1,0 +1,37 @@
+{
+  "n": 476,
+  "name": "Get out of hand",
+  "meaning": {
+    "zh": "“失控” 或 “无法掌控”。\n\n这个短语的起源可以追溯到17世纪，当时的意思是指马脱离掌控，逃离主人的手。如今，这个表述被用来描述某事或某情况变得无法控制，超出了预期范围。",
+    "en": "The origin of this phrase can be traced back to the 17th century, when it referred to a horse getting out of control and escaping its owner's hand. Today, this phrase is used to describe a situation or matter that has become uncontrollable and exceeds expected boundaries."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The party started to *get out of hand* when too many people showed up.",
+          "zh": "当太多人出现时，派对开始失去控制。"
+        }
+      ],
+      "audio": "audio/476.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The argument *got out of hand* quickly and turned into a shouting match.",
+          "zh": "争论很快变得失去控制，演变成了一场叫喊比赛。"
+        }
+      ],
+      "audio": "audio/476.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "If the budget *gets out of hand*, we'll need to reconsider our plans.",
+          "zh": "如果预算失控，我们将需要重新考虑我们的计划。"
+        }
+      ],
+      "audio": "audio/476.3.mp3"
+    }
+  ]
+}

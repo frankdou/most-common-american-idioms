@@ -1,0 +1,37 @@
+{
+  "n": 1219,
+  "name": "To go Dutch",
+  "meaning": {
+    "zh": "“各自付账” 或 “AA制”。\n\n该短语源自17世纪，可能与荷兰的务实和节俭传统有关。当时，荷兰人被认为是特别节俭的人，因此 “To go Dutch” 就用来形容一起外出吃饭时每个人各自付自己那部分的钱。在现代社会中，该习语广泛用于描述朋友或同事之间各自付费的做法。",
+    "en": "This phrase originates from the 17th century and is possibly linked to the Dutch tradition of practicality and frugality. At that time, the Dutch were considered particularly thrifty, and \"To go Dutch\" came to describe the practice where people pay for their own expenses when dining out together. In modern society, this idiom is widely used to describe the practice of splitting the bill among friends or colleagues."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Let's *go Dutch* on dinner tonight.",
+          "zh": "今晚我们晚餐 AA 制吧。"
+        }
+      ],
+      "audio": "audio/1219.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Do you want to *go Dutch* or should I pay this time?",
+          "zh": "你想 AA 制还是这次我来付钱？"
+        }
+      ],
+      "audio": "audio/1219.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "We always *go Dutch* when we eat out together.",
+          "zh": "我们一起出去吃饭时总是各自付账。"
+        }
+      ],
+      "audio": "audio/1219.3.mp3"
+    }
+  ]
+}

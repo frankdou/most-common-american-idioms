@@ -1,0 +1,37 @@
+{
+  "n": 1265,
+  "name": "Turn a place upside down",
+  "meaning": {
+    "zh": "“翻箱倒柜” 或 “把某个地方弄得一团糟”。\n\n这个短语源于动作本身的形象性质：为了寻找某个东西，人们常常不得不把房间里的所有东西都翻出来，导致房间变得一片混乱。在英语中，\"turn a place upside down\" 被用来形象地描述这种为了找东西而把房间弄得杂乱无章的行为。",
+    "en": "This phrase originates from the literal action of turning everything in a place over to find something, causing a mess. In English, \"turn a place upside down\" is used metaphorically to describe making a space extremely untidy in the process of searching for something."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "We had to *turn the place upside down* to find the missing keys.",
+          "zh": "为了找到丢失的钥匙，我们把整个地方翻了个底朝天。"
+        }
+      ],
+      "audio": "audio/1265.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "After the party, the kids had *turned the place upside down*.",
+          "zh": "聚会结束后，孩子们把地方弄得一团糟。"
+        }
+      ],
+      "audio": "audio/1265.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She *turned her room upside down* looking for her phone.",
+          "zh": "她为了找手机，把房间翻了个底朝天。"
+        }
+      ],
+      "audio": "audio/1265.3.mp3"
+    }
+  ]
+}

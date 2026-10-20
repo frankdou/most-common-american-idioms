@@ -1,0 +1,37 @@
+{
+  "n": 361,
+  "name": "Drop by",
+  "meaning": {
+    "zh": "“顺便拜访” 或 “短暂拜访”。\n\n这个短语起源于美国英语中的俚语，用于描述没有提前预约或者不需要正式邀请的短时间访问。它表明来访者不会停留太长时间，通常是顺道拜访或出于礼节性目的。",
+    "en": "This phrase originates from American English slang, used to describe a short visit without prior appointment or formal invitation. It indicates that the visitor will not stay long, usually stopping by on the way or for courtesy purposes."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Feel free to *drop by* my office if you have any questions.",
+          "zh": "如果你有任何问题，随时可以顺便拜访我的办公室。"
+        }
+      ],
+      "audio": "audio/361.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "We decided to *drop by* their house to say hello.",
+          "zh": "我们决定顺便拜访他们的家，打个招呼。"
+        }
+      ],
+      "audio": "audio/361.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I love it when friends *drop by* unexpectedly.",
+          "zh": "我喜欢朋友们不期而至的拜访。"
+        }
+      ],
+      "audio": "audio/361.3.mp3"
+    }
+  ]
+}

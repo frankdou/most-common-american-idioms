@@ -1,0 +1,37 @@
+{
+  "n": 1351,
+  "name": "You're telling me",
+  "meaning": {
+    "zh": "“你这不是废话吗” 或 “这点我还不知道啊”。\n\n这个短语表示对方说的事情是显而易见的，通常用来表示强烈的赞同和理解。它起源于口语中的一个夸张表达，表示对对方所说的事情非常了解，甚至可能比对方知道得更多。这个表达最早出现在20世纪，常用于口语交流中。",
+    "en": "This phrase is used to express strong agreement or acknowledgment of an obvious fact. It originated from colloquial speech to exaggerate the speaker's familiarity with the topic, implying they may know more about it than the other person. It first appeared in the 20th century and is commonly used in everyday conversation."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "\"This traffic is terrible!\" \"You're telling me.\"",
+          "zh": "“这交通真糟糕！” “你这不是废话吗。”"
+        }
+      ],
+      "audio": "audio/1351.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "\"Mondays are the worst.\" \"You're telling me.\"",
+          "zh": "“星期一是最糟糕的。” “这点我还不知道啊。”"
+        }
+      ],
+      "audio": "audio/1351.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "\"This project is going to be tough.\" \"You're telling me.\"",
+          "zh": "“这个项目会很难。” “你这不是废话吗。”"
+        }
+      ],
+      "audio": "audio/1351.3.mp3"
+    }
+  ]
+}

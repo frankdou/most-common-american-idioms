@@ -1,0 +1,37 @@
+{
+  "n": 877,
+  "name": "On the fence",
+  "meaning": {
+    "zh": "“保持中立” 或 “犹豫不决”。\n\n这个短语源自人们坐在栅栏上时的一种中立姿态，因为他们既不靠近一边也不靠近另一边。它被用来形容那些在某个问题上没有明确立场或正在犹豫不决的人。",
+    "en": "This phrase originates from the image of someone sitting on a fence, being neutral and not leaning towards one side or the other. It is used to describe people who are undecided or hesitant about a particular issue."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "She's still *on the fence* about which university to attend.",
+          "zh": "她仍然在犹豫不决，不知道该上哪所大学。"
+        }
+      ],
+      "audio": "audio/877.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Many voters are *on the fence* about the upcoming election.",
+          "zh": "许多选民对即将到来的选举持中立态度。"
+        }
+      ],
+      "audio": "audio/877.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I'm *on the fence* about whether to buy a new car now or wait until next year.",
+          "zh": "我在犹豫不决是现在买新车还是等到明年。"
+        }
+      ],
+      "audio": "audio/877.3.mp3"
+    }
+  ]
+}

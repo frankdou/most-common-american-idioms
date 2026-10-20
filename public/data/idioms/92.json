@@ -1,0 +1,37 @@
+{
+  "n": 92,
+  "name": "As white as a sheet/as white as a ghost",
+  "meaning": {
+    "zh": "“脸色苍白” 或 “面无血色”。\n\n这个短语源自形容一个人因惊吓、病痛或惊讶而脸色变得非常苍白，就像一张白纸或幽灵一样。通常用来描述因为某种原因而丧失血色的情况。",
+    "en": "This idiom originates from the comparison of someone's face turning very pale due to fear, illness, or shock, likening it to the whiteness of a sheet or a ghost. It is commonly used to describe someone who looks bloodless for some reason."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "When she heard the news, she turned *as white as a sheet*.",
+          "zh": "听到这个消息，她脸色变得苍白。"
+        }
+      ],
+      "audio": "audio/092.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He looked *as white as a ghost* after walking out of the haunted house.",
+          "zh": "从鬼屋出来后，他看起来面无血色。"
+        }
+      ],
+      "audio": "audio/092.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The sudden fright made him go *as white as a sheet*.",
+          "zh": "突如其来的惊吓让他的脸色变得苍白。"
+        }
+      ],
+      "audio": "audio/092.3.mp3"
+    }
+  ]
+}

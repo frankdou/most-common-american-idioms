@@ -1,0 +1,37 @@
+{
+  "n": 1134,
+  "name": "The bottom line",
+  "meaning": {
+    "zh": "“底线” 或 “最终结果”。\n\n这个短语起源于会计学中，用于表示最终计算出的结论或净收益，即利润表中的最后一行。而在更广泛的使用中，“the bottom line” 被用来指代一个问题或讨论的核心结论或最重要的事实。",
+    "en": "This phrase originates from accounting, where it is used to refer to the final figure or net income, which appears on the last line of a profit-and-loss statement. In a broader sense, “the bottom line” is used to signify the core conclusion or most important fact of a matter or discussion."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The bottom line is that we need to increase our sales to stay profitable.",
+          "zh": "底线是我们需要增加销售才能保持盈利。"
+        }
+      ],
+      "audio": "audio/1134.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The bottom line of the report is that our team performed well.",
+          "zh": "报告的结论是我们的团队表现良好。"
+        }
+      ],
+      "audio": "audio/1134.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "You can offer all the excuses you want, but the bottom line is that the project is late.",
+          "zh": "你可以找所有借口，但底线是项目已经拖延了。"
+        }
+      ],
+      "audio": "audio/1134.3.mp3"
+    }
+  ]
+}

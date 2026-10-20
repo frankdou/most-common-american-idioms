@@ -1,0 +1,37 @@
+{
+  "n": 1000,
+  "name": "Run out of steam",
+  "meaning": {
+    "zh": "“筋疲力尽” 或 “失去动力”。\n\n这个短语起源于蒸汽机时代，当蒸汽机用尽蒸汽时，机器就会停止运转。因此，“run out of steam” 被用来形容某人或某事物失去推动力或精力，而无法继续前进或完成任务。",
+    "en": "The phrase originates from the era of steam engines, which would stop running when they ran out of steam. Hence, \"run out of steam\" is used to describe someone or something losing momentum or energy, unable to continue or complete a task."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "After working non-stop for hours, I finally ran out of steam.",
+          "zh": "连续工作了几个小时后，我终于筋疲力尽了。"
+        }
+      ],
+      "audio": "audio/1000.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The team ran out of steam by the end of the project.",
+          "zh": "项目结束时，团队已经失去动力了。"
+        }
+      ],
+      "audio": "audio/1000.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He started the marathon strong, but ran out of steam halfway through.",
+          "zh": "他马拉松开始时状态很好，但在半程时就没力气了。"
+        }
+      ],
+      "audio": "audio/1000.3.mp3"
+    }
+  ]
+}

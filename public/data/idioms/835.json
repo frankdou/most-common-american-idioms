@@ -1,0 +1,37 @@
+{
+  "n": 835,
+  "name": "My eyes are bigger than my stomach",
+  "meaning": {
+    "zh": "“眼睛比胃大”，即 “贪多嚼不烂”。\n\n这个成语用来形容某人取的食物比自己实际上所能吃下的多。其起源来自于人们在看到美食时常常会高估自己的食量，结果取了比自己肚子能容纳的更多的食物。这个短语可以用在实际的饮食上，也可以比喻在其他的情境中，例如高估自己的能力或资源。",
+    "en": "This idiom describes a situation where someone takes more food than they can actually eat. Its origin lies in the tendency of people to overestimate their appetite when they see delicious food, leading them to take more than their stomach can handle. It can be used both literally regarding food and figuratively in situations where someone overestimates their capacity or resources."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I thought I could finish the whole pizza, but my eyes were bigger than my stomach.",
+          "zh": "我以为我能吃完整个披萨，但结果是贪多嚼不烂。"
+        }
+      ],
+      "audio": "audio/835.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I bought too many clothes because my eyes were bigger than my stomach.",
+          "zh": "我买的衣服太多了，因为我高估了自己的需要。"
+        }
+      ],
+      "audio": "audio/835.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Every Thanksgiving, my eyes are always bigger than my stomach.",
+          "zh": "每年的感恩节，我总是取的食物比自己能吃下的多。"
+        }
+      ],
+      "audio": "audio/835.3.mp3"
+    }
+  ]
+}

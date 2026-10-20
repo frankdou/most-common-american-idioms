@@ -1,0 +1,37 @@
+{
+  "n": 853,
+  "name": "Not one's cup of tea",
+  "meaning": {
+    "zh": "“不是某人的菜” 或 “不是某人喜欢的东西”。\n\n这个表达起源于英国人喝茶的习惯。在英国，喝茶是一件非常讲究和个人化的事情，每个人都有自己喜欢的茶种或喝茶方式。因此，当某样东西不是 “某人的杯中茶” 时，就表示那样东西不是某人喜欢或感兴趣的。",
+    "en": "This phrase originates from the British custom of drinking tea. In the UK, tea drinking is a very particular and personal affair, with each person having their preferred type or way of brewing tea. Hence, when something is \"not one's cup of tea,\" it means that thing is not to someone's liking or interest."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Rock music is *not my cup of tea*; I prefer classical music.",
+          "zh": "摇滚乐不是我的菜；我更喜欢古典音乐。"
+        }
+      ],
+      "audio": "audio/853.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Thank you for the invitation, but horror movies are *not my cup of tea*.",
+          "zh": "谢谢你的邀请，但是恐怖片不是我的菜。"
+        }
+      ],
+      "audio": "audio/853.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Jogging early in the morning is *not his cup of tea*; he rather sleeps in.",
+          "zh": "清晨慢跑不是他的菜；他宁愿睡懒觉。"
+        }
+      ],
+      "audio": "audio/853.3.mp3"
+    }
+  ]
+}

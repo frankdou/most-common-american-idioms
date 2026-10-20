@@ -1,0 +1,37 @@
+{
+  "n": 128,
+  "name": "Bend over backward",
+  "meaning": {
+    "zh": "“竭尽全力” 或 “不遗余力地帮助某人”。\n\n这个短语起源于体操或运动中的动作，指的是做出尽可能反常或难做的动作。后来，这个表达被引申为在某项任务或帮助他人的过程中尽最大努力。",
+    "en": "This phrase originates from gymnastics or physical movements where one does something as extreme and difficult as bending their back in an unusual direction. Over time, it has evolved to mean making every effort or trying exceptionally hard, especially when helping someone else."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He *bent over backward* to make sure his guests were comfortable.",
+          "zh": "他竭尽全力确保他的客人们感到舒适。"
+        }
+      ],
+      "audio": "audio/128.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She *bends over backward* to meet the deadlines, even if it means working late nights.",
+          "zh": "她不遗余力地赶截止日期，即使那意味着需要熬夜工作。"
+        }
+      ],
+      "audio": "audio/128.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "They *bent over backward* to provide excellent customer service.",
+          "zh": "他们竭尽全力提供优质的客户服务。"
+        }
+      ],
+      "audio": "audio/128.3.mp3"
+    }
+  ]
+}

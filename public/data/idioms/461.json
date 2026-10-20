@@ -1,0 +1,37 @@
+{
+  "n": 461,
+  "name": "Get a word in edgewise",
+  "meaning": {
+    "zh": "“插嘴” 或 “插话”。\n\n这个短语的原意是指在激烈或快速的对话中，很难找到机会插入自己的话。它通常用来形容一个人试图在别人滔滔不绝的对话中插话的困难情境。",
+    "en": "This phrase means to insert your words into a conversation, especially when others are talking a lot. It is commonly used to describe the difficulty of interjecting into a fast-paced or intense conversation."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He talks so much that it's hard to *get a word in edgewise*.",
+          "zh": "他话太多了，让人很难插话。"
+        }
+      ],
+      "audio": "audio/461.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "During the meeting, I couldn't *get a word in edgewise*.",
+          "zh": "在会议期间，我根本插不上话。"
+        }
+      ],
+      "audio": "audio/461.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She dominated the conversation, and it was impossible to *get a word in edgewise*.",
+          "zh": "她主导了整个对话，别人根本没有插话的机会。"
+        }
+      ],
+      "audio": "audio/461.3.mp3"
+    }
+  ]
+}

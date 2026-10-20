@@ -1,0 +1,37 @@
+{
+  "n": 1079,
+  "name": "Steal someone's thunder",
+  "meaning": {
+    "zh": "“抢某人的风头”。\n\n这个短语起源于17世纪初，当时英国剧作家约翰·丹尼斯发明了一种在舞台上制造雷声的特殊效果。然而，他的剧并没有成功。后来他发现其他剧院在他们的演出中使用了他的发明，他愤怒地说他们 “偷走了他的雷声”。这个短语逐渐演变为现在的意思，即抢了别人的功劳或风头。",
+    "en": "The phrase originates from the early 18th century. British playwright John Dennis invented a method for creating thunder sound effects for his play. When his play failed, he later found other theatres using his sound effect. Furious, he exclaimed they had \"stolen his thunder\". The phrase has evolved to mean taking credit for someone else's idea or glory."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "She announced her engagement at my birthday party, totally *stealing my thunder*.",
+          "zh": "她在我的生日派对上宣布了她的订婚，完全抢了我的风头。"
+        }
+      ],
+      "audio": "audio/1079.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "When he presented the same idea to the boss, he *stole my thunder*.",
+          "zh": "当他向老板提出同样的想法时，他抢了我的功劳。"
+        }
+      ],
+      "audio": "audio/1079.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I didn't mean to *steal your thunder* by telling everyone about the project first.",
+          "zh": "我并不是故意在大家面前先提到这个项目来抢你的风头。"
+        }
+      ],
+      "audio": "audio/1079.3.mp3"
+    }
+  ]
+}

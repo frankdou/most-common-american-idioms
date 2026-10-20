@@ -1,0 +1,37 @@
+{
+  "n": 787,
+  "name": "Lose touch",
+  "meaning": {
+    "zh": "“失去联系” 或 “脱离联系”。\n\n这个短语来源于字面上的意思，即失去与某人的直接接触或联系。在现代社会，随着科技的发展，人们可以通过多种途径保持联系，但有时由于时间久远、地理距离或其他原因，关系会逐渐疏远，最终失去联系。这一表达不仅限于人与人的关系，还可以用于描述一个人失去对某事物或状况的认知或了解。",
+    "en": "This phrase originates from its literal meaning, namely losing direct contact with someone. In modern society, despite technological advancements allowing multiple ways to stay in touch, sometimes due to the passage of time, geographical distance, or other reasons, relationships can become distant and eventually result in lost contact. This expression not only applies to interpersonal relationships but can also describe a person losing awareness or familiarity with something."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "We used to be close friends, but we lost touch after college.",
+          "zh": "我们曾是亲密的朋友，但大学毕业后我们就失去了联系。"
+        }
+      ],
+      "audio": "audio/787.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "It’s easy to lose touch with reality when you’re always busy.",
+          "zh": "当你总是忙碌的时候，很容易脱离现实。"
+        }
+      ],
+      "audio": "audio/787.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "They lost touch with their traditions over generations.",
+          "zh": "他们在几代人的时间里失去了与传统的联系。"
+        }
+      ],
+      "audio": "audio/787.3.mp3"
+    }
+  ]
+}

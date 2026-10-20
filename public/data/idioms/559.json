@@ -1,0 +1,37 @@
+{
+  "n": 559,
+  "name": "Green room",
+  "meaning": {
+    "zh": "“绿色房间” 或 “演员休息室”。\n\n这个短语起源于戏剧和娱乐行业，指的是演职人员在表演之前待命和放松的休息室。据说在伊丽莎白时代，剧院的休息室墙壁常刷成绿色，以减轻演员眼疲劳。现代使用中，\"green room\" 主要指电视、戏剧、电影拍摄现场供演员、艺术家候场和准备的休息室。",
+    "en": "This phrase originates in the theatre and entertainment industry, referring to a room where performers wait and relax before their performance. It is said that in the Elizabethan era, theatre walls in these rooms were often painted green to reduce eye strain for actors. In modern usage, the \"green room\" typically refers to a waiting and preparation room for actors and artists in television, theater, and film settings."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The actors chatted with each other in the *green room* before the show.",
+          "zh": "演员们在演出前在绿色房间里互相聊天。"
+        }
+      ],
+      "audio": "audio/559.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She was so nervous that she almost fainted in the *green room*.",
+          "zh": "她太紧张了，差点在绿色房间里晕倒。"
+        }
+      ],
+      "audio": "audio/559.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The director visited the *green room* to give last-minute instructions.",
+          "zh": "导演到绿色房间去做最后的指示。"
+        }
+      ],
+      "audio": "audio/559.3.mp3"
+    }
+  ]
+}

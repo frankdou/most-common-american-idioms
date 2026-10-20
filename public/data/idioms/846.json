@@ -1,0 +1,37 @@
+{
+  "n": 846,
+  "name": "No big deal",
+  "meaning": {
+    "zh": "“小事一桩”、“没什么大不了”。\n\n这个短语很常见，用于安慰别人或轻描淡写地表述一件事情不足以引起过度关注或担忧。其含义通常是传达给对方一种不需担心或不需感到内疚的感觉。",
+    "en": "This phrase is very common and is used to reassure someone or to downplay the significance of something. It typically conveys the message that there is no need for concern or guilt."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Don't worry about the mistake; it's *no big deal*.",
+          "zh": "不要为这个错误担心，没什么大不了的。"
+        }
+      ],
+      "audio": "audio/846.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "You can borrow my car, *no big deal*.",
+          "zh": "你可以借用我的车，没什么大不了的。"
+        }
+      ],
+      "audio": "audio/846.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Missing one class is *no big deal*; you can catch up later.",
+          "zh": "缺席一节课没什么大不了的，你可以以后补上。"
+        }
+      ],
+      "audio": "audio/846.3.mp3"
+    }
+  ]
+}

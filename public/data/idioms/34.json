@@ -1,0 +1,37 @@
+{
+  "n": 34,
+  "name": "A piece of cake",
+  "meaning": {
+    "zh": "“小菜一碟” 或 “非常容易的事情”。\n\n这个短语起源于20世纪30年代的美国。当时，人们常常用 “a piece of cake” 来形容某件事情像吃一块蛋糕一样容易。后来，这个短语逐渐流行起来，用来描述任何容易完成的任务。",
+    "en": "This idiom originated in the United States during the 1930s. At that time, people used “a piece of cake” to describe something as easy as eating a piece of cake. Over time, this phrase became popular and is now used to depict any task that is easy to accomplish."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The math test was *a piece of cake* for her.",
+          "zh": "那次数学测试对她来说简直小菜一碟。"
+        }
+      ],
+      "audio": "audio/034.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Fixing the bike was *a piece of cake* for him.",
+          "zh": "修理那辆自行车对他来说非常容易。"
+        }
+      ],
+      "audio": "audio/034.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Making this dessert is *a piece of cake* if you follow the recipe.",
+          "zh": "如果你按照食谱来做，这道甜点简直小菜一碟。"
+        }
+      ],
+      "audio": "audio/034.3.mp3"
+    }
+  ]
+}

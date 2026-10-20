@@ -1,0 +1,37 @@
+{
+  "n": 77,
+  "name": "An open book",
+  "meaning": {
+    "zh": "“坦诚直率的人” 或 “毫无遮掩的人”。这个短语用于描述一个人对他自己的生活和情感非常坦率，毫无保留，如同展开一本书一般，可以让人轻易 “读取”。\n\n这个短语的起源可以追溯到书本提供信息和故事的方式。一本书，当被打开时，就可以被任何人阅读和理解。因此这个短语用了比喻，指的是那些以同样透明和公开的方式展示自己的人。",
+    "en": ""
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Jane is an *open book*; she never hides her feelings.",
+          "zh": "简是个坦诚直率的人；她从不隐藏自己的感情。"
+        }
+      ],
+      "audio": "audio/077.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "You don't need to guess what's on his mind, he's an *open book*.",
+          "zh": "你不需要猜他在想什么，他是一个毫无遮掩的人。"
+        }
+      ],
+      "audio": "audio/077.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Unlike her sister, Sarah is an *open book* and shares everything about her life.",
+          "zh": "与她的妹妹不同，莎拉是个坦诚的人，毫无保留地分享她的生活。"
+        }
+      ],
+      "audio": "audio/077.3.mp3"
+    }
+  ]
+}

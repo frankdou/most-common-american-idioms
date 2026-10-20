@@ -1,0 +1,37 @@
+{
+  "n": 1092,
+  "name": "Stuffed shirt",
+  "meaning": {
+    "zh": "“装腔作势的人” 或 “自以为是、古板的人”。\n\n这个短语起源于18世纪，原本指的是一种装有填充物的人形模型，用于展示衣服。后来，用来形容那些自以为是、守旧、刻板、喜欢炫耀自己的人，好像他们的内心是 “填充物” 而缺乏真实情感和智慧。",
+    "en": "This phrase originated in the 18th century, originally referring to a mannequin stuffed with padding used to display clothes. Later on, it came to describe people who are self-important, old-fashioned, and stuffy, as if their insides are \"stuffed\" and they lack genuine emotion and wisdom."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He's such a *stuffed shirt*, always talking down to others.",
+          "zh": "他真是个装腔作势的人，总是对别人颐指气使。"
+        }
+      ],
+      "audio": "audio/1092.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The meeting was ruined by a couple of *stuffed shirts* who wouldn’t listen to new ideas.",
+          "zh": "会议被几个不听新想法的古板人物给毁了。"
+        }
+      ],
+      "audio": "audio/1092.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Don't be such a *stuffed shirt*; try to relax and have some fun.",
+          "zh": "别那么装腔作势了，试着放松一下，享受乐趣吧。"
+        }
+      ],
+      "audio": "audio/1092.3.mp3"
+    }
+  ]
+}

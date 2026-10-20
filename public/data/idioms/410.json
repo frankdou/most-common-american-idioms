@@ -1,0 +1,37 @@
+{
+  "n": 410,
+  "name": "Find your feet",
+  "meaning": {
+    "zh": "找到立足点，适应新环境。\n\n这个短语原本指的是当人们初次尝试学习站立时，逐渐找到平衡并迈步前进的过程。后来，这一短语延伸为在新环境或新情况中摸索前行、逐渐适应的过程。这通常用于描述刚开始一项新的职业、搬到一个新的地方或开始一段新的生活阶段时的适应期。",
+    "en": "This phrase originally refers to the process when people first try to stand and gradually find their balance to move forward. Over time, it has extended to mean the process of exploring and gradually adapting to a new environment or situation. It is often used to describe the adjustment period when starting a new job, moving to a new place, or beginning a new phase of life."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "It took her a few months to *find her feet* in the new company.",
+          "zh": "她花了几个月的时间才在新公司站稳脚跟。"
+        }
+      ],
+      "audio": "audio/410.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He just moved to the city and is still trying to *find his feet*.",
+          "zh": "他刚搬到这座城市，还在尝试适应环境。"
+        }
+      ],
+      "audio": "audio/410.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Starting a new school can be tough, but you'll *find your feet* soon.",
+          "zh": "开始一所新学校可能会很困难，但你很快就会适应。"
+        }
+      ],
+      "audio": "audio/410.3.mp3"
+    }
+  ]
+}

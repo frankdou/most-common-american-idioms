@@ -1,0 +1,37 @@
+{
+  "n": 171,
+  "name": "Bottom of the barrel",
+  "meaning": {
+    "zh": "“最差劲的” 或 “最后选择”。\n\n这个短语来源于装满水果或其他货物的桶。桶的底部通常积存着剩余的物品，质量可能没有顶部的好。因此，当说某物或某人是 “bottom of the barrel” ，意思是这是剩下的且质量不佳的选择，在其他选择已经用完之后才不得不选的东西或人。",
+    "en": "This phrase originates from barrels filled with fruits or other goods. The bottom of the barrel usually contains the leftovers, which might not be as good in quality as those on top. Thus, when something or someone is described as the \"bottom of the barrel,\" it means it's the least desirable option, chosen only after all other options are exhausted."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The new recruits are really the *bottom of the barrel* this year.",
+          "zh": "今年的新进员工真的是最差的。"
+        }
+      ],
+      "audio": "audio/171.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "These budget hotels are the *bottom of the barrel* when it comes to travel accommodations.",
+          "zh": "这些便宜的旅馆是旅游住宿的最后选择。"
+        }
+      ],
+      "audio": "audio/171.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The team is scraping the *bottom of the barrel* to find players.",
+          "zh": "球队正在研究寻找最后的球员。"
+        }
+      ],
+      "audio": "audio/171.3.mp3"
+    }
+  ]
+}

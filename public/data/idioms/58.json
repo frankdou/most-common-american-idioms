@@ -1,0 +1,37 @@
+{
+  "n": 58,
+  "name": "Add insult to injury",
+  "meaning": {
+    "zh": "“雪上加霜” 或 “伤口上撒盐”。\n\n这个短语的起源可以追溯到古罗马寓言作家伊索（Aesop）的寓言故事。在这个寓言中，一只狗因摔倒而受伤，当它试图起来时，又被一个行人踢了一脚。在此背景下，这个短语形象地描述了在已经糟糕的情况下又增加了新的困扰或屈辱。",
+    "en": "This phrase originates from the fables of Aesop, an ancient Roman storyteller. In one of his fables, a dog, having fallen and injured itself, is further kicked by a passerby when trying to get up. This saying vividly describes the situation of adding further trouble or insult to an already bad situation."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "After losing the game, the team's captain criticized the players, adding insult to injury.",
+          "zh": "在输掉比赛之后，球队的队长还批评了队员们，真是雪上加霜。"
+        }
+      ],
+      "audio": "audio/058.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Getting a parking ticket at that moment really added insult to injury.",
+          "zh": "在那个时候收到停车罚单真是伤口上撒盐。"
+        }
+      ],
+      "audio": "audio/058.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He was already having a bad day, and then to add insult to injury, he missed his bus.",
+          "zh": "他已经过得很糟糕了，接着他还错过了公交车，真是雪上加霜。"
+        }
+      ],
+      "audio": "audio/058.3.mp3"
+    }
+  ]
+}

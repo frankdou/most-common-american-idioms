@@ -1,0 +1,37 @@
+{
+  "n": 915,
+  "name": "Pass the buck",
+  "meaning": {
+    "zh": "“推卸责任” 或 “转嫁责任”。\n\n“Pass the buck” 最早可以追溯到19世纪的美国扑克牌游戏。当轮到一个玩家发牌时，习惯上会给这个玩家一块刀柄制成的工具 \"buck\" 作为象征。若该玩家不愿发牌，则可以将这工具传给下一个玩家。因此，“pass the buck” 演变为意味着将责任转移给他人。",
+    "en": "The phrase \"pass the buck\" can be traced back to 19th-century American poker games. When it was a player's turn to deal, they would be given a marker known as a \"buck,\" often made from a knife handle. If the player did not wish to deal, they could pass the marker to the next player, hence transferring the responsibility. This practice evolved into the idiom meaning to shift responsibility to someone else."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Don't try to *pass the buck* when you made the mistake.",
+          "zh": "当你犯了错误时，别试图推卸责任。"
+        }
+      ],
+      "audio": "audio/915.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The manager was known to *pass the buck* whenever something went wrong.",
+          "zh": "每当出现问题时，这个经理总是推卸责任。"
+        }
+      ],
+      "audio": "audio/915.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "It's unfair to *pass the buck* to your coworkers.",
+          "zh": "把责任推给你的同事是不公平的。"
+        }
+      ],
+      "audio": "audio/915.3.mp3"
+    }
+  ]
+}

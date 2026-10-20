@@ -1,0 +1,37 @@
+{
+  "n": 494,
+  "name": "Get your head around it",
+  "meaning": {
+    "zh": "“理解某事” 或 “弄明白某事”。\n\n这个短语来源于英文中的表达，即设想要 “围绕某事物转，直到弄明白它”。这个比喻形象地说明了理解某个复杂或新的概念、信息的过程。经常用于描述需要花费时间思考和领悟的事物。",
+    "en": "This phrase originates from the English expression which means to \"wrap one's head around something\", implying visualizing the process of comprehending or grasping that concept fully. It depicts the mental effort required to understand a complex or novel idea or information."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "It took me a while to *get my head around* the new software.",
+          "zh": "我花了一些时间才弄明白这个新软件。"
+        }
+      ],
+      "audio": "audio/494.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She's trying to *get her head around* the concept of quantum physics.",
+          "zh": "她正在努力理解量子物理的概念。"
+        }
+      ],
+      "audio": "audio/494.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I can't *get my head around* why they made that decision.",
+          "zh": "我无法理解他们为什么做出那个决定。"
+        }
+      ],
+      "audio": "audio/494.3.mp3"
+    }
+  ]
+}

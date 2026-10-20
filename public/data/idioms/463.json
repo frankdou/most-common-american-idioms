@@ -1,0 +1,37 @@
+{
+  "n": 463,
+  "name": "Get back to someone",
+  "meaning": {
+    "zh": "“回复某人” 或 “给某人回信”。\n\n这个短语起源于日常对话和通信，特别是在工作和商务场合。当有人请求帮助或信息时，对方可能没有立即的答案或时间来处理请求，此时会使用 “get back to someone” 表示稍后再回复和处理。这个短语用以表明对请求者不延误的承诺，同时也传达了一种专业和礼貌的回应方式。",
+    "en": "This phrase originates from everyday conversations and communications, particularly in work and business settings. When someone requests help or information, the respondent might not have an immediate answer or the time to address it then. Using “get back to someone” indicates that they will respond and handle the request later. This phrase is used to assure the requester that they won't be forgotten and communicates a professional and polite intention to follow up."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I'll check the details and *get back to you* tomorrow.",
+          "zh": "我会查看细节，明天回复你。"
+        }
+      ],
+      "audio": "audio/463.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Can you *get back to me* once you have an update?",
+          "zh": "一旦有更新，能否回复我？"
+        }
+      ],
+      "audio": "audio/463.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Thanks for your question. I'll *get back to you* as soon as possible.",
+          "zh": "谢谢你的问题。我会尽快回复你。"
+        }
+      ],
+      "audio": "audio/463.3.mp3"
+    }
+  ]
+}

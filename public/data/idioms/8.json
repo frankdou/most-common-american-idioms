@@ -1,0 +1,37 @@
+{
+  "n": 8,
+  "name": "A bone to pick",
+  "meaning": {
+    "zh": "“有抱怨” 或 “有争执”。\n\n这个短语可能源自于狗之间争夺骨头的行为，其中每个狗都对骨头有极大的兴趣和争取的欲望，导致争斗。现代语境中，它用来形容人们之间有不满或争执的需要解决的问题。",
+    "en": "This phrase likely originates from the behavior of dogs fighting over a bone, where each dog shows great interest and a desire to claim it, resulting in a struggle. In modern context, it is used to describe when people have grievances or disputes that need to be addressed."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I have *a bone to pick* with you about your comments yesterday.",
+          "zh": "我对你昨天的评论有些不满，需要和你谈谈。"
+        }
+      ],
+      "audio": "audio/008.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She had *a bone to pick* with the manager regarding her last evaluation.",
+          "zh": "她对经理上次的评价有些不满，需要讨论一下。"
+        }
+      ],
+      "audio": "audio/008.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "They both have *a bone to pick*, so this meeting might be tense.",
+          "zh": "他们两个都有不满需要解决，所以这次会议可能会很紧张。"
+        }
+      ],
+      "audio": "audio/008.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 811,
+  "name": "Make the grade",
+  "meaning": {
+    "zh": "“达到标准” 或 “符合要求”。\n\n这个短语最早源自于学生考试或作业评分的背景，意思是达到了一个合格的成绩或标准。随着时间的推移，这个短语被广泛应用于各种情境下，表示达到了预期的标准或要求，无论是工作中的业绩，还是其他方面的表现。",
+    "en": "This phrase originates from the context of grading students' exams or assignments, meaning achieving a passing mark or meeting a standard. Over time, it has been broadly applied to various situations to indicate meeting expectations or requirements, whether it is a job performance or other kinds of achievement."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "She studied hard to *make the grade* in her final exams.",
+          "zh": "她努力学习以便在期末考试中达到标准。"
+        }
+      ],
+      "audio": "audio/811.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "John didn't *make the grade* in the team tryouts.",
+          "zh": "约翰在球队选拔中未能达到标准。"
+        }
+      ],
+      "audio": "audio/811.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "We have to work harder if we want to *make the grade* in the industry.",
+          "zh": "如果我们想在行业中达到标准，就必须更加努力。"
+        }
+      ],
+      "audio": "audio/811.3.mp3"
+    }
+  ]
+}

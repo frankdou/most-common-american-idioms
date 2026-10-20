@@ -1,0 +1,37 @@
+{
+  "n": 501,
+  "name": "Give someone a hard time",
+  "meaning": {
+    "zh": "“给某人找麻烦” 或 “让某人不好过”。\n\n这个短语起源于日常生活中，当一个人使另一个人的生活变得困难或令人不愉快时，就会用到这个表达。它常用于描述一种人为的、故意的对其他人造成压力、不便或烦扰的行为。",
+    "en": "This phrase originates from everyday scenarios where one person makes another's life difficult or unpleasant. It is commonly used to describe a deliberate action that causes stress, inconvenience, or annoyance to another person."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He likes to *give his little brother a hard time* by teasing him constantly.",
+          "zh": "他喜欢通过不断地戏弄他的弟弟来给他找麻烦。"
+        }
+      ],
+      "audio": "audio/501.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "My boss always *gives me a hard time* for being a few minutes late.",
+          "zh": "我老板总是因为我迟到几分钟而给我找麻烦。"
+        }
+      ],
+      "audio": "audio/501.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Don't *give her a hard time*; she's trying her best.",
+          "zh": "别让她不好过；她已经尽力了。"
+        }
+      ],
+      "audio": "audio/501.3.mp3"
+    }
+  ]
+}

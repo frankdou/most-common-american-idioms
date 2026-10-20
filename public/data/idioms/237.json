@@ -1,0 +1,37 @@
+{
+  "n": 237,
+  "name": "Checkered past",
+  "meaning": {
+    "zh": "“有污点的过去” 或 “不光彩的历史”。\n\n这个短语源自于 “checkered” 一词，意为 “方格花纹的”，象征着用黑白两个相间的色块来代表生活中的明暗两面。用这种图案来形容某人的过去，暗示其有着不堪回首或问题不少的经历。",
+    "en": "This phrase originates from the word \"checkered,\" meaning \"patterned with squares of different colors,\" symbolizing the contrasting good and bad events in a person's life. Describing someone's past as \"checkered\" implies they have had a history with both positive aspects and significant blemishes or controversies."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Despite his *checkered past*, he has turned his life around.",
+          "zh": "尽管有着污点的过去，他已经改过自新了。"
+        }
+      ],
+      "audio": "audio/237.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Her *checkered past* makes her a controversial figure.",
+          "zh": "她有污点的过去使她成为一个有争议的人物。"
+        }
+      ],
+      "audio": "audio/237.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He was upfront about his *checkered past* during the job interview.",
+          "zh": "在面试时，他坦率地谈到了他不光彩的历史。"
+        }
+      ],
+      "audio": "audio/237.3.mp3"
+    }
+  ]
+}

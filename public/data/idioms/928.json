@@ -1,0 +1,37 @@
+{
+  "n": 928,
+  "name": "Pig out",
+  "meaning": {
+    "zh": "“暴饮暴食” 或 “大吃特吃”。\n\n这个短语源于人们对猪吃东西方式的印象，猪吃东西时往往不顾形象，吃得非常多。“Pig out” 常用来形容一个人吃东西很多，不加节制，如同猪一样。它通常带有轻松、打趣的意味。",
+    "en": "This phrase originates from the perception of how pigs eat—often without restraint and in large quantities. \"Pig out\" is commonly used to describe someone who eats a lot and without restraint, similar to how pigs eat. It usually carries a light-hearted and joking connotation."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "We decided to *pig out* on pizza at the party.",
+          "zh": "我们决定在聚会上大吃特吃披萨。"
+        }
+      ],
+      "audio": "audio/928.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "After the exam, I just wanted to *pig out* and relax.",
+          "zh": "考试结束后，我只想大吃大喝然后放松一下。"
+        }
+      ],
+      "audio": "audio/928.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "It's okay to *pig out* once in a while.",
+          "zh": "偶尔大吃一顿是没关系的。"
+        }
+      ],
+      "audio": "audio/928.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 1037,
+  "name": "Shoot the breeze",
+  "meaning": {
+    "zh": "闲聊，闲谈。\n\n“Shoot the breeze” 这个成语源于美国俚语，最早出现在19世纪末或20世纪初。“Shoot” 原意为射击，而 “breeze” 则指微风。然而，这个短语并没有字面意义上的射击微风，而是指随意地聊天，谈天说地，如同风一样轻松愉快地交流。",
+    "en": "This idiom originates from American slang and first appeared in the late 19th or early 20th century. \"Shoot\" typically means to fire a gun, and \"breeze\" refers to a gentle wind. However, in this context, the phrase doesn’t mean to literally shoot the breeze, but rather to engage in casual and light-hearted conversation, talking freely as if the words float away with the wind."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "We spent the afternoon just *shooting the breeze* at the coffee shop.",
+          "zh": "我们在咖啡馆里花了一下午时间闲聊。"
+        }
+      ],
+      "audio": "audio/1037.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Whenever we get together, we always end up *shooting the breeze* for hours.",
+          "zh": "每当我们聚到一起，总要聊上几个小时的天。"
+        }
+      ],
+      "audio": "audio/1037.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "They weren't talking about anything serious, just *shooting the breeze*.",
+          "zh": "他们谈的并不是什么严肃的话题，只是在闲聊。"
+        }
+      ],
+      "audio": "audio/1037.3.mp3"
+    }
+  ]
+}

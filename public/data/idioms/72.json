@@ -1,0 +1,37 @@
+{
+  "n": 72,
+  "name": "An about-face",
+  "meaning": {
+    "zh": "“大转变” 或 “完全改变主意”。\n\n这个短语起源于军队操练中的命令，表示军人迅速转身，面向相反的方向。在日常生活中，它用来形容某人在观点、计划或立场上发生了180度的大转变，完全改变自己的想法或行动方向。",
+    "en": "This phrase originates from a military command used in drills, indicating for soldiers to quickly turn around and face the opposite direction. In everyday usage, it is used to describe a person making a complete 180-degree turn in their opinions, plans, or stance, essentially changing their mind or course of action entirely."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "After hearing the new evidence, the jury made an *about-face* in their decision.",
+          "zh": "在听到新的证据后，陪审团在决定上来了个大转变。"
+        }
+      ],
+      "audio": "audio/072.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The company did an *about-face* on its policy after the customer backlash.",
+          "zh": "在顾客强烈反对后，公司在政策上来了个彻底的改变。"
+        }
+      ],
+      "audio": "audio/072.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He made an *about-face* regarding his career path and decided to become a teacher.",
+          "zh": "他在职业道路上发生了大转变，决定成为一名教师。"
+        }
+      ],
+      "audio": "audio/072.3.mp3"
+    }
+  ]
+}

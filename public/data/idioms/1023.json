@@ -1,0 +1,37 @@
+{
+  "n": 1023,
+  "name": "See the big picture/look at the big picture",
+  "meaning": {
+    "zh": "“看到大局” 或 “考虑整体”。\n\n这个短语强调需要从宏观角度看待问题和情况，而不是只关注细节或局部。它起源于对一幅图画的描述，如果只关注图画的某个部分，我们可能会忽略整幅画所传达的信息。在商业、管理和日常生活中，这个短语常用来指代需要从整体战略角度考虑问题。",
+    "en": "This phrase emphasizes the need to view problems and situations from a macro perspective rather than focusing only on details or specific parts. It originates from the description of viewing a picture, where focusing on just one part might lead to missing the message conveyed by the entire artwork. In business, management, and daily life, this idiom is often used to denote the necessity of considering issues from a strategic and comprehensive point of view."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "To solve this problem, we need to *see the big picture*.",
+          "zh": "要解决这个问题，我们需要从大局着眼。"
+        }
+      ],
+      "audio": "audio/1023.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Management always encourages us to *look at the big picture* to understand the company's goals.",
+          "zh": "管理层总是鼓励我们从大局出发，以了解公司的目标。"
+        }
+      ],
+      "audio": "audio/1023.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Sometimes it's hard to *see the big picture* when you're buried in day-to-day tasks.",
+          "zh": "当你埋头于日常任务时，有时很难看到大局。"
+        }
+      ],
+      "audio": "audio/1023.3.mp3"
+    }
+  ]
+}

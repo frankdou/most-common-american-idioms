@@ -1,0 +1,37 @@
+{
+  "n": 365,
+  "name": "Dry run",
+  "meaning": {
+    "zh": "“彩排” 或 “预演”。\n\n这个短语的起源可以追溯到机械或军事领域，最初指的是在不添加任何实际材料或不将设备启动到实际工作状态的情况下进行测试，以确保一切都能照常运作。如今，\"dry run\" 被广泛用于各种领域，例如戏剧、演讲和项目实施，以表示在正式执行之前进行的练习或测试。",
+    "en": "This phrase can be traced back to mechanical or military contexts, where it originally referred to testing without adding any actual materials or operating the device in its actual working state, ensuring everything functions correctly. Today, \"dry run\" is widely used in various fields, such as theater, public speaking, and project execution, to denote a practice or test before the official performance."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Let's do a *dry run* of the presentation to make sure everything goes smoothly.",
+          "zh": "我们来预演一下这个演示，以确保一切顺利。"
+        }
+      ],
+      "audio": "audio/365.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The team had a *dry run* before the big game to test their strategy.",
+          "zh": "球队在大赛前进行了彩排，以测试他们的策略。"
+        }
+      ],
+      "audio": "audio/365.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The actors did several *dry runs* of the play before the opening night.",
+          "zh": "演员们在开幕之夜前进行了几次彩排。"
+        }
+      ],
+      "audio": "audio/365.3.mp3"
+    }
+  ]
+}

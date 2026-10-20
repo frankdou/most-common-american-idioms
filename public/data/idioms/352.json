@@ -1,0 +1,37 @@
+{
+  "n": 352,
+  "name": "Down to the wire",
+  "meaning": {
+    "zh": "“到最后一刻” 或 “直到最后一秒”。\n\n这个短语来源于赛马比赛。最早在赛马比赛中，终点线通常会有一条线或绳子，当马匹冲向终点时，比赛结果往往在最后一刻揭晓。因此，\"down to the wire\" 用来形容事情发生在最后时刻，胜负难分或结论悬而未决。",
+    "en": "This idiom originates from horse racing. In the past, the finish line in horse races was marked by a wire or string, and the results often weren’t clear until the horses crossed this line. Therefore, \"down to the wire\" is used to describe situations where things are decided at the last moment or are too close to call until the end."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The election came *down to the wire* with results revealed just before midnight.",
+          "zh": "选举一直拖到最后一刻，结果在午夜前才揭晓。"
+        }
+      ],
+      "audio": "audio/352.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The project wasn't finished until *down to the wire*.",
+          "zh": "这个项目一直到最后一秒才完成。"
+        }
+      ],
+      "audio": "audio/352.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "They played a great game, and it went *down to the wire*.",
+          "zh": "他们打了一场精彩的比赛，一直到最后一刻才见分晓。"
+        }
+      ],
+      "audio": "audio/352.3.mp3"
+    }
+  ]
+}

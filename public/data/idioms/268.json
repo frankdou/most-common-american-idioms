@@ -1,0 +1,37 @@
+{
+  "n": 268,
+  "name": "Come rain or shine",
+  "meaning": {
+    "zh": "“不论晴雨” 或 “无论如何都”。\n\n这个短语起源于气象条件，不管是下雨还是晴天，都表示一定会做某件事，即无论遇到什么情况都不会改变计划或决定。现代社会中，在各种承诺、安排和决定中经常使用这一表达，强调坚定性和可靠性。",
+    "en": "This phrase originates from weather conditions, rain or shine, meaning something will happen regardless of the situation, indicating that plans or decisions will not change. It's commonly used in modern society to emphasize commitment and reliability in various promises, arrangements, and decisions."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I'll be there to support you, *come rain or shine*.",
+          "zh": "无论如何，我都会在那儿支持你。"
+        }
+      ],
+      "audio": "audio/268.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He jogs every morning, *come rain or shine*.",
+          "zh": "无论晴雨，他每天早晨都跑步。"
+        }
+      ],
+      "audio": "audio/268.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The event will take place *come rain or shine*.",
+          "zh": "无论如何，这个活动都会举行。"
+        }
+      ],
+      "audio": "audio/268.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 320,
+  "name": "Dish the dirt",
+  "meaning": {
+    "zh": "“揭别人的短” 或 “说别人的闲话”。\n\n这个短语来源于美国俚语，其中 “dish” 是一个动词，意思是 “分发或透露”，而 “dirt” 在这里指的是负面信息或丑闻。因此，\"dish the dirt\" 就是指传播某人的负面信息或秘密，通常带有八卦的性质。这个表达常用于非正式的场合，例如朋友间的对话。",
+    "en": "This phrase originates from American slang, where \"dish\" is a verb meaning \"to distribute or reveal,\" and \"dirt\" refers to negative information or scandals. Thus, \"dish the dirt\" means to spread someone's negative information or secrets, often with a gossiping nature. This expression is commonly used in informal settings, such as conversations among friends."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "She loves to *dish the dirt* about her coworkers.",
+          "zh": "她喜欢揭露同事们的短。"
+        }
+      ],
+      "audio": "audio/320.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "If you have any information, don’t hesitate to *dish the dirt*!",
+          "zh": "如果你有任何信息，别犹豫，尽管告诉我们吧！"
+        }
+      ],
+      "audio": "audio/320.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "They always gather for coffee and *dish the dirt* about their neighbors.",
+          "zh": "她们总是聚在一起喝咖啡，聊聊邻居们的闲话。"
+        }
+      ],
+      "audio": "audio/320.3.mp3"
+    }
+  ]
+}

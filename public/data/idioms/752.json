@@ -1,0 +1,37 @@
+{
+  "n": 752,
+  "name": "Left someone behind",
+  "meaning": {
+    "zh": "“落下某人” 或 “把某人抛在后面”。\n\n这个短语表示在某个情况下，某人被其他人或群体不再关注或者被远离的情形。这通常适用于描述在团队活动中有人被遗忘或忽略，或者在进步或发展中有人未能跟上队伍的步伐。",
+    "en": "This phrase indicates a situation where someone is no longer paid attention to or is left further back by others or a group. It is commonly used to describe instances where someone is forgotten or ignored in team activities or unable to keep pace with the group's progress or development."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "When they promoted the other employees, they *left Mark behind*.",
+          "zh": "当他们提升其他员工时，他们把 Mark 抛在后面了。"
+        }
+      ],
+      "audio": "audio/752.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She felt *left behind* when all her friends went to college.",
+          "zh": "当所有朋友都去上大学时，她感到被落下了。"
+        }
+      ],
+      "audio": "audio/752.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Don't *leave anyone behind* as we move forward with this project.",
+          "zh": "在我们推进这个项目时，不要落下任何人。"
+        }
+      ],
+      "audio": "audio/752.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 107,
+  "name": "Backseat driver",
+  "meaning": {
+    "zh": "“后座司机” 用来形容那些坐在汽车后座，却喜欢指挥或者评论司机驾驶的人。此短语通常带有贬义，表示这些人爱多嘴干预别人的事情。\n\n这个短语的起源不详，但大体上可以追溯到汽车越来越普及的年代。由于坐在后座的乘客没有驾驶的责任，但又喜欢对司机指手画脚，这种行为形象直观，因此逐渐成为一种惯用表达，泛指那些喜欢对他人工作或事务指手画脚而实际并未动手的人。",
+    "en": "This phrase's origin is unclear, but it can generally be traced back to the era when cars became more common. Passengers sitting in the backseat often did not have the responsibility of driving but liked to gesture and give unsolicited advice to the driver. This behavior became a vivid metaphor for people who like to meddle in others' work or affairs without actually doing the job themselves."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Stop being a *backseat driver* and let me handle this.",
+          "zh": "别当 “后座司机” 了，让我来处理这件事。"
+        }
+      ],
+      "audio": "audio/107.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He's such a *backseat driver* when I'm cooking.",
+          "zh": "我做饭的时候他总爱指手画脚，像个 “后座司机”。"
+        }
+      ],
+      "audio": "audio/107.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I can't stand *backseat drivers* in my projects; they just complicate things.",
+          "zh": "我受不了项目里的 “后座司机”，他们只会让事情变复杂。"
+        }
+      ],
+      "audio": "audio/107.3.mp3"
+    }
+  ]
+}

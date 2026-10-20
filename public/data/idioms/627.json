@@ -1,0 +1,37 @@
+{
+  "n": 627,
+  "name": "Hunky-dory",
+  "meaning": {
+    "zh": "“一切顺利” 或 “非常好”。\n\n这个习语的起源并不完全明确，但有一种说法是它源于19世纪的美国。它被认为是由一种叫做 \"hunk\" 的俚语演变而来的，意思是 \"安全\" 或 \"安全的地方\"。这个俚语后来与 \"dory\" 结合，意为 \"一切正常\" 或 \"情况良好\"。在现代英语中，\"hunky-dory\" 通常用于描述某件事没有问题，非常顺利。",
+    "en": "The origin of this idiom is not completely clear, but one theory suggests it comes from 19th-century America. It is believed to have evolved from the slang term \"hunk,\" meaning \"safe\" or \"a safe place.\" This slang later combined with \"dory,\" meaning \"everything's okay\" or \"things are going well.\" In modern English, \"hunky-dory\" is often used to describe something that is without problems and going smoothly."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Everything is *hunky-dory* at work right now.",
+          "zh": "目前工作上一切顺利。"
+        }
+      ],
+      "audio": "audio/627.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She said her relationship was *hunky-dory*.",
+          "zh": "她说她的感情一切都很好。"
+        }
+      ],
+      "audio": "audio/627.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Don't worry, everything will be *hunky-dory* by the weekend.",
+          "zh": "别担心，到了周末一切都会很顺利的。"
+        }
+      ],
+      "audio": "audio/627.3.mp3"
+    }
+  ]
+}

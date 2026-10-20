@@ -1,0 +1,37 @@
+{
+  "n": 303,
+  "name": "Cute as a bug",
+  "meaning": {
+    "zh": "“像虫子一样可爱” 或 “非常可爱”。\n\n这个短语似乎起源于美国南方，对小孩或者小动物的可爱形象做出一种夸张的、带有乡村风味的形容。在这些地区，“bug” 并不以虫子本身的形象来理解，而更多的是指那些小巧、天真、讨人喜欢的生物。",
+    "en": "This phrase appears to have originated in the Southern United States, where it is used as an exaggerated and folksy way to describe the cuteness of children or small animals. In these regions, \"bug\" is not understood in its literal sense but rather as a term for tiny, innocent, and charming creatures."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Her baby is *cute as a bug*, everyone loves to hold him.",
+          "zh": "她的宝宝非常可爱，人人都喜欢抱他。"
+        }
+      ],
+      "audio": "audio/303.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The puppy is *cute as a bug* when it chases its tail.",
+          "zh": "小狗追着自己的尾巴时简直太可爱了。"
+        }
+      ],
+      "audio": "audio/303.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She dressed her daughter in a *cute as a bug* costume for Halloween.",
+          "zh": "她为女儿打扮了一身非常可爱的万圣节服装。"
+        }
+      ],
+      "audio": "audio/303.3.mp3"
+    }
+  ]
+}

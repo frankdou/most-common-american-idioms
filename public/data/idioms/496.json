@@ -1,0 +1,37 @@
+{
+  "n": 496,
+  "name": "Getting by",
+  "meaning": {
+    "zh": "“勉强度日” 或 “勉强应付”。\n\n这个短语通常用来描述一个人为了解决暂时的问题或者维持最低的生活标准而努力，但没有过得很好。短语中的 \"get\" 意为 “获得”，而 \"by\" 则表示 “通过” 或 “过得去”，因此组合起来表示勉强维持或勉强度日的状态或行动。",
+    "en": "This phrase is commonly used to describe someone who is managing to solve immediate problems or maintain a basic standard of living, but not living well. The word \"get\" means \"obtain\" or \"manage,\" and \"by\" indicates \"through\" or \"sufficiently,\" so together they signify just barely maintaining or coping with something."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Even with two jobs, she's just *getting by*.",
+          "zh": "即使做了两份工作，她也只是勉强度日。"
+        }
+      ],
+      "audio": "audio/496.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "We don't have much, but we're *getting by*.",
+          "zh": "我们没有太多，但我们正在勉强过日子。"
+        }
+      ],
+      "audio": "audio/496.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He says he's *getting by* on minimal sleep.",
+          "zh": "他说他靠极少的睡眠来勉强应付。"
+        }
+      ],
+      "audio": "audio/496.3.mp3"
+    }
+  ]
+}

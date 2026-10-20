@@ -1,0 +1,37 @@
+{
+  "n": 413,
+  "name": "Fishy",
+  "meaning": {
+    "zh": "“可疑的” 或 “有蹊跷的”。\n\n这个短语来源于 “fish” 的特点，有时候鱼闻起来不太对劲，暗示有某种腐烂或变质。类似地，\"fishy\" 一词用来形容某事或某人不太对劲，可能有隐藏的意图或不诚实的行为。它用于表达对某事物的怀疑或不信任。",
+    "en": "This phrase comes from the characteristics of \"fish,\" which can sometimes smell off, suggesting something is rotten or spoiled. Similarly, the term \"fishy\" is used to describe something or someone that seems off, potentially with hidden intentions or dishonest behavior. It is used to convey suspicion or distrust about something."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "There's something *fishy* about his story.",
+          "zh": "他的故事有些可疑。"
+        }
+      ],
+      "audio": "audio/413.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The deal sounds *fishy* to me; I think we should investigate further.",
+          "zh": "这笔交易听起来有点可疑；我认为我们应该进一步调查。"
+        }
+      ],
+      "audio": "audio/413.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Her sudden interest in our plans seems *fishy*.",
+          "zh": "她突然对我们的计划感兴趣，似乎有些可疑。"
+        }
+      ],
+      "audio": "audio/413.3.mp3"
+    }
+  ]
+}

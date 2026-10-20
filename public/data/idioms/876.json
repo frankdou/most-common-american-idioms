@@ -1,0 +1,37 @@
+{
+  "n": 876,
+  "name": "On the dot",
+  "meaning": {
+    "zh": "“准时” 或 “正好在某个时间点”。\n\n“On the dot” 的字面意思是 “在这个点上”，其中 “dot” 指的是时钟上的圆点。这个短语指的是某件事情正好在指定的时间发生，通常用来强调某人的守时或者某个事件发生的准确时间。",
+    "en": "The phrase “on the dot” literally means “on this point,” where “dot” refers to the dots on a clock face. It is used to indicate that something happens exactly at the specified time, often emphasizing punctuality or the precise timing of an event."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The meeting will start at 9 a.m. *on the dot*.",
+          "zh": "会议将于上午9点准时开始。"
+        }
+      ],
+      "audio": "audio/876.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She arrived at the party at 7 *on the dot*.",
+          "zh": "她在晚上7点准时到达了派对。"
+        }
+      ],
+      "audio": "audio/876.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Make sure you're there at noon *on the dot*.",
+          "zh": "确保你在中午12点准时到达。"
+        }
+      ],
+      "audio": "audio/876.3.mp3"
+    }
+  ]
+}

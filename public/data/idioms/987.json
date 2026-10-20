@@ -1,0 +1,37 @@
+{
+  "n": 987,
+  "name": "Rinky-dink",
+  "meaning": {
+    "zh": "“简陋的” 或 “不重要的”。\n\n该短语起源较为模糊，但可以追溯到20世纪早期，主要用于形容一些不值一提或质量低劣的事物或机构。在现代使用中，通常用于调侃或贬低一些事物，指其廉价、不重要或简陋。",
+    "en": "This phrase has a somewhat obscure origin but can be traced back to the early 20th century. It is primarily used to describe something or someone as insignificant or of low quality. In contemporary usage, it is often employed to mock or belittle the quality, importance, or sophistication of something."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I can't believe we stayed at that *rinky-dink* motel.",
+          "zh": "真不敢相信我们居然住在那家简陋的汽车旅馆。"
+        }
+      ],
+      "audio": "audio/987.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Their *rinky-dink* operation can't compete with major companies.",
+          "zh": "他们那个简陋的小作坊无法与大公司竞争。"
+        }
+      ],
+      "audio": "audio/987.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Don't waste your time with that *rinky-dink* project.",
+          "zh": "别浪费时间在那个不重要的项目上。"
+        }
+      ],
+      "audio": "audio/987.3.mp3"
+    }
+  ]
+}

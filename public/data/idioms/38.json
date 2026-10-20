@@ -1,0 +1,37 @@
+{
+  "n": 38,
+  "name": "A screwup",
+  "meaning": {
+    "zh": "“搞砸了” 或 “失误”。\n\n这个短语来源于 “screw up”，字面意思是把某物拧得过头，引申为把事情搞得一团糟、做出巨大错误。在日常用语中， \"a screwup\" 常用于形容某人做了一个重大的错误或搞砸了一件事情。",
+    "en": "This phrase comes from \"screw up,\" which literally means to over-tighten something, and figuratively means to mess something up badly. In everyday language, \"a screwup\" is often used to describe someone who has made a significant mistake or messed something up."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "That was a major screwup on his part.",
+          "zh": "那是他犯的一个重大失误。"
+        }
+      ],
+      "audio": "audio/038.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "We can't afford another screwup this time.",
+          "zh": "这次我们不能再搞砸了。"
+        }
+      ],
+      "audio": "audio/038.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Every project has at least one screwup, but we learn from them.",
+          "zh": "每个项目至少会有一次失误，但我们会从中学到东西。"
+        }
+      ],
+      "audio": "audio/038.3.mp3"
+    }
+  ]
+}

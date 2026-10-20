@@ -1,0 +1,37 @@
+{
+  "n": 199,
+  "name": "Buy a lemon",
+  "meaning": {
+    "zh": "“买到次品” 或 “买到有缺陷的商品”。\n\n该短语来源于20世纪初的美国俚语，其中 “lemon” 意指有缺陷的产品或事物。最初在汽车销售领域使用较多，后来渐渐扩展到其他消费领域。购买一件商品后发现其质量低劣或存在明显问题时，常用这个表达。",
+    "en": "This phrase originated from early 20th-century American slang, where \"lemon\" referred to something that was defective or below standard. It was initially used more in the context of buying cars but has since expanded to other consumer goods. It is commonly used when someone buys a product and discovers that it is of poor quality or has significant issues."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I thought I was getting a great deal on that used car, but I ended up buying a *lemon*.",
+          "zh": "我以为买到了一辆二手车的好便宜，结果发现买到的是辆次品。"
+        }
+      ],
+      "audio": "audio/199.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He bought a new phone, but it's been nothing but trouble. He really bought a *lemon*.",
+          "zh": "他买了一部新手机，但问题不断，真是买到个次品。"
+        }
+      ],
+      "audio": "audio/199.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "When my laptop kept crashing, I realized I had bought a *lemon*.",
+          "zh": "我的笔记本电脑总是崩溃，我才意识到买到了一台次品。"
+        }
+      ],
+      "audio": "audio/199.3.mp3"
+    }
+  ]
+}

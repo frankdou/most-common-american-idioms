@@ -1,0 +1,37 @@
+{
+  "n": 1280,
+  "name": "Up for grabs",
+  "meaning": {
+    "zh": "“人人可得” 或 “人人都有机会”。\n\n这个成语起源于20世纪初期，意指某物可以供大家争夺。我们可以将它理解为某些奖品、机会、或物品没有固定的拥有者，任何人都有机会获得。",
+    "en": "This idiom originated in the early 20th century, implying that something is available for anyone to claim. You can understand it as prizes, opportunities, or items that don't have a fixed owner and are available for anyone to take."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The tickets to the concert are *up for grabs*, so act fast!",
+          "zh": "音乐会的门票人人可得，所以动作要快！"
+        }
+      ],
+      "audio": "audio/1280.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "With the manager retiring, the position is *up for grabs*.",
+          "zh": "经理退休了，这个职位人人都有机会。"
+        }
+      ],
+      "audio": "audio/1280.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "There's a scholarship *up for grabs* for the best essay.",
+          "zh": "有一个奖学金供最佳文章竞争。"
+        }
+      ],
+      "audio": "audio/1280.3.mp3"
+    }
+  ]
+}

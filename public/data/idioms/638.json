@@ -1,0 +1,37 @@
+{
+  "n": 638,
+  "name": "If you can't stand the heat, get out of the kitchen",
+  "meaning": {
+    "zh": "“如果你不能忍受热度，那就离开厨房” 或 “如果你不能承受压力，那就退出”。\n\n这个短语源自厨房环境中温度很高的事实。在厨房工作需要能够忍受高温以及紧张的工作压力。后来这个短语变成了一种比喻，用来表示如果一个人不能处理某种情况的压力或挑战，他们就应该离开或放弃。",
+    "en": "This phrase originates from the fact that a kitchen is an environment with high temperatures. Working in a kitchen requires being able to withstand the heat and the intense pressure of the job. Over time, this expression became a metaphor for situations where if someone cannot handle the pressure or challenges, they should leave or give up."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Running a business is tough. If you can't stand the heat, get out of the kitchen.",
+          "zh": "经营一家公司是很艰难的。如果你不能承受压力，就退出吧。"
+        }
+      ],
+      "audio": "audio/638.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Politics is a rough game. If you can't stand the heat, get out of the kitchen.",
+          "zh": "政治是一场残酷的游戏。如果你不能承受压力，就退出吧。"
+        }
+      ],
+      "audio": "audio/638.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Being a teacher is challenging. If you can't stand the heat, get out of the kitchen.",
+          "zh": "当老师很有挑战性。如果你不能承受压力，就退出吧。"
+        }
+      ],
+      "audio": "audio/638.3.mp3"
+    }
+  ]
+}

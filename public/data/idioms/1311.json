@@ -1,0 +1,37 @@
+{
+  "n": 1311,
+  "name": "When it rains, it pours",
+  "meaning": {
+    "zh": "“祸不单行” 或 “一旦下雨就会倾盆”。\n\n这个短语来源于一种观察，即在某些情况下，事情并非只是单一发生，而往往是连锁反应式的接踵而至，尤其是负面的事件。这种表达经常用于描述在倒霉的事情发生时，似乎所有的麻烦都会一起出现，像是天降大雨倾盆而下。",
+    "en": "This phrase originates from the observation that when certain events occur, they often come in clusters rather than singly, especially negative events. The expression is frequently used to describe situations where, when one bad thing happens, it seems like all the bad things happen at once, pouring down like heavy rain."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I've had a rough week; my car broke down and then I lost my wallet—*when it rains, it pours*.",
+          "zh": "我这周过得很糟糕；车坏了，然后钱包也丢了——真是祸不单行。"
+        }
+      ],
+      "audio": "audio/1311.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "First, I got a flat tire, and then my favorite coffee shop closed—*when it rains, it pours*.",
+          "zh": "首先，我的轮胎瘪了，然后我最喜欢的咖啡店也关门了——一旦下雨就会倾盆。"
+        }
+      ],
+      "audio": "audio/1311.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She's been late three times this week and now her computer crashed—*when it rains, it pours*.",
+          "zh": "这个星期她已经迟到了三次，现在电脑也崩溃了——祸不单行。"
+        }
+      ],
+      "audio": "audio/1311.3.mp3"
+    }
+  ]
+}

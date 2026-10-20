@@ -1,0 +1,37 @@
+{
+  "n": 1250,
+  "name": "Too many irons in the fire",
+  "meaning": {
+    "zh": "“同时做太多事情” 或 “摊子铺得太大”。\n\n这个短语源自于铁匠工作时，需要同时放入并操作多个熔铁棒来完成不同的任务。如果铁匠在火中放入太多的铁棒，他们可能无法有效地管理每一个，导致一些工作无法完成或质量不佳。现代使用这个短语时，是为了形容一个人同时有太多的任务或计划，以至于无法专注和有效处理每一个事情。",
+    "en": "This phrase comes from the work of blacksmiths, who might put multiple iron tools in the fire at once to heat them and then shape them. If there are too many irons in the fire, the blacksmith may not be able to manage them all effectively, risking incomplete or poor-quality work. In modern use, it describes a situation where someone has too many tasks or plans to manage effectively."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "She has *too many irons in the fire* and can’t focus on any single project.",
+          "zh": "她同时在做太多事情，无法专注于任何一个项目。"
+        }
+      ],
+      "audio": "audio/1250.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "John realized he had *too many irons in the fire* when he started missing deadlines.",
+          "zh": "约翰意识到自己承担的事情太多了，因为他开始错过最后期限。"
+        }
+      ],
+      "audio": "audio/1250.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "It's important not to have *too many irons in the fire* or you'll get overwhelmed.",
+          "zh": "不要让自己摊子铺得太大，否则你会觉得应接不暇。"
+        }
+      ],
+      "audio": "audio/1250.3.mp3"
+    }
+  ]
+}

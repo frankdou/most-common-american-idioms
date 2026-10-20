@@ -1,0 +1,37 @@
+{
+  "n": 382,
+  "name": "Everything but the kitchen sink",
+  "meaning": {
+    "zh": "“什么都有了，除了厨房水槽” 或 “应有尽有”。\n\n这个短语起源于20世纪初。当人们要描述带走了所有能带的东西，只剩下嵌墙里的厨房水槽无法拆走时，就会用这个短语。如今，这个短语用来形容一个地方或某个情境中什么都有，丰富得无所不包。",
+    "en": "This phrase originated in the early 20th century. When people wanted to describe taking everything but the kitchen sink which can't be removed as it is affixed to the wall, they used this phrase. Nowadays, it is used to describe a place or situation that has everything one could possibly need or imagine, being all-inclusive."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "They packed *everything but the kitchen sink* for their camping trip.",
+          "zh": "他们为露营旅行打包了应有尽有的东西。"
+        }
+      ],
+      "audio": "audio/382.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Her purse contained *everything but the kitchen sink*.",
+          "zh": "她的手提包里什么都有。"
+        }
+      ],
+      "audio": "audio/382.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "When they remodeled the house, they added *everything but the kitchen sink* in the new design.",
+          "zh": "他们装修房子时，在新设计里几乎包括了所有能想到的东西。"
+        }
+      ],
+      "audio": "audio/382.3.mp3"
+    }
+  ]
+}

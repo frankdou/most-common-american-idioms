@@ -1,0 +1,37 @@
+{
+  "n": 44,
+  "name": "A stone's throw",
+  "meaning": {
+    "zh": "“一箭之遥” 或 “非常近的距离”。\n\n这个短语源于古代，当没有现代测量工具时，人们常用物理现象来描述距离。“A stone's throw” 原意为石头投掷的距离，通常表示非常近的距离，脚力范围内都可以轻松达到。在现代英语中，这个短语依然被用来表示某地或某物体距离很近。",
+    "en": "This phrase originates from ancient times when people used physical phenomena to describe distances due to the lack of modern measuring tools. “A stone's throw” originally meant the distance a stone could be thrown, typically indicating a very short distance within easy reach. In modern English, this phrase is still used to signify that something is very close by."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The store is just *a stone's throw* from my house.",
+          "zh": "这家商店离我家仅一箭之遥。"
+        }
+      ],
+      "audio": "audio/044.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Her office is *a stone's throw* away from the coffee shop.",
+          "zh": "她的办公室离咖啡店非常近。"
+        }
+      ],
+      "audio": "audio/044.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "We spent the weekend at a cottage *a stone's throw* from the beach.",
+          "zh": "我们在离海滩非常近的小屋度过了周末。"
+        }
+      ],
+      "audio": "audio/044.3.mp3"
+    }
+  ]
+}

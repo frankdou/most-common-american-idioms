@@ -1,0 +1,37 @@
+{
+  "n": 201,
+  "name": "By hook or by crook",
+  "meaning": {
+    "zh": "“不择手段” 或 “千方百计”。\n\n这个短语起源于中世纪的英国，可能与农村的法律纠纷有关。当时农民为了增加收成，不管是用镰刀（hook）还是用木杖（crook），无论手段怎样，他们都会尽一切可能达到目的。后来，这个短语被引申用来形容一个人为了达到目的可以采取任何手段。",
+    "en": "This phrase originates from medieval England and may be related to rural legal disputes. At that time, farmers would use either a hook or a crook (staff) to maximize their harvests, by any means necessary. Eventually, this phrase extended to describe a person who would use any means possible to achieve their goals."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I'll get the tickets for the concert, *by hook or by crook*.",
+          "zh": "我会不择手段地拿到演唱会的门票。"
+        }
+      ],
+      "audio": "audio/201.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "They were determined to get the project done *by hook or by crook*.",
+          "zh": "他们决心千方百计地完成这个项目。"
+        }
+      ],
+      "audio": "audio/201.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She'll complete her education *by hook or by crook*, no matter what it takes.",
+          "zh": "无论付出什么代价，她都会千方百计完成学业。"
+        }
+      ],
+      "audio": "audio/201.3.mp3"
+    }
+  ]
+}

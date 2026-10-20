@@ -1,0 +1,37 @@
+{
+  "n": 87,
+  "name": "As happy as a clam",
+  "meaning": {
+    "zh": "“心满意足” 或 “非常高兴”。\n\n这个短语起源于美国东海岸的渔民。蛤蜊在涨潮时很难被捕捉到，这时它们可以安全地躲在沙泥中。因此，渔民认为此时的蛤蜊是最快乐的，因为它们能够安全地避开捕捉。这句惯用语逐渐延伸用来形容人非常高兴或者心满意足的状态。",
+    "en": "This phrase originates from the East Coast of the United States among fishermen. Clams are difficult to catch during high tide as they are safely buried in the sand. Hence, fishermen believed that clams are happiest during these moments safe from capture. Over time, the idiom evolved to describe someone who is very happy or content."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "After getting the promotion, he was *as happy as a clam*.",
+          "zh": "获得晋升后，他心满意足。"
+        }
+      ],
+      "audio": "audio/087.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She felt *as happy as a clam* while lying on the beach all day.",
+          "zh": "她一整天躺在海滩上，感到非常高兴。"
+        }
+      ],
+      "audio": "audio/087.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The kids were *as happy as clams* playing in the park.",
+          "zh": "孩子们在公园里玩得非常高兴。"
+        }
+      ],
+      "audio": "audio/087.3.mp3"
+    }
+  ]
+}

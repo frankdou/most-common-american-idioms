@@ -1,0 +1,37 @@
+{
+  "n": 990,
+  "name": "Rome wasn't built in a day",
+  "meaning": {
+    "zh": "“罗马不是一天建成的”。表示伟大的成就或事情需要时间和耐心，无法一蹴而就。\n\n这个成语来源于一个古老的谚语，指出罗马帝国的建立和辉煌不是一朝一夕就达成的，而是历经了漫长的时间和努力。在现代社会，这个表达通常用来提醒人们在面对需要长期积累和逐步实现的目标时，要保持耐心和毅力。",
+    "en": "This idiom originates from an ancient proverb, indicating that the establishment and glory of the Roman Empire were not achieved overnight but required a long period of time and effort. In modern society, this expression is often used to remind people to remain patient and persistent when facing goals that require gradual achievement and long-term accumulation."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Learning to play the guitar well takes time. *Rome wasn't built in a day*.",
+          "zh": "学会弹好吉他需要时间。罗马不是一天建成的。"
+        }
+      ],
+      "audio": "audio/990.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She reminded her team that *Rome wasn't built in a day* when they became frustrated with the slow progress.",
+          "zh": "当团队对进展缓慢感到沮丧时，她提醒大家罗马不是一天建成的。"
+        }
+      ],
+      "audio": "audio/990.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Don't worry if you can't see the results immediately. *Rome wasn't built in a day*.",
+          "zh": "如果不能马上看到结果，不要担心。罗马不是一天建成的。"
+        }
+      ],
+      "audio": "audio/990.3.mp3"
+    }
+  ]
+}

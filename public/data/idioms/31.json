@@ -1,0 +1,37 @@
+{
+  "n": 31,
+  "name": "A penny saved is a penny earned",
+  "meaning": {
+    "zh": "“省一分是一分” 或 “节约即赚钱”。\n\n这个短语起源于17世纪的谚语，通常被认为是由本杰明·富兰克林（Benjamin Franklin）普及的。它强调了储蓄和节约的重要性，表达了通过节约来积累财富的理念。在现代社会，这个表达可以用于鼓励人们节约资源和金钱，以达到经济稳定和增加财富的目的。",
+    "en": "This phrase originates from a 17th-century proverb and is often credited to Benjamin Franklin. It emphasizes the importance of saving and frugality, conveying the idea that saving money is as valuable as earning it. In modern society, this expression is used to encourage people to save resources and money in order to achieve financial stability and accumulate wealth."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "My grandma always says, \"A penny saved is a penny earned,\" whenever I spend money recklessly.",
+          "zh": "每当我乱花钱时，我奶奶总是说 “省一分是一分”。"
+        }
+      ],
+      "audio": "audio/031.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "You don't need that expensive gadget. Remember: A penny saved is a penny earned.",
+          "zh": "你不需要那个昂贵的装置。记住：“节约即赚钱”。"
+        }
+      ],
+      "audio": "audio/031.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "By making your coffee at home instead of buying it, you’re proving that a penny saved is a penny earned.",
+          "zh": "自己在家里煮咖啡而不是买，你这个行为表明了 “节约即赚钱”。"
+        }
+      ],
+      "audio": "audio/031.3.mp3"
+    }
+  ]
+}

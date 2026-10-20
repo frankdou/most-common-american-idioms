@@ -1,0 +1,37 @@
+{
+  "n": 357,
+  "name": "Drawing card",
+  "meaning": {
+    "zh": "“王牌” 或 “吸引力”。\n\n这个短语最初源自纸牌游戏中的术语，特别是指一张可以让玩家获胜的有利的牌。然而，在日常用语中，“drawing card” 泛指能吸引大量人群或能够产生巨大兴趣的因素，常用于描述一个活动、演出或节目的最大亮点或最有吸引力的部分。",
+    "en": "This phrase originated from the terminology of card games, particularly referring to a card that can lead a player to victory. However, in everyday language, \"drawing card\" refers to something that attracts a large crowd or generates significant interest, often used to describe the highlight or the most appealing part of an event, show, or program."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The new roller coaster is the main *drawing card* of the amusement park.",
+          "zh": "新开的过山车是游乐园的主要卖点。"
+        }
+      ],
+      "audio": "audio/357.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The famous actor is the *drawing card* of tonight's show.",
+          "zh": "那位著名演员是今晚演出的最大亮点。"
+        }
+      ],
+      "audio": "audio/357.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The keynote speaker is always the *drawing card* at the conference.",
+          "zh": "主题演讲者常常是会议的主要吸引点。"
+        }
+      ],
+      "audio": "audio/357.3.mp3"
+    }
+  ]
+}

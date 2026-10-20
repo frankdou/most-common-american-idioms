@@ -1,0 +1,37 @@
+{
+  "n": 820,
+  "name": "Midas touch",
+  "meaning": {
+    "zh": "金手指（指的是一个人不管碰到什么事物都会成功或变得有价值）。\n\n这个短语源自希腊神话中的迈达斯国王，他因为得到了一个愿望，拥有了碰到任何东西都能变成金子的能力。这个能力虽然最初看起来十分有利，但很快他发现这也导致他无法正常生活，因为连食物和亲人也会变成黄金。尽管如此，这个短语在现代通常是用来形容一个人具有很高的成功率或赚钱能力。",
+    "en": "This phrase originates from the Greek myth of King Midas, who was granted a wish that allowed him to turn anything he touched into gold. While this ability seemed advantageous at first, it quickly became a curse as he couldn't eat or touch loved ones without turning them into gold. Despite the original story's warning, in modern usage, this phrase typically refers to someone with a high success rate or ability to generate wealth."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He seems to have the *Midas touch*; every business he starts becomes a success.",
+          "zh": "他似乎有金手指，任何他开始的生意都会成功。"
+        }
+      ],
+      "audio": "audio/820.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "With her *Midas touch*, every project she takes on turns out profitable.",
+          "zh": "凭借她的金手指，她负责的每个项目都盈利了。"
+        }
+      ],
+      "audio": "audio/820.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Investors trust him completely because of his *Midas touch* in the stock market.",
+          "zh": "由于他在股市上的金手指，投资者完全信任他。"
+        }
+      ],
+      "audio": "audio/820.3.mp3"
+    }
+  ]
+}

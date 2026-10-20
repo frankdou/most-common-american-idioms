@@ -1,0 +1,37 @@
+{
+  "n": 1226,
+  "name": "To know by sight",
+  "meaning": {
+    "zh": "“面熟” 或 “见过面但不熟悉”。\n\n这个短语的来源可以追溯到很久以前，人们用 “by sight” 来描述认出某人或某物只是通过目视，而不是通过名字或更深入的了解。在现代使用中，这个表达通常用来描述一个人认识另一个人，但只是因为见过几次，并不是私下熟悉或了解。",
+    "en": "This phrase originates from the concept of recognizing someone or something purely by visual appearance, not by knowing them personally or by name. In modern usage, this expression typically describes a situation where one person recognizes another based on having seen them around but doesn't necessarily know them well."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I know him *by sight*, but we've never talked.",
+          "zh": "我对他有些面熟，但我们从未说过话。"
+        }
+      ],
+      "audio": "audio/1226.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She knows most of her neighbors *by sight*.",
+          "zh": "她对大多数邻居都面熟。"
+        }
+      ],
+      "audio": "audio/1226.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "They recognize each other *by sight* but aren't friends.",
+          "zh": "他们彼此面熟，但不是朋友。"
+        }
+      ],
+      "audio": "audio/1226.3.mp3"
+    }
+  ]
+}

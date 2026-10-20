@@ -1,0 +1,37 @@
+{
+  "n": 927,
+  "name": "Pie in the sky",
+  "meaning": {
+    "zh": "“空中楼阁” 或 “不切实际的幻想”。\n\n这个短语起源于美国一首工人运动歌曲《The Preacher and the Slave》，由乔·希尔（Joe Hill）创作。歌词中讽刺地使用了 “pie in the sky” 来形容那些空泛的许诺，表示这样的承诺只是幻想，不会成真。在现代英语中，这个短语常用来表示那些看似美好实际难以实现的计划或希望。",
+    "en": "This phrase originates from an American labor song \"The Preacher and the Slave\" written by Joe Hill. The lyrics use \"pie in the sky\" satirically to describe empty promises, implying that such promises are fantasies and not likely to come true. In modern English, the phrase is commonly used to indicate plans or hopes that appear promising but are unrealistic."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "His dream of becoming a movie star seems like a *pie in the sky*.",
+          "zh": "他成为电影明星的梦想看起来像是空中楼阁。"
+        }
+      ],
+      "audio": "audio/927.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "They kept talking about their grand plans, but it all felt like *pie in the sky*.",
+          "zh": "他们一直在谈论他们宏伟的计划，但这一切都感觉像是不切实际的幻想。"
+        }
+      ],
+      "audio": "audio/927.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Investing in that scheme is just chasing a *pie in the sky*.",
+          "zh": "投资那个方案只是追逐空中楼阁。"
+        }
+      ],
+      "audio": "audio/927.3.mp3"
+    }
+  ]
+}

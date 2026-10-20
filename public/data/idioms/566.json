@@ -1,0 +1,37 @@
+{
+  "n": 566,
+  "name": "Hair's breadth",
+  "meaning": {
+    "zh": "“毫厘之差” 或者 “极窄的距离”。\n\n这个短语起源于测量单位——头发的宽度，意思是非常微小的距离或者差别。这个表达方式常用以描述极其接近或者险些发生的情况。",
+    "en": "This phrase originates from the unit of measurement— the width of a hair, meaning a very small distance or difference. This expression is often used to describe situations that are extremely close or narrowly avoided."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The car missed the pedestrian by a *hair's breadth*.",
+          "zh": "那辆车以毫厘之差躲过了行人。"
+        }
+      ],
+      "audio": "audio/566.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He escaped the accident by a *hair's breadth*.",
+          "zh": "他以毫厘之差逃过了这次事故。"
+        }
+      ],
+      "audio": "audio/566.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The negotiations failed by a *hair's breadth*.",
+          "zh": "谈判以毫厘之差失败了。"
+        }
+      ],
+      "audio": "audio/566.3.mp3"
+    }
+  ]
+}

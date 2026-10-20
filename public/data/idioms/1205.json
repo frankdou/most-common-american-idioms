@@ -1,0 +1,37 @@
+{
+  "n": 1205,
+  "name": "To cry wolf",
+  "meaning": {
+    "zh": "“狼来了” 或 “虚张声势”。\n\n这个习语源自伊索寓言《狼来了》的故事。故事讲述了一个放羊的男孩多次虚假警告说狼来了，村民们一开始相信了，后来发现他在撒谎。最终，当狼真的来了时，没有人再相信他，结果他的羊被狼吃掉了。这一习语用来描述一个人多次发出虚假警报，以至于在真正需要帮助时无人再相信他。",
+    "en": "This idiom originates from Aesop's fable \"The Boy Who Cried Wolf.\" The story tells of a shepherd boy who repeatedly deceives villagers by shouting that a wolf is coming. Initially, the villagers believe him, but after realizing he's lying, they stop responding. Eventually, when the wolf actually appears, no one believes him, and his sheep are eaten. This idiom is used to describe a situation where someone raises false alarms so often that people no longer believe them when they're telling the truth."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "If you *cry wolf* too many times, people won't believe you when you're telling the truth.",
+          "zh": "如果你多次发出虚假警报，人们在你说真话时也不会相信你。"
+        }
+      ],
+      "audio": "audio/1205.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He's always crying wolf about his health; no one takes him seriously anymore.",
+          "zh": "他总是虚报自己的健康状况，现在没有人再把他的话当真了。"
+        }
+      ],
+      "audio": "audio/1205.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Don't *cry wolf* with those prank calls; it's irresponsible and dangerous.",
+          "zh": "不要用那些恶作剧电话来虚张声势；这是不负责任且危险的。"
+        }
+      ],
+      "audio": "audio/1205.3.mp3"
+    }
+  ]
+}

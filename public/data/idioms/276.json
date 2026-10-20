@@ -1,0 +1,37 @@
+{
+  "n": 276,
+  "name": "Cool your jets",
+  "meaning": {
+    "zh": "“冷静一下” 或 “放慢脚步”。\n\n这个短语源于航空航天领域，指冷却引擎，以防过热。在现代语境中，这个短语被用作提醒某人冷静下来或放慢他们的行动和情绪，以免过于激动或急躁。",
+    "en": "This phrase originates from the aerospace field, where it refers to cooling down engines to prevent overheating. In modern contexts, this idiom is used to remind someone to calm down or slow down their actions and emotions, avoiding being overly excited or impatient."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Hey, cool your jets; we'll get there in time.",
+          "zh": "嘿，冷静一下；我们会准时到的。"
+        }
+      ],
+      "audio": "audio/276.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "You need to cool your jets and think this through.",
+          "zh": "你需要冷静一下，好好思考这件事。"
+        }
+      ],
+      "audio": "audio/276.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He told her to cool her jets before making a decision.",
+          "zh": "他告诉她在做决定之前冷静一下。"
+        }
+      ],
+      "audio": "audio/276.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 411,
+  "name": "Finger lickin' good",
+  "meaning": {
+    "zh": "“吮指回味” 或 “非常美味”。\n\n这个短语起源于美国肯德基（KFC）的一则广告口号，意图描述炸鸡如此美味，以至于人们在吃完会吮指。从此，这一短语被广泛应用于形容食物非常美味，鲜美到让人难以忘怀。",
+    "en": "This idiom originates from a slogan used by KFC (Kentucky Fried Chicken) in the US, intending to convey that the fried chicken is so tasty that people would lick their fingers after eating. Since then, this phrase has been widely used to describe food that is exceptionally delicious and unforgettable."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The barbecue at that new place is *finger lickin' good*! It’s worth every penny.",
+          "zh": "那家新店的烧烤真是吮指回味！每一分钱都值。"
+        }
+      ],
+      "audio": "audio/411.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Grandma’s apple pie is *finger lickin' good*! I can never have enough.",
+          "zh": "奶奶的苹果派真是非常美味！我怎么都吃不够。"
+        }
+      ],
+      "audio": "audio/411.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "If you haven’t tried their fried chicken, you’re missing out. It’s *finger lickin' good*.",
+          "zh": "如果你还没尝过他们的炸鸡，那你真是错过了。它真的是吮指回味。"
+        }
+      ],
+      "audio": "audio/411.3.mp3"
+    }
+  ]
+}

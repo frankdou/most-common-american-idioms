@@ -1,0 +1,37 @@
+{
+  "n": 1164,
+  "name": "There's a method to his madness",
+  "meaning": {
+    "zh": "“他看似疯狂，实际上有其道理” 或 “外表疯狂，实则有理”。\n\n这个短语源自威廉·莎士比亚的戏剧 《哈姆雷特》（Hamlet）。在剧中，波洛涅斯（Polonius）观察哈姆雷特（Hamlet）的一些行为后说出这句台词，暗示尽管哈姆雷特表现得疯狂，但他所为实际上有其目的和逻辑。在现代用法中，这个短语通常用来指某人看似无序或荒谬的行为，但实际上背后有着精心安排或合理的理由。",
+    "en": "This phrase originates from William Shakespeare's play \"Hamlet.\" In the play, Polonius observes some of Hamlet's actions and comments with this phrase, suggesting that despite appearing mad, Hamlet's actions are purposeful and logical. In modern usage, the idiom generally refers to someone whose actions seem chaotic or absurd but actually have a well-thought-out rationale behind them."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Don't worry about his strange work habits; *there's a method to his madness*.",
+          "zh": "不用担心他奇怪的工作习惯；他看似疯狂，实际上有其道理。"
+        }
+      ],
+      "audio": "audio/1164.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "At first, her strategy seemed random, but soon I realized *there was a method to her madness*.",
+          "zh": "起初，她的策略似乎很随意，但很快我就意识到她的外表疯狂，实则有理。"
+        }
+      ],
+      "audio": "audio/1164.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Though his approach appeared chaotic, his results proved *there's a method to his madness*.",
+          "zh": "尽管他的方法看起来很混乱，但结果证明他确实有其道理。"
+        }
+      ],
+      "audio": "audio/1164.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 30,
+  "name": "A penny for your thoughts",
+  "meaning": {
+    "zh": "“透露一下你的想法” 或 “说说你在想什么”。\n\n这个短语起源于16世纪，用来询问别人正在思考什么。当时，一分钱虽然价值不高，但也足够换取对方的一点想法。如今，这个短语常用来表达对他人想法的兴趣或好奇心。",
+    "en": "This phrase originated in the 16th century, used to ask someone what they were thinking. At that time, a penny, though not highly valuable, was enough to solicit someone's thoughts. Nowadays, this idiom is commonly used to express interest or curiosity about what someone else is thinking."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "You've been awfully quiet. A penny for your thoughts?",
+          "zh": "你一直很安静。告诉我你在想什么好吗？"
+        }
+      ],
+      "audio": "audio/030.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "A penny for your thoughts, Sam. You seem deep in thought.",
+          "zh": "山姆，说说你在想什么吧。你看起来在深思熟虑。"
+        }
+      ],
+      "audio": "audio/030.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "A penny for your thoughts. What's bothering you?",
+          "zh": "告诉我你在想什么吧。是什么让你心烦意乱？"
+        }
+      ],
+      "audio": "audio/030.3.mp3"
+    }
+  ]
+}

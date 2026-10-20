@@ -1,0 +1,37 @@
+{
+  "n": 766,
+  "name": "Like a deer in headlights",
+  "meaning": {
+    "zh": "“像惊呆了的鹿”。意思是形容人在某种情境下被吓呆或惊慌失措，不知所措的样子。\n\n这个短语来源于鹿在夜间看到汽车前灯时的反应。鹿在被前灯照到后往往会惊呆僵住，不知道应该逃跑还是向前。这个比喻被用来形容人在面对突如其来的困境或出乎意料的情况时无法作出反应的情绪和动作。",
+    "en": "This phrase originates from the reaction of deer when they encounter oncoming headlights at night. The deer often become frozen and unable to decide whether to flee or move forward when caught in the headlights. This metaphor is used to describe a person who appears stunned or completely caught off guard in a challenging or unexpected situation."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "When the teacher asked him a difficult question, he looked *like a deer in headlights*.",
+          "zh": "当老师问他一个难题时，他完全像惊呆了的鹿。"
+        }
+      ],
+      "audio": "audio/766.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Caught off guard by the news, she stood there *like a deer in headlights*.",
+          "zh": "被消息震惊到了，她站在那里，像惊呆了的鹿。"
+        }
+      ],
+      "audio": "audio/766.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "During his first public speech, he appeared *like a deer in headlights*.",
+          "zh": "在他第一次公开演讲时，他看起来像是惊呆了的鹿。"
+        }
+      ],
+      "audio": "audio/766.3.mp3"
+    }
+  ]
+}

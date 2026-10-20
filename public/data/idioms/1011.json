@@ -1,0 +1,37 @@
+{
+  "n": 1011,
+  "name": "Say your piece",
+  "meaning": {
+    "zh": "“发表意见” 或 “说出自己的观点”。\n\n这个短语源于古英语 “say one's piece”，最初的意思是指一个人有机会在某些正式场合中发表声明或表达意见。这个理念强调每个人都有表达自己观点的权利和机会，因此该短语广泛用于任何需要发表意见的场合，如会议、讨论、辩论等。",
+    "en": "This phrase originates from Old English \"say one's piece,\" initially referring to someone's chance to make a statement or express an opinion in formal settings. The idea highlights that everyone has the right and opportunity to voice their opinions, thus the phrase is widely used in any situation where expressing an opinion is needed, such as meetings, discussions, and debates."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "At the meeting, she finally got to *say her piece* about the new policy.",
+          "zh": "在会议上，她终于有机会对新政策发表她的意见。"
+        }
+      ],
+      "audio": "audio/1011.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Before we make a decision, let's everyone *say their piece*.",
+          "zh": "在作出决定之前，让每个人都发表一下自己的看法。"
+        }
+      ],
+      "audio": "audio/1011.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He felt much better after he had a chance to *say his piece*.",
+          "zh": "在有机会说出自己的想法后，他感觉好很多了。"
+        }
+      ],
+      "audio": "audio/1011.3.mp3"
+    }
+  ]
+}

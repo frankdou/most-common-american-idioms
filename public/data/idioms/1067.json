@@ -1,0 +1,37 @@
+{
+  "n": 1067,
+  "name": "Spill the beans",
+  "meaning": {
+    "zh": "“泄漏秘密” 或 “透露真相”。\n\n这个短语的起源尚不十分明确，但最广为接受的解释与古希腊的投票制度有关。在古希腊，投票通常使用不同颜色的豆子进行。如果有人打翻了装豆子的罐子，投票的结果就会被提前泄露。因此，\"spill the beans\"（打翻豆子）成为了泄露秘密的代名词。",
+    "en": "The origin of this phrase is not entirely clear, but the most widely accepted explanation links it to an ancient Greek voting system. In ancient Greece, votes were often cast using different colored beans. If someone knocked over the container holding the beans, the results of the vote would be prematurely revealed. Hence, \"spill the beans\" became synonymous with revealing secrets."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He accidentally *spilled the beans* about the surprise party.",
+          "zh": "他不小心把关于惊喜派对的秘密泄漏了。"
+        }
+      ],
+      "audio": "audio/1067.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Don't *spill the beans* on the project; it's confidential.",
+          "zh": "别透露关于这个项目的秘密；这是机密。"
+        }
+      ],
+      "audio": "audio/1067.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She finally *spilled the beans* about why she left the company.",
+          "zh": "她最终透露了她离开公司的原因。"
+        }
+      ],
+      "audio": "audio/1067.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 719,
+  "name": "Kill two birds with one stone",
+  "meaning": {
+    "zh": "“一箭双雕” 或 “一举两得”。\n\n这个成语最早源于古希腊，字面意思是在一块石头上杀死两只鸟，代表用一次努力同时完成两个目标。这一短语经常用来描述那些能用一个简单行动同时解决两个或更多问题的情况。",
+    "en": "This idiom originates from Ancient Greece and literally means killing two birds with one stone, symbolizing accomplishing two goals with a single effort. The phrase is commonly used to describe situations where a single action effectively addresses two or more issues."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "By carpooling, we can *kill two birds with one stone*—save money on gas and reduce our carbon footprint.",
+          "zh": "通过拼车，我们可以一箭双雕——省油钱又减少碳足迹。"
+        }
+      ],
+      "audio": "audio/719.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She went shopping to get groceries and gifts, *killing two birds with one stone*.",
+          "zh": "她去购物，买了食品和礼物，一举两得。"
+        }
+      ],
+      "audio": "audio/719.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "By studying for his exams on the train, he *kills two birds with one stone*—utilizing his travel time effectively.",
+          "zh": "他在火车上复习考试，一举两得——有效利用了旅行时间。"
+        }
+      ],
+      "audio": "audio/719.3.mp3"
+    }
+  ]
+}

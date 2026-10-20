@@ -1,0 +1,37 @@
+{
+  "n": 1137,
+  "name": "The burning question",
+  "meaning": {
+    "zh": "“迫切的问题” 或 “备受关注的问题”。\n\n这个短语的起源可以追溯到19世纪后期，当时人们用 “burning”（燃烧的）来形容特别重要或紧急的事情。这个形象的表达意味着这个问题如同火焰般迫切，需要立刻得到解决。",
+    "en": "This phrase originates from the late 19th century, when \"burning\" was used to describe something particularly important or urgent. This vivid expression suggests that the issue is as pressing as a flame and needs immediate attention."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The burning question is how we can solve the climate crisis.",
+          "zh": "迫切的问题是我们如何解决气候危机。"
+        }
+      ],
+      "audio": "audio/1137.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Let's address the burning question before moving on to the next topic.",
+          "zh": "在进入下一个话题之前，我们先解决迫切的问题。"
+        }
+      ],
+      "audio": "audio/1137.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Everyone in the meeting had the same burning question: when will the new project start?",
+          "zh": "在会议上，所有人都有同样的迫切问题：新项目什么时候开始？"
+        }
+      ],
+      "audio": "audio/1137.3.mp3"
+    }
+  ]
+}

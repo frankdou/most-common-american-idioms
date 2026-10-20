@@ -1,0 +1,37 @@
+{
+  "n": 663,
+  "name": "In the loop",
+  "meaning": {
+    "zh": "“在圈内” 或 “知情”。\n\n这个短语源自商业和组织中的沟通网络，形象地表示一个人是消息链条的一部分。从而意味着该人能够及时获取到重要信息，处于消息了解和传递的环节中。在现代社会，此短语常用来描述那些对某一事件或进程拥有最新信息和充分了解的人。",
+    "en": "This phrase originates from communication networks within businesses and organizations, figuratively indicating a person as part of the information chain. It means the person can receive timely and important information, being in the loop of awareness and communication. In modern usage, this idiom often describes those who are well-informed about a particular event or process."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I need to stay *in the loop* about the project's progress.",
+          "zh": "我需要随时了解项目的进展情况。"
+        }
+      ],
+      "audio": "audio/663.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Make sure she is *in the loop* on all the key decisions.",
+          "zh": "确保她了解所有关键决策。"
+        }
+      ],
+      "audio": "audio/663.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "If you're not *in the loop*, you might miss important updates.",
+          "zh": "如果你不在圈内，你可能会错过重要更新。"
+        }
+      ],
+      "audio": "audio/663.3.mp3"
+    }
+  ]
+}

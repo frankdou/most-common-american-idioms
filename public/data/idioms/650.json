@@ -1,0 +1,37 @@
+{
+  "n": 650,
+  "name": "In my book",
+  "meaning": {
+    "zh": "“依我来看” 或 “在我看来”。\n\n这个短语源自文学中的表达方式，可以追溯到19世纪的英国文学。在书籍里，作者会写下他或她的观点或感受。而在口语中，\"in my book\" 表达了一个人对某件事的个人看法或意见，表示这是个人的主观看法，而不是一个普遍标准。",
+    "en": "This phrase originates from literary expressions, dating back to 19th-century British literature. In books, authors would write down their own viewpoints or feelings. In spoken language, \"in my book\" expresses a person's personal perspective or opinion on a matter, indicating that it is a subjective view rather than a universal standard."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "In my book, honesty is always the best policy.",
+          "zh": "依我来看，诚实永远是最好的策略。"
+        }
+      ],
+      "audio": "audio/650.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "That’s unacceptable behavior, in my book.",
+          "zh": "在我看来，那是不能接受的行为。"
+        }
+      ],
+      "audio": "audio/650.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "In my book, he’s the most talented artist of our generation.",
+          "zh": "在我看来，他是我们这一代最有才华的艺术家。"
+        }
+      ],
+      "audio": "audio/650.3.mp3"
+    }
+  ]
+}

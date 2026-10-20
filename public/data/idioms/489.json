@@ -1,0 +1,37 @@
+{
+  "n": 489,
+  "name": "Get wind of something",
+  "meaning": {
+    "zh": "“得知或听到某事” 或 “风闻”。通常指秘密或非公开的信息被无意中听到或发现。\n\n这个短语源自航海术语。在旧时，航海员依靠风向来判断周围的事物，如果他们 “得到了风”，说明他们有所察觉。现如今，这个表达用于指某人无意中听到了某些消息或秘密。",
+    "en": "This phrase originates from nautical terminology. In old times, sailors relied on the wind to gauge their surroundings; if they \"got wind\" of something, it meant they became aware of it. Nowadays, the expression refers to someone unintentionally hearing or discovering some news or a secret."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "If they get wind of our plans, the surprise will be ruined.",
+          "zh": "如果他们风闻了我们的计划，惊喜就会被破坏。"
+        }
+      ],
+      "audio": "audio/489.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I got wind of a change in the company’s management.",
+          "zh": "我听说公司管理层有变动。"
+        }
+      ],
+      "audio": "audio/489.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She got wind of the rumors about the merger before anyone else.",
+          "zh": "她最先风闻了关于合并的谣言。"
+        }
+      ],
+      "audio": "audio/489.3.mp3"
+    }
+  ]
+}

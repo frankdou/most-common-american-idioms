@@ -1,0 +1,37 @@
+{
+  "n": 701,
+  "name": "Keep my head above water",
+  "meaning": {
+    "zh": "“勉强维持生计” 或 “勉强应付困境”。\n\n这个短语源于游泳或者在水中挣扎能否使自己不被水淹没的情境。用来形容一个人努力使自己在财务或者其他压力下不被压垮。形象地描述出人在困境中努力维持生存情况。",
+    "en": "This phrase comes from the literal situation of keeping one's head above water while swimming or struggling in water to avoid drowning. It is used to describe someone trying hard to avoid being overwhelmed by financial or other pressures, vividly portraying the effort to survive in difficult situations."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "With all the bills piling up, it's hard to *keep my head above water*.",
+          "zh": "累积的账单让我的日子很难继续下去。"
+        }
+      ],
+      "audio": "audio/701.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Ever since losing my job, I've been struggling to *keep my head above water*.",
+          "zh": "自从失业以来，我一直在竭力维持生计。"
+        }
+      ],
+      "audio": "audio/701.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She has two jobs just to *keep her head above water* and support her family.",
+          "zh": "她打两份工只是为了勉强维持生计并养家。"
+        }
+      ],
+      "audio": "audio/701.3.mp3"
+    }
+  ]
+}

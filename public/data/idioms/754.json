@@ -1,0 +1,37 @@
+{
+  "n": 754,
+  "name": "Lend someone a hand",
+  "meaning": {
+    "zh": "“帮某人一个忙” 或 “帮助某人”。\n\n这个短语起源于借用自己的手去帮助别人的工作或任务。在日常生活中，这个表达用来指某人愿意帮助另一个人完成某项任务或提供某种形式的支持。",
+    "en": "This phrase originates from the literal sense of lending one's hand to help with someone's work or task. In everyday life, this expression is used to indicate that someone is willing to help another person complete a task or provide support."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Could you *lend me a hand* with these groceries?",
+          "zh": "你能帮我拿这些杂货吗？"
+        }
+      ],
+      "audio": "audio/754.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She always *lends a hand* when we need help at the office.",
+          "zh": "当我们在办公室需要帮助时，她总是伸手相助。"
+        }
+      ],
+      "audio": "audio/754.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I'm happy to *lend you a hand* with your move this weekend.",
+          "zh": "我很乐意这个周末帮你搬家。"
+        }
+      ],
+      "audio": "audio/754.3.mp3"
+    }
+  ]
+}

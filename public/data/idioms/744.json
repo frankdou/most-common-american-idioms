@@ -1,0 +1,37 @@
+{
+  "n": 744,
+  "name": "Learn the ropes",
+  "meaning": {
+    "zh": "“摸清门道” 或 “熟悉基本情况”。\n\n这个短语起源于航海，船员需要学习如何正确地使用绳索来操纵船帆和其他设备。随着时间的推移，该短语被广泛应用于各种领域，表示对于某项新任务或工作的基本程序和技巧的熟悉和掌握。",
+    "en": "This phrase originates from sailing, where sailors needed to learn how to properly handle ropes to manipulate the sails and other equipment. Over time, the phrase has been widely applied in various contexts to mean becoming familiar with the basic procedures and techniques of a new task or job."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "It will take a few weeks for the new intern to *learn the ropes*.",
+          "zh": "新实习生需要几周时间来摸清门道。"
+        }
+      ],
+      "audio": "audio/744.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Once you *learn the ropes*, the job becomes much easier.",
+          "zh": "一旦你摸清门道，工作就会变得容易得多。"
+        }
+      ],
+      "audio": "audio/744.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She's finally *learning the ropes* after being in the job for a month.",
+          "zh": "在这份工作上了一个月后，她终于摸清了门道。"
+        }
+      ],
+      "audio": "audio/744.3.mp3"
+    }
+  ]
+}

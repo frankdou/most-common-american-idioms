@@ -1,0 +1,37 @@
+{
+  "n": 623,
+  "name": "Hot under the collar",
+  "meaning": {
+    "zh": "“热锅上的蚂蚁” 或 “感到愤怒或非常恼火”。\n\n这个短语源自于想象一个人在高温环境下，脖子区域出汗并且感觉不适的情景。它生动地形容了一个人对某事感到非常愤怒或者焦躁的心情，就像在高温下无法冷静一样。“Hot under the collar” 通常用来描述由于某个特定情况或言语导致的情绪热度，尤其是愤怒。",
+    "en": "This phrase originates from the imagery of a person in a hot environment where the neck area becomes sweaty and uncomfortable. It vividly describes someone feeling very angry or agitated about something, much like being unable to stay calm in high heat. \"Hot under the collar\" is often used to describe emotions running high due to a specific situation or words, especially anger."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He got *hot under the collar* when his colleague blamed him for the mistake.",
+          "zh": "当同事责怪他错误时，他感到非常恼火。"
+        }
+      ],
+      "audio": "audio/623.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Don't get *hot under the collar*—we can fix the problem together.",
+          "zh": "别这么生气，我们可以一起解决这个问题。"
+        }
+      ],
+      "audio": "audio/623.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She was *hot under the collar* when she realized someone had taken her parking spot.",
+          "zh": "当她发现有人占了她的停车位时，她非常愤怒。"
+        }
+      ],
+      "audio": "audio/623.3.mp3"
+    }
+  ]
+}

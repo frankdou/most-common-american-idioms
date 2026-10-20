@@ -1,0 +1,37 @@
+{
+  "n": 1065,
+  "name": "Speak of the devil",
+  "meaning": {
+    "zh": "“说曹操，曹操到” 或 “说到某人，某人就出现”。\n\n这个短语源于古老的欧洲谚语，“talk of the devil and he is sure to appear”（谈论魔鬼，他必定会出现），后来逐渐演变成了现代的 “speak of the devil”。用来表示刚刚提到某人，这个人就出现了，通常带有轻松和有趣的氛围。",
+    "en": "This phrase originates from an old European proverb, \"talk of the devil and he is sure to appear\", which has gradually evolved into the modern \"speak of the devil\". It's used to indicate that the person just mentioned has appeared, often carrying a light and humorous tone."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "We were just talking about John, and *speak of the devil*, here he comes!",
+          "zh": "我们刚刚在谈论约翰，说曹操曹操到，他来了！"
+        }
+      ],
+      "audio": "audio/1065.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "*Speak of the devil*! I was just about to call you.",
+          "zh": "说曹操曹操到！我正准备给你打电话呢。"
+        }
+      ],
+      "audio": "audio/1065.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "We were discussing her new job, and *speak of the devil*, she walked in.",
+          "zh": "我们正在讨论她的新工作，说曹操曹操到，她走进来了。"
+        }
+      ],
+      "audio": "audio/1065.3.mp3"
+    }
+  ]
+}

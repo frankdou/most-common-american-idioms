@@ -1,0 +1,37 @@
+{
+  "n": 774,
+  "name": "Live and learn",
+  "meaning": {
+    "zh": "“活到老学到老” 或 “在生活中不断学习”。\n\n这个短语表示通过生活中的经历不断学习新的东西，不论是通过正面的经验还是通过犯错误。它强调了人的一生都在学习和增长见识的过程。",
+    "en": "This phrase means continuously learning from life's experiences, whether through positive experiences or by making mistakes. It emphasizes the ongoing process of learning and gaining knowledge throughout one's life."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I didn't know that the restaurant was closed on Sundays. *Live and learn*, I guess.",
+          "zh": "我不知道这家餐厅周日不营业。看来真是活到老学到老。"
+        }
+      ],
+      "audio": "audio/774.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "You thought you could fix the car yourself, but it broke down again. *Live and learn*.",
+          "zh": "你以为自己能修好车，结果它又坏了。活到老学到老。"
+        }
+      ],
+      "audio": "audio/774.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She got lost in the city but found some amazing places along the way. Well, *live and learn*.",
+          "zh": "她在城市里迷路了，但一路上发现了一些很棒的地方。嗯，活到老学到老。"
+        }
+      ],
+      "audio": "audio/774.3.mp3"
+    }
+  ]
+}

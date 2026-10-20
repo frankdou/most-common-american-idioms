@@ -1,0 +1,37 @@
+{
+  "n": 480,
+  "name": "Get the go-ahead",
+  "meaning": {
+    "zh": "“得到批准” 或 “获得许可”。\n\n这个短语来源于寻求授权或许可后的绿灯信号，可以比喻为开车时得到可以继续前进的信号灯。在工作环境中，它通常意味着某人或者某个项目获得了上司或相关方的批准，可以开始或继续进行。",
+    "en": "This idiom originates from the concept of receiving a green light or signal to proceed, similar to traffic signals. In a work context, it means that someone or a project has received approval from a superior or relevant authority to start or continue."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "We got the *go-ahead* to start the new project next week.",
+          "zh": "我们已经获得了下周开始新项目的批准。"
+        }
+      ],
+      "audio": "audio/480.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She just needs the *go-ahead* from her manager to make the changes.",
+          "zh": "她只需要得到她经理的批准就能进行更改。"
+        }
+      ],
+      "audio": "audio/480.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Once we get the *go-ahead*, we can start the construction work.",
+          "zh": "一旦我们得到许可，就可以开始施工。"
+        }
+      ],
+      "audio": "audio/480.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 20,
+  "name": "A for effort",
+  "meaning": {
+    "zh": "“努力加分” 或 “表扬你努力的精神”。\n\n这个短语来源于评分制度中的一个概念，即便考试成绩本身并不突出，但因其表现出努力的态度或精神，依然可以得到较高的评价。用在口语中，通常表示虽然某人的努力没有产生出色的结果，但他们的付出和努力应该被认可和表扬。",
+    "en": "This phrase comes from the grading system, where even if the actual performance is not outstanding, the effort and spirit shown can still earn a high evaluation. Used in colloquial speech, it typically indicates that even though someone's efforts didn't result in great success, their hard work should still be acknowledged and praised."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "You might not have won, but you definitely get an *A for effort*.",
+          "zh": "你虽然没有赢，但肯定能得到一个 “努力加分”。"
+        }
+      ],
+      "audio": "audio/020.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The project didn't work out as planned, but the team deserves an *A for effort*.",
+          "zh": "虽然项目没有按计划进行，但团队值得一个 “努力加分”。"
+        }
+      ],
+      "audio": "audio/020.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Her dance performance wasn't perfect, but she'd still get an *A for effort* from the judges.",
+          "zh": "她的舞蹈表演不完美，但评委们还是会给她一个 “努力加分”。"
+        }
+      ],
+      "audio": "audio/020.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 1111,
+  "name": "Talk through one's hat",
+  "meaning": {
+    "zh": "“胡说八道” 或 “不懂装懂”。\n\n这个短语源自19世纪美国，最初的意思是指某人空谈或说一些没根据的话。它通常带有贬义，表示某人说话时缺乏知识或经验，完全是在瞎说。",
+    "en": "This phrase originated in 19th-century America and initially meant someone was speaking nonsensically or without foundation. It usually has a pejorative connotation, indicating that someone is speaking without knowledge or experience, essentially talking nonsense."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He doesn't know anything about cars; he's just talking through his hat.",
+          "zh": "他对汽车一无所知，他只是在胡说八道。"
+        }
+      ],
+      "audio": "audio/1111.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I wouldn't believe him, I think he's talking through his hat.",
+          "zh": "我不会相信他，我认为他在不懂装懂。"
+        }
+      ],
+      "audio": "audio/1111.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Stop talking through your hat and do some research before making such claims.",
+          "zh": "别再胡说八道了，在做出这样的声明之前先做些研究。"
+        }
+      ],
+      "audio": "audio/1111.3.mp3"
+    }
+  ]
+}

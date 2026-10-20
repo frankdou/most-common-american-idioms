@@ -1,0 +1,37 @@
+{
+  "n": 959,
+  "name": "Pushing your luck",
+  "meaning": {
+    "zh": "“得寸进尺” 或 “把好运气用到极限”。\n\n这个短语的来源主要是关于人的行为，当一个人已经很幸运但试图更进一步，冒险去挑战他们的好运是否能继续。它通常用来形容那些已经获得了好处或成功的人却仍然希望得到更多，从而增加了失败的风险。",
+    "en": "This idiom originates from the idea of someone who, after having a fortunate event, tries to stretch their luck further, risking losing what they have. It is typically used to describe those who, having benefited or succeeded, aim for even more, thereby increasing the likelihood of failure."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "You've won three games in a row. Don't *push your luck* and quit while you're ahead.",
+          "zh": "你已经连赢了三局，不要得寸进尺，及时收手。"
+        }
+      ],
+      "audio": "audio/959.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I think asking for a third raise this year would be *pushing your luck*.",
+          "zh": "我认为今年再要求第三次加薪就是得寸进尺了。"
+        }
+      ],
+      "audio": "audio/959.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "You've already got the day off; asking for more time might be *pushing your luck*.",
+          "zh": "你已经请到假了，再要求更多时间可能就是得寸进尺了。"
+        }
+      ],
+      "audio": "audio/959.3.mp3"
+    }
+  ]
+}

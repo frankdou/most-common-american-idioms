@@ -1,0 +1,37 @@
+{
+  "n": 1289,
+  "name": "Walk in the park",
+  "meaning": {
+    "zh": "“轻松的事情”，或者表示一件非常容易完成的事情。\n\n这个短语的起源来自于 “在公园散步” 这种轻松愉快的活动。公园通常被认为是放松和悠闲的地方，在公园里散步是不费力气且令人愉悦的事情。因此，当某件事被形容为 “walk in the park” 时，就意味着这件事如同在公园散步一样简单轻松。",
+    "en": "This phrase originates from the idea of \"walking in the park,\" which is a relaxing and enjoyable activity. Parks are generally viewed as places of relaxation and leisure, and walking in a park is considered an effortless and pleasant activity. Hence, when something is described as a \"walk in the park,\" it implies that the task is just as easy and stress-free."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Fixing the computer was a *walk in the park* for him.",
+          "zh": "修理电脑对他来说是件轻松的事情。"
+        }
+      ],
+      "audio": "audio/1289.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Compared to last year's project, this one is a *walk in the park*.",
+          "zh": "与去年的项目相比，这个项目真是轻松多了。"
+        }
+      ],
+      "audio": "audio/1289.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Don't worry about the exam, it's going to be a *walk in the park*.",
+          "zh": "不用担心考试，这会很容易的。"
+        }
+      ],
+      "audio": "audio/1289.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 786,
+  "name": "Lose one's shirt",
+  "meaning": {
+    "zh": "“赔光所有财产” 或 “损失惨重”。\n\n这个短语起源于赌博或投资失败的情形，比如某人在赌桌上或市场投资中把身上的钱和财产全部输掉，甚而连自己的衣服也输掉了。这种表达通常用于描述某人在某次冒险或决策中的巨大经济损失。",
+    "en": "This phrase originates from situations involving gambling or failed investments where a person loses all their money and assets, to the point that they metaphorically lose the shirt off their back. It is commonly used to describe someone experiencing a significant financial loss due to risky ventures or poor decisions."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He almost lost his shirt betting on that horse race.",
+          "zh": "他几乎在那场赛马赌局中赔光了所有财产。"
+        }
+      ],
+      "audio": "audio/786.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Invest carefully, or you might lose your shirt in the stock market.",
+          "zh": "投资需谨慎，否则你可能会在股市中损失惨重。"
+        }
+      ],
+      "audio": "audio/786.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Many people lost their shirts during the economic downturn.",
+          "zh": "在经济衰退期间，许多人损失惨重。"
+        }
+      ],
+      "audio": "audio/786.3.mp3"
+    }
+  ]
+}

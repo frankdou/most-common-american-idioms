@@ -1,0 +1,37 @@
+{
+  "n": 1110,
+  "name": "Talk someone's ear off",
+  "meaning": {
+    "zh": "“说得某人耳朵都快掉了” 或 “喋喋不休地说话”。\n\n这个短语起源于对某人进行过度和冗长的说话，直到对方感到厌烦或疲惫。它形象地描绘了说话者不停地说话，以至于听者感觉自己的耳朵都快掉了。在使用时，通常带有轻微的幽默和夸张意味，适用于描述某人的 Gesprächigkeit 或在特定谈话中的冗长。",
+    "en": "This idiom originates from the idea of someone talking excessively and lengthily to the point where the listener feels overwhelmed or exhausted. It vividly illustrates a situation where the speaker continues to talk incessantly, making the listener feel as if their ears might fall off. It's often used humorously or exaggeratedly to describe someone who talks a lot or at length in a particular conversation."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He can really *talk your ear off* about his new hobby.",
+          "zh": "他可以滔滔不绝地讲他的新爱好，说得你耳朵都快掉了。"
+        }
+      ],
+      "audio": "audio/1110.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I like Sarah, but she will *talk your ear off* if you ask about her pets.",
+          "zh": "我喜欢莎拉，但如果你问起她的宠物，她会一直说个没完，让你耳朵都快掉了。"
+        }
+      ],
+      "audio": "audio/1110.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "After the meeting, Bob *talked my ear off* about his weekend plans.",
+          "zh": "会议结束后，鲍勃一直在谈论他的周末计划，说得我耳朵都快掉了。"
+        }
+      ],
+      "audio": "audio/1110.3.mp3"
+    }
+  ]
+}

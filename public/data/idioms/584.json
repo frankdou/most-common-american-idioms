@@ -1,0 +1,37 @@
+{
+  "n": 584,
+  "name": "Have time off",
+  "meaning": {
+    "zh": "“休假” 或 “有空闲时间”。\n\n这个短语用于描述某人脱离平时的工作或日常负担，有空闲时间来休息或做其他事情。它可以指正式的休假，比如请假，也可以指临时有空或者有一定时间不被任何责任束缚。",
+    "en": "This phrase is used to describe someone being free from their usual work or daily burdens, having free time to rest or do other things. It can refer to official leave, such as taking time off work, or can simply mean being temporarily free from any responsibilities."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I need to *have some time off* to relax and recharge.",
+          "zh": "我需要休假一下来放松并充电。"
+        }
+      ],
+      "audio": "audio/584.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Do you *have any time off* next week to meet up?",
+          "zh": "你下周有空闲时间见面吗？"
+        }
+      ],
+      "audio": "audio/584.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She decided to *have time off* work to travel.",
+          "zh": "她决定休假去旅行。"
+        }
+      ],
+      "audio": "audio/584.3.mp3"
+    }
+  ]
+}

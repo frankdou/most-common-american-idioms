@@ -1,0 +1,37 @@
+{
+  "n": 191,
+  "name": "Burn the candle at both ends",
+  "meaning": {
+    "zh": "“透支自己” 或 “两头烧蜡烛”。\n\n这个短语的起源可以追溯到17世纪的法国，当时蜡烛很贵，而人们如果把蜡烛两头点燃就意味着浪费和快速耗尽。这一表达后来经历变化，延伸为形容一个人过度忙碌，昼夜不停地工作或活动，最终导致精力的快速消耗和疲惫不堪。",
+    "en": "This phrase originates from 17th century France, where candles were expensive, and burning a candle at both ends signified waste and quick exhaustion. It evolved to describe a situation where someone is overly busy, working or engaging in activities both day and night, ultimately leading to rapid depletion of energy and exhaustion."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "She's been *burning the candle at both ends* to meet all her deadlines.",
+          "zh": "为了赶上所有的截止日期，她一直在透支自己。"
+        }
+      ],
+      "audio": "audio/191.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "If you keep *burning the candle at both ends*, you'll eventually burn out.",
+          "zh": "如果你继续两头烧蜡烛，最终会力竭的。"
+        }
+      ],
+      "audio": "audio/191.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He’s been *burning the candle at both ends* with his job and night classes.",
+          "zh": "他的工作和夜校课程让他透支了自己。"
+        }
+      ],
+      "audio": "audio/191.3.mp3"
+    }
+  ]
+}

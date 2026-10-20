@@ -1,0 +1,37 @@
+{
+  "n": 401,
+  "name": "Feel/look like death warmed over",
+  "meaning": {
+    "zh": "“感觉/看起来像被加热的死亡” 或 “打扮得像个鬼”。\n\n这个成语用来形容一个人看起来非常不健康、疲惫或病态。它常用于描述一个人因生病、疲劳或其他原因而看起来或感觉非常糟糕的状况。",
+    "en": "This idiom is used to describe someone who looks or feels extremely unwell, tired, or sick. It is often used when someone appears or feels awful due to illness, fatigue, or other factors."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "After staying up all night, I really *feel like death warmed over*.",
+          "zh": "熬了一整夜之后，我真的感觉像个鬼。"
+        }
+      ],
+      "audio": "audio/401.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "You should go see a doctor; you *look like death warmed over*.",
+          "zh": "你应该去看医生，你看起来糟透了。"
+        }
+      ],
+      "audio": "audio/401.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "After the long flight, everyone on the plane *looked like death warmed over*.",
+          "zh": "长途飞行后，飞机上所有人看起来都像个鬼。"
+        }
+      ],
+      "audio": "audio/401.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 204,
+  "name": "By word of mouth",
+  "meaning": {
+    "zh": "“口口相传” 或 “以口头传达的方式”。\n\n这个短语源自于人们通过谈话传播信息和消息的方式，而不是通过书面或电子媒体。在商业和日常生活中，“By word of mouth” 常常用于描述信息、新闻或推荐通过人与人之间的交流而传播开来的情形。",
+    "en": "This phrase comes from the method of spreading information and messages through spoken conversation, rather than written or electronic media. In business and everyday life, \"By word of mouth\" is often used to describe situations where information, news, or recommendations are spread through interpersonal communication."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The restaurant's popularity grew *by word of mouth*.",
+          "zh": "这家餐馆的名气是通过口口相传增加的。"
+        }
+      ],
+      "audio": "audio/204.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I heard about the event *by word of mouth* from a friend.",
+          "zh": "我是通过一个朋友的口头介绍知道这个活动的。"
+        }
+      ],
+      "audio": "audio/204.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Many local businesses rely on *word of mouth* for advertising.",
+          "zh": "许多本地企业依靠口口相传来做广告。"
+        }
+      ],
+      "audio": "audio/204.3.mp3"
+    }
+  ]
+}

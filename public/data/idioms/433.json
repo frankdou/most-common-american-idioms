@@ -1,0 +1,37 @@
+{
+  "n": 433,
+  "name": "Fool's Gold",
+  "meaning": {
+    "zh": "“愚人金” 或 “骗人的东西”。\n\n这个短语起源于一种外观与金子相似但毫无价值的矿物——黄铁矿（Pyrite）。在淘金热时期，许多淘金者因为误把这种矿物当成黄金而大失所望。黄铁矿的欺骗性使得 “Fool's Gold” 逐渐演变为比喻那些看上去有价值但实际上毫无用处或虚假的事物。",
+    "en": "This phrase originates from a mineral called pyrite, which looks similar to gold but is practically worthless. During the gold rush, many prospectors were disappointed after mistaking this mineral for real gold. Due to the deceiving appearance of pyrite, \"Fool's Gold\" has metaphorically come to describe things that appear valuable but are actually useless or false."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The investment seemed promising, but it turned out to be *fool's gold*.",
+          "zh": "这项投资看起来很有前途，但结果却是愚人金。"
+        }
+      ],
+      "audio": "audio/433.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Don't be deceived by appearances; sometimes it's just *fool's gold*.",
+          "zh": "不要被外表欺骗，有时那只是愚人金。"
+        }
+      ],
+      "audio": "audio/433.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "His grand promises were just *fool's gold*—nothing ever came of them.",
+          "zh": "他的宏大承诺不过是愚人金——什么都没有实现。"
+        }
+      ],
+      "audio": "audio/433.3.mp3"
+    }
+  ]
+}

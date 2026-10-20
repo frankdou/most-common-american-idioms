@@ -1,0 +1,37 @@
+{
+  "n": 344,
+  "name": "Don't want to hear that",
+  "meaning": {
+    "zh": "“不想听那个” 或 “不愿意听那个”。\n\n这个短语表示某人对某个事实、信息或者某个人所说的话不感兴趣，或者拒绝接受该信息。它通常用来表达一种厌烦、不愿意进一步讨论或者听到某个话题的情感。",
+    "en": "This phrase indicates that someone is not interested in or refuses to accept a particular fact, piece of information, or what someone has said. It generally conveys a sense of annoyance, unwillingness to discuss, or hear more on a certain topic."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I don't want to hear that you're quitting the team.",
+          "zh": "我不想听你说你要退出团队。"
+        }
+      ],
+      "audio": "audio/344.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He didn't want to hear that the project was delayed again.",
+          "zh": "他不想听到项目又被延期了。"
+        }
+      ],
+      "audio": "audio/344.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She doesn't want to hear that her proposal was rejected.",
+          "zh": "她不愿意听她的提议被拒绝了。"
+        }
+      ],
+      "audio": "audio/344.3.mp3"
+    }
+  ]
+}

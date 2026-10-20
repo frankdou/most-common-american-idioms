@@ -1,0 +1,37 @@
+{
+  "n": 4,
+  "name": "A ballpark figure",
+  "meaning": {
+    "zh": "“大致的数字” 或 “粗略的估算”。\n\n这个短语起源于美国棒球比赛中的 “球场”（ballpark），球场的面积给人一种宽泛但明确的范围感。后来，这个用语逐渐被用来表示粗略的或非精确的数字估计。通常在需要快速判断，但没有时间或数据进行精确计算的情况下使用这个表达。",
+    "en": "This phrase originates from the \"ballpark\" in American baseball games, which gives a sense of a broad but defined range. Over time, this term evolved to refer to an approximate or rough estimate. It is commonly used in situations requiring a quick judgment without the precision of detailed calculations."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Can you give me a *ballpark figure* of the total cost?",
+          "zh": "你能给我一个大致的总成本吗？"
+        }
+      ],
+      "audio": "audio/004.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Give me a *ballpark figure* and we'll refine it later.",
+          "zh": "给我一个大致的数字，我们稍后再细化。"
+        }
+      ],
+      "audio": "audio/004.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I need a *ballpark figure* for how long this project will take.",
+          "zh": "我需要一个这个项目大概需要多长时间的估计。"
+        }
+      ],
+      "audio": "audio/004.3.mp3"
+    }
+  ]
+}

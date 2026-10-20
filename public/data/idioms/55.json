@@ -1,0 +1,37 @@
+{
+  "n": 55,
+  "name": "Across the board",
+  "meaning": {
+    "zh": "全面的；普遍的；在所有方面。\n\n“Across the board” 这个短语起源于赛马术语，指的是在所有的赛道上投注。但是，在现代英语中，它被广泛用于表示某个方面、领域或组织的所有部分或成员。通常用于描述普遍的变化，措施或应用。",
+    "en": "This phrase originates from horse racing terminology, referring to placing bets on all of the races. In modern English, it is widely used to signify something that affects all parts or members of a given area, field, or organization. It typically describes widespread changes, measures, or applications."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The company announced a *10% salary increase across the board* for all employees.",
+          "zh": "公司宣布全体员工普遍加薪 10%。"
+        }
+      ],
+      "audio": "audio/055.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "There will be budget cuts *across the board* next year.",
+          "zh": "明年将全面削减预算。"
+        }
+      ],
+      "audio": "audio/055.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The new policy applies *across the board* regardless of seniority.",
+          "zh": "新政策无论资历如何，适用于所有人。"
+        }
+      ],
+      "audio": "audio/055.3.mp3"
+    }
+  ]
+}

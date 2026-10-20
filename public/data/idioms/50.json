@@ -1,0 +1,37 @@
+{
+  "n": 50,
+  "name": "Absentminded",
+  "meaning": {
+    "zh": "“心不在焉” 或 “健忘的”。\n\n这个短语通常用来描述一个人思想不集中或忘事的状态。“Absent” 意为 “缺席” 或 “不在”，而 “minded” 则来自 “mind”，意思是 “心智” 或 “思想”。合起来，“absentminded” 描述的是一个人的心思仿佛 “缺席了”，，即他或她没有集中注意力。",
+    "en": "This phrase is often used to describe a state of being inattentive or forgetful. \"Absent\" means \"missing\" or \"not present,\" and \"minded\" comes from \"mind,\" referring to one's intellect or thoughts. Combined, \"absentminded\" describes someone whose thoughts feel absent, i.e., not focused."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He's always so *absentminded*; he forgot his keys again.",
+          "zh": "他总是如此心不在焉；他又忘记带钥匙了。"
+        }
+      ],
+      "audio": "audio/050.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "An *absentminded* professor might leave his notes at home.",
+          "zh": "一位健忘的教授可能会把笔记落在家里。"
+        }
+      ],
+      "audio": "audio/050.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She seems *absentminded* these days, always lost in thought.",
+          "zh": "她最近似乎总是心不在焉，总是在发呆。"
+        }
+      ],
+      "audio": "audio/050.3.mp3"
+    }
+  ]
+}

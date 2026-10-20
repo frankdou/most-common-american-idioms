@@ -1,0 +1,37 @@
+{
+  "n": 551,
+  "name": "Grasping at straws",
+  "meaning": {
+    "zh": "“抓住救命稻草” 或 “孤注一掷”。\n\n这个成语起源于古代的一个比喻，指溺水的人为了求生，即使是一根稻草也会抓住，因为他们没有别的选择。在现代，这个成语用来形容人在极端或绝望的情况下，为了生存或成功而尝试任何一线希望或采取任何措施，尽管这些措施可能无效。",
+    "en": "This idiom originates from an old metaphor where a drowning person, in a desperate attempt to survive, would grasp at even a straw, having no other options. In modern usage, it describes situations where someone in extreme or desperate circumstances attempts any means they can, even if these means are likely to be ineffective."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "In his search for a cure, he was *grasping at straws* by trying various unproven remedies.",
+          "zh": "为了寻找一种治愈方法，他尝试各种未经证明的疗法，真的是在抓住救命稻草。"
+        }
+      ],
+      "audio": "audio/551.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "With no real evidence, the detective felt like he was just *grasping at straws*.",
+          "zh": "没有确凿的证据，那位侦探感觉自己不过是在抓住救命稻草。"
+        }
+      ],
+      "audio": "audio/551.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He knew the job was almost impossible, but he kept *grasping at straws* in hopes of success.",
+          "zh": "他知道这份工作几乎是不可能完成的，但他依然抓住救命稻草，希望能成功。"
+        }
+      ],
+      "audio": "audio/551.3.mp3"
+    }
+  ]
+}

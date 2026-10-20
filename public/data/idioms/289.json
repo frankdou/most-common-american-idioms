@@ -1,0 +1,37 @@
+{
+  "n": 289,
+  "name": "Crickets",
+  "meaning": {
+    "zh": "“寂静无声” 或 “无人回应”。\n\n这个成语的起源与蟋蟀的叫声有关。蟋蟀通常在夜晚静怡的环境中鸣叫，因此当一切都很安静的时候，你可能会只听到蟋蟀的声音。在口语中，“crickets” 被用来形容在预期会有回应或某种反应时却只听到寂静无声的尴尬局面，暗示没有得到期待中的回应。",
+    "en": "This idiom originates from the sound of crickets chirping, which is typically heard in a quiet, undisturbed environment at night. When used in conversation, \"crickets\" describes an awkward situation where one expects a response or reaction but is met with silence, suggesting that no one has answered or reacted as anticipated."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I asked the audience for questions, but it was just *crickets*.",
+          "zh": "我向观众征求问题，但结果是一片寂静。"
+        }
+      ],
+      "audio": "audio/289.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "After I told my joke, there were only *crickets*.",
+          "zh": "我讲完笑话后，只有一片寂静。"
+        }
+      ],
+      "audio": "audio/289.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "When I asked for volunteers, I was met with *crickets*.",
+          "zh": "当我征求志愿者时，却无人回应。"
+        }
+      ],
+      "audio": "audio/289.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 831,
+  "name": "Move some things around",
+  "meaning": {
+    "zh": "“调整安排” 或 “腾出时间”。\n\n这个短语通常用于表示需要更改或重新安排某些计划、活动或日程，以便适应新的情况或要求。它常常涉及到将一些先前计划好的事情移到其他时间，或改变优先级，以便腾出时间或空间来做新的事情。",
+    "en": "This phrase is commonly used to indicate the need to change or rearrange certain plans, activities, or schedules to accommodate new situations or demands. It often involves moving previously planned things to other times or changing priorities to free up time or space for new tasks."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I need to *move some things around* to fit in the meeting tomorrow.",
+          "zh": "我需要调整一些安排才能参加明天的会议。"
+        }
+      ],
+      "audio": "audio/831.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Can you *move some things around* and take the kids to school?",
+          "zh": "你能调整一下安排送孩子们上学吗？"
+        }
+      ],
+      "audio": "audio/831.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I'll have to *move some things around* on my calendar to make it to the doctor’s appointment.",
+          "zh": "我得在日程表上调整一些安排，才能赶上看医生的预约。"
+        }
+      ],
+      "audio": "audio/831.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 158,
+  "name": "Blew me away",
+  "meaning": {
+    "zh": "“让我惊呆了” 或 “让我大吃一惊”。\n\n这个短语最早出现在20世纪美国的俚语中，最初是用来形容某个人物非常令人印象深刻或表现得异常出色，以至于让观众产生了极大的震撼，仿佛被强风吹走了一般。现在，它被广泛用来描述任何令人非常惊讶或印象非常深刻的事情。",
+    "en": "This phrase first appeared in 20th century American slang, originally used to describe someone who was highly impressive or performed exceptionally well, causing great shock or amazement among the audience, as if they were blown away by a strong wind. Now, it is widely used to describe anything that is very surprising or leaves a strong impression."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Her performance in the play *blew me away*. It was phenomenal!",
+          "zh": "她在戏剧中的表现让我大吃一惊，真是太棒了！"
+        }
+      ],
+      "audio": "audio/158.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The amazing view from the top of the mountain *blew me away*.",
+          "zh": "山顶的美景让我惊呆了。"
+        }
+      ],
+      "audio": "audio/158.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I listened to the new album, and it *blew me away*.",
+          "zh": "我听了这张新专辑，它真让我惊艳。"
+        }
+      ],
+      "audio": "audio/158.3.mp3"
+    }
+  ]
+}

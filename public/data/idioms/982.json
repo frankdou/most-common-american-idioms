@@ -1,0 +1,37 @@
+{
+  "n": 982,
+  "name": "Red in the face",
+  "meaning": {
+    "zh": "\"脸红\" 或 \"感到尴尬\"。\n\n这个表达法源自人体生理反应中的红脸。当人们感到尴尬、窘迫或者恼怒时，血液会涌向脸部，使面部变红。因此，“red in the face” 用来形容一个人由于情感上的波动而脸红。",
+    "en": "This expression originates from the physiological response of blushing. When people feel embarrassed, flustered, or angry, blood rushes to the face causing it to turn red. Therefore, \"red in the face\" is used to describe someone blushing due to emotional reaction."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He was so embarrassed that he turned *red in the face*.",
+          "zh": "他因为太尴尬而脸红了。"
+        }
+      ],
+      "audio": "audio/982.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She got *red in the face* when she realized she had made a mistake in the meeting.",
+          "zh": "当她意识到在会议上犯了错误时她的脸红了。"
+        }
+      ],
+      "audio": "audio/982.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Whenever he speaks in public, he always turns *red in the face*.",
+          "zh": "每当他在公开场合讲话时，他总是会脸红。"
+        }
+      ],
+      "audio": "audio/982.3.mp3"
+    }
+  ]
+}

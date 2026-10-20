@@ -1,0 +1,37 @@
+{
+  "n": 189,
+  "name": "Burgers and dogs",
+  "meaning": {
+    "zh": "“汉堡和热狗” 或 “常见的烧烤食物”。\n\n这个短语在美国通常用来表示典型的烧烤或野餐食品，即汉堡包和热狗。这些食物在美国文化中非常流行，尤其是在家庭聚餐、烧烤派对、运动赛事等场合中。这一说法往往用来泛指这些社交或户外活动中所吃的简单、经典的食物。",
+    "en": "This phrase is commonly used in the United States to denote typical barbecue or picnic foods, namely hamburgers and hot dogs. These foods are quite popular in American culture, especially at family gatherings, barbecue parties, sporting events, and similar occasions. The phrase often broadly refers to these simple, classic foods eaten during such social or outdoor activities."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "We're having a cookout this weekend, so we'll need plenty of *burgers and dogs*.",
+          "zh": "这个周末我们要办烧烤，所以需要准备很多汉堡和热狗。"
+        }
+      ],
+      "audio": "audio/189.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "At the tailgate party, everyone brought some *burgers and dogs* to share.",
+          "zh": "在比赛前的尾箱派对上，每个人都带了一些汉堡和热狗来分享。"
+        }
+      ],
+      "audio": "audio/189.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Nothing says summer like grilling some *burgers and dogs* in the backyard.",
+          "zh": "没有什么比在后院烤几个汉堡和热狗更能代表夏天了。"
+        }
+      ],
+      "audio": "audio/189.3.mp3"
+    }
+  ]
+}

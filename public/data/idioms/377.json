@@ -1,0 +1,37 @@
+{
+  "n": 377,
+  "name": "Elevator Pitch",
+  "meaning": {
+    "zh": "“电梯游说” 或 “电梯推介”。\n\n这个短语源于一个假设情境：假设你与一个重要人物同在一部电梯内，你要在短短几秒钟内向对方简明扼要地介绍你的想法、产品或自己。这个 “电梯推介” 通常被用来表示简明、高效且有力的自我介绍或推介，通常在商业或专业环境中使用。",
+    "en": "This phrase originates from a hypothetical scenario where you find yourself in an elevator with a significant person and have only a few seconds to briefly and compellingly present your idea, product, or yourself. An \"elevator pitch\" is typically used to describe a concise, effective, and powerful self-introduction or proposal, primarily in business or professional settings."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "She practiced her *elevator pitch* before the networking event.",
+          "zh": "她在社交活动前反复练习她的电梯推介。"
+        }
+      ],
+      "audio": "audio/377.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "In just two minutes, he delivered a convincing *elevator pitch* to the investors.",
+          "zh": "在短短两分钟内，他向投资者们做了一个令人信服的电梯推介。"
+        }
+      ],
+      "audio": "audio/377.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "An effective *elevator pitch* can make all the difference in getting a job interview.",
+          "zh": "一个有效的电梯推介可以在获得面试机会方面起到决定性作用。"
+        }
+      ],
+      "audio": "audio/377.3.mp3"
+    }
+  ]
+}

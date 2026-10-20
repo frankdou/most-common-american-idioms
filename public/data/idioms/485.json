@@ -1,0 +1,37 @@
+{
+  "n": 485,
+  "name": "Get this show on the road",
+  "meaning": {
+    "zh": "“开始行动” 或 “开始进行事情”。\n\n这个短语起源于娱乐表演，特别是巡回演出。在巡演开始之前，表演者和工作人员需要把所有的装备装上卡车，然后前往下一站点。因此，“Get this show on the road” 意味着准备一切，然后开始行动。在日常生活中，这个短语可以用于各种情况，以传达 “是时候开始” 或 “我们应该开始做某事了” 的意思。",
+    "en": "This phrase originates from the world of entertainment, particularly touring shows. Before a tour begins, performers and staff need to load all their equipment onto trucks and head to the next venue. Therefore, \"Get this show on the road\" means to get everything ready and then start moving. In everyday life, this phrase can be used in various situations to convey the idea that it's time to start or we should begin doing something."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "We have everything set up; let's get this show on the road.",
+          "zh": "我们都准备好了，开始行动吧。"
+        }
+      ],
+      "audio": "audio/485.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "It's already 10 AM. We need to get this show on the road!",
+          "zh": "已经上午十点了，我们该开始行动了！"
+        }
+      ],
+      "audio": "audio/485.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "We can't afford to wait any longer. Let's get this show on the road.",
+          "zh": "我们不能再等了，现在开始行动吧。"
+        }
+      ],
+      "audio": "audio/485.3.mp3"
+    }
+  ]
+}

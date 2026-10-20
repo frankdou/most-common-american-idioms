@@ -1,0 +1,37 @@
+{
+  "n": 897,
+  "name": "Out of left field",
+  "meaning": {
+    "zh": "“出乎意料” 或 “突然”。这个短语用来形容某个想法、评论或事件完全出人意料，通常是毫无预警的。\n\n这个短语源于棒球运动。棒球场的左外场位置通常离本垒较远，因此当左外场传来球时，击球手往往难以预料。在棒球之外，这个描述扩展到了人生中的意外事件或评论。",
+    "en": "This phrase originates from baseball. The left field position in a baseball field is usually far from home plate, so when a ball comes from left field, it's often unexpected by the batter. Beyond baseball, this description has expanded to unexpected events or comments in life."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Her suggestion to move to Alaska came *out of left field*.",
+          "zh": "她提议搬到阿拉斯加，真是出乎意料。"
+        }
+      ],
+      "audio": "audio/897.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The new policy was completely *out of left field* and surprised everyone.",
+          "zh": "新政策完全出乎意料，大家都感到很惊讶。"
+        }
+      ],
+      "audio": "audio/897.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "That question came *out of left field* and I wasn’t prepared to answer it.",
+          "zh": "那个问题完全出乎意料，我没准备回答它。"
+        }
+      ],
+      "audio": "audio/897.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 836,
+  "name": "My hands are tied",
+  "meaning": {
+    "zh": "“我束手无策” 或 “我的手被绑住了（无法作为）”。\n\n这个短语源自一种视觉上的比喻，表示一个人由于某种限制而无法行动或完成某事。就像一个人的手被实际绑住一样，他们无法进行任何工作或行动。在现代用法中，这个短语用以描述由于外部因素的限制而无法采取行动或做出改变的情况。",
+    "en": "This phrase originates from a visual metaphor where a person is unable to act or complete a task because of some sort of restriction. Just like someone's hands being literally tied, they are unable to perform any actions. In modern usage, this phrase is employed to describe situations where external factors limit one's ability to act or make changes."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I'd love to help, but *my hands are tied* due to company policy.",
+          "zh": "我很想帮忙，但是由于公司政策，我束手无策。"
+        }
+      ],
+      "audio": "audio/836.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I can't approve your request; *my hands are tied* by the regulations.",
+          "zh": "我不能批准你的请求；我被规定所限制，束手无策。"
+        }
+      ],
+      "audio": "audio/836.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I wish I could lend you the money you need, but *my hands are tied* right now.",
+          "zh": "我希望能借给你需要的钱，但我现在束手无策。"
+        }
+      ],
+      "audio": "audio/836.3.mp3"
+    }
+  ]
+}

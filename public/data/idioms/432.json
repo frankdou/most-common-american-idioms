@@ -1,0 +1,37 @@
+{
+  "n": 432,
+  "name": "Fool around",
+  "meaning": {
+    "zh": "“闲逛” 或 “胡闹”。\n\n这个短语来源于日常对行为的描述，表示轻松、无责任地消磨时间，并且可能会涉及某些愚弄或不负责任的行为。在不同的情境中，这个短语可以用于描述无所事事地轻松消遣，或者在不合适的场合下做一些不负责任的、愚蠢的事情。",
+    "en": "This phrase originates from casual descriptions of behavior, meaning to spend time in a relaxed, unresponsible manner, and may involve some foolish or irresponsible actions. In different contexts, the phrase can be used to describe idly having fun or doing irresponsible, silly things in inappropriate situations."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Stop *fooling around* and focus on your homework.",
+          "zh": "别胡闹了，专心做你的作业。"
+        }
+      ],
+      "audio": "audio/432.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The kids were *fooling around* in the backyard all afternoon.",
+          "zh": "孩子们整个下午都在后院胡闹。"
+        }
+      ],
+      "audio": "audio/432.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I'm tired of *fooling around*, let's do something productive.",
+          "zh": "我厌倦了闲逛，我们做些有意义的事情吧。"
+        }
+      ],
+      "audio": "audio/432.3.mp3"
+    }
+  ]
+}

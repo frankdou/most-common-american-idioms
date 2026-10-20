@@ -1,0 +1,37 @@
+{
+  "n": 597,
+  "name": "Hear it on the grapevine",
+  "meaning": {
+    "zh": "“通过小道消息听说” 或 “听到传闻”。\n\n这个短语起源于美国南北战争时期，当时传输信息的电报线路因其弯弯曲曲的样子被戏称为 “葡萄藤（grapevine）”。随着时间的推移，这个表达逐渐演变成我们如今所知的小道消息和非正式渠道传递信息的意思。",
+    "en": "This phrase originates from the American Civil War period when the telegraph lines, which were used to transmit messages, were sometimes referred to as \"grapevines\" due to their winding nature. Over time, this expression evolved to mean receiving information through unofficial channels and hearsay."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I *heard it on the grapevine* that they are planning to merge with another company.",
+          "zh": "我通过小道消息听说他们计划与另一家公司合并。"
+        }
+      ],
+      "audio": "audio/597.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She *heard it on the grapevine* that her favorite teacher is leaving school.",
+          "zh": "她听到传闻说她最喜欢的老师要离开学校了。"
+        }
+      ],
+      "audio": "audio/597.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "You can't trust everything you *hear on the grapevine*.",
+          "zh": "你不能相信所有的小道消息。"
+        }
+      ],
+      "audio": "audio/597.3.mp3"
+    }
+  ]
+}

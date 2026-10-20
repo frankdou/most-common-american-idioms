@@ -1,0 +1,37 @@
+{
+  "n": 488,
+  "name": "Get up on the wrong side of bed",
+  "meaning": {
+    "zh": "“起床气” 或 “一大早就情绪不好”。\n\n这个短语的来源可以追溯到古代，人们认为从床的左侧下床会带来坏运气，因此他们总是从右侧下床。因此，当一个人早上起来情绪不好时，就会说他 “从床的错误的一侧起来了”。这个短语用于描述某人一整天都处于糟糕的情绪或心情，仿佛他的坏情绪从早晨起床时就开始了。",
+    "en": "This idiom originates from ancient times when people believed that getting out of bed on the left side was bad luck, so they always got out of bed on the right side. Therefore, when someone is in a bad mood from the morning, it is said that they \"got up on the wrong side of the bed.\" This phrase is used to describe someone who is in a bad mood all day long, as if their bad mood started the moment they woke up."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He must have *gotten up on the wrong side of the bed* because he's been grumpy all day.",
+          "zh": "他一定是早上起床气，因为他一整天都在发脾气。"
+        }
+      ],
+      "audio": "audio/488.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Why are you so irritable? Did you *get up on the wrong side of the bed* this morning?",
+          "zh": "你今天怎么这么烦躁？你今天早上是不是起床气？"
+        }
+      ],
+      "audio": "audio/488.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She tends to *get up on the wrong side of the bed* if she doesn't get enough sleep.",
+          "zh": "如果她睡眠不足，她通常会有起床气。"
+        }
+      ],
+      "audio": "audio/488.3.mp3"
+    }
+  ]
+}

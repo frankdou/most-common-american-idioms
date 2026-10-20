@@ -1,0 +1,37 @@
+{
+  "n": 132,
+  "name": "Bestie",
+  "meaning": {
+    "zh": "“死党” 或 “闺蜜”。\n\n这个短语是源自英语单词 \"Best Friend\"（最好的朋友），\"Bestie\" 是其缩写形式。在口语中，这是指关系最亲密、无话不谈的朋友，通常性别并不限定。在现代社会，这个词多用于描述和自己非常亲近的朋友，不论彼此的关系有多长久，都可以称呼为 \"Bestie\"。",
+    "en": "This phrase originates from the term \"Best Friend\" and is an abbreviation of the same. In spoken language, it refers to a friend with whom one shares a close, trusting relationship, typically without regard to gender. In modern contexts, the term is broadly used to describe a very close friend, regardless of the duration of the relationship."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "My *bestie* and I are going on a road trip this weekend.",
+          "zh": "我的死党和我这个周末要去自驾游。"
+        }
+      ],
+      "audio": "audio/132.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "We talk about everything; she's my *bestie*.",
+          "zh": "我们无话不谈；她是我的闺蜜。"
+        }
+      ],
+      "audio": "audio/132.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I can always count on my *bestie* for support.",
+          "zh": "我总是可以依赖我的死党给予支持。"
+        }
+      ],
+      "audio": "audio/132.3.mp3"
+    }
+  ]
+}

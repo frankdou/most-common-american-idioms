@@ -1,0 +1,37 @@
+{
+  "n": 765,
+  "name": "Like a chicken with its head cut off",
+  "meaning": {
+    "zh": "“像一只没头的鸡” 或 “惊慌失措”。\n\n这个短语源于宰鸡的过程：当鸡的头被砍掉后，它的身体还会因为神经系统的作用而四处乱跑。这种状态被用来形象地比喻一个人在没有明确方向和目的的情况下惊慌失措地做事。",
+    "en": "This phrase originates from the process of slaughtering chickens: when a chicken's head is cut off, its body can still run around due to the nervous system's response. This condition is metaphorically used to describe someone acting in a panicked and disorganized manner without clear direction or purpose."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He was running around *like a chicken with its head cut off*, trying to get everything ready for the party.",
+          "zh": "他就像一只没头的鸡一样满地乱跑，想把派对准备好。"
+        }
+      ],
+      "audio": "audio/765.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "After the announcement, the employees were *like chickens with their heads cut off*, unsure of what to do next.",
+          "zh": "在宣布之后，员工们像没头的鸡一样，不知接下来该做什么。"
+        }
+      ],
+      "audio": "audio/765.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "When the fire alarm went off, people were running *like chickens with their heads cut off*.",
+          "zh": "当火警响起时，人们像没头的鸡一样四处奔跑。"
+        }
+      ],
+      "audio": "audio/765.3.mp3"
+    }
+  ]
+}

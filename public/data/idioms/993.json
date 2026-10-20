@@ -1,0 +1,37 @@
+{
+  "n": 993,
+  "name": "Rule of thumb",
+  "meaning": {
+    "zh": "“经验法则” 或 “通常通则”。\n\n“Rule of thumb” 这个短语源自于古老的木匠方法，他们用大拇指宽度来作粗略的测量标准。在现代，这个词用来表示基于经验而非精确测量的规则或指导方针，常常用在需要快速、简便地做出判断或决定的场合。",
+    "en": "The idiom \"rule of thumb\" originates from an old carpenter's method, where the width of the thumb was used for rough measurements. In modern usage, it refers to a guideline or principle based on experience and common sense rather than precise measurement, often used in situations where quick and practical decisions are needed."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "A good *rule of thumb* is to save at least 10% of your income.",
+          "zh": "一个很好的经验法则是储存至少 10% 的收入。"
+        }
+      ],
+      "audio": "audio/993.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "As a *rule of thumb*, you should drink eight glasses of water a day.",
+          "zh": "根据经验法则，你每天应该喝八杯水。"
+        }
+      ],
+      "audio": "audio/993.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "When cooking for a large group, a good *rule of thumb* is to make one and a half times the amount you normally would.",
+          "zh": "为大量人群做饭时，一个好的经验法则是做通常数量的一倍半。"
+        }
+      ],
+      "audio": "audio/993.3.mp3"
+    }
+  ]
+}

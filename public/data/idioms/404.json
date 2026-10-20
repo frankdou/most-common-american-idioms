@@ -1,0 +1,37 @@
+{
+  "n": 404,
+  "name": "Field day",
+  "meaning": {
+    "zh": "“尽情享受” 或 “大显身手”。\n\n“Field day” 最初指的是军事训练中的露天演习日。在这样的日子里，士兵们可以在户外进行各种活动和演习。后来，这个短语逐渐演变成一种比喻，用来形容一段时间内人们能够尽情享受或大展身手的情境。",
+    "en": "The term “field day” originally referred to a day of outdoor military exercises. On such days, soldiers could engage in various activities and drills outdoors. Over time, this phrase evolved into a metaphorical expression used to describe a period during which people can thoroughly enjoy themselves or display their skills prominently."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The media had a *field day* with the politician's scandal.",
+          "zh": "媒体对这位政治家的丑闻大肆报道，犹如过节一般。"
+        }
+      ],
+      "audio": "audio/404.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The kids had a *field day* at the amusement park.",
+          "zh": "孩子们在游乐园里玩得特别开心。"
+        }
+      ],
+      "audio": "audio/404.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "When the software crashed, the hackers had a *field day* exploiting the vulnerabilities.",
+          "zh": "当软件崩溃时，黑客们利用漏洞大肆作乱。"
+        }
+      ],
+      "audio": "audio/404.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 297,
+  "name": "Cut and dried",
+  "meaning": {
+    "zh": "“固定的” 或 “已成定局的”。\n\n这个短语最初用于描述已经准备好的草药或者干草，因为这些草药或干草在被切割并乾燥以后就不再变化了。随着时间的推移，这个短语被延伸用于形容那些已经固定下来、不再变化或者没有争议的事情。",
+    "en": "This phrase originally referred to herbs or hay that were prepared and ready for use because, once they were cut and dried, there was no further change in them. Over time, the phrase evolved to describe things that are established, unchangeable, or not open to discussion."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The rules for the competition are *cut and dried*.",
+          "zh": "比赛的规则已经固定了。"
+        }
+      ],
+      "audio": "audio/297.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "His decision was *cut and dried*; there was no going back.",
+          "zh": "他的决定已经成了定局，没有回头路。"
+        }
+      ],
+      "audio": "audio/297.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The answer seemed *cut and dried*, but some people still had doubts.",
+          "zh": "答案似乎已经固定了，但仍然有人有疑问。"
+        }
+      ],
+      "audio": "audio/297.3.mp3"
+    }
+  ]
+}

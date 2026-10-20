@@ -1,0 +1,37 @@
+{
+  "n": 119,
+  "name": "Beat the bushes",
+  "meaning": {
+    "zh": "“到处搜索” 或 “努力寻找”。\n\n这个短语源于猎人们通过打草惊蛇或拍打灌木丛来将隐藏在里面的猎物赶出来。在现代语境下，\"beat the bushes\" 被用作比喻，通过到处搜寻或者非常努力地寻找可以获得所需的结果。",
+    "en": "This phrase originated from hunters who would use sticks to beat the bushes to flush out hidden game. In a modern context, \"beat the bushes\" is used metaphorically to describe making extensive efforts to search for something or someone."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "We've been beating the bushes for the best candidate for the job.",
+          "zh": "我们一直在努力寻找这个职位的最佳候选人。"
+        }
+      ],
+      "audio": "audio/119.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The police are beating the bushes for any clues about the missing person.",
+          "zh": "警方正在到处搜索，寻求有关失踪人员的任何线索。"
+        }
+      ],
+      "audio": "audio/119.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I'm beating the bushes to find a good deal on a used car.",
+          "zh": "我正在努力寻找一辆有优惠的二手车。"
+        }
+      ],
+      "audio": "audio/119.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 370,
+  "name": "Easy does it",
+  "meaning": {
+    "zh": "“慢慢来” 或 “别急”。\n\n这个短语来源于日常口语，最早出现在19世纪末期。通常在需要小心谨慎、放慢速度的情况下使用，比如在搬运重物或做需要精细操作的事情时，以防出现意外或错误。在现代生活中，这个表达经常用来提醒他人不要匆忙行动，避免犯错。",
+    "en": "This phrase originates from everyday speech, first appearing in the late 19th century. It is commonly used in situations where care and caution are necessary, such as when handling heavy objects or performing delicate tasks, to prevent accidents or mistakes. In modern life, this expression is often used to remind others not to rush, ensuring mistakes are avoided."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "*Easy does it* when you’re carrying those dishes.",
+          "zh": "搬那些碗碟时慢点。"
+        }
+      ],
+      "audio": "audio/370.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "*Easy does it*, we need to be careful with this fragile item.",
+          "zh": "慢慢来，我们需要小心这件易碎品。"
+        }
+      ],
+      "audio": "audio/370.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "*Easy does it*, there's no need to rush the project.",
+          "zh": "慢慢来，这个项目不用着急。"
+        }
+      ],
+      "audio": "audio/370.3.mp3"
+    }
+  ]
+}

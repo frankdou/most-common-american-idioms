@@ -1,0 +1,37 @@
+{
+  "n": 1296,
+  "name": "Watering hole",
+  "meaning": {
+    "zh": "“水坑” 或 “饮水地”，在现代英语中，通常指代一个社交场所，比如酒吧、咖啡馆等，人们在这里聚集社交、放松。\n\n这个短语源自野生动物学，指的是动物们在旱季时会去的饮水地。不论是什么种类的动物，在需要喝水时都会汇聚在这样一个地方，因此也引申为人们定期去放松和社交的地方。",
+    "en": "This phrase originates from zoology, where animals go to specific spots to drink water, especially during dry seasons. Regardless of the animal species, they would gather at a watering hole to quench their thirst. This concept was later adapted to describe places where people gather regularly to relax and socialize."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The local pub has become my favorite *watering hole*.",
+          "zh": "当地的酒吧成了我最喜欢的聚会场所。"
+        }
+      ],
+      "audio": "audio/1296.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "After work, we all head to a nearby *watering hole* to unwind.",
+          "zh": "下班后，我们都会去附近的一个酒吧放松一下。"
+        }
+      ],
+      "audio": "audio/1296.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He's at the usual *watering hole* if you want to find him.",
+          "zh": "如果你想找他，他在常去的那个酒吧。"
+        }
+      ],
+      "audio": "audio/1296.3.mp3"
+    }
+  ]
+}

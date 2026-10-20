@@ -1,0 +1,37 @@
+{
+  "n": 1042,
+  "name": "Sit tight",
+  "meaning": {
+    "zh": "“耐心等待” 或 “坚持住”。\n\n这个短语字面上意思是 \"坐紧\"，但它的实际意思是让你在面对某个情况时保持不动，不采取任何行动，通常是等待一个结果或进一步的指示。这个短语的起源尚不明确，但它最早出现在19世纪，意义也逐渐从耐心地保持原状演变为现在的意思。",
+    "en": "This idiom literally means \"sit tight,\" but its actual meaning is to remain in place and not take any action, usually while waiting for a result or further instructions. The origin of this phrase is unclear, but it first appeared in the 19th century, evolving from the literal sense of staying put to its current meaning."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The doctor told us to *sit tight* and wait for the test results.",
+          "zh": "医生告诉我们要耐心等待检查结果。"
+        }
+      ],
+      "audio": "audio/1042.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "When the storm hit, we were advised to *sit tight* and not go outside.",
+          "zh": "暴风雨来袭时，我们被建议保持原地，不要出门。"
+        }
+      ],
+      "audio": "audio/1042.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Just *sit tight*; the manager will be with you shortly.",
+          "zh": "请耐心等待，经理很快就会来见您。"
+        }
+      ],
+      "audio": "audio/1042.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 490,
+  "name": "Get with it",
+  "meaning": {
+    "zh": "“跟上潮流” 或 “与时俱进”。\n\n这个短语起源于二十世纪中期，通常用来鼓励或命令别人去适应或接受当前的趋势或变化。它强调积极主动地调整自己，以适应新的环境或情况。",
+    "en": "This phrase originated in the mid-20th century and is typically used to encourage or command someone to adapt or accept current trends or changes. It emphasizes actively adjusting oneself to fit new environments or situations."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "You need to *get with it* if you want to succeed in this industry.",
+          "zh": "如果你想在这个行业中取得成功，你需要跟上潮流。"
+        }
+      ],
+      "audio": "audio/490.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Come on, *get with it*! Everyone else has already started using the new software.",
+          "zh": "拜托，跟上点！其他人都已经开始使用这个新软件了。"
+        }
+      ],
+      "audio": "audio/490.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "If you want to stay competitive, you have to *get with it* and learn the latest techniques.",
+          "zh": "如果你想保持竞争力，你必须跟上潮流，学习最新的技术。"
+        }
+      ],
+      "audio": "audio/490.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 84,
+  "name": "As easy as ABC",
+  "meaning": {
+    "zh": "“像 ABC 一样简单”，表示某事非常简单、易于理解或完成。\n\n这个短语源于最基本的英文教育，从字母表的 ABC 开始教学，因此被认为是最初和最简单的知识。随着时间的推移，“As easy as ABC” 成为了一种常见的表达，用以说明某个过程或任务非常容易。",
+    "en": "This phrase originates from the very basic English education, starting with the alphabet ABC, considered the initial and simplest knowledge. Over time, \"As easy as ABC\" has become a common expression to indicate that a process or task is very easy."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Learning how to use this phone is *as easy as ABC*.",
+          "zh": "学习使用这款手机非常简单，像 ABC 一样容易。"
+        }
+      ],
+      "audio": "audio/084.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Solving this puzzle was *as easy as ABC*.",
+          "zh": "解这个谜题如同 ABC 一样简单。"
+        }
+      ],
+      "audio": "audio/084.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Setting up the new printer was *as easy as ABC*.",
+          "zh": "安装新的打印机非常简单，像 ABC 一样轻松。"
+        }
+      ],
+      "audio": "audio/084.3.mp3"
+    }
+  ]
+}

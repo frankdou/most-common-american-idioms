@@ -1,0 +1,37 @@
+{
+  "n": 904,
+  "name": "Out of this world",
+  "meaning": {
+    "zh": "“特别好” 或 “令人赞叹的”。\n\n这个短语起源于 20 世纪中叶的美国俚语，用来形容某样东西或某种体验超乎平常，希望表达出一种它仿佛来自另一个世界的感觉。现如今，多用来强调某种事物令人惊叹或显著不同于平凡之物。",
+    "en": "This phrase originated in mid-20th century American slang and is used to describe something or an experience that is extraordinary, as if it was from another world. Nowadays, it is commonly used to emphasize something astonishing or significantly different from ordinary items."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The food at that restaurant is *out of this world*.",
+          "zh": "那家餐馆的食物特别好。"
+        }
+      ],
+      "audio": "audio/904.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Her performance in the play was *out of this world*.",
+          "zh": "她在剧中的表演令人赞叹。"
+        }
+      ],
+      "audio": "audio/904.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The view from the mountain summit is simply *out of this world*.",
+          "zh": "从山顶看到的景色令人赞叹。"
+        }
+      ],
+      "audio": "audio/904.3.mp3"
+    }
+  ]
+}

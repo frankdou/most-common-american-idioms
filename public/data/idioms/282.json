@@ -1,0 +1,37 @@
+{
+  "n": 282,
+  "name": "Country mile",
+  "meaning": {
+    "zh": "“乡村英里” 或 “很长的距离”。\n\n这个短语来源于美国乡村地区，那里道路蜿蜒且不规则，使得实际行驶的距离感觉远远超过实际测量的距离。因此，“country mile” 就用来形象化地表示比标准英里感觉更长，通常用来说明一段特别漫长的距离或者巨大的差异。",
+    "en": "This phrase originates from rural areas in the United States where roads are often winding and irregular. As a result, the actual distance traveled feels much longer than the measured distance. Therefore, \"country mile\" is used figuratively to describe a particularly long distance or significant disparity."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "We still have a *country mile* to go before we reach the nearest town.",
+          "zh": "我们到最近的城镇还有很长的路要走。"
+        }
+      ],
+      "audio": "audio/282.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The new product is a *country mile* ahead of its competitors.",
+          "zh": "新产品远远领先于其竞争对手。"
+        }
+      ],
+      "audio": "audio/282.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Though they look similar, in quality, this one is a *country mile* better than that one.",
+          "zh": "虽然它们看起来很相似，但在质量上，这一个比那一个好得多。"
+        }
+      ],
+      "audio": "audio/282.3.mp3"
+    }
+  ]
+}

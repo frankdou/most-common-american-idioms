@@ -1,0 +1,37 @@
+{
+  "n": 677,
+  "name": "It's in the bag",
+  "meaning": {
+    "zh": "“十拿九稳” 或 “胜券在握”。\n\n这个短语起源于20世纪初，用来表示某件事情已经确保成功或安全达成，仿佛某样东西已经安全地放在袋子里，不再可能有任何丢失的风险。如今，它常用于表达对未来某件事极有信心，确信会成功或得到的情况。",
+    "en": "This phrase originated in the early 20th century to indicate that something is assured to succeed or be safely accomplished, much like something that is securely placed in a bag, eliminating the risk of loss. Today, it is commonly used to express confidence that something will definitely succeed or be obtained."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The deal is practically *in the bag*; we just need to sign the papers.",
+          "zh": "这笔交易几乎已经十拿九稳了，我们只需要签文件就行了。"
+        }
+      ],
+      "audio": "audio/677.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Once he scored the third goal, the victory was *in the bag*.",
+          "zh": "当他打进第三个球时，胜利已经胜券在握。"
+        }
+      ],
+      "audio": "audio/677.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Don't worry about the job interview; it's *in the bag*.",
+          "zh": "不用担心这次工作面试，胜券在握。"
+        }
+      ],
+      "audio": "audio/677.3.mp3"
+    }
+  ]
+}

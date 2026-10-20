@@ -1,0 +1,37 @@
+{
+  "n": 660,
+  "name": "In the heat of the moment",
+  "meaning": {
+    "zh": "“一时激动” 或 “一时冲动”。\n\n这个短语指的是在情绪激动时所做的决定或言辞，而这些决定或言辞在冷静之后可能会被认为是不恰当的或是错误的。这句话常用来解释因为情绪高涨而做出的即刻反应，它强调了人们在情绪失控时容易做出不经过深思熟虑的行为。",
+    "en": "This phrase refers to decisions or words made in the heat of emotion, which might be considered inappropriate or wrong upon reflection. It is often used to explain immediate reactions taken when emotions are high, highlighting how people can act impulsively without thorough consideration when they lose control of their emotions."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He said something hurtful *in the heat of the moment*, but later apologized.",
+          "zh": "他在一时激动下说了些伤人的话，但后来道歉了。"
+        }
+      ],
+      "audio": "audio/660.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "*In the heat of the moment*, she agreed to the plan without considering all the details.",
+          "zh": "她在一时冲动下同意了这个计划，没有考虑所有细节。"
+        }
+      ],
+      "audio": "audio/660.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Many mistakes are made *in the heat of the moment*, so it's important to stay calm.",
+          "zh": "许多错误是在一时激动下犯的，所以保持冷静很重要。"
+        }
+      ],
+      "audio": "audio/660.3.mp3"
+    }
+  ]
+}

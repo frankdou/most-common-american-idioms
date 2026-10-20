@@ -1,0 +1,37 @@
+{
+  "n": 998,
+  "name": "Run like the wind",
+  "meaning": {
+    "zh": "“跑得像风一样快” 或 “飞快地跑”。\n\n这个短语来源于风的快速和不可捉摸的性质，用来描述一个人跑得非常快，就如同风一样。一些文学作品和影视作品中也会用到这个表达，以强调某人跑步的速度有多么的惊人和迅捷。",
+    "en": "This phrase originates from the swift and elusive nature of the wind, used to describe someone running very fast, almost as fast as the wind. It is also utilized in literature and movies to emphasize the remarkable and rapid speed at which a person runs."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "When he saw the dog chasing him, he started to *run like the wind*.",
+          "zh": "当他看到狗在追他时，他开始像风一样快地跑。"
+        }
+      ],
+      "audio": "audio/998.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She can *run like the wind* when she's in a hurry.",
+          "zh": "她急着赶时间时能跑得像风一样快。"
+        }
+      ],
+      "audio": "audio/998.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He had to *run like the wind* to catch the last bus.",
+          "zh": "他得像风一样跑才能赶上最后一班公交车。"
+        }
+      ],
+      "audio": "audio/998.3.mp3"
+    }
+  ]
+}

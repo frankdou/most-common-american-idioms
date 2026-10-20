@@ -1,0 +1,37 @@
+{
+  "n": 149,
+  "name": "Bite your tongue",
+  "meaning": {
+    "zh": "“咬住你的舌头” 或 “忍住不说”。\n\n这个短语源自一个古老的习语，意思是为了避免引起麻烦或冒犯他人，强制自己保持沉默。这种表达方式生动地描述了当一个人想说某些话但知道最好保持安静时的那种挣扎。",
+    "en": "This phrase originates from an old saying meaning to force oneself to remain silent in order to avoid causing trouble or offense. It vividly describes the struggle when someone wants to speak but knows it's better to keep quiet."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "She had to *bite her tongue* to avoid arguing with her boss.",
+          "zh": "她不得不咬住舌头，避免与老板争论。"
+        }
+      ],
+      "audio": "audio/149.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I wanted to comment on her bad attitude, but I *bit my tongue*.",
+          "zh": "我本想评论她的糟糕态度，但我忍住了没说。"
+        }
+      ],
+      "audio": "audio/149.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Sometimes, it's wise to *bite your tongue* in a heated discussion.",
+          "zh": "有时候，在激烈讨论中保持沉默是明智的。"
+        }
+      ],
+      "audio": "audio/149.3.mp3"
+    }
+  ]
+}

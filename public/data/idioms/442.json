@@ -1,0 +1,37 @@
+{
+  "n": 442,
+  "name": "Forty winks",
+  "meaning": {
+    "zh": "“小睡一会儿” 或 “打个盹儿”。\n\n这个短语可以追溯到19世纪，\"winks\" 原本是指眨眼，小睡时因为闭眼不久，就被形象地称为 \"forty winks\"。因此，\"forty winks\" 用来表示短暂的休息或小睡，而不是长时间的睡眠。",
+    "en": "This phrase dates back to the 19th century. \"Winks\" originally referred to brief eye blinks, and since naps involve short periods of closing one's eyes, the term \"forty winks\" was coined to describe a nap or a short sleep. It implies a quick rest rather than a long sleep."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He took *forty winks* during his lunch break.",
+          "zh": "他在午休时间打了个盹儿。"
+        }
+      ],
+      "audio": "audio/442.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She felt much better after catching *forty winks*.",
+          "zh": "打了个盹儿之后，她感觉好多了。"
+        }
+      ],
+      "audio": "audio/442.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "After a busy morning, I need *forty winks* to recharge.",
+          "zh": "忙碌的早晨过后，我需要打个盹儿来恢复精力。"
+        }
+      ],
+      "audio": "audio/442.3.mp3"
+    }
+  ]
+}

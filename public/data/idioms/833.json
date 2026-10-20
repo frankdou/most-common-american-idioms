@@ -1,0 +1,37 @@
+{
+  "n": 833,
+  "name": "Mumbo jumbo",
+  "meaning": {
+    "zh": "“胡言乱语” 或 “莫名其妙的话”。\n\n这个短语起源于18世纪，最初用来描述被认为是非洲部落祭司使用的神秘或拘泥于形式的词语或仪式。后来，它逐渐演变为一种用来形容复杂且令人困惑的语言或无意义的言论的表达。",
+    "en": "This phrase originated in the 18th century and was initially used to describe words or rituals perceived as mysterious or overly formal by African tribal priests. Over time, it has evolved to refer to any confusing or meaningless language or speech."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "All this technical *mumbo jumbo* is hard to understand.",
+          "zh": "所有这些技术性的胡言乱语都让人难以理解。"
+        }
+      ],
+      "audio": "audio/833.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He was talking in legal *mumbo jumbo* that nobody could follow.",
+          "zh": "他说的法律术语让人无法理解。"
+        }
+      ],
+      "audio": "audio/833.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Don't give me that *mumbo jumbo*. Just tell me the truth.",
+          "zh": "别跟我讲那些胡言乱语，直接告诉我事实。"
+        }
+      ],
+      "audio": "audio/833.3.mp3"
+    }
+  ]
+}

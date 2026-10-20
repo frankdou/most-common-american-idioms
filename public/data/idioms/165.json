@@ -1,0 +1,37 @@
+{
+  "n": 165,
+  "name": "Blue law",
+  "meaning": {
+    "zh": "“蓝法” 或 “周日法律”。\n\n“Blue law” 是美国一种限制在周日进行某些活动的法规。这个短语起源于殖民地时代，最早出自于新英格兰地区。当时，为了维持宗教圣洁，制定了一些严格的法律，禁止人们在周日进行购物和娱乐活动。这些法律被称为 “蓝法”。",
+    "en": "\"Blue law\" refers to laws that restrict certain activities on Sundays. The term originated in colonial New England, where strict laws were enacted to preserve the sanctity of Sundays for religious observance. These laws banned shopping, entertainment, and leisure activities on Sundays to maintain religious solemnity."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Due to the *blue laws*, stores are closed on Sundays in some towns.",
+          "zh": "由于蓝法的存在，在某些城镇商店周日关门。"
+        }
+      ],
+      "audio": "audio/165.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The *blue laws* prohibit the sale of alcohol before noon on Sunday.",
+          "zh": "蓝法禁止周日前午售卖酒精饮品。"
+        }
+      ],
+      "audio": "audio/165.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Many *blue laws* have been repealed, but a few are still in effect.",
+          "zh": "许多蓝法已被废除，但仍有一些还在实施。"
+        }
+      ],
+      "audio": "audio/165.3.mp3"
+    }
+  ]
+}

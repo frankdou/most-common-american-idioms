@@ -1,0 +1,37 @@
+{
+  "n": 438,
+  "name": "For heaven's sake",
+  "meaning": {
+    "zh": "“天哪” 或 “看在老天的份上”。\n\n这个短语起源于人们呼吁上天或神灵来引起注意或强调某个观点。在日常生活中，这个短语通常用于表达惊讶、不耐烦或恳求别人做某事。",
+    "en": "This phrase originates from people calling upon heaven or divine entities to draw attention or emphasize a point. In everyday life, it is often used to express surprise, impatience, or to plead with someone to do something."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "For heaven's sake, clean up your room!",
+          "zh": "天哪，把你的房间收拾一下吧！"
+        }
+      ],
+      "audio": "audio/438.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Can you, for heaven's sake, stop arguing and just listen?",
+          "zh": "看在老天的份上，你们能不能停止争吵，听一下？"
+        }
+      ],
+      "audio": "audio/438.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "For heaven's sake, be careful with that glass!",
+          "zh": "天哪，小心那个玻璃杯！"
+        }
+      ],
+      "audio": "audio/438.3.mp3"
+    }
+  ]
+}

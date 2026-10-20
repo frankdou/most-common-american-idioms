@@ -1,0 +1,37 @@
+{
+  "n": 805,
+  "name": "Make ends meet",
+  "meaning": {
+    "zh": "“勉强维持生计” 或 “收支平衡”。\n\n这个短语最早可以追溯到17世纪，意思是使收支相等，就像是将一个圆圈的两端连接起来。如今，它通常指以有限的收入勉强维持生活，使收支相抵。",
+    "en": "This idiom dates back to the 17th century and originally meant to make income and expenses equal, similar to joining the ends of a circle. Today, it usually means to get by with a limited income, making sure expenses don't exceed earnings."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Despite working two jobs, it's still hard for him to *make ends meet*.",
+          "zh": "尽管他做了两份工作，但还是很难勉强维持生计。"
+        }
+      ],
+      "audio": "audio/805.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Many families struggle to *make ends meet* in today's economy.",
+          "zh": "在当今经济环境下，许多家庭都在为勉强维持生计而挣扎。"
+        }
+      ],
+      "audio": "audio/805.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "They had to cut back on non-essential expenses to *make ends meet*.",
+          "zh": "他们不得不减少非必要开支才能勉强维持生计。"
+        }
+      ],
+      "audio": "audio/805.3.mp3"
+    }
+  ]
+}

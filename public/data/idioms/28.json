@@ -1,0 +1,37 @@
+{
+  "n": 28,
+  "name": "A little learning is a dangerous thing",
+  "meaning": {
+    "zh": "“一知半解是危险的。”\n\n这个短语起源于亚历山大·蒲柏（Alexander Pope）的诗《论批评》（An Essay on Criticism）。在诗中，蒲柏指出，只有一点点学习反而比没有学习更危险，因为它可能导致人们自以为是，做出错误的判断和决定。因此，这个短语通常用来警告那些由于掌握的不完全知识而容易产生误解或未经过深思熟虑的人。",
+    "en": "This phrase originates from Alexander Pope's poem \"An Essay on Criticism.\" In the poem, Pope argues that a small amount of knowledge can be more dangerous than complete ignorance, as it may lead people to become overconfident and make erroneous judgments and decisions. Hence, this idiom is often used to caution those who, due to their incomplete understanding, are prone to misunderstandings or hasty conclusions."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He tried to fix the car himself, but *a little learning is a dangerous thing*—now it's in worse condition.",
+          "zh": "他试图自己修理汽车，但一知半解是危险的，现在汽车情况更糟了。"
+        }
+      ],
+      "audio": "audio/028.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Before making any major decisions based on what you read online, remember that *a little learning is a dangerous thing*.",
+          "zh": "在根据网上读到的内容做任何重大决策之前，记住，一知半解是危险的。"
+        }
+      ],
+      "audio": "audio/028.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "*A little learning is a dangerous thing*—it's better to seek professional advice.",
+          "zh": "一知半解是危险的——最好寻求专业建议。"
+        }
+      ],
+      "audio": "audio/028.3.mp3"
+    }
+  ]
+}

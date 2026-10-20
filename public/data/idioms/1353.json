@@ -1,0 +1,37 @@
+{
+  "n": 1353,
+  "name": "Your guess is as good as mine",
+  "meaning": {
+    "zh": "“我也不知道” 或 “我和你一样猜不透”。\n\n这个短语表示说话者和对方一样对某个问题没有答案或解释。它起源于17世纪，表达了双方在某个不确定或未知的问题上处于同样的困惑状态。",
+    "en": "This phrase indicates that the speaker is as clueless as the person they are speaking to regarding a certain question or issue. It originates from the 17th century, where it conveyed that both parties were equally puzzled by an uncertain or unknown matter."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "When will the project be finished? *Your guess is as good as mine*.",
+          "zh": "项目什么时候完成？我也不知道。"
+        }
+      ],
+      "audio": "audio/1353.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "What'll be on the exam tomorrow? *Your guess is as good as mine*.",
+          "zh": "明天考试考什么？我和你一样猜不透。"
+        }
+      ],
+      "audio": "audio/1353.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "How is the weather going to be next week? *Your guess is as good as mine*.",
+          "zh": "下周的天气会怎样？我也不知道。"
+        }
+      ],
+      "audio": "audio/1353.3.mp3"
+    }
+  ]
+}

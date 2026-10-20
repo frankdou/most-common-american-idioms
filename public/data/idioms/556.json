@@ -1,0 +1,37 @@
+{
+  "n": 556,
+  "name": "Greased lightning",
+  "meaning": {
+    "zh": "“快如闪电” 或 “非常快速”。\n\n这个短语来源于19世纪，意思是比普通的闪电更快。在那个时期，人们会用油脂或油来润滑马车，使它们能在泥泞的道路上行驶得更顺畅、更快。于是，“greased lightning” 就被用来形容任何非常快速或高效的事情。",
+    "en": "This phrase originates from the 19th century, meaning even faster than ordinary lightning. During that time, people would use grease or oil to lubricate their carriages, making them run smoother and faster on muddy roads. Hence, \"greased lightning\" came to describe anything exceedingly fast or efficient."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He finished the task like *greased lightning*.",
+          "zh": "他完成任务的速度快如闪电。"
+        }
+      ],
+      "audio": "audio/556.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The new processor runs the software like *greased lightning*.",
+          "zh": "新处理器运行软件的速度非常快。"
+        }
+      ],
+      "audio": "audio/556.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She zipped through the crowd like *greased lightning* to catch the train.",
+          "zh": "她快如闪电地穿过人群赶上了火车。"
+        }
+      ],
+      "audio": "audio/556.3.mp3"
+    }
+  ]
+}

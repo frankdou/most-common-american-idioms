@@ -1,0 +1,37 @@
+{
+  "n": 205,
+  "name": "Call a spade a spade",
+  "meaning": {
+    "zh": "“实话实说” 或 “直言不讳”。\n\n这个短语最早起源于古希腊哲学家柏拉图，当时他在文献中用了这个说法来强调要实事求是地表达事物的本质。后来这个短语逐步被英文采用，意思依旧保持为直接了当地说出事实，不拐弯抹角。",
+    "en": "This idiom originates from the ancient Greek philosopher Plato, who used this expression to emphasize the importance of expressing the essence of things truthfully. Later, it was adopted into the English language with the same meaning of stating facts straightforwardly without euphemism."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "She tends to *call a spade a spade*, which can sometimes come off as rude.",
+          "zh": "她倾向于直言不讳，有时会显得有些无礼。"
+        }
+      ],
+      "audio": "audio/205.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Let's *call a spade a spade* – that project failed because of poor planning.",
+          "zh": "我们就实话实说吧——那个项目失败是因为计划不周。"
+        }
+      ],
+      "audio": "audio/205.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "When discussing performance, it's important to *call a spade a spade* so everyone knows where they stand.",
+          "zh": "在讨论绩效时，实话实说很重要，这样每个人都清楚自己的位置。"
+        }
+      ],
+      "audio": "audio/205.3.mp3"
+    }
+  ]
+}

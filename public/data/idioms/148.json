@@ -1,0 +1,37 @@
+{
+  "n": 148,
+  "name": "Bite the dust",
+  "meaning": {
+    "zh": "“咬尘” 或 “倒地” 或 “阵亡”。\n\n这个短语最早出现在18世纪的一些文学和诗歌作品中，描写骑士或战士在战场上倒地，嘴巴碰到地面。这种用语在现代常被用于表示失败、结束或者死亡。",
+    "en": "This phrase originated in the 18th-century literature and poetry, describing knights or soldiers falling to the ground with their mouth touching the dust. In modern usage, it commonly means failure, the end, or death."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Another one of our competitors *bit the dust* this week.",
+          "zh": "我们又有一个竞争对手在本周倒下了。"
+        }
+      ],
+      "audio": "audio/148.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "That old car finally *bit the dust* yesterday.",
+          "zh": "那辆旧车昨天终于报废了。"
+        }
+      ],
+      "audio": "audio/148.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "After several injuries, the team *bit the dust* in the final match.",
+          "zh": "经过几次受伤后，球队在决赛中最终落败。"
+        }
+      ],
+      "audio": "audio/148.3.mp3"
+    }
+  ]
+}

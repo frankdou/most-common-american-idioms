@@ -1,0 +1,37 @@
+{
+  "n": 62,
+  "name": "All bets are off",
+  "meaning": {
+    "zh": "“所有的打赌都作废了” 或 “情况不确定了，一切都难以预料”。\n\n这个短语来源于赌博，在赌博中，如果规则或情况发生了变化，所有的赌注都会被取消或重新计算。在日常使用中，这个短语被用来表示情况已经发生了变化，不能依赖先前的预期或承诺。",
+    "en": "This phrase originates from gambling; when the rules or circumstances change, all bets placed are canceled or recalculated. In everyday use, this idiom is used to indicate that the situation has changed, and previous expectations or promises can no longer be relied upon."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Once the CEO resigned, *all bets are off* regarding the company's future.",
+          "zh": "一旦 CEO 辞职，公司未来的情况就变得无法预料了。"
+        }
+      ],
+      "audio": "audio/062.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "If it starts raining, *all bets are off* for the soccer game this afternoon.",
+          "zh": "如果开始下雨了，今天下午的足球比赛就难说了。"
+        }
+      ],
+      "audio": "audio/062.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "With the new law in place, *all bets are off* for the old business practices.",
+          "zh": "有了新法律，旧的商业惯例就不一定能继续了。"
+        }
+      ],
+      "audio": "audio/062.3.mp3"
+    }
+  ]
+}

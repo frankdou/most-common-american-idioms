@@ -1,0 +1,37 @@
+{
+  "n": 906,
+  "name": "Out to lunch",
+  "meaning": {
+    "zh": "“走神” 或 “心不在焉”。\n\n这个短语原本是字面意思上的 “去吃午饭了”，但在现代英语中，它通常用来形容一个人精神不集中或者心不在焉。这种用法可能源于午饭时间人们放松心神，不专注于工作的状态。",
+    "en": "Originally, this phrase literally meant \"gone out for lunch,\" but in modern English, it often describes someone who is mentally absent or daydreaming. This usage might stem from the idea that during lunchtime, people relax and are not focused on work."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "During the meeting, he seemed completely *out to lunch*.",
+          "zh": "在会议期间，他似乎完全走神了。"
+        }
+      ],
+      "audio": "audio/906.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She's been acting *out to lunch* all day.",
+          "zh": "她一整天都显得心不在焉。"
+        }
+      ],
+      "audio": "audio/906.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I asked him a question, but he was totally *out to lunch*.",
+          "zh": "我问了他一个问题，但他完全走神了。"
+        }
+      ],
+      "audio": "audio/906.3.mp3"
+    }
+  ]
+}

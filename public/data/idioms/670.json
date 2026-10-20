@@ -1,0 +1,37 @@
+{
+  "n": 670,
+  "name": "It is a poor workman who blames his tools",
+  "meaning": {
+    "zh": "\"拙匠常怨工具差\"。这句谚语意思是说，一个技术差的人总是把原因归咎于工具或外部条件，而不是反省自己的能力问题。正如一个高明的工匠即使工具不好，也能做出好的作品，真正有能力的人不会找借口。\n\n这个谚语起源于工匠和手艺人的工作，当他们不能胜任时，常常会抱怨工具不好用。而实际上，真正的高手无论面对什么样的工具，都可以完成任务。因此，这样的表达用来强调内在能力的重要性，而不是依赖外部条件。",
+    "en": "This idiom originates from craftsmen and artisans who often blamed their tools when they couldn’t do their work well. In reality, a skilled craftsman can work effectively regardless of the tool’s condition. Thus, this expression underscores the importance of one's internal skills rather than external conditions."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He complained that the computer was slow, but it’s a poor workman who blames his tools.",
+          "zh": "他抱怨电脑很慢，但拙匠常怨工具差。"
+        }
+      ],
+      "audio": "audio/670.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Before blaming the equipment, remember that it’s a poor workman who blames his tools.",
+          "zh": "在抱怨设备之前，记住拙匠常怨工具差。"
+        }
+      ],
+      "audio": "audio/670.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Sarah was frustrated with her old paintbrushes, but her teacher reminded her that it’s a poor workman who blames his tools.",
+          "zh": "莎拉对她的旧画笔感到沮丧，但她的老师提醒她拙匠常怨工具差。"
+        }
+      ],
+      "audio": "audio/670.3.mp3"
+    }
+  ]
+}

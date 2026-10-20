@@ -1,0 +1,37 @@
+{
+  "n": 51,
+  "name": "Ace in the hole",
+  "meaning": {
+    "zh": "“隐藏的王牌” 或 “秘密武器”。\n\n这个短语起源于扑克游戏。在某些扑克游戏中，玩家的某些牌是不可见的 “hole cards”。如果这张隐蔽的牌是一张 “Ace”，就被称为 “ace in the hole”。在更广泛的用法中，这个短语表示拥有一个在关键时刻能扭转局势的秘密优势或策略。",
+    "en": "This phrase originates from poker. In some poker games, certain cards of the players are not revealed, known as \"hole cards\". If one of those hidden cards is an Ace, it's referred to as an \"ace in the hole\". Broadly, the idiom means having a hidden advantage or a secret strategy that can be used to turn a situation around at a critical moment."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "We thought we were losing, but we had an *ace in the hole*.",
+          "zh": "我们以为要输了，但我们有一个隐藏的王牌。"
+        }
+      ],
+      "audio": "audio/051.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "His experience in negotiating is his *ace in the hole* during business meetings.",
+          "zh": "他在谈判方面的经验是他在商务会议上的秘密武器。"
+        }
+      ],
+      "audio": "audio/051.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The new product launch is our *ace in the hole* for increasing sales this quarter.",
+          "zh": "新产品发布是我们本季度增加销售额的秘密武器。"
+        }
+      ],
+      "audio": "audio/051.3.mp3"
+    }
+  ]
+}

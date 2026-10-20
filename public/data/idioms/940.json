@@ -1,0 +1,37 @@
+{
+  "n": 940,
+  "name": "Poker face",
+  "meaning": {
+    "zh": "“扑克脸” 或 “面无表情”。\n\n这个短语起源于扑克游戏。在游戏中，为了不让对手看出自己的牌好坏，玩家会尽量保持面部表情不变，即所谓的 “扑克脸”。在更广泛的语境中，它指的是一个人不显示情感或反应的能力，使得他人的猜测变得困难。",
+    "en": "This phrase originates from the game of poker. In the game, players try to keep their facial expressions neutral to prevent opponents from guessing the quality of their cards, which is known as a \"poker face\". In a broader context, it refers to someone's ability to hide their emotions or reactions, making it difficult for others to read them."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "She maintained a perfect *poker face* throughout the negotiations.",
+          "zh": "她在整个谈判过程中始终保持着完美的扑克脸。"
+        }
+      ],
+      "audio": "audio/940.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Even when he heard the shocking news, he kept his *poker face*.",
+          "zh": "即使听到令人震惊的消息，他仍然保持面无表情。"
+        }
+      ],
+      "audio": "audio/940.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "It's hard to tell what he's thinking because he always has a *poker face*.",
+          "zh": "很难猜出他在想什么，因为他总是面无表情。"
+        }
+      ],
+      "audio": "audio/940.3.mp3"
+    }
+  ]
+}

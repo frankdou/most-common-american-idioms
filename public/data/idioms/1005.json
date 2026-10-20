@@ -1,0 +1,37 @@
+{
+  "n": 1005,
+  "name": "Sales pitch",
+  "meaning": {
+    "zh": "“推销话术” 或 “销售演示”。\n\n“Sales pitch” 是指销售人员试图吸引客户或说服客户购买产品或服务时所做的简短而有力的演示或演说。这个短语通常用于销售和市场推广领域，用来描述销售人员为了成交而精心设计的说辞和展示。",
+    "en": "“Sales pitch” refers to a short and persuasive presentation or speech made by a salesperson to attract or convince a customer to purchase a product or service. This phrase is commonly used in sales and marketing contexts to describe a sales strategy that aims to close deals through carefully crafted words and presentations."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The sales representative gave an excellent *sales pitch* that convinced us to buy the new software.",
+          "zh": "那位销售代表给了一次出色的推销话术，让我们决定购买这款新软件。"
+        }
+      ],
+      "audio": "audio/1005.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "During the meeting, he made a compelling *sales pitch* for their latest product.",
+          "zh": "在会议期间，他对他们的最新产品做了一个具有说服力的销售演示。"
+        }
+      ],
+      "audio": "audio/1005.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I need to work on my *sales pitch* before presenting to the client tomorrow.",
+          "zh": "我需要在明天向客户展示之前好好打磨一下我的推销话术。"
+        }
+      ],
+      "audio": "audio/1005.3.mp3"
+    }
+  ]
+}

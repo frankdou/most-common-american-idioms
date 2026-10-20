@@ -1,0 +1,37 @@
+{
+  "n": 975,
+  "name": "Rain on someone's parade",
+  "meaning": {
+    "zh": "“煞某人的风景” 或 “泼某人冷水”。\n\n这个短语的直译是 “在某人的游行上降雨”，意味着在某人正高兴或庆祝的时刻，用消极的言行破坏他们的心情或计划。类似于中文的 “泼冷水”。",
+    "en": "This phrase literally means \"to rain on someone's parade,\" signifying spoiling someone's happy moment or plans with negative comments or actions, similar to the Chinese idiom \"泼冷水\" (pouring cold water)."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I'm sorry to *rain on your parade*, but the event has been canceled.",
+          "zh": "很抱歉泼你冷水，但活动已经取消了。"
+        }
+      ],
+      "audio": "audio/975.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I hate to *rain on your parade*, but your project needs a lot more work.",
+          "zh": "我不想煞你的风景，但你的项目还需要很多工作。"
+        }
+      ],
+      "audio": "audio/975.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Don't *rain on my parade* just because you're in a bad mood.",
+          "zh": "不要因为你心情不好就泼我的冷水。"
+        }
+      ],
+      "audio": "audio/975.3.mp3"
+    }
+  ]
+}

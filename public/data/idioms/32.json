@@ -1,0 +1,37 @@
+{
+  "n": 32,
+  "name": "A perfect storm",
+  "meaning": {
+    "zh": "“完美风暴” 或 “多事之秋”。\n\n这个短语起源于气象学，描述多个气象条件同时出现，导致一场非常严重的风暴。这个短语通常用来形容许多不利因素同时发生，导致一种极其糟糕或危险的情况。",
+    "en": "The phrase originates from meteorology, describing a scenario where multiple weather conditions converge to create a particularly severe storm. It's commonly used to describe situations where various adverse factors come together, leading to an extremely bad or dangerous situation."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The company's financial issues, combined with the economic downturn, created *a perfect storm*.",
+          "zh": "公司的财务问题加上经济衰退，形成了一场完美风暴。"
+        }
+      ],
+      "audio": "audio/032.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "With the heavy rain and high winds, it was *a perfect storm* for a disastrous flood.",
+          "zh": "大雨和强风结合，简直是一场灾难性洪水的完美风暴。"
+        }
+      ],
+      "audio": "audio/032.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The combination of tight deadlines and unexpected technical issues created *a perfect storm* for the project team.",
+          "zh": "紧迫的截止日期和意外的技术问题结合起来，对项目团队来说简直是一场完美风暴。"
+        }
+      ],
+      "audio": "audio/032.3.mp3"
+    }
+  ]
+}

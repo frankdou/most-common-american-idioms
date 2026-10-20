@@ -1,0 +1,37 @@
+{
+  "n": 664,
+  "name": "In the nick of time",
+  "meaning": {
+    "zh": "“千钧一发” 或 “在紧要关头”。\n\n这个短语起源于早期英语中的 “nick”，意指一个准确的小切口或记号。在时间管理中，“nick” 代表一个关键的瞬间，因此 “in the nick of time” 表示在最关键的时刻及时赶到，避免了某种不好的结果。",
+    "en": "This phrase originates from early English where \"nick\" meant a precise notch or mark. In terms of time, \"nick\" represents a critical moment, so \"in the nick of time\" means to arrive or act at the last possible moment to avoid something bad."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The firefighters arrived *in the nick of time* to save the building from burning down.",
+          "zh": "消防员在紧要关头赶到，才避免了大楼被烧毁。"
+        }
+      ],
+      "audio": "audio/664.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She submitted her application just *in the nick of time* before the deadline.",
+          "zh": "她在截止日期前，千钧一发地提交了申请。"
+        }
+      ],
+      "audio": "audio/664.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He caught the train *in the nick of time*, just as the doors were closing.",
+          "zh": "他在紧要关头赶上了火车，正好在车门关闭时上车。"
+        }
+      ],
+      "audio": "audio/664.3.mp3"
+    }
+  ]
+}

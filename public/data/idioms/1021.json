@@ -1,0 +1,37 @@
+{
+  "n": 1021,
+  "name": "See eye to eye",
+  "meaning": {
+    "zh": "“意见一致” 或 “看法相同”。\n\n这个短语源于人与人面对面交流时，目光接触表示对某事有共识。它常用于形容两个人或多个人在某个观点或问题上意见一致，达到共识和理解的状态。",
+    "en": "This phrase originates from the idea that when people look each other in the eyes, it signifies agreement on a particular matter. It is often used to describe situations where two or more individuals reach an agreement or share the same viewpoint."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "They finally *see eye to eye* on the new project.",
+          "zh": "他们终于在新项目上达成了一致意见。"
+        }
+      ],
+      "audio": "audio/1021.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "It's important for a good relationship to *see eye to eye* on major decisions.",
+          "zh": "在重大决策上意见一致对良好的关系非常重要。"
+        }
+      ],
+      "audio": "audio/1021.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "We don't always *see eye to eye*, but we respect each other's opinions.",
+          "zh": "我们并不总是意见一致，但我们尊重彼此的观点。"
+        }
+      ],
+      "audio": "audio/1021.3.mp3"
+    }
+  ]
+}

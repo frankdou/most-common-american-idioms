@@ -1,0 +1,37 @@
+{
+  "n": 408,
+  "name": "Fill in the blanks",
+  "meaning": {
+    "zh": "“填空”。\n\n这个表达来源于考试或练习中的题型，要求学生在给定的空白处填入适当的词语或信息。在日常生活中也可以用来比喻需要填补或补充某些特定信息的情况。",
+    "en": "This phrase originates from examination or exercise types that require students to fill in the appropriate words or information in the given blanks. In everyday life, it can also be used metaphorically to describe situations where specific information needs to be filled in or supplemented."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Please *fill in the blanks* on the form with your personal information.",
+          "zh": "请在表格上的空白处填写你的个人信息。"
+        }
+      ],
+      "audio": "audio/408.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I didn't understand the whole plan, but my manager will *fill in the blanks* for me.",
+          "zh": "我没有完全理解整个计划，但我的经理会替我补充说明。"
+        }
+      ],
+      "audio": "audio/408.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "During the meeting, we need to *fill in the blanks* in our project proposal.",
+          "zh": "在会议期间，我们需要补充我们的项目提案中的一些内容。"
+        }
+      ],
+      "audio": "audio/408.3.mp3"
+    }
+  ]
+}

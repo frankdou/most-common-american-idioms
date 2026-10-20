@@ -1,0 +1,37 @@
+{
+  "n": 1050,
+  "name": "Sleep like a log",
+  "meaning": {
+    "zh": "“睡得像根木头” 意即 “睡得很香” 或 “睡得很沉”。\n\n这个短语暗示一个人睡得像一根木头一样不动且不容易被打扰。这源于木头是一种没有生命的物体，不会被外界干扰所影响。而人们用这个方向来形容睡眠状态，以表达完全沉浸在睡眠中，不受干扰或打扰的状态。",
+    "en": "This phrase implies that a person sleeps very deeply and soundly, just like a log, which is an inanimate object that doesn’t move or get disturbed. People use this idiom to describe a state of being fully immersed in sleep and not easily disturbed."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "After the long hike, she *slept like a log* all night.",
+          "zh": "长途跋涉后，她整晚睡得像根木头一样沉。"
+        }
+      ],
+      "audio": "audio/1050.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He was so exhausted that he *slept like a log* despite the noise.",
+          "zh": "他累得不行，即使有噪音也睡得像根木头一样沉。"
+        }
+      ],
+      "audio": "audio/1050.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I can never *sleep like a log* when I'm stressed out.",
+          "zh": "我压力大的时候，永远无法睡得很沉。"
+        }
+      ],
+      "audio": "audio/1050.3.mp3"
+    }
+  ]
+}

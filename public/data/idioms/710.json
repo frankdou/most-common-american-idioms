@@ -1,0 +1,37 @@
+{
+  "n": 710,
+  "name": "Keep your head",
+  "meaning": {
+    "zh": "保持冷静，处变不惊。\n\n这个短语源于战争或严重危机的场合，当人们容易陷入恐慌时。如果 “保持冷静”，就意味着能够在高压力下继续理性思考和行动。现如今，这个短语被广泛用于任何需要保持清醒和冷静的情境下，无论是工作、生活还是应对突发情况。",
+    "en": "This idiom originates from war or severe crisis scenarios where people are prone to panic. \"Keeping your head\" means being able to continue thinking and acting rationally under high pressure. Nowadays, it is used broadly in any situation where maintaining composure and clarity of thought is necessary, whether at work, in daily life or when handling emergencies."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "In the chaotic meeting, he was the only one who managed to keep his head.",
+          "zh": "在那场混乱的会议中，他是唯一一个保持冷静的人。"
+        }
+      ],
+      "audio": "audio/710.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Even in dangerous situations, firefighters must keep their heads to save lives.",
+          "zh": "即使在危险情况中，消防员也必须保持冷静，以拯救生命。"
+        }
+      ],
+      "audio": "audio/710.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "When the project deadlines were moved up, she kept her head and organized the tasks efficiently.",
+          "zh": "当项目截止日期提前时，她保持冷静，有效地组织了任务。"
+        }
+      ],
+      "audio": "audio/710.3.mp3"
+    }
+  ]
+}

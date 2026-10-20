@@ -1,0 +1,37 @@
+{
+  "n": 11,
+  "name": "A chip on your shoulder",
+  "meaning": {
+    "zh": "“心怀怨恨” 或 “积怨”。\n\n这个短语源自19世纪的美国，当时有人会将一小片木屑（chip）放在自己的肩膀上，并敢于别人将其敲掉，以此行为表示自己愿意打架的准备。逐渐地，这个短语被引申为描述那些因为过去的经历而怀有怨气、易怒或好争的人。",
+    "en": "This idiom originated in 19th-century America, where people would place a small wooden chip on their shoulder and dare others to knock it off, signaling a readiness to fight. Over time, it has come to describe individuals who carry a grudge or are combative because of past experiences."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He's always had *a chip on his shoulder* ever since he got passed over for the promotion.",
+          "zh": "自从他晋升失败后，他一直心怀怨恨。"
+        }
+      ],
+      "audio": "audio/011.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "You need to let go of the past and stop walking around with *a chip on your shoulder*.",
+          "zh": "你需要放下过去，不要再对一切都心怀怨恨。"
+        }
+      ],
+      "audio": "audio/011.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She always seems to have *a chip on her shoulder*, ready to argue with anyone.",
+          "zh": "她好像总是心怀怨气，准备和任何人争吵。"
+        }
+      ],
+      "audio": "audio/011.3.mp3"
+    }
+  ]
+}

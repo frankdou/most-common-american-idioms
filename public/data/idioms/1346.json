@@ -1,0 +1,37 @@
+{
+  "n": 1346,
+  "name": "You can't squeeze blood out of a turnip",
+  "meaning": {
+    "zh": "“榨不出萝卜血” 或 “没有办法从石头里榨出水来”。\n\n这个短语源于一种明显不可能的任务：你不可能从一个萝卜中榨出血来。这意味着如果某样东西或某人本身没有某种特性或资源，就不可能从中获取这种特性或资源，用于强调某事根本不可能，或强人所难没有意义。",
+    "en": "The phrase originates from an obviously impossible task: you cannot squeeze blood from a turnip. It means that if something or someone doesn't have a certain quality or resource, it's impossible to extract it from them, emphasizing that a particular action or task is fundamentally impossible, or that it is pointless to try to force something that cannot be realistically achieved."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Trying to get a confession out of him is like trying to squeeze blood out of a turnip.",
+          "zh": "想让他承认就像试图从萝卜里榨出血一样。"
+        }
+      ],
+      "audio": "audio/1346.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "You can't squeeze blood out of a turnip; there's no way they can pay that much money.",
+          "zh": "你不可能从萝卜里榨出血，他们无论如何也付不起那么多钱。"
+        }
+      ],
+      "audio": "audio/1346.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Asking for extra resources from the team right now is like trying to squeeze blood out of a turnip.",
+          "zh": "现在向团队要额外资源就像是从萝卜里榨血一样。"
+        }
+      ],
+      "audio": "audio/1346.3.mp3"
+    }
+  ]
+}

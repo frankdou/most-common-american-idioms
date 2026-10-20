@@ -1,0 +1,37 @@
+{
+  "n": 1089,
+  "name": "Stretch the truth",
+  "meaning": {
+    "zh": "“夸大其词” 或 “言过其实”。\n\n这个成语的起源可以追溯到人们在讲述故事或描述事件时，有意或无意地将事实夸大。这种手法通常是为了让故事听起来更加有趣或令人印象深刻。在日常生活中，“stretch the truth” 通常用来描述那些没有完全撒谎，但也没有完全如实描述事情的人。",
+    "en": "This idiom originates from the tendency of people to exaggerate stories or events, often to make them sound more interesting or impactful. In daily life, \"stretch the truth\" is commonly used to describe situations where someone is not exactly lying but is also not telling the complete truth."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He tends to *stretch the truth* about his achievements.",
+          "zh": "他倾向于夸大他的成就。"
+        }
+      ],
+      "audio": "audio/1089.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "To make the story more exciting, she *stretched the truth* a bit.",
+          "zh": "为了使故事更有趣，她夸大了一点事实。"
+        }
+      ],
+      "audio": "audio/1089.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "We know he likes to *stretch the truth* sometimes, so we don't take him too seriously.",
+          "zh": "我们知道他有时喜欢夸大事实，所以我们不会太当真。"
+        }
+      ],
+      "audio": "audio/1089.3.mp3"
+    }
+  ]
+}

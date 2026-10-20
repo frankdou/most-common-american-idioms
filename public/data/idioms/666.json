@@ -1,0 +1,37 @@
+{
+  "n": 666,
+  "name": "In the red",
+  "meaning": {
+    "zh": "“赤字” 或 “亏损”。\n\n这个短语起源于会计术语，当一家公司记录负的现金流或亏损时，会用红色墨水来表示。因此，“in the red” 被用来表示公司或个人财务状况不佳，处于亏损状态。",
+    "en": "This phrase originates from accounting terminology where negative cash flow or losses were recorded in red ink. Therefore, \"in the red\" is used to describe a company or individual in a poor financial state, facing losses."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "After a bad year, the company found itself *in the red*.",
+          "zh": "经历了糟糕的一年后，公司发现自己处于亏损状态。"
+        }
+      ],
+      "audio": "audio/666.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "If we keep spending like this, we'll be *in the red* soon.",
+          "zh": "如果我们继续这样花钱，很快就会陷入赤字。"
+        }
+      ],
+      "audio": "audio/666.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The business went *in the red* due to poor management.",
+          "zh": "由于管理不善，业务陷入了亏损。"
+        }
+      ],
+      "audio": "audio/666.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 238,
+  "name": "Cheer up",
+  "meaning": {
+    "zh": "“振作起来” 或 “高兴起来”。\n\n这个短语源于英文单词 \"cheer\"（欢呼、喝彩），加上 “up” 后用来表示让某人振作或是心情变得更加愉快。通常在某人感到失落、沮丧或伤心时会使用这个短语，是一种鼓励人打起精神的表达。",
+    "en": "This phrase comes from the English word \"cheer,\" meaning to encourage or applaud, and \"up\" is added to imply lifting someone's spirits or making them feel happier. It is commonly used to encourage someone who is feeling down, dispirited, or sad, aiming to boost their morale."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "*Cheer up*, Tom! Everything will be alright.",
+          "zh": "振作起来，汤姆！一切都会好起来的。"
+        }
+      ],
+      "audio": "audio/238.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She tried to *cheer up* her friend by telling a funny story.",
+          "zh": "她试图通过讲一个有趣的故事让她的朋友高兴起来。"
+        }
+      ],
+      "audio": "audio/238.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "A little sunshine might help you *cheer up*.",
+          "zh": "一点阳光可能会帮助你振作起来。"
+        }
+      ],
+      "audio": "audio/238.3.mp3"
+    }
+  ]
+}

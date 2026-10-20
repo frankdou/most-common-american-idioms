@@ -1,0 +1,37 @@
+{
+  "n": 61,
+  "name": "All bark and no bite",
+  "meaning": {
+    "zh": "“雷声大，雨点小” 或 “虚张声势”。\n\n这个短语来源于狗的行为，即只狂吠但不咬人。用来形容那些说话声势汹汹但实际上并不采取行动或没有实质威胁的人。这种表达方式反映了言辞上的威胁或吓唬，却缺乏实际的行动或能力。",
+    "en": "This idiom derives from the behavior of dogs that bark loudly but do not bite. It is used to describe people who speak in a threatening or aggressive manner but do not follow up with action or do not pose a real threat. It reflects verbal intimidation without corresponding actions or ability."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Don't be afraid of him; he's all bark and no bite.",
+          "zh": "别怕他；他就是雷声大，雨点小。"
+        }
+      ],
+      "audio": "audio/061.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She may threaten to call the police, but she's all bark and no bite.",
+          "zh": "她可能会威胁叫警察，但她只是虚张声势。"
+        }
+      ],
+      "audio": "audio/061.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "His threats are all bark and no bite, so don't worry too much about them.",
+          "zh": "他的威胁只是雷声大，雨点小，所以别太担心。"
+        }
+      ],
+      "audio": "audio/061.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 801,
+  "name": "Make a long story short",
+  "meaning": {
+    "zh": "“长话短说” 或 “简而言之”。\n\n这个短语起源于日常对话中，当故事或说明可能会很长时间时，使用人通常会打断自己，以便迅速结束描述并给出结果或要点。在英语中，这个短语常常在叙述故事时用到，以避免冗长的叙述。",
+    "en": "This phrase originates from everyday conversations, where the speaker might anticipate that a story or explanation could take a long time and thus chooses to interrupt themselves for the sake of brevity, to quickly conclude or highlight the main points. In English, this idiom is often used to keep a story concise and avoid lengthy narration."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "*To make a long story short,* we missed the flight but managed to get another one.",
+          "zh": "长话短说，我们错过了航班，但设法赶上了另一班飞机。"
+        }
+      ],
+      "audio": "audio/801.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She started to explain all the details, but then she said, \"*To make a long story short*, we're moving to New York.\"",
+          "zh": "她开始解释所有细节，但随后她说：“长话短说，我们要搬到纽约了。”"
+        }
+      ],
+      "audio": "audio/801.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "*To make a long story short*, he got the job and is very happy now.",
+          "zh": "长话短说，他得到了那份工作，现在非常开心。"
+        }
+      ],
+      "audio": "audio/801.3.mp3"
+    }
+  ]
+}

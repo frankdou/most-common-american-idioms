@@ -1,0 +1,37 @@
+{
+  "n": 378,
+  "name": "Elvis has left the building",
+  "meaning": {
+    "zh": "“埃尔维斯已经离开了大楼” 或 “表演结束了”。\n\n这个短语起源于 Elvis Presley 的演唱会期间。为了防止观众在演唱会结束后不愿离场，主持人通常会宣布 “Elvis has left the building”，以告诉人们演唱会真的结束了，歌手本人已经离开现场。现在，这个短语被广泛用来表示某个活动、事件或过程已经结束。",
+    "en": "This phrase originated during Elvis Presley's concerts. To prevent the audience from lingering after the performance, the announcer would say \"Elvis has left the building\" to confirm that the concert was truly over and the singer had left the venue. Nowadays, the phrase is widely used to signify that an event, activity, or process has concluded."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The show is over. It's time to go home; *Elvis has left the building*.",
+          "zh": "演出结束了，该回家了，埃尔维斯已经离开大楼了。"
+        }
+      ],
+      "audio": "audio/378.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "After the boss's final decision, it was clear that *Elvis had left the building*.",
+          "zh": "在老板做出最终决定后，很明显事情已经尘埃落定了。"
+        }
+      ],
+      "audio": "audio/378.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "There's no point in arguing anymore; *Elvis has left the building*.",
+          "zh": "再争论也没有意义了，埃尔维斯已经离开大楼了。"
+        }
+      ],
+      "audio": "audio/378.3.mp3"
+    }
+  ]
+}

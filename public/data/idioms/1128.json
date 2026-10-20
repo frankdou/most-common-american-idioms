@@ -1,0 +1,37 @@
+{
+  "n": 1128,
+  "name": "The ball is in your court",
+  "meaning": {
+    "zh": "“轮到你做决定” 或 “现在由你负责”。\n\n这个短语起源于网球等球类运动中，当球在某一方球场时，表示该方需要接球并决定下一步的动作。引申到日常生活中，这句话被用来比喻在某个决策或行动过程中，当前的责任或选择权归某人所有。",
+    "en": "This idiom originates from sports like tennis, where when the ball is in a player's court, it's their responsibility to hit it back and make the next move. In daily life, it is used metaphorically to indicate that the responsibility or decision-making power now lies with a specific person."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I've given you all the information. Now the ball is in your court.",
+          "zh": "我已经给了你所有信息，现在轮到你决定了。"
+        }
+      ],
+      "audio": "audio/1128.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "We made our offer, so the ball is in their court now.",
+          "zh": "我们已经提出了条件，现在轮到他们决定了。"
+        }
+      ],
+      "audio": "audio/1128.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "After the meeting, the ball is in his court to finalize the deal.",
+          "zh": "会议结束后，最终敲定交易的任务就交到了他手上。"
+        }
+      ],
+      "audio": "audio/1128.3.mp3"
+    }
+  ]
+}

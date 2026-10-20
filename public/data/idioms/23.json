@@ -1,0 +1,37 @@
+{
+  "n": 23,
+  "name": "A hang-up",
+  "meaning": {
+    "zh": "“心结” 或 “心理障碍”。\n\n这个短语最早起源于电话的挂断 (hang up)，经过演变，它逐渐用来描述那种让人无法摆脱的心理障碍或困扰。通常用于描述一个人心中的恐惧、焦虑、尴尬或其他负面的情绪反应。",
+    "en": "Originally, this phrase came from the action of hanging up a telephone. Over time, it evolved to describe psychological obstacles or issues that a person can't easily get over. It's commonly used to talk about someone's fears, anxieties, embarrassments, or other negative emotional reactions."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "She has a real *hang-up* about speaking in public.",
+          "zh": "她对公开演讲有真正的心结。"
+        }
+      ],
+      "audio": "audio/023.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He couldn’t enjoy the trip because of his *hang-up* about flying.",
+          "zh": "由于对飞行的心理障碍，他无法享受这次旅行。"
+        }
+      ],
+      "audio": "audio/023.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I don't know why she has such a *hang-up* about talking to strangers.",
+          "zh": "我不知道为什么她对与陌生人交谈有这样的心结。"
+        }
+      ],
+      "audio": "audio/023.3.mp3"
+    }
+  ]
+}

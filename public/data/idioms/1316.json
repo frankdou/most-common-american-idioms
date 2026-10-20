@@ -1,0 +1,37 @@
+{
+  "n": 1316,
+  "name": "Where were we?",
+  "meaning": {
+    "zh": "“我们刚刚说到哪里了？” 或 “我们之前讲到哪了？”\n\n这个短语通常用于对话或会议中，用来帮助参与者回忆或重新找到先前讨论的主题或议题。在交流过程中，如果有打断或中断，这个短语是一个很好的方式来重拾话题。",
+    "en": "This idiom is typically used in conversations or meetings to help participants recall or find the previously discussed topic or point. When there's an interruption or pause in the discussion, this phrase is a good way to resume the topic."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Sorry for the interruption. *Where were we?*",
+          "zh": "抱歉打断了，我们刚刚说到哪里了？"
+        }
+      ],
+      "audio": "audio/1316.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Let's get back to the main point. *Where were we?*",
+          "zh": "让我们回到主题，我们刚刚说到哪里了？"
+        }
+      ],
+      "audio": "audio/1316.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "We got sidetracked. *Where were we?*",
+          "zh": "我们跑题了，我们刚刚说到哪里了？"
+        }
+      ],
+      "audio": "audio/1316.3.mp3"
+    }
+  ]
+}

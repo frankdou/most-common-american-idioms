@@ -1,0 +1,37 @@
+{
+  "n": 450,
+  "name": "Full of crap",
+  "meaning": {
+    "zh": "“满口胡说” 或 “胡说八道”。\n\n这个短语通俗地表达了某人所说的话毫无根据、不可信或者纯属胡扯。其起源不明，但在日常英语中十分常见，用以形容那些喜欢夸夸其谈、说话不负责任的人。",
+    "en": "This phrase colloquially expresses that what someone is saying is baseless, untrustworthy, or pure nonsense. The origin is unclear, but it is commonly used in everyday English to describe people who are prone to exaggeration or irresponsible statements."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Don't listen to him; he's *full of crap*.",
+          "zh": "别听他的，他满口胡说。"
+        }
+      ],
+      "audio": "audio/450.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I can't believe anything she says; she's always *full of crap*.",
+          "zh": "她说的话我一点都不信，她总是胡说八道。"
+        }
+      ],
+      "audio": "audio/450.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "You're *full of crap* if you think that's going to work.",
+          "zh": "如果你认为那会奏效，那就是胡说八道。"
+        }
+      ],
+      "audio": "audio/450.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 99,
+  "name": "At the drop of a hat",
+  "meaning": {
+    "zh": "“立刻” 或 “毫不犹豫”。\n\n这个短语起源于以前的竞技比赛或决斗，裁判会丢下一顶帽子作为开始的信号。因此，“at the drop of a hat” 表示当帽子掉下时，行动立刻开始，没有任何延迟。在现代英语中，这个短语用来形容一个人会立刻做某些事情，毫不犹豫地去行动。",
+    "en": "This phrase originates from old competitions or duels where the dropping of a hat would signal the start. Therefore, \"at the drop of a hat\" means to start immediately upon the hat dropping, with no hesitation. In modern English, this idiom is used to describe a person who will do something immediately and without hesitation."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He would help his friends *at the drop of a hat*.",
+          "zh": "他会毫不犹豫地帮助他的朋友。"
+        }
+      ],
+      "audio": "audio/099.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She is ready to travel *at the drop of a hat*.",
+          "zh": "她随时准备出发旅行。"
+        }
+      ],
+      "audio": "audio/099.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Don't worry, I'll be there *at the drop of a hat* if you need me.",
+          "zh": "别担心，如果你需要我，我会立刻赶到。"
+        }
+      ],
+      "audio": "audio/099.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 333,
+  "name": "Don't count your chickens before they hatch",
+  "meaning": {
+    "zh": "“不要高兴得太早” 或 “不要打如意算盘”。\n\n这个成语源自一个古老的寓言，意义是劝告人们不要过早地将未实现的计划或期望当成现实。比喻要实际些，不要急于做出乐观的判断，因为事情可能不会如预期般顺利进行。",
+    "en": "This idiom originates from an old fable and serves as advice not to count on something before it actually happens. It metaphorically suggests that one should not make optimistic assumptions prematurely, as things may not turn out as expected."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "She was already planning her retirement, but I told her, *Don’t count your chickens before they hatch*.",
+          "zh": "她已经在计划退休了，但我告诉她不要高兴得太早。"
+        }
+      ],
+      "audio": "audio/333.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "You may get the promotion, but *don’t count your chickens before they hatch*.",
+          "zh": "你可能会升职，但不要打如意算盘。"
+        }
+      ],
+      "audio": "audio/333.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "We haven’t won the contract yet, so *don’t count your chickens before they hatch*.",
+          "zh": "我们还没有拿下合同，所以不要太早乐观。"
+        }
+      ],
+      "audio": "audio/333.3.mp3"
+    }
+  ]
+}

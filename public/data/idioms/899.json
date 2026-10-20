@@ -1,0 +1,37 @@
+{
+  "n": 899,
+  "name": "Out of order",
+  "meaning": {
+    "zh": "“损坏” 或 “故障”。\n\n这个短语起源于早期的机器和设备，当它们's不正常工作'时，会有一个标志显示 “Out of order” 来提示用户设备已经故障。现在，我们不仅使用这个短语来表示设备损坏，还可以用来描述任何不正常的情况或行为。",
+    "en": "This phrase originates from early machines and devices, where a sign showing \"Out of order\" would alert users that the equipment was not functioning properly. Nowadays, we use this phrase not only to describe broken equipment but also to indicate any abnormal situation or behavior."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The elevator is *out of order*, so you'll have to take the stairs.",
+          "zh": "电梯坏了，所以你得走楼梯。"
+        }
+      ],
+      "audio": "audio/899.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Sorry, the vending machine is *out of order* at the moment.",
+          "zh": "抱歉，自动售货机目前坏了。"
+        }
+      ],
+      "audio": "audio/899.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "His behavior was completely *out of order* during the meeting.",
+          "zh": "他在会议上的行为完全不合常理。"
+        }
+      ],
+      "audio": "audio/899.3.mp3"
+    }
+  ]
+}

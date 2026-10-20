@@ -1,0 +1,37 @@
+{
+  "n": 482,
+  "name": "Get the hang of it",
+  "meaning": {
+    "zh": "“掌握窍门” 或 “开始熟悉或擅长某事”。\n\n这个短语起源于19世纪的美国，最初是指学会如何处理和控制一种特定的工具或设备，尤其是需要技巧的东西，就像学会使用某种挂钩（hang）一样。如今，这个短语被广泛用于指任何通过练习或经验获得的技能或熟练度。",
+    "en": "This phrase originated in 19th-century America and initially referred to learning how to handle and control a particular tool or device, especially something requiring skill, much like learning how to use a hook (hang). Nowadays, it's commonly used to refer to any skill or proficiency gained through practice or experience."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "It took a few hours, but I finally *got the hang of it*.",
+          "zh": "花了几个小时，但我终于掌握了窍门。"
+        }
+      ],
+      "audio": "audio/482.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Don't worry, you'll *get the hang of it* after a bit more practice.",
+          "zh": "别担心，多练习一下你就会掌握窍门的。"
+        }
+      ],
+      "audio": "audio/482.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Once you *get the hang of it*, riding a bike is really easy.",
+          "zh": "一旦掌握了窍门，骑自行车就真的很容易了。"
+        }
+      ],
+      "audio": "audio/482.3.mp3"
+    }
+  ]
+}

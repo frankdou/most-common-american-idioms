@@ -1,23 +1,32 @@
-# Most Common American Idioms (1355)
+# Most Common American Idioms
 
-> [!NOTE]
-> Copyright **NOT** reserved.
+1355 条常见美式习语。一次读一条，释义、例句和朗读按需加载。
 
-This book was created by [@xiaolai](https://twitter.com/xiaolai) with the help of ChatGPT and its TTS. The rough code can be found in the notebook: [Idiom_book.ipynb](Idiom_book.ipynb). The program ran for about 5 hours to complete all the work.
+原文由 [@xiaolai](https://twitter.com/xiaolai) 用 ChatGPT 和语音合成整理。本阅读页基于 [JinXJinX/most-common-american-idioms](https://github.com/JinXJinX/most-common-american-idioms)。
 
-The final work is available in [Most_Common_American_Idioms.html](Most_Common_American_Idioms.html), and the audios can be played directly from the browser.
+## 本地运行
 
-The individual audio files are in the `audio` directory, and another version with combined files (every 10 idioms) is in the `combined` directory.
+```bash
+npm install
+npm run dev
+```
 
-Also, you can download a compiled version from [Baidu NetDisk](https://pan.baidu.com/s/1zk9XrlIe26aELul2reXhIw?pwd=nqbj): 
+## 构建
 
-> https://pan.baidu.com/s/1zk9XrlIe26aELul2reXhIw?pwd=nqbj
+```bash
+npm run build
+```
 
-Moreover, you can use the [Enjoy App](https://1000h.org/enjoy-app/) from the [1000 hour](https://1000h.org) project to practice with the audio files from this book.
+产物在 `dist/`。`public/data` 会复制到 `dist/data/`，根目录的 `audio/` 会复制到 `dist/audio/`。
 
----
+## Cloudflare Pages
 
-If you need any further adjustments, please let me know!
+用 Git 连接这个仓库，构建配置填：
 
+- 构建命令：`npm run build`
+- 构建输出目录：`dist`
+- Node.js：22（仓库里的 `.node-version`）
 
-Based on https://github.com/JinXJinX/most-common-american-idioms.
+部署在站点根路径。页面只有一个入口，当前习语记在 `?n=` 上，不需要重定向规则。
+
+用 Git 构建上传。拖拽上传的上限是 1000 个文件，这份产物大约 5400 个。Free 计划每个站点最多 20000 个文件，单个文件最大 25 MiB。当前产物大约 5400 个文件，最大的音频约 320 KiB。

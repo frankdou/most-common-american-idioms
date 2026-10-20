@@ -1,0 +1,37 @@
+{
+  "n": 891,
+  "name": "Once bitten, twice shy",
+  "meaning": {
+    "zh": "“一朝被蛇咬，十年怕井绳” 或 “吃一堑，长一智”。\n\n这个成语的意思是当你经历了一次不好的经验后，你会变得更加小心，以免再次受到伤害。这个表达来源于人的自然反应，即如果他们在某个情境中受到了伤害或失败，他们会在类似情境中表现得更加谨慎和犹豫。",
+    "en": "The idiom means that after having a bad experience once, you will be more cautious to avoid being hurt again. This expression stems from the natural human response to become more careful and hesitant when encountering similar situations after being hurt or failing before."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "After getting scammed online, he is now *once bitten, twice shy* about shopping on unfamiliar websites.",
+          "zh": "在网上被骗后，他现在对在不熟悉的网站购物特别小心。"
+        }
+      ],
+      "audio": "audio/891.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She was heartbroken after her last relationship ended, so she's *once bitten, twice shy* about dating now.",
+          "zh": "上次恋情的结束让她心碎，因此她现在对约会变得非常谨慎。"
+        }
+      ],
+      "audio": "audio/891.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "*Once bitten, twice shy*, he now double-checks every detail before agreeing to any deal.",
+          "zh": "吃一堑，长一智，他现在签订任何协议前都会仔细检查每个细节。"
+        }
+      ],
+      "audio": "audio/891.3.mp3"
+    }
+  ]
+}

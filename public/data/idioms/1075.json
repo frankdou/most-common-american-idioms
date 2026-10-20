@@ -1,0 +1,37 @@
+{
+  "n": 1075,
+  "name": "Stab someone in the back",
+  "meaning": {
+    "zh": "“在背后捅刀子” 或 “背叛某人”。\n\n这个短语起源于古代战争和犯罪，其中攻击者为了取胜或暗杀，会从背后向对手捅刀子。现代用法则用来形容某人对原本信任他的人背后进行背叛或出卖行为。通常在朋友、同事或商业伙伴之间使用，表示严重的背信弃义。",
+    "en": "This phrase originated from ancient wars and crimes where an attacker would stab their opponent in the back to win or assassinate. In contemporary usage, it refers to someone betraying or harming another person who trusted them. It's typically used between friends, coworkers, or business partners to denote severe acts of betrayal."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I can't believe he would *stab me in the back* after all we've been through.",
+          "zh": "我无法相信他在我们经历了这么多之后会在背后捅我一刀。"
+        }
+      ],
+      "audio": "audio/1075.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She pretended to be my friend, but ended up *stabbing me in the back*.",
+          "zh": "她假装是我的朋友，但最后却在背后捅了我一刀。"
+        }
+      ],
+      "audio": "audio/1075.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "In the corporate world, you have to be careful of those who will *stab you in the back* for their own gain.",
+          "zh": "在职场上，你必须提防那些为了自己利益而在背后捅你刀子的人。"
+        }
+      ],
+      "audio": "audio/1075.3.mp3"
+    }
+  ]
+}

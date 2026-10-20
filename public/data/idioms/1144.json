@@ -1,0 +1,37 @@
+{
+  "n": 1144,
+  "name": "The last minute",
+  "meaning": {
+    "zh": "“最后一刻” 或 “紧要关头”。\n\n这个短语源于形象地描述时间快要用尽的情景，特别是即将到截止期限或完成某项任务的最后时刻。在现代英语中，“the last minute” 用来形容事情在最后关头才完成或者才决定的情况，常常包含紧张、仓促的含义。",
+    "en": "This phrase metaphorically describes the scenario where time is almost running out, particularly when approaching a deadline or finishing a task. In modern English, \"the last minute\" is used to describe situations where something is completed or decided at the very last moment, often implying a sense of urgency or haste."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He always does his homework at *the last minute*.",
+          "zh": "他总是在最后一刻才做作业。"
+        }
+      ],
+      "audio": "audio/1144.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The project was finished just in *the last minute*.",
+          "zh": "这个项目是在最后一刻才完成的。"
+        }
+      ],
+      "audio": "audio/1144.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She bought the tickets at *the last minute*.",
+          "zh": "她在最后一刻才买了票。"
+        }
+      ],
+      "audio": "audio/1144.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 772,
+  "name": "Like there is no tomorrow",
+  "meaning": {
+    "zh": "“像没有明天一样” 或 “不顾明天”。\n\n这个短语起源于一种紧迫感和尽情享受当下的精神，暗指今天可能是最后一天，所以要尽情去做某事。这个表达通常用来形容人们不顾后果地大量做某事，比如消费、吃喝或者工作。",
+    "en": "This phrase originates from a sense of urgency and living in the moment, implying that today might be the last day, so one should do something to the fullest. It is typically used to describe people doing something in large quantities, without regard for the future consequences, such as spending, eating, or working."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "They were spending money *like there is no tomorrow* during their vacation.",
+          "zh": "他们在度假时花钱像没有明天一样。"
+        }
+      ],
+      "audio": "audio/772.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She ate those chocolates *like there is no tomorrow*.",
+          "zh": "她像没有明天一样吃那些巧克力。"
+        }
+      ],
+      "audio": "audio/772.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He's working *like there is no tomorrow* to finish the project on time.",
+          "zh": "为了按时完成项目，他正在拼命工作，像没有明天一样。"
+        }
+      ],
+      "audio": "audio/772.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 1087,
+  "name": "Stop on a dime",
+  "meaning": {
+    "zh": "“刹车迅速” 或 “说停就停”。\n\n这个短语最早出现在美国，通常用来形容一种能够在极其短的距离内快速停止的能力。最初出现在汽车和机械设备的描述中，这个短语形象地表达了在小小硬币（dime）这样的短距离内完成停止动作所需的灵敏度和精确度。如今，它也可以用来形容快速、果断地做出反应或做决定的能力。",
+    "en": "This phrase originated in the United States, commonly used to describe the ability of a car or mechanical device to stop quickly within a very short distance. Initially used in the context of vehicles and equipment, the phrase metaphorically conveys the agility and precision required to stop within the space of a dime. Nowadays, it can also describe the ability to make quick and decisive reactions or decisions."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The new sports car can *stop on a dime*, making it really safe to drive.",
+          "zh": "这辆新的跑车刹车反应很快，开起来非常安全。"
+        }
+      ],
+      "audio": "audio/1087.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Her reflexes are so sharp, she can *stop on a dime* during an intense tennis match.",
+          "zh": "她的反应特别灵敏，即使在激烈的网球比赛中也能迅速停下。"
+        }
+      ],
+      "audio": "audio/1087.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The CEO is known for his ability to *stop on a dime* and make important decisions quickly.",
+          "zh": "这位 CEO 因其能够迅速做出重要决定的能力而闻名。"
+        }
+      ],
+      "audio": "audio/1087.3.mp3"
+    }
+  ]
+}

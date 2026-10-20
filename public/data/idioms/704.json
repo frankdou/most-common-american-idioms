@@ -1,0 +1,37 @@
+{
+  "n": 704,
+  "name": "Keep something at bay",
+  "meaning": {
+    "zh": "“防止某事发生” 或 “遏制某事”。\n\n这个短语源于航海术语，指的是控制船只的距离，避免其进入危险区域。后来，这个短语被引申用于任何情况下的防止或控制，例如防止疾病、坏事或敌人接近。\n\n**适用场合**\n\n在任何需要表达防止某种不好的事情发生的情况下都可以使用此短语，如控制疾病、避免麻烦、或遏制某种负面情绪等。",
+    "en": "This phrase originates from nautical terminology, referring to controlling a ship's distance to avoid entering dangerous areas. Over time, it has been extended to mean preventing or controlling anything, such as preventing diseases, bad events, or enemies from getting close."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "She's taking vitamins to *keep a cold at bay*.",
+          "zh": "她在吃维生素来防止感冒。"
+        }
+      ],
+      "audio": "audio/704.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Regular exercise can help to *keep stress at bay*.",
+          "zh": "经常锻炼可以帮助遏制压力。"
+        }
+      ],
+      "audio": "audio/704.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "They set up security measures to *keep intruders at bay*.",
+          "zh": "他们采取了安全措施来防止入侵者。"
+        }
+      ],
+      "audio": "audio/704.3.mp3"
+    }
+  ]
+}

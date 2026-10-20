@@ -1,0 +1,37 @@
+{
+  "n": 256,
+  "name": "Cold enough to freeze the ball off a brass monkey",
+  "meaning": {
+    "zh": "“冷得猴子都要结冰了”，形容极其寒冷的天气。\n\n这个短语的起源有些争议，一种说法是它源自于海军用语，指的是旧时船上用来堆砌炮弹的 “黄铜猴子” 架子。在极其寒冷的天气下，黄铜会收缩，从而导致炮弹脱落。尽管这个解释被广泛接受，实际上这种说法的准确性仍有争议。",
+    "en": "This idiom's origin is somewhat debated. One explanation is that it comes from naval terminology, referring to brass structures used to stack cannonballs on ships. In extremely cold weather, the brass would contract, causing the cannonballs to fall off. While this explanation is widely accepted, the true historical accuracy remains debated."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "It's *cold enough to freeze the balls off a brass monkey* out there today!",
+          "zh": "今天外面冷得猴子都要结冰了!"
+        }
+      ],
+      "audio": "audio/256.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The temperature dropped so low last night, it was *cold enough to freeze the balls off a brass monkey*.",
+          "zh": "昨晚气温降得如此之低，简直冷得猴子都要结冰了。"
+        }
+      ],
+      "audio": "audio/256.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I can't believe how cold it is, it's *cold enough to freeze the balls off a brass monkey*!.",
+          "zh": "我真不敢相信有多冷，简直冷得猴子都要结冰了。"
+        }
+      ],
+      "audio": "audio/256.3.mp3"
+    }
+  ]
+}

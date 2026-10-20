@@ -1,0 +1,37 @@
+{
+  "n": 852,
+  "name": "Not have a leg to stand on",
+  "meaning": {
+    "zh": "“没有立场” 或 “没有依据”。\n\n这个短语源于一个人没有腿就站不稳的比喻，用以表示某个论点没有支持的证据或理论基础。它常用于表达一个人或其主张缺乏可信的、支持其立场的证据或理由。",
+    "en": "This phrase originates from the metaphor that without legs, a person cannot stand firm, symbolizing a position or argument lacking evidence or foundation. It is often used to indicate that someone or their claim lacks credible support or justification."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Without any proof, his accusations really don't have a leg to stand on.",
+          "zh": "没有任何证据，他的指控根本没有立场。"
+        }
+      ],
+      "audio": "audio/852.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The company's argument doesn't have a leg to stand on because their data is outdated.",
+          "zh": "公司的论点没有依据，因为他们的数据已经过时了。"
+        }
+      ],
+      "audio": "audio/852.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "If you don’t have a contract, you won’t have a leg to stand on in court.",
+          "zh": "如果你没有合同，你在法庭上将没有立场。"
+        }
+      ],
+      "audio": "audio/852.3.mp3"
+    }
+  ]
+}

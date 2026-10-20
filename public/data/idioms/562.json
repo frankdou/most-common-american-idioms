@@ -1,0 +1,37 @@
+{
+  "n": 562,
+  "name": "Guinea pig",
+  "meaning": {
+    "zh": "“小白鼠” 或 “试验对象”。\n\n“Guinea pig” 原指豚鼠，这种小动物常用于科学研究和实验，因此在英语中，这个短语逐渐延伸为指代某人或某物被用作试验或测试的对象。\n\n这个短语源自于豚鼠作为实验动物的历史。在科学实验中，豚鼠常被用来进行各种医学和心理研究，因此 “Guinea pig” 自然衍生出了 “试验对象” 的意思，通常用来形容某人为某些新事物或新方法进行尝试或测试。",
+    "en": "This idiom originates from the historical use of guinea pigs in scientific research and experiments. Over time, the phrase has evolved to refer to any person or thing that is used as a subject for experimentation or testing."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "They used me as a *guinea pig* for their new training program.",
+          "zh": "他们把我当作他们新培训计划的小白鼠。"
+        }
+      ],
+      "audio": "audio/562.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I don't want to be the *guinea pig* for this new medication.",
+          "zh": "我不想成为这种新药物的试验对象。"
+        }
+      ],
+      "audio": "audio/562.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She volunteered to be the *guinea pig* for the experiment.",
+          "zh": "她自愿成为这个实验的小白鼠。"
+        }
+      ],
+      "audio": "audio/562.3.mp3"
+    }
+  ]
+}

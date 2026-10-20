@@ -1,0 +1,37 @@
+{
+  "n": 186,
+  "name": "Brought up",
+  "meaning": {
+    "zh": "“被养育” 或 “被提起”。\n\n这个短语有两个常用的含义：一个是指某人被养大或培育长大，通常与他们的家庭或祖辈有关；另一个是指在谈话或讨论中提及某个话题。这个短语在日常对话中非常常见，可以用来讨论成长背景或者引入新的话题。",
+    "en": "This phrase has two common meanings: one refers to someone being raised or brought up by their family or guardians, indicating their upbringing. The other refers to mentioning or bringing up a topic in a conversation or discussion. This phrase is very common in daily conversations and can be used to discuss background or introduce new topics."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "She was *brought up* in a small town by her grandparents.",
+          "zh": "她是在一个小镇由祖父母养大的。"
+        }
+      ],
+      "audio": "audio/186.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "During the meeting, he *brought up* the issue of employee benefits.",
+          "zh": "在会议期间，他提到了员工福利的问题。"
+        }
+      ],
+      "audio": "audio/186.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Whenever politics is *brought up*, he gets very heated.",
+          "zh": "每当提到政治话题，他就会变得非常激动。"
+        }
+      ],
+      "audio": "audio/186.3.mp3"
+    }
+  ]
+}

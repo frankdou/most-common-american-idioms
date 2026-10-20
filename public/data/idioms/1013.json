@@ -1,0 +1,37 @@
+{
+  "n": 1013,
+  "name": "Scare the pants off someone",
+  "meaning": {
+    "zh": "“把某人吓得魂不附体” 或 “把某人吓得屁滚尿流”。\n\n这个短语的字面意思是 “把某人的裤子吓掉”，实际上是形象地描述某人被深深地吓到的状态，仿佛惊恐之极导致裤子都要掉下来。虽然短语的起源不详，但很可能是因为裤子掉是一种突兀且令人尴尬的情景，所以用来形容特别惊吓场面。",
+    "en": "This phrase literally means “scare someone’s pants off,” and it vividly describes someone being extremely frightened, to the point where their pants might fall off. Although the exact origin is unclear, it likely arose from the idea that losing one’s pants is an abrupt and embarrassing situation, hence emphasizing a state of great fear."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "That horror movie really *scared the pants off* me.",
+          "zh": "那部恐怖电影真的把我吓得屁滚尿流。"
+        }
+      ],
+      "audio": "audio/1013.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He loves to *scare the pants off* his friends with ghost stories.",
+          "zh": "他喜欢用鬼故事把他的朋友们吓得魂不附体。"
+        }
+      ],
+      "audio": "audio/1013.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The sudden thunderstorm *scared the pants off* the campers.",
+          "zh": "突如其来的雷阵雨把露营者吓得屁滚尿流。"
+        }
+      ],
+      "audio": "audio/1013.3.mp3"
+    }
+  ]
+}

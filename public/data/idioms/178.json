@@ -1,0 +1,37 @@
+{
+  "n": 178,
+  "name": "Break the bank",
+  "meaning": {
+    "zh": "“倾家荡产” 或 “花光所有钱”。\n\n这个短语源于赌博世界，特别是在赌场中。如果一个赌徒赢了整个庄家的所有钱，就称为 “break the bank”。在现代使用中，这个短语常用来形容一笔费用非常昂贵，甚至可能让人倾家荡产或花光所有积蓄。",
+    "en": "The phrase originates from the gambling world, particularly in casinos. If a gambler wins all the money of the house, it's called \"breaking the bank\". In modern usage, this idiom often describes a cost that is very expensive, potentially exhaustively so."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Buying a new car shouldn't *break the bank*.",
+          "zh": "买辆新车不应该让你倾家荡产。"
+        }
+      ],
+      "audio": "audio/178.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "They threw a big wedding without *breaking the bank*.",
+          "zh": "他们举办了一场盛大的婚礼，但并没有花光所有的钱。"
+        }
+      ],
+      "audio": "audio/178.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "A nice dinner out doesn't have to *break the bank*.",
+          "zh": "外出吃一顿美餐不用花太多钱。"
+        }
+      ],
+      "audio": "audio/178.3.mp3"
+    }
+  ]
+}

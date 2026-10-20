@@ -1,0 +1,37 @@
+{
+  "n": 517,
+  "name": "Go fry an egg",
+  "meaning": {
+    "zh": "“去炸个蛋吧”，意指 “别烦我” 或 “去忙你自己的事”。\n\n这个短语在英语中是一个较为生动的表达，类似于中文中的 “走开点” 或 “去一边待着”。它最早出现在20世纪初，可能是作为一种幽默或讽刺的方式来劝阻某人停止烦扰。例如，当别人一直打扰你时，你可能会用它来表达让对方不要继续干扰自己。",
+    "en": "This phrase is a lively expression in English similar to telling someone to \"get lost\" or \"mind their own business.\" It emerged in the early 20th century, likely as a humorous or sarcastic method to get someone to stop bothering you. For example, when someone keeps pestering you, you might use it to tell them to back off."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He kept asking me questions, so finally, I told him to go fry an egg.",
+          "zh": "他一直问我问题，所以最后我让他去炸个蛋。"
+        }
+      ],
+      "audio": "audio/517.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "If you're not going to help, just go fry an egg!",
+          "zh": "如果你不打算帮忙，就去炸个蛋吧！"
+        }
+      ],
+      "audio": "audio/517.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "When he started complaining again, she told him to go fry an egg and stop whining.",
+          "zh": "当他再次开始抱怨时，她让他去炸个蛋，别再发牢骚了。"
+        }
+      ],
+      "audio": "audio/517.3.mp3"
+    }
+  ]
+}

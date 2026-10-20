@@ -1,0 +1,37 @@
+{
+  "n": 507,
+  "name": "Give them the slip",
+  "meaning": {
+    "zh": "“摆脱他们” 或 “甩开他们”。\n\n这个短语起源于19世纪，意指通过巧妙的手段从某个别人不想你离开的场合逃脱。在那时，如果有人用 “给你一张纸条（slip you a note）” 等同于偷偷摸摸给信息，因此 “给他们纸条” 逐渐演变为 “摆脱他们”。",
+    "en": "This phrase originated in the 19th century, meaning to escape from a place or situation that others do not want you to leave, often using clever means. During that time, if someone \"slipped you a note\", it implied secretly providing information, hence \"give them the slip\" evolved to mean escaping or shaking off."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "We had to *give them the slip* to avoid being caught.",
+          "zh": "我们不得不甩开他们以免被抓住。"
+        }
+      ],
+      "audio": "audio/507.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She managed to *give the paparazzi the slip*.",
+          "zh": "她成功地甩开了狗仔队。"
+        }
+      ],
+      "audio": "audio/507.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The thief *gave the police the slip* and disappeared into the crowd.",
+          "zh": "小偷甩开了警察并消失在人群中。"
+        }
+      ],
+      "audio": "audio/507.3.mp3"
+    }
+  ]
+}

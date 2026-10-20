@@ -1,0 +1,37 @@
+{
+  "n": 214,
+  "name": "Can't put a face to the name",
+  "meaning": {
+    "zh": "“记不起名字和人对不上号” 或 “不能将名字和脸对上”。\n\n这个短语源于人们在社交活动中常遇到的情况，即虽然记得别人的名字，但无法将名字和对方面孔匹配起来。这种现象通常发生在与很多人接触或在大型聚会结束后。当我们不能将名字与脸对上时，我们就会用这个表达方式。",
+    "en": "This phrase originates from a common social challenge where one remembers someone's name but cannot match it to the person's face. This often occurs after meeting many people or following large gatherings. When we can't align the name with the face, we use this expression."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I remember John from the meeting, but I just can't put a face to the name.",
+          "zh": "我记得会议上的约翰，但就是想不起他的长相。"
+        }
+      ],
+      "audio": "audio/214.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She said hello to me, but I can't put a face to the name. Have we met before?",
+          "zh": "她跟我打了招呼，但我记不起她的模样。我们以前见过吗？"
+        }
+      ],
+      "audio": "audio/214.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I'm terrible with names; I often can't put a face to the name after events.",
+          "zh": "我记名字很差，活动结束后常常对不上号。"
+        }
+      ],
+      "audio": "audio/214.3.mp3"
+    }
+  ]
+}

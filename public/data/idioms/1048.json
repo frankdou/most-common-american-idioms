@@ -1,0 +1,37 @@
+{
+  "n": 1048,
+  "name": "Skip class/cut class",
+  "meaning": {
+    "zh": "“逃课” 或 “旷课”。\n\n这个短语指的是学生故意不去上课，而做其他事情。其起源可以追溯到英语的学生俚语，描述学生为了享受其他活动或逃避责任而不参加课堂。现代用语中，\"skip class\" 和 \"cut class\" 均广泛使用来表示这一行为，常见于学生的对话中。",
+    "en": "This phrase refers to the act of students deliberately not attending class to do something else. Its origin can be traced back to student slang in English, describing students skipping classes to enjoy other activities or avoid responsibilities. In modern usage, both \"skip class\" and \"cut class\" are widely used to denote this behavior, commonly found in student conversations."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He decided to *skip class* and go to the beach instead.",
+          "zh": "他决定逃课去海滩。"
+        }
+      ],
+      "audio": "audio/1048.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "It's not a good idea to *cut class* too often.",
+          "zh": "经常逃课不是个好主意。"
+        }
+      ],
+      "audio": "audio/1048.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "They were caught by the principal for *cutting class*.",
+          "zh": "他们因为逃课被校长发现了。"
+        }
+      ],
+      "audio": "audio/1048.3.mp3"
+    }
+  ]
+}

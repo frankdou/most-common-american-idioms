@@ -1,0 +1,37 @@
+{
+  "n": 748,
+  "name": "Leave someone high and dry",
+  "meaning": {
+    "zh": "“抛弃某人” 或 “让某人陷入困境”。\n\n这个短语起源于航海文化，指的是船舶在涨潮时搁浅，随后退潮使船只困在高处，无法动弹。从这个比喻中延伸出了现在的含义，指在关键时刻弃某人于不顾或让其陷入不得善终的困境。",
+    "en": "This phrase originates from nautical culture, where it refers to ships that get stranded as the tide rolls out, leaving the vessel \"high and dry\" and unable to move. From this metaphor, it evolved to mean abandoning someone in a difficult situation without any help."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He promised to help, but then he left me *high and dry*.",
+          "zh": "他答应帮忙，但却抛弃了我，让我陷入困境。"
+        }
+      ],
+      "audio": "audio/748.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "They were left *high and dry* when the company went bankrupt.",
+          "zh": "公司破产后，他们被抛在一旁，陷入了困境。"
+        }
+      ],
+      "audio": "audio/748.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I can't believe you would leave your best friend *high and dry* like that.",
+          "zh": "我简直不敢相信你会这样抛弃你最好的朋友，让他陷入困境。"
+        }
+      ],
+      "audio": "audio/748.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 872,
+  "name": "On pins and needles",
+  "meaning": {
+    "zh": "“如坐针毡” 或 “极度紧张”。\n\n这个短语起源于描述人在紧张或焦虑时的生理反应，仿佛有针刺般的不适感。最早的记载可以追溯到19世纪，后来经过演变，这个表达变得越来越常用于形容人们在等待重要消息或结果时的紧张不安状态。",
+    "en": "This phrase originates from the physical response people have when they are nervous or anxious, as if they are being pricked by pins and needles. The earliest record of this idiom dates back to the 19th century. Over time, it evolved to commonly describe how people feel when they are waiting anxiously for important news or outcomes."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "She was on *pins and needles* waiting for the job interview results.",
+          "zh": "她在等待工作面试结果时如坐针毡。"
+        }
+      ],
+      "audio": "audio/872.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The whole team was on *pins and needles* before the final match started.",
+          "zh": "整支队伍在比赛开始前都如坐针毡。"
+        }
+      ],
+      "audio": "audio/872.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I always feel on *pins and needles* before giving a presentation.",
+          "zh": "我每次要演讲前总是感到极度紧张。"
+        }
+      ],
+      "audio": "audio/872.3.mp3"
+    }
+  ]
+}

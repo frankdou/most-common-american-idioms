@@ -1,0 +1,37 @@
+{
+  "n": 880,
+  "name": "On the house",
+  "meaning": {
+    "zh": "“由店家请客” 或 “免费提供”。\n\n这个短语起源于酒吧或者餐馆的场景中，表示商家免费为顾客提供某种服务或商品。这个短语反映了商家礼貌待客的方式，有时候用来表达感谢，或者作为一种促销手段。",
+    "en": "This phrase originates from the context of bars or restaurants, indicating that the business is offering a service or item for free as a gift to the customer. It reflects a courteous gesture by the business, sometimes used to show appreciation or as a promotional tactic."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The dessert is *on the house* tonight because it's our anniversary celebration.",
+          "zh": "今晚的甜点由店家请客，因为我们在庆祝周年纪念。"
+        }
+      ],
+      "audio": "audio/880.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The manager offered us drinks *on the house* to apologize for the delay.",
+          "zh": "经理为我们提供了店家请客的饮料，以表示对延误的歉意。"
+        }
+      ],
+      "audio": "audio/880.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "When we are regular customers, they sometimes give us appetizers *on the house*.",
+          "zh": "当我们成为常客时，他们有时会免费提供开胃菜。"
+        }
+      ],
+      "audio": "audio/880.3.mp3"
+    }
+  ]
+}

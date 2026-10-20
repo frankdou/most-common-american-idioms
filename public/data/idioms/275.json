@@ -1,0 +1,37 @@
+{
+  "n": 275,
+  "name": "Cool as a cucumber",
+  "meaning": {
+    "zh": "“非常冷静” 或 “泰然自若”。\n\n这个短语据说源自于黄瓜在炎热的天气里仍能保持凉爽和湿润的特性。因此，用黄瓜来形容一个人在紧张或压力下依然显得冷静自如是一种形象的比喻。",
+    "en": "This phrase is said to originate from the fact that cucumbers can remain cool and moist even in hot weather. Therefore, using a cucumber to describe someone who stays calm and composed under stress or pressure is an apt metaphor."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Even during the intense meeting, she remained as *cool as a cucumber*.",
+          "zh": "即使在紧张的会议期间，她依然显得非常冷静。"
+        }
+      ],
+      "audio": "audio/275.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He handled the crisis *cool as a cucumber*.",
+          "zh": "他泰然自若地应对了危机。"
+        }
+      ],
+      "audio": "audio/275.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Despite the chaos around him, he stayed *cool as a cucumber*.",
+          "zh": "尽管周围一片混乱，他依然保持冷静。"
+        }
+      ],
+      "audio": "audio/275.3.mp3"
+    }
+  ]
+}

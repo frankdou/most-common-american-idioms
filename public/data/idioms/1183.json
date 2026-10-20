@@ -1,0 +1,37 @@
+{
+  "n": 1183,
+  "name": "To be a chicken / to chicken out",
+  "meaning": {
+    "zh": "“胆小鬼” 或 “临阵退缩”。\n\n“to be a chicken” 的意思是形容某人很胆小，常用来讽刺那些在危险或困难面前退缩的人。这个说法源自鸡这种动物，它们通常容易受到惊吓而逃跑。而 “to chicken out” 的意思是指某人在关键时刻退缩或放弃，具体指那个人本来打算做某事但最后因为害怕或胆怯而放弃。",
+    "en": "The phrase \"to be a chicken\" means to describe someone as being very cowardly, often used to mock those who back down in the face of danger or difficulty. It originates from the behavior of chickens, which are easily frightened and tend to run away. \"To chicken out\" means to back out or give up at the last moment, specifically indicating someone who originally planned to do something but then decides not to because of fear or nervousness."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Don't be a *chicken*—just try the rollercoaster!",
+          "zh": "别当胆小鬼——试一试过山车吧！"
+        }
+      ],
+      "audio": "audio/1183.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He wanted to ask her out, but he *chickened out* at the last moment.",
+          "zh": "他本来想约她出去，但在最后一刻却临阵退缩了。"
+        }
+      ],
+      "audio": "audio/1183.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I'm not going to *chicken out* now; I've come too far.",
+          "zh": "我现在不会临阵退缩，我已经走了这么远了。"
+        }
+      ],
+      "audio": "audio/1183.3.mp3"
+    }
+  ]
+}

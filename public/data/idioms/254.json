@@ -1,0 +1,37 @@
+{
+  "n": 254,
+  "name": "Coin a new term",
+  "meaning": {
+    "zh": "“创造一个新术语” 或 “发明一个新名词”。\n\n这个短语源自 “coin” 这个词，原本指铸造硬币。在 16 世纪，这个词逐渐演变出 “创造或发明” 的含义，于是 “coin a new term” 就被用来表示创造一个新的术语或名词，常用于描述提出一个新的概念或表达方式的情形。",
+    "en": "This phrase originates from the word \"coin,\" which initially meant to mint coins. In the 16th century, the term evolved to mean \"create or invent.\" Hence, \"coin a new term\" came to be used to describe the act of creating a new term or phrase, often to articulate a new concept or idea."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "She managed to coin a new term for the social phenomenon they were studying.",
+          "zh": "她成功地为他们正在研究的社会现象创造了一个新名词。"
+        }
+      ],
+      "audio": "audio/254.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The author coined a new term that quickly became popular in the industry.",
+          "zh": "这位作者创造的新术语迅速在业内流行起来。"
+        }
+      ],
+      "audio": "audio/254.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "It's not every day that someone coins a new term that sticks in everyday language.",
+          "zh": "不是每天都有人创造一个能在日常语言中流行的新术语。"
+        }
+      ],
+      "audio": "audio/254.3.mp3"
+    }
+  ]
+}

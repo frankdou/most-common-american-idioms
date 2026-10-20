@@ -1,0 +1,37 @@
+{
+  "n": 749,
+  "name": "Leave well enough alone",
+  "meaning": {
+    "zh": "“维持现状” 或 “不要多此一举”。\n\n这个短语起源于法国谚语 “Let well alone”，意思是当某事物已经不错的时候，最好不要进行不必要的干涉或改动，以免弄巧成拙。这句话常用来提醒人们不要试图改善已经足够好的事物，避免不必要的麻烦和风险。",
+    "en": "The phrase originates from the French proverb \"Let well alone,\" meaning it is better not to interfere with something that is already satisfactory to avoid the risk of making things worse. This saying is often used to remind people not to try to improve something that is already good enough to avoid unnecessary complications or mishaps."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The project is going smoothly, so let's just *leave well enough alone*.",
+          "zh": "项目进展顺利，所以我们还是维持现状吧。"
+        }
+      ],
+      "audio": "audio/749.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "You should *leave well enough alone*; any more changes might ruin everything.",
+          "zh": "你应该维持现状，再做任何改动可能会毁了所有东西。"
+        }
+      ],
+      "audio": "audio/749.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He wanted to tweak the design, but I told him to *leave well enough alone*.",
+          "zh": "他想调整设计，但我告诉他维持现状。"
+        }
+      ],
+      "audio": "audio/749.3.mp3"
+    }
+  ]
+}

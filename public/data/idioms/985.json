@@ -1,0 +1,37 @@
+{
+  "n": 985,
+  "name": "Right this way",
+  "meaning": {
+    "zh": "“这边请” 或 “请这边走”。\n\n这个短语常用于引导或指示某人去某个特定的地方，通常是在服务环境中，比如餐厅、商店或任何需要引导顾客的地方。这是一种礼貌而正式的说法，表示出对对方的关心和礼貌。",
+    "en": "This phrase is often used to guide or direct someone to a specific place, usually in service settings such as restaurants, stores, or any situation where customers need to be guided. It is a polite and formal way to show care and politeness to the other person."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Welcome to our restaurant. *Right this way*, please.",
+          "zh": "欢迎光临我们的餐厅。请这边走。"
+        }
+      ],
+      "audio": "audio/985.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "If you're looking for the conference room, it's *right this way*.",
+          "zh": "如果您在找会议室，请这边走。"
+        }
+      ],
+      "audio": "audio/985.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "*Right this way* to the fitting rooms, ma'am.",
+          "zh": "女士，请这边走，到试衣间。"
+        }
+      ],
+      "audio": "audio/985.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 617,
+  "name": "Hold your horses",
+  "meaning": {
+    "zh": "“稍安勿躁” 或 “耐心等待”。\n\n这个短语的起源可以追溯到马车和战马的时代，当时要驾驭马匹，特别是在需要暂停或停止时，驾驭者会喊 “hold your horses”，意为稳住马匹。这个表达逐渐演变成了让人在需要等待或冷静时保持耐心的固定用语。",
+    "en": "This idiom originates from the days of horse-drawn carriages and war horses, where handlers needed to control and calm the horses, especially when needing to pause or stop. The expression evolved into a common phrase telling someone to be patient or calm down when they are getting ahead of themselves."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "*Hold your horses*, the meeting doesn't start for another 30 minutes.",
+          "zh": "稍安勿躁，会议还有 30 分钟才开始。"
+        }
+      ],
+      "audio": "audio/617.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "*Hold your horses*, we'll get there soon enough.",
+          "zh": "耐心点，我们很快就会到的。"
+        }
+      ],
+      "audio": "audio/617.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "*Hold your horses*, I need to finish this before we leave.",
+          "zh": "稍安勿躁，我需要在我们离开之前完成这个。"
+        }
+      ],
+      "audio": "audio/617.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 292,
+  "name": "Cross your fingers",
+  "meaning": {
+    "zh": "“交叉手指” 或 “祈求好运”。\n\n这个短语源自于基督教传统，在中世纪，人们相信交叉手指可以带来好运。这种姿势象征着十字架，被认为能带来神圣的保护和好运。现在，它常用来表达希望某件事情顺利进行或者希望事情按预期发展。",
+    "en": "This phrase originates from Christian tradition in the Middle Ages, where people believed that crossing their fingers could bring good luck. The gesture symbolizes a cross and was thought to bring divine protection and good fortune. Nowadays, it is commonly used to express the hope that something will happen successfully or as anticipated."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I'm crossing my fingers that it doesn't rain during our picnic.",
+          "zh": "我在祈求我们的野餐时不要下雨。"
+        }
+      ],
+      "audio": "audio/292.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She crossed her fingers before opening the exam results.",
+          "zh": "她在打开考试成绩前交叉手指祈求好运。"
+        }
+      ],
+      "audio": "audio/292.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Let's cross our fingers and hope for the best.",
+          "zh": "让我们交叉手指，祈求最好的结果。"
+        }
+      ],
+      "audio": "audio/292.3.mp3"
+    }
+  ]
+}

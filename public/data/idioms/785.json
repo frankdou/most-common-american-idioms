@@ -1,0 +1,37 @@
+{
+  "n": 785,
+  "name": "Loose cannon",
+  "meaning": {
+    "zh": "“不可控的人” 或 “危险分子”。\n\n这个短语起源于帆船时代，那时大炮被固定在甲板上，如果大炮松动，就会在狂风暴雨或战斗中到处乱滚，威胁到船员和船只的安全。因此，“loose cannon” 用来形容那些不可预测且可能带来危险的人。",
+    "en": "This phrase originates from the age of sailing ships when cannons were fixed on deck. If a cannon became loose, it would roll around unpredictably during storms or battles, endangering the crew and the vessel. Therefore, “loose cannon” is used to describe someone who is unpredictable and potentially dangerous."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He's a *loose cannon* and often makes impulsive decisions that get the company in trouble.",
+          "zh": "他是个不可控的人，经常做出冲动的决定，从而给公司带来麻烦。"
+        }
+      ],
+      "audio": "audio/785.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "We can't afford a *loose cannon* on our team; it could jeopardize our project.",
+          "zh": "我们的团队不能承受一个危险分子；这可能会危及我们的项目。"
+        }
+      ],
+      "audio": "audio/785.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Although talented, his tendency to act like a *loose cannon* makes him hard to work with.",
+          "zh": "尽管他很有才华，但他如同危险分子的行为倾向使得与他共事非常困难。"
+        }
+      ],
+      "audio": "audio/785.3.mp3"
+    }
+  ]
+}

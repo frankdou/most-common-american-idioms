@@ -1,0 +1,37 @@
+{
+  "n": 64,
+  "name": "All heart",
+  "meaning": {
+    "zh": "“非常善良” 或 “心地很好”。\n\n这个短语起源于对心脏作为情感中心的传统看法，特别是在西方文化中，心脏常被认为是爱、慈悲和善良的象征。因此，说一个人是 \"all heart\" 意味着他们非常善良，心地很好，充满同情心和无私奉献的精神。",
+    "en": "This phrase originates from the traditional view of the heart as the center of emotions, particularly in Western culture where the heart is often considered a symbol of love, compassion, and kindness. So, saying someone is \"all heart\" implies they are very kind, good-hearted, full of compassion and selflessness."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "She's *all heart*, always helping those in need.",
+          "zh": "她心地很好，总是帮助那些需要帮助的人。"
+        }
+      ],
+      "audio": "audio/064.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "You can tell he's *all heart* by the way he volunteers at the shelter.",
+          "zh": "你可以从他在避难所做志愿者的方式看出他非常善良。"
+        }
+      ],
+      "audio": "audio/064.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Despite his tough exterior, he's really *all heart*.",
+          "zh": "尽管他外表坚强，但他内心真的很善良。"
+        }
+      ],
+      "audio": "audio/064.3.mp3"
+    }
+  ]
+}

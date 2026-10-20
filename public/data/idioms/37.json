@@ -1,0 +1,37 @@
+{
+  "n": 37,
+  "name": "A screw loose",
+  "meaning": {
+    "zh": "“有颗螺丝松了” 或 “精神有些失常”。\n\n这个短语起源于机械装置中的螺丝，如果螺丝松了，机器就无法正常运行。同样地，如果人 “有颗螺丝松了”，比喻他们的精神状态不太正常或者举动有些怪异。在日常对话中，这个短语常用来形容某人行为反常或古怪。",
+    "en": "This phrase originates from mechanical devices where a loose screw means the machine cannot function properly. Similarly, if a person has \"a screw loose,\" it metaphorically suggests their mental state is a bit off or they are acting unusually. In everyday conversations, this phrase is often used to describe someone acting strangely or eccentrically."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I think he's got *a screw loose* for jumping into that freezing water.",
+          "zh": "我觉得他跳进那个冰冷的水里真是有颗螺丝松了。"
+        }
+      ],
+      "audio": "audio/037.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Her neighbors believe she has *a screw loose* because she talks to her plants.",
+          "zh": "她的邻居们认为她精神有些失常，因为她会跟植物说话。"
+        }
+      ],
+      "audio": "audio/037.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Sometimes I think my brother has *a screw loose* when he starts collecting weird things.",
+          "zh": "有时候我觉得我哥哥精神有些失常，当他开始收集奇怪的东西的时候。"
+        }
+      ],
+      "audio": "audio/037.3.mp3"
+    }
+  ]
+}

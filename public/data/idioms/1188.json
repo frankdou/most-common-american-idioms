@@ -1,0 +1,37 @@
+{
+  "n": 1188,
+  "name": "To be out of the question",
+  "meaning": {
+    "zh": "“不可能的” 或 “不在考虑范围之内”。\n\n这个短语起源于直译中的 “离开了问题”，指的是某件事情或状态根本不是问题的一部分，因而被排除在讨论或考虑之外。它用于描述那些完全无法实现或超出可能性的事情，在许多正式和非正式场合均可使用。",
+    "en": "This phrase originates from the literal translation \"to be away from the question,\" meaning that something is not even being considered as a possibility. It is used to describe situations or matters that are completely unachievable or out of the realm of possibility. It can be used in both formal and informal contexts."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Buying a new car this year is *out of the question*; we just can't afford it.",
+          "zh": "今年买新车是不可能的；我们实在负担不起。"
+        }
+      ],
+      "audio": "audio/1188.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Skipping the final exam is simply *out of the question* if you want to pass the course.",
+          "zh": "如果你想通过这门课程，缺席期末考试是不可能的事情。"
+        }
+      ],
+      "audio": "audio/1188.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Asking for a significant raise during the budget cuts is *out of the question*.",
+          "zh": "在削减预算期间要求大幅加薪是不在考虑范围之内的。"
+        }
+      ],
+      "audio": "audio/1188.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 866,
+  "name": "Off-color",
+  "meaning": {
+    "zh": "“有伤风化” 或 “不雅的”。\n\n这个短语起源于早期的色彩描述，当某个颜色 “偏离” 标准色时，则称为 “off-color”。后来，这个词被引申用来描述语言或行为不符合社会道德标准或不适合正式场合。尤其多用于指笑话、评论或行为稍显露骨或令人不适。",
+    "en": "This phrase originates from early color descriptions, where if a color \"deviated\" from the standard, it was termed \"off-color.\" Over time, this term evolved to describe language or behavior that does not conform to societal moral standards or is unsuitable for formal settings. It is especially used for jokes, comments, or behavior that is slightly suggestive or offensive."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He was reprimanded for making an *off-color* joke in the office.",
+          "zh": "他因为在办公室讲了一个不雅笑话而被训斥。"
+        }
+      ],
+      "audio": "audio/866.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "That comment was quite *off-color*, don’t you think?",
+          "zh": "你不觉得那条评论很有伤风化吗？"
+        }
+      ],
+      "audio": "audio/866.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "We should avoid *off-color* jokes at family gatherings.",
+          "zh": "我们在家庭聚会上应该避免讲不雅的笑话。"
+        }
+      ],
+      "audio": "audio/866.3.mp3"
+    }
+  ]
+}

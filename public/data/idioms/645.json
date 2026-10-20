@@ -1,0 +1,37 @@
+{
+  "n": 645,
+  "name": "In a rut",
+  "meaning": {
+    "zh": "“陷入一成不变的生活” 或 “生活停滞不前”。\n\n这个短语源于车轮在泥泞或松软的路面上行驶时，车辆会陷入车辙里而无法前进。随着时间的推移，这种描述慢慢演变为一种比喻，表示某人生活或工作中缺乏变化和活力，感到生活单调乏味，无法突破现状。",
+    "en": "This phrase originates from the experience of wheels getting stuck in deep ruts on muddy or soft roads, causing difficulty in moving forward. Over time, this description evolved into a metaphor indicating someone's life or work lacking change and vitality, feeling monotonous and unable to break free from the routine."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "She feels like she's *in a rut* at her current job.",
+          "zh": "她觉得自己在目前的工作中陷入了一成不变的状态。"
+        }
+      ],
+      "audio": "audio/645.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "After years of the same routine, he's stuck *in a rut*.",
+          "zh": "经过多年的同样作息后，他感到生活停滞不前。"
+        }
+      ],
+      "audio": "audio/645.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I'm trying to change my daily habits because I don't want to be *in a rut*.",
+          "zh": "我正试图改变我的日常习惯，因为我不想生活一成不变。"
+        }
+      ],
+      "audio": "audio/645.3.mp3"
+    }
+  ]
+}

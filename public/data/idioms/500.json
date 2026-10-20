@@ -1,0 +1,37 @@
+{
+  "n": 500,
+  "name": "Give props to",
+  "meaning": {
+    "zh": "“给某人点赞” 或 “承认某人的功劳”。\n\n这个短语 \"give props to\" 源于美国的俚语，特别是在表演艺术和音乐圈中。\"Props\" 是 \"proper respect\" 的缩写，意为应有的尊重。因此，当你对某人说 \"give props to\"，你是在公开地赞美或承认他们的努力、成就或价值。",
+    "en": "This phrase comes from American slang, particularly within the performing arts and music circles. \"Props\" is short for \"proper respect.\" Hence, when you \"give props to\" someone, you publicly praise or acknowledge their effort, achievement, or value."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "We should all *give props to* Jane for her hard work on this project.",
+          "zh": "我们都应该为 Jane 在这个项目上的辛勤工作点赞。"
+        }
+      ],
+      "audio": "audio/500.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Let's *give props to* the team that made this event possible.",
+          "zh": "让我们为让这个活动成为可能的团队点赞。"
+        }
+      ],
+      "audio": "audio/500.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Don't forget to *give props to* your colleagues for their contributions.",
+          "zh": "别忘了为你的同事们的贡献点赞。"
+        }
+      ],
+      "audio": "audio/500.3.mp3"
+    }
+  ]
+}

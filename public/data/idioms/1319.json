@@ -1,0 +1,37 @@
+{
+  "n": 1319,
+  "name": "Whitewash",
+  "meaning": {
+    "zh": "“掩饰” 或 “粉饰太平”。\n\n“Whitewash” 最早来自于一种用白色涂料粉刷墙壁的实际操作，意图是覆盖原有的污渍或腐蚀。这个词后来被引申为掩盖事实、掩饰错误或丑闻的行为。",
+    "en": "The term \"whitewash\" originates from the literal practice of using white paint or lime to cover walls, aiming to cover up stains or damage. This term evolved to mean the action of concealing facts, mistakes, or scandals."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The company tried to *whitewash* the environmental disaster it caused.",
+          "zh": "公司试图掩饰他们造成的环境灾难。"
+        }
+      ],
+      "audio": "audio/1319.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Politicians often *whitewash* their mistakes to maintain their public image.",
+          "zh": "政客们经常粉饰他们的错误，以维护公众形象。"
+        }
+      ],
+      "audio": "audio/1319.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The report was just an attempt to *whitewash* the truth.",
+          "zh": "那份报告只是试图掩盖真相的一种手段。"
+        }
+      ],
+      "audio": "audio/1319.3.mp3"
+    }
+  ]
+}

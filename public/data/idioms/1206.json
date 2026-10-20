@@ -1,0 +1,37 @@
+{
+  "n": 1206,
+  "name": "To do a number on something",
+  "meaning": {
+    "zh": "“对某事造成严重损害” 或 “严重影响”。\n\n这个短语的起源不太明确，但通常用来形容对某物或某事造成显著影响，特别是负面的改变或损害。在日常对话中，常用来表达某件事的负面结果或影响。",
+    "en": "The origin of this phrase is not very clear, but it is generally used to describe making a significant impact on something, especially in a negative way. In daily conversation, it is often used to express the negative outcome or effect of an event or action."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The storm really *did a number on* our roof.",
+          "zh": "暴风雨真的对我们的屋顶造成了严重损害。"
+        }
+      ],
+      "audio": "audio/1206.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "All those late nights *did a number on* his health.",
+          "zh": "那些熬夜真的对他的健康造成了严重影响。"
+        }
+      ],
+      "audio": "audio/1206.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The kids *did a number on* the living room while playing.",
+          "zh": "孩子们玩耍时把客厅弄得一团糟。"
+        }
+      ],
+      "audio": "audio/1206.3.mp3"
+    }
+  ]
+}

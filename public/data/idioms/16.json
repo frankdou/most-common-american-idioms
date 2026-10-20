@@ -1,0 +1,37 @@
+{
+  "n": 16,
+  "name": "A far cry from (something)",
+  "meaning": {
+    "zh": "“与（某事物）大不相同” 或 “远远不同”。\n\n这个短语源自于19世纪的英国，最早用来表示从一个地方到另一个地方的距离非常远。后来，它被用于形容差异和不同。如今，这个表达常常用来形容两件事物之间有显著的差别或完全不一样。",
+    "en": "This idiom dates back to 19th-century England, where it originally referred to the great distance between two places. Over time, it evolved to describe differences and distinctions. Nowadays, this phrase is commonly used to indicate a significant difference or a stark contrast between two things."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Living in the city is *a far cry from* living in the countryside.",
+          "zh": "住在城市和住在乡村大不相同。"
+        }
+      ],
+      "audio": "audio/016.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Her current job is *a far cry from* what she imagined herself doing after graduation.",
+          "zh": "她现在的工作和她毕业后想象的工作大不相同。"
+        }
+      ],
+      "audio": "audio/016.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The new restaurant's food is *a far cry from* their old one.",
+          "zh": "这家新餐馆的食物与他们之前那家的食物大不相同。"
+        }
+      ],
+      "audio": "audio/016.3.mp3"
+    }
+  ]
+}

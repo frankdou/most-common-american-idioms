@@ -1,0 +1,37 @@
+{
+  "n": 871,
+  "name": "On cloud nine",
+  "meaning": {
+    "zh": "“非常高兴” 或 “飘飘然”。\n\n这个短语的起源并不十分明确，但据说它可能源自20世纪50年代《气象报告手册》的云层分类。在这些分类中，第九种云（cumulonimbus）是最大最美丽的云，因此，“on cloud nine” 就被用来形容非常快乐的状态。另一个假说是来源于20世纪30年代的美国俚语中将九作为一种极致的表达使用。",
+    "en": "This phrase's origin is not entirely clear, but it is said to possibly come from the cloud classifications in the 1950s \"International Cloud Atlas\", where the ninth cloud (cumulonimbus) is the tallest and most beautiful. Thus, \"on cloud nine\" is used to describe a state of extreme happiness. Another theory is that it comes from 1930s American slang, where \"nine\" was used to signify something ultimate or peak."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "She was *on cloud nine* after receiving the job offer.",
+          "zh": "在收到工作邀请后，她高兴得飘飘然。"
+        }
+      ],
+      "audio": "audio/871.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "After hearing the good news, he's been *on cloud nine* all day.",
+          "zh": "听到好消息后，他一整天都高兴得不得了。"
+        }
+      ],
+      "audio": "audio/871.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Winning the lottery would put anyone *on cloud nine*.",
+          "zh": "赢了彩票会让任何人高兴得飘飘然。"
+        }
+      ],
+      "audio": "audio/871.3.mp3"
+    }
+  ]
+}

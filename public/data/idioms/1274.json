@@ -1,0 +1,41 @@
+{
+  "n": 1274,
+  "name": "Under the table/counter",
+  "meaning": {
+    "zh": "“桌下交易” 或 “暗地里进行”。\n\n这个短语源自非法交易时买卖双方隐蔽交易的行为，通常放在桌子下面或者柜台后面进行。“Under the table” 或 “Under the counter” 形象化地表示秘密且非法的活动，通常涉贿赂、非法交易或者其他不可告人的行为。",
+    "en": "This phrase originates from the covert actions of illegal trades, where the dealings occur beneath the table or behind the counter. \"Under the table\" or \"Under the counter\" metaphorically depicts secretive and illegal activities, often involving bribery, illicit transactions, or other undisclosed actions."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He was fired for accepting money *under the table*.",
+          "zh": "他因接受桌下交易的钱而被解雇。"
+        }
+      ],
+      "audio": "audio/1274.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "They sold the rare items *under the counter* to avoid taxes.",
+          "zh": "他们为了避税，把稀有商品暗地里出售。"
+        }
+      ],
+      "audio": "audio/1274.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The government is cracking down on *under-the-table* payments.",
+          "zh": "政府正在打击桌下支付行为。"
+        },
+        {
+          "en": "```",
+          "zh": ""
+        }
+      ],
+      "audio": "audio/1274.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 166,
+  "name": "Boiling point",
+  "meaning": {
+    "zh": "“沸点” 或 “愤怒的爆发点”。\n\n这个短语起源于科学中的沸点概念，当液体达到某一特定温度时会沸腾。在比喻中使用时，“boiling point” 指人的情绪达到极限，难以再压抑怒火或紧张情绪的那一刻。在这种情况下，人们通常会表现出强烈的情绪爆发。",
+    "en": "This phrase originates from the scientific concept of the boiling point, which is the specific temperature at which a liquid boils. When used metaphorically, \"boiling point\" refers to the moment when someone's emotions reach their peak and they can no longer suppress their anger or stress, often resulting in an outburst."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "She reached her *boiling point* after dealing with rude customers all day.",
+          "zh": "在应付了一整天无礼的顾客后，她到了愤怒的爆发点。"
+        }
+      ],
+      "audio": "audio/166.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Tensions in the meeting hit the *boiling point* when they couldn't agree on a solution.",
+          "zh": "在会议上无法达成解决方案时，紧张气氛达到了沸点。"
+        }
+      ],
+      "audio": "audio/166.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The situation was calm at first, but it soon reached the *boiling point*.",
+          "zh": "一开始情况是平静的，但很快就达到了沸点。"
+        }
+      ],
+      "audio": "audio/166.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 598,
+  "name": "Hear something straight from the horse's mouth",
+  "meaning": {
+    "zh": "“直接从权威或第一手来源获得信息”。\n\n这个短语源自赛马行业，买家在购买一匹马时，往往会从马的饲养员或直接观察马的牙齿来了解马的年龄及健康状况，也就是从最直接、最可靠的源头获取信息。在现代用法中，这个短语表示直接从可信赖的或有专业知识的来源获取信息，而不是通过辗转传达。",
+    "en": "This phrase originates from the horse racing industry, where buyers would check the horse's teeth or ask the trainer to get accurate information about the horse's age and health, which is the most direct and reliable source. In modern usage, it means getting information directly from someone who has authoritative or first-hand knowledge, rather than through indirect or second-hand sources."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I heard the news straight from the horse’s mouth; the CEO himself confirmed it.",
+          "zh": "我直接从权威消息来源得知这个消息，CEO 本人亲自证实了。"
+        }
+      ],
+      "audio": "audio/598.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "You can trust the information because it’s straight from the horse’s mouth.",
+          "zh": "你可以相信这个信息，因为它是直接从权威来源得到的。"
+        }
+      ],
+      "audio": "audio/598.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I prefer to get my updates straight from the horse’s mouth rather than rely on rumors.",
+          "zh": "我更愿意直接从可靠来源获得更新，而不是依赖谣言。"
+        }
+      ],
+      "audio": "audio/598.3.mp3"
+    }
+  ]
+}

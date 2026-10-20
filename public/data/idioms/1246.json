@@ -1,0 +1,37 @@
+{
+  "n": 1246,
+  "name": "To take something for granted",
+  "meaning": {
+    "zh": "“认为…理所当然” 或 “不珍惜、忽视”。\n\n这个短语的起源可以追溯到早期英语中的 “for granted”，表示某件事情被认为是理所当然的，毋庸置疑的，因此常被忽视或不被珍惜。在现代社会中，这个短语通常用于描述那些未被适当重视或未被感激的事物或人。",
+    "en": "This phrase can be traced back to early English usage of \"for granted,\" implying that something is assumed to be certain or unquestionable and hence often overlooked or not appreciated. In contemporary society, the phrase is typically used to describe things or people that are not adequately valued or appreciated."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "She feels her efforts at work are taken for granted.",
+          "zh": "她感觉自己的工作努力被认为是理所当然的。"
+        }
+      ],
+      "audio": "audio/1246.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Don't take your family's support for granted.",
+          "zh": "不要认为家庭的支持是理所当然的。"
+        }
+      ],
+      "audio": "audio/1246.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Many people take clean water for granted until it's gone.",
+          "zh": "很多人认为清洁的水是理所当然的，直到它消失。"
+        }
+      ],
+      "audio": "audio/1246.3.mp3"
+    }
+  ]
+}

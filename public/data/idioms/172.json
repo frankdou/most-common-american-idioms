@@ -1,0 +1,37 @@
+{
+  "n": 172,
+  "name": "Boxed in",
+  "meaning": {
+    "zh": "“受限” 或 “被困住”。\n\n这个短语起源于一个人被限制在一个盒子或小空间里，无法行动自如。这种感觉就像被围困在某个地方，毫无逃脱之路。在现代英语中，“boxed in” 常用来描述一种无路可退、处境受限的感受或处境。",
+    "en": "This phrase originates from the idea of a person being confined in a box or small space, unable to move freely. It evokes a sense of being trapped with no way out. In modern English, \"boxed in\" is often used to describe a feeling or situation of having no options or being limited in choices."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I feel so *boxed in* by my current job. There's no room for creativity.",
+          "zh": "我觉得我的现任工作让我受限，毫无发挥创造力的空间。"
+        }
+      ],
+      "audio": "audio/172.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She's *boxed in* by her responsibilities and can't take a break.",
+          "zh": "她被责任困住了，无法休息一下。"
+        }
+      ],
+      "audio": "audio/172.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "When the traffic was so heavy, we felt completely *boxed in* on the highway.",
+          "zh": "当交通如此拥堵时，我们在高速公路上感到完全被困住了。"
+        }
+      ],
+      "audio": "audio/172.3.mp3"
+    }
+  ]
+}

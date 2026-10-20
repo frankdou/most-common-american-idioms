@@ -1,0 +1,37 @@
+{
+  "n": 47,
+  "name": "A surefire way",
+  "meaning": {
+    "zh": "“万无一失/必定成功的方法”。\n\n这个短语中的 “surefire” 意思是绝对可靠的或保证成功的，可以追溯到用来形容某种计谋或方法必定能达到预期效果的情况。 在现代英语中，当我们说某种方法是 “a surefire way” 时，意指这种方法几乎肯定会成功，或者有极高的成功率。",
+    "en": "The phrase \"surefire\" means absolutely reliable or guaranteed to succeed, and it can be traced back to situations where a particular strategy or method is sure to achieve the desired outcome. In modern English, when we say something is \"a surefire way\", it means that method is almost guaranteed to succeed or has a very high probability of success."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Studying hard is *a surefire way* to improve your grades.",
+          "zh": "努力学习是提高成绩的万无一失的方法。"
+        }
+      ],
+      "audio": "audio/047.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Exercise is *a surefire way* to boost your health.",
+          "zh": "锻炼是增强健康的必定成功的方法。"
+        }
+      ],
+      "audio": "audio/047.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Telling the truth is *a surefire way* to build trust with others.",
+          "zh": "说实话是建立信任的必定成功的方法。"
+        }
+      ],
+      "audio": "audio/047.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 522,
+  "name": "Go on a wild goose chase",
+  "meaning": {
+    "zh": "“徒劳无功的追寻” 或 “白费功夫的寻找”。\n\n这个短语最早起源于16世纪的英国文学，意指追赶野生鹅是徒劳无功的，因为它们飞行的方向变化无常且不可预测。因此，这个短语被用来形容那些耗费时间和精力却没有任何结果的行动。",
+    "en": "This phrase originally comes from 16th-century English literature, signifying that chasing wild geese is futile because of their unpredictable flight patterns. As a result, it describes actions that waste time and effort without any fruitful outcome."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "We went on a wild goose chase trying to find that old book.",
+          "zh": "我们白费功夫地寻找那本旧书。"
+        }
+      ],
+      "audio": "audio/522.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She sent me on a wild goose chase looking for that nonexistent restaurant.",
+          "zh": "她让我费尽心力去找那不存在的餐馆。"
+        }
+      ],
+      "audio": "audio/522.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Following that clue turned out to be a wild goose chase.",
+          "zh": "追寻那个线索结果是徒劳无功的。"
+        }
+      ],
+      "audio": "audio/522.3.mp3"
+    }
+  ]
+}

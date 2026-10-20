@@ -1,0 +1,37 @@
+{
+  "n": 1160,
+  "name": "The tip of the iceberg",
+  "meaning": {
+    "zh": "“冰山一角”。\n\n这个短语借用了冰山的物理特性：只有一小部分漂浮在水面上，而大部分则隐藏在水面以下。因此，\"the tip of the iceberg\" 常用来表示某个问题或情况中仅显露出来的小部分，而更大的部分还未被察觉或展示出来。",
+    "en": "This phrase draws from the physical property of icebergs, where only a small portion is visible above water, while the majority is hidden below the surface. Therefore, \"the tip of the iceberg\" is often used to convey that what is visible or known is only a small part of a larger, more complex issue or situation."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The recent scandal is just *the tip of the iceberg*; there's a lot more we don't know yet.",
+          "zh": "最近的丑闻只是冰山一角，还有更多我们不知道的事情。"
+        }
+      ],
+      "audio": "audio/1160.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The financial losses reported are only *the tip of the iceberg*.",
+          "zh": "报告的财务损失只是冰山一角。"
+        }
+      ],
+      "audio": "audio/1160.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Her symptoms seemed mild, but they were just *the tip of the iceberg*.",
+          "zh": "她的症状看起来轻微，但那只是冰山一角。"
+        }
+      ],
+      "audio": "audio/1160.3.mp3"
+    }
+  ]
+}

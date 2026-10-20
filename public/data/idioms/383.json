@@ -1,0 +1,37 @@
+{
+  "n": 383,
+  "name": "Exact change",
+  "meaning": {
+    "zh": "“正好” 或 “正好找零”。\n\n这个短语常用于指在支付时恰好提供了正确的金额，而不需要找零。在日常购物中，特别是在使用现金支付时，这是一个经常出现的情况。",
+    "en": "This phrase is commonly used to indicate that the exact amount of money needed for a transaction has been provided, so no change is required. It frequently occurs in everyday shopping, especially when paying with cash."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Do you have exact change for the bus fare?",
+          "zh": "你有正好的公交车费吗？"
+        }
+      ],
+      "audio": "audio/383.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I always keep some coins in my pocket for exact change.",
+          "zh": "我总是在口袋里放些硬币以备正好找零。"
+        }
+      ],
+      "audio": "audio/383.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The cashier asked if I had exact change for my purchase.",
+          "zh": "收银员问我有没有正好找零的金额。"
+        }
+      ],
+      "audio": "audio/383.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 1040,
+  "name": "Show of hands",
+  "meaning": {
+    "zh": "“举手表决” 或 “举手投票”。\n\n这个短语来源于会议或公开投票的形式，当参与者需要对某个问题或决策表态时，人们通过举手来表示赞成或反对。这是一种简单且可视化的表达意见的方法，常用于各种集会和会议中。",
+    "en": "This phrase originates from meetings or public voting scenarios, where participants need to express their opinions on a particular issue or decision. People show their support or opposition by raising their hands. It is a simple and visual method of expressing opinions, commonly used in gatherings and meetings."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Let's do a quick *show of hands* to decide the date for the next meeting.",
+          "zh": "我们举手表决来决定下次会议的日期。"
+        }
+      ],
+      "audio": "audio/1040.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The solution was approved by a *show of hands*.",
+          "zh": "这个方案通过举手表决得到了批准。"
+        }
+      ],
+      "audio": "audio/1040.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Can we get a *show of hands* for who wants pizza for lunch?",
+          "zh": "我们举手表决一下有多少人想要吃披萨当午餐?"
+        }
+      ],
+      "audio": "audio/1040.3.mp3"
+    }
+  ]
+}

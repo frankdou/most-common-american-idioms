@@ -1,0 +1,37 @@
+{
+  "n": 1017,
+  "name": "Screw up",
+  "meaning": {
+    "zh": "“搞砸” 或 “弄糟”。\n\n这个短语源于口语表达，常用于描述某人犯了一个可能导致负面结果的错误。它的语气比较随便和口语化，在非正式场合中使用较多。在工作、学习或生活中遇到的问题和错误时常会用到这个短语。",
+    "en": "The phrase originates from casual spoken language and is often used to describe when someone makes a mistake that could lead to negative results. It's colloquial and informal, frequently used in settings like work, school, and daily life to address mistakes and problems."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I really *screwed up* that presentation.",
+          "zh": "我真的把那个演讲搞砸了。"
+        }
+      ],
+      "audio": "audio/1017.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Don't worry, everyone *screws up* sometimes.",
+          "zh": "别担心，人人都有犯错的时候。"
+        }
+      ],
+      "audio": "audio/1017.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "If you *screw up*, just apologize and try to fix it.",
+          "zh": "如果你搞砸了，只要道歉并试图修复就行了。"
+        }
+      ],
+      "audio": "audio/1017.3.mp3"
+    }
+  ]
+}

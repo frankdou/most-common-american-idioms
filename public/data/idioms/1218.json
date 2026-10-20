@@ -1,0 +1,37 @@
+{
+  "n": 1218,
+  "name": "To go down like a lead balloon",
+  "meaning": {
+    "zh": "“像铅气球一样沉下去” 或 “彻底失败”。\n\n这个短语形象地比喻了一件事情或一个想法受到严重的负面反应，未能成功。因为铅非常重，无法像氢气球一样飘起来，所以这个短语用来表达某事不受欢迎或完全失败。",
+    "en": "This phrase metaphorically illustrates a situation or idea that receives a severe negative reaction and fails. Lead is very heavy and cannot float like a helium balloon, thus the phrase is used to indicate that something is unpopular or completely unsuccessful."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "His joke about the boss went down like a lead balloon during the meeting.",
+          "zh": "他在会议上关于老板的笑话像铅气球一样沉了下去。"
+        }
+      ],
+      "audio": "audio/1218.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The new policy went down like a lead balloon with the employees.",
+          "zh": "新政策在员工中彻底失败。"
+        }
+      ],
+      "audio": "audio/1218.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "My suggestion for a team building activity went down like a lead balloon.",
+          "zh": "我提出的团队建设活动建议完全不受欢迎。"
+        }
+      ],
+      "audio": "audio/1218.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 281,
+  "name": "Couldn't care less",
+  "meaning": {
+    "zh": "“不在乎” 或 “毫不关心”。\n\n这个短语起源于英语，用来表示一个人对某事完全不在意，没有任何兴趣或情感牵涉在内。在美式英语中，经常用来传达一种冷漠或无所谓的态度。",
+    "en": "This phrase originates from English and is used to indicate that a person is completely indifferent to something, showing no interest or emotional involvement. In American English, it is often used to convey a sense of apathy or indifference."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He couldn't care less about what others think of him.",
+          "zh": "他一点也不在乎别人怎么想他。"
+        }
+      ],
+      "audio": "audio/281.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I couldn't care less if it rains or shines.",
+          "zh": "我完全不在乎是下雨还是出太阳。"
+        }
+      ],
+      "audio": "audio/281.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She couldn't care less about the latest fashion trends.",
+          "zh": "她对最新的时尚潮流毫不关心。"
+        }
+      ],
+      "audio": "audio/281.3.mp3"
+    }
+  ]
+}

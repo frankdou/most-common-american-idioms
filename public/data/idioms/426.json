@@ -1,0 +1,37 @@
+{
+  "n": 426,
+  "name": "Fly the coop",
+  "meaning": {
+    "zh": "“溜之大吉” 或 “逃跑”。\n\n这个短语来自于监狱里鸟笼中的鸟 “逃离笼子” 的意象，通常用来形容一个人突然离开某个地方，尤指逃避责任、避免困境或者趁机溜走。",
+    "en": "This phrase originates from the imagery of a bird \"flying out of the coop\" in a prisoner setting, often used to describe someone abruptly leaving a place, especially to dodge responsibilities, avoid a predicament, or make a quick getaway."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "When the party turned dull, Jane decided to *fly the coop*.",
+          "zh": "当聚会变得无聊时，简决定溜之大吉。"
+        }
+      ],
+      "audio": "audio/426.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He didn't want to do any more work, so he *flew the coop* early.",
+          "zh": "他不想再工作了，所以早早地溜了。"
+        }
+      ],
+      "audio": "audio/426.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "As soon as the boss left, the workers all *flew the coop*.",
+          "zh": "老板一离开，工人们就全都跑掉了。"
+        }
+      ],
+      "audio": "audio/426.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 452,
+  "name": "Full steam ahead",
+  "meaning": {
+    "zh": "“全速前进” 或 “全力以赴”。\n\n这个短语起源于蒸汽船时代，当船只需要以最大的速度前进时，船长会命令 “全速前进”，让轮机手将更多的蒸汽送入引擎中，确保船以最高速度航行。在现代社会，这个短语用于表示在某个任务或目标上全力以赴，不遗余力地前进。",
+    "en": "This phrase originated during the era of steamships. When a ship needed to travel at its maximum speed, the captain would command \"full steam ahead,\" instructing the engineer to send more steam into the engines to ensure the ship sailed at its highest speed. In modern society, this phrase is used to signify going all out or moving forward with full energy toward a task or goal."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "With the new project starting, it's *full steam ahead* for the entire team.",
+          "zh": "随着新项目的启动，整个团队都在全速前进。"
+        }
+      ],
+      "audio": "audio/452.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "After the funding came through, they went *full steam ahead* with their plans.",
+          "zh": "资金到位后，他们开始全力以赴地实施计划。"
+        }
+      ],
+      "audio": "audio/452.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Despite the challenges, they're moving *full steam ahead* with the construction.",
+          "zh": "尽管面临挑战，他们在建设上仍然全力以赴。"
+        }
+      ],
+      "audio": "audio/452.3.mp3"
+    }
+  ]
+}

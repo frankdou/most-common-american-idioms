@@ -1,0 +1,37 @@
+{
+  "n": 63,
+  "name": "All Greek to me",
+  "meaning": {
+    "zh": "“我完全不懂” 或 “像天书一样难懂”。\n\n这个短语源自莎士比亚的戏剧《凯撒大帝》，其中角色塞拉尔引用到希腊语言对他来说完全陌生。本质上，它用来形容某人无法理解的事物，就像听到或看到希腊语一样完全无法理解。这种表达也经常用于技术术语、公式等难以理解的事物上。",
+    "en": "This phrase originates from Shakespeare's play \"Julius Caesar,\" where a character named Casca says that something is as incomprehensible to him as Greek. Essentially, it is used to describe something that someone cannot understand, akin to hearing or seeing Greek, which is completely indecipherable to them. It's often used to refer to technical jargon, formulas, or other complex, hard-to-understand matters."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "All this technical jargon is *all Greek to me*.",
+          "zh": "所有这些技术术语对我来说像天书一样难懂。"
+        }
+      ],
+      "audio": "audio/063.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "When they started discussing quantum physics, it was *all Greek to me*.",
+          "zh": "当他们开始讨论量子物理时，对我来说就像在听天书。"
+        }
+      ],
+      "audio": "audio/063.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I tried to read the legal document, but it was *all Greek to me*.",
+          "zh": "我试图读那份法律文件，但对我来说完全看不懂。"
+        }
+      ],
+      "audio": "audio/063.3.mp3"
+    }
+  ]
+}

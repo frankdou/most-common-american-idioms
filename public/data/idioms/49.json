@@ -1,0 +1,37 @@
+{
+  "n": 49,
+  "name": "A toss-up",
+  "meaning": {
+    "zh": "“一场难分胜负的比赛” 或 “难以预测的局面”。\n\n这个短语起源于掷硬币来决定胜负的行为，即将硬币抛向空中，然后观察它落地时是哪一面朝上。这种情况的结果是完全随机和不可预测的，因此 “a toss-up” 被用来形容一个结果不明确、难以预测的局面。",
+    "en": "This phrase originates from the act of tossing a coin to decide the outcome, which involves flipping a coin into the air and observing how it lands. The result is completely random and unpredictable, so \"a toss-up\" is used to describe a situation where the outcome is uncertain and hard to predict."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "It's really *a toss-up* whether we'll get there on time.",
+          "zh": "我们能否按时到达真的是难以预测。"
+        }
+      ],
+      "audio": "audio/049.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The game tonight is *a toss-up*, both teams are equally good.",
+          "zh": "今晚的比赛难分胜负，双方球队实力相当。"
+        }
+      ],
+      "audio": "audio/049.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Who will win the election? At this point, it's *a toss-up*.",
+          "zh": "现在谁能赢得选举？这个时候还很难说。"
+        }
+      ],
+      "audio": "audio/049.3.mp3"
+    }
+  ]
+}

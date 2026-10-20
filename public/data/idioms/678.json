@@ -1,0 +1,37 @@
+{
+  "n": 678,
+  "name": "It's no skin off my nose",
+  "meaning": {
+    "zh": "“与我无关” 或 “对我没有影响”。\n\n这个短语最早出现在20世纪初的英国，原意是比喻某件事对自己没有实际的损伤或影响。它通常用来表达某人对某件事情无所谓，或觉得这件事不会对自己的情绪、利益产生影响。",
+    "en": "This phrase originated in early 20th-century Britain. It was a figurative way of saying that something does not cause actual harm or impact. It's often used to express indifference or indicate that something won't affect one's emotions or interests."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "You can take the last slice of cake; it's no skin off my nose.",
+          "zh": "你可以拿最后一块蛋糕，与我无关。"
+        }
+      ],
+      "audio": "audio/678.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "If he wants to leave the team, it's no skin off my nose.",
+          "zh": "如果他想离开球队，对我没有影响。"
+        }
+      ],
+      "audio": "audio/678.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Whether you choose to go or stay, it's no skin off my nose.",
+          "zh": "无论你选择去还是留，这与我无关。"
+        }
+      ],
+      "audio": "audio/678.3.mp3"
+    }
+  ]
+}

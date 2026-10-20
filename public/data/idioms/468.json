@@ -1,0 +1,37 @@
+{
+  "n": 468,
+  "name": "Get hold of someone",
+  "meaning": {
+    "zh": "“联系某人” 或 “找到某人”。\n\n这个短语起源于人们试图通过各种方式获取另一个人的注意，例如打电话、发送邮件或亲自拜访。无论是为了紧急情况、寻求帮助还是简单的沟通，都可以使用这个短语。",
+    "en": "This phrase originates from the various ways people attempt to get someone's attention, such as calling, emailing, or visiting in person. Whether for emergencies, seeking help, or simple communication, this idiom is widely used."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I've been trying to *get hold of* my doctor all day.",
+          "zh": "我整天都在试图联系到我的医生。"
+        }
+      ],
+      "audio": "audio/468.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Can you help me *get hold of* Jason? I need to ask him something important.",
+          "zh": "你能帮我联系一下杰森吗？我有重要的事情要问他。"
+        }
+      ],
+      "audio": "audio/468.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "It's hard to *get hold of* her; she's always so busy.",
+          "zh": "很难联系到她；她总是那么忙。"
+        }
+      ],
+      "audio": "audio/468.3.mp3"
+    }
+  ]
+}

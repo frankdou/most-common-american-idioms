@@ -1,0 +1,37 @@
+{
+  "n": 718,
+  "name": "Kill the mood",
+  "meaning": {
+    "zh": "“扫兴” 或 “破坏气氛”。\n\n这个短语起源于英语口语中的一种表达，用于形容某些行为或话语让本来愉快或热闹的气氛变得沉闷或尴尬。在社交场合或者聚会上，通常用来指责那些说了不合时宜的话或做了不合时宜的事的人。",
+    "en": "This phrase originates from colloquial English and is used to describe actions or words that dampen or ruin a cheerful or lively atmosphere. It is often used in social gatherings or parties to criticize those who have said or done something inappropriate that has made the situation awkward or dull."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "His rude comment *killed the mood* at the party.",
+          "zh": "他那不礼貌的评论扫兴了整个聚会。"
+        }
+      ],
+      "audio": "audio/718.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Talking about work during dinner *kills the mood*.",
+          "zh": "在晚餐时谈论工作会破坏气氛。"
+        }
+      ],
+      "audio": "audio/718.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Don't bring up politics tonight; it will *kill the mood*.",
+          "zh": "今晚别提政治，这会扫兴的。"
+        }
+      ],
+      "audio": "audio/718.3.mp3"
+    }
+  ]
+}

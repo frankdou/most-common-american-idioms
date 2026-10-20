@@ -1,0 +1,37 @@
+{
+  "n": 759,
+  "name": "Let the dust settle",
+  "meaning": {
+    "zh": "“让尘埃落定” 或 “让情况稳定下来”。\n\n这个短语的起源可以追溯到尘土飞扬的场景，尤其是在战斗或骚乱之后。当尘埃落定时，环境变得更加清晰和明确。因此，这个短语指的是在纷争或激烈的事件之后，等待局势稳定、明朗后再采取行动。",
+    "en": "This phrase originates from scenes where dust is stirred up, especially after battles or disturbances. When the dust settles, the environment becomes clearer and more discernable. Therefore, this idiom means to wait for a situation to calm down and become clear before taking further action."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Let's just wait for a while and let the dust settle before making any big decisions.",
+          "zh": "让我们先等一段时间，让尘埃落定之后再做重大决定。"
+        }
+      ],
+      "audio": "audio/759.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "After the argument, they needed some time to let the dust settle before discussing things again.",
+          "zh": "争吵之后，他们需要一些时间让尘埃落定，然后再讨论事情。"
+        }
+      ],
+      "audio": "audio/759.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The company should let the dust settle from the recent changes before implementing new policies.",
+          "zh": "公司应该等最近的变动尘埃落定之后再实施新的政策。"
+        }
+      ],
+      "audio": "audio/759.3.mp3"
+    }
+  ]
+}

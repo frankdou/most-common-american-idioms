@@ -1,0 +1,37 @@
+{
+  "n": 1288,
+  "name": "Walk in someone's shoes",
+  "meaning": {
+    "zh": "“设身处地” 或 “换位思考”。\n\n这个短语来源于这样一个概念：通过穿上别人的鞋子，意味着站在他们的立场上，体验他们的生活。这通常用于叫人们尝试理解他人的感受和经历，从而产生同情和理解。",
+    "en": "The phrase originates from the concept of putting on someone else's shoes to stand in their position and experience their life. It is often used to tell people to try to understand another person's feelings and experiences, thereby fostering empathy and understanding."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Before criticizing her, try to *walk in her shoes* and understand her situation.",
+          "zh": "在批评她之前，试着设身处地地理解她的情况。"
+        }
+      ],
+      "audio": "audio/1288.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "If you *walk in his shoes*, you might realize why he made that decision.",
+          "zh": "如果你能换位思考，你可能会明白他为什么会做出那个决定。"
+        }
+      ],
+      "audio": "audio/1288.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "It's easy to judge, but harder to *walk in someone else's shoes*.",
+          "zh": "批评他人容易，但设身处地为他人着想则更难。"
+        }
+      ],
+      "audio": "audio/1288.3.mp3"
+    }
+  ]
+}

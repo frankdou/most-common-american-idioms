@@ -1,0 +1,37 @@
+{
+  "n": 919,
+  "name": "Pay the piper",
+  "meaning": {
+    "zh": "“为自己的行为承担后果” 或 “付出代价”。\n\n这个短语源自一个古老的故事，描述了一个城镇为了摆脱鼠患，雇佣了一个伐木笛手来引诱老鼠离开，但最终拒绝支付约定的报酬。伐木笛手因此通过诱惑城镇的孩子们离开，以此作为报复教训。这个短语也体现了一个古老的教训：不兑现承诺或避开责任最终会付出更大代价。",
+    "en": "This idiom originates from an old story about a town that hired a piper to rid it of rats but then refused to pay the piper as promised. The piper retaliated by luring the town's children away. Thus, the phrase conveys the lesson that failure to honor commitments or responsibility leads to greater consequences."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "After years of ignoring his health, he had to *pay the piper* with a long hospital stay.",
+          "zh": "多年忽视健康后，他不得不住院很长时间来付出代价。"
+        }
+      ],
+      "audio": "audio/919.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "If you procrastinate too much on your assignments, you will eventually *pay the piper*.",
+          "zh": "如果你总是拖延作业，最终你会为此付出代价。"
+        }
+      ],
+      "audio": "audio/919.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The company had to *pay the piper* after years of neglecting environmental regulations.",
+          "zh": "公司多年来忽视环保法规后，不得不付出代价。"
+        }
+      ],
+      "audio": "audio/919.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 1015,
+  "name": "School someone in something",
+  "meaning": {
+    "zh": "“在某事上教某人” 或 “在某事上训练某人”。\n\n这个短语源自于将知识或技能传授给学生的概念。用 “school” 作为动词，意味着指导、训练或教育某人在某一特定领域，常常是通过系统化的教学方式。在现代英语中，这个短语经常用来表示专业或熟练地教某人某个技能或知识。",
+    "en": "This phrase originates from the concept of imparting knowledge or skills to students. Using \"school\" as a verb means to guide, train, or educate someone in a particular area, often through systematic instruction. In modern English, the phrase is frequently used to signify professionally or skillfully teaching someone a specific skill or knowledge."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He *schooled* his apprentice *in carpentry*.",
+          "zh": "他在木工方面训练了他的学徒。"
+        }
+      ],
+      "audio": "audio/1015.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She was *schooled in classical music* from a very young age.",
+          "zh": "她从很小的时候起就接受了古典音乐的教育。"
+        }
+      ],
+      "audio": "audio/1015.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "They were *schooled in the art of negotiation* by a top lawyer.",
+          "zh": "他们受到了顶尖律师在谈判艺术方面的训练。"
+        }
+      ],
+      "audio": "audio/1015.3.mp3"
+    }
+  ]
+}

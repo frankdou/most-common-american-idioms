@@ -1,0 +1,37 @@
+{
+  "n": 120,
+  "name": "Beating a dead horse",
+  "meaning": {
+    "zh": "“徒劳无功”，意为做无效、无意义的事情，白费力气。\n\n这个短语的起源可以追溯到英国，最早见于 19 世纪。它来源于驾马时使用的鞭子，鞭打已经死去的马当然是无济于事的，因而用于形容徒劳无功的行为。现代这个短语常用来形容重复做某件已被证明无效的事情，从而浪费时间和精力。",
+    "en": "This idiom originates from the United Kingdom and was first seen in the 19th century. It comes from the imagery of whipping a horse that has already died, which is clearly pointless. In modern usage, the phrase is used to describe actions that are futile and ineffective, essentially wasting time and effort on a lost cause."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He keeps revising the same old report, but he's just *beating a dead horse*.",
+          "zh": "他一直在修改那份旧报告，但这完全是徒劳无功。"
+        }
+      ],
+      "audio": "audio/120.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Trying to change his mind is like *beating a dead horse*.",
+          "zh": "试图改变他的想法就像是在做徒劳无功的事。"
+        }
+      ],
+      "audio": "audio/120.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "We need to move on to new ideas instead of *beating a dead horse* with the old ones.",
+          "zh": "我们需要开始新的想法，而不是在旧的想法上徒劳无功。"
+        }
+      ],
+      "audio": "audio/120.3.mp3"
+    }
+  ]
+}

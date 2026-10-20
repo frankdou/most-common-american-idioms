@@ -1,0 +1,37 @@
+{
+  "n": 1148,
+  "name": "The other day",
+  "meaning": {
+    "zh": "“前几天” 或 “不久前”。\n\n这个成语的确切来历已不可考，但它在口语中广泛使用，通常用来表示在不久前发生的事情。这是一个用来表述某件事在最近的过去发生的礼貌而常用的说法，可以指几天前、一周前甚至稍长一段时间前，具体取决于上下文。",
+    "en": "This idiom's exact origin is unclear, but it is widely used in spoken English to indicate that something happened fairly recently. It's a polite and commonly used phrase to talk about events in the recent past, which can refer to a few days ago, a week ago, or even slightly longer, depending on the context."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I saw John at the grocery store *the other day*.",
+          "zh": "前几天我在杂货店看到了约翰。"
+        }
+      ],
+      "audio": "audio/1148.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "*The other day*, I found an old photo album in the attic.",
+          "zh": "前几天我在阁楼里找到了一本旧相册。"
+        }
+      ],
+      "audio": "audio/1148.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "We went out for dinner *the other day* and had a great time.",
+          "zh": "前几天我们出去吃了晚饭，度过了一段美好时光。"
+        }
+      ],
+      "audio": "audio/1148.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 240,
+  "name": "Chew something over",
+  "meaning": {
+    "zh": "“仔细考虑” 或 “深思熟虑”。意指对某个问题进行仔细、深思的考虑，通常在做出重大决定之前。\n\n这个短语来自于人们进食时的咀嚼动作，当我们仔细咀嚼食物时，会花时间慢慢品味。同样地，当我们 “咀嚼” 某个问题时，也是花时间细细思量，直到得到清晰的结论。",
+    "en": "This idiom originates from the action of chewing food, where one spends time thoroughly masticating and savoring a bite. Similarly, when we “chew over” an issue, we take time to ponder it deeply until we reach a clear conclusion."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Let me *chew it over* before I give you an answer.",
+          "zh": "让我仔细考虑一下再给你答复。"
+        }
+      ],
+      "audio": "audio/240.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "We should *chew over* the pros and cons before making a decision.",
+          "zh": "在做决定之前，我们应该仔细考虑一下利弊。"
+        }
+      ],
+      "audio": "audio/240.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He spent the weekend *chewing over* the job offer.",
+          "zh": "他用整个周末仔细考虑那份工作邀请。"
+        }
+      ],
+      "audio": "audio/240.3.mp3"
+    }
+  ]
+}

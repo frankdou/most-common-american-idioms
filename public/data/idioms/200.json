@@ -1,0 +1,37 @@
+{
+  "n": 200,
+  "name": "Buy something for a song",
+  "meaning": {
+    "zh": "“贱价买到” 或 “非常便宜地买到某物”。\n\n这个习语的起源可以追溯到18世纪，那时人们会通过唱歌来支付商品或服务的费用。因为歌曲本身并没有太大的金钱价值，所以这也就衍生出了 “为一首歌的价格” 这样的小意思。如今，它用来表示用极低的价格买到某物。",
+    "en": "This idiom originates from the 18th century when people would pay for goods or services with a song. Since a song isn't worth much money, the phrase \"for a song\" came to imply that something was obtained at a very low cost. Today, it's used to express buying something very cheaply."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I bought this vintage lamp *for a song* at the flea market.",
+          "zh": "我在跳蚤市场贱价买到了这盏复古灯。"
+        }
+      ],
+      "audio": "audio/200.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She managed to get the car *for a song* because the owner was moving abroad.",
+          "zh": "她因为车主要搬到国外而贱价买到了这辆车。"
+        }
+      ],
+      "audio": "audio/200.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "We found a beautiful painting at the yard sale and bought it *for a song*.",
+          "zh": "我们在庭院拍卖会上发现了一幅漂亮的画，并以非常便宜的价格买下了。"
+        }
+      ],
+      "audio": "audio/200.3.mp3"
+    }
+  ]
+}

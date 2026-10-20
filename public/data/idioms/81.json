@@ -1,0 +1,37 @@
+{
+  "n": 81,
+  "name": "Armed to the teeth",
+  "meaning": {
+    "zh": "“全副武装” 或 “武装到牙齿”。\n\n这个短语起源于战斗或冲突中的情景，指的是某人装备齐全，武器装备到极致。在现代英语中，这个成语常用来形容某人对某事物或任务准备得非常充分，可能不仅限于物质上的装备，还可以指精神上的准备。",
+    "en": "This phrase originates from scenarios in battle or conflict, referring to someone who is fully equipped and armed to the utmost. In modern English, this idiom is often used to describe someone who is very well prepared for something, possibly extending beyond physical armament to mental readiness."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The police officers were *armed to the teeth* during the raid.",
+          "zh": "警察在突袭过程中全副武装。"
+        }
+      ],
+      "audio": "audio/081.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He entered the meeting *armed to the teeth* with data and reports.",
+          "zh": "他带着各种数据和报告进入了会议，全副武装。"
+        }
+      ],
+      "audio": "audio/081.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The soldiers went into battle *armed to the teeth*.",
+          "zh": "士兵们全副武装地投入战斗。"
+        }
+      ],
+      "audio": "audio/081.3.mp3"
+    }
+  ]
+}

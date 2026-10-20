@@ -1,0 +1,37 @@
+{
+  "n": 821,
+  "name": "Middle of the road",
+  "meaning": {
+    "zh": "“中庸的” 或 “平庸的” 。\n\n这个短语源于 20 世纪初，意指在政治或其他领域持中间立场，即不偏激，不极端，保持中立态度。在今天，这个短语不仅局限于政治，还泛指任何一种中庸或不突出、不引人注目的状态或行为。",
+    "en": "This phrase originates from the early 20th century, originally used to describe a centrist position in politics or other areas, which means not being radical or extreme and maintaining a neutral stance. Today, this phrase is not limited to politics but is also used more broadly to describe any average, unremarkable condition or behavior."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The band's new album is pretty *middle of the road*; it’s okay, but nothing special.",
+          "zh": "这支乐队的新专辑相当中庸；还行，但没什么特别的。"
+        }
+      ],
+      "audio": "audio/821.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "His political views are quite *middle of the road*, not leaning too far to either side.",
+          "zh": "他的政治观点相当中庸，不偏向任何一方。"
+        }
+      ],
+      "audio": "audio/821.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The restaurant's service is *middle of the road*, not great but not bad either.",
+          "zh": "这家餐厅的服务中规中矩，不是很好但也不差。"
+        }
+      ],
+      "audio": "audio/821.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 1066,
+  "name": "Spice things up",
+  "meaning": {
+    "zh": "“给事情增添趣味” 或 “让生活更有趣”。\n\n这个俚语字面意思是给食物加点香料，使其更美味。在日常对话中，它用来比喻给某件事情或生活增加一些新鲜的元素或改进方法，使其不再单调和乏味。",
+    "en": "This idiom literally means adding spices to food to make it taste better. In everyday conversation, it is used metaphorically to mean adding new elements or making changes to something to make it more interesting or exciting."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "We need to *spice things up* with some new activities at our next meeting.",
+          "zh": "我们下次会议需要用一些新活动来增添趣味。"
+        }
+      ],
+      "audio": "audio/1066.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "They decided to *spice things up* in their relationship by traveling together more often.",
+          "zh": "他们决定通过更多一起旅行来为他们的关系增添趣味。"
+        }
+      ],
+      "audio": "audio/1066.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Adding a dash of unexpected humor can really *spice things up* in a speech.",
+          "zh": "在演讲中加入一点出人意料的幽默确实能增添趣味。"
+        }
+      ],
+      "audio": "audio/1066.3.mp3"
+    }
+  ]
+}

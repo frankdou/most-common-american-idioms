@@ -1,0 +1,37 @@
+{
+  "n": 995,
+  "name": "Run circles around someone",
+  "meaning": {
+    "zh": "轻松超过某人；在某方面表现得比某人好很多。\n\n这个短语起源于跑步比赛。跑圈或绕圈跑意味着一个人以更快的速度和更多的精力绕着别人跑，暗示他在某种活动中明显地超越了对方。从字面上看，就像在一场比赛中，一个人能够比另一个人多跑几圈一样。同样地，这个短语用来形容在某方面强得多、明显胜过某人的情况。",
+    "en": "This phrase originates from running competitions. Running circles or laps around someone implies that one person is running at a significantly faster pace and with more energy around others, symbolizing their outstanding performance in a particular activity. Literally, it's like someone in a race who can run multiple laps more than another person. Consequently, this idiom describes a situation where someone is vastly outperformed."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "In chess, she can *run circles around* most of her friends.",
+          "zh": "在国际象棋方面，她比大多数朋友都强得多。"
+        }
+      ],
+      "audio": "audio/995.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The new software lets our team *run circles around* the competition.",
+          "zh": "新的软件让我们的团队能轻松超越竞争对手。"
+        }
+      ],
+      "audio": "audio/995.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "When it comes to negotiations, he can *run circles around* others.",
+          "zh": "谈判方面，他可以轻松胜过其它人。"
+        }
+      ],
+      "audio": "audio/995.3.mp3"
+    }
+  ]
+}

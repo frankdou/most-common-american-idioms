@@ -1,0 +1,37 @@
+{
+  "n": 1297,
+  "name": "Wave of the future",
+  "meaning": {
+    "zh": "“未来的趋势” 或 “未来的发展方向”。\n\n这个短语起源于对新技术、新思想或新潮流的形象化描述，类似于海浪不断向前涌来，象征着未来的不可阻挡的潮流。它经常用来形容某个新兴事物或趋势在未来将会变得非常重要和普及。",
+    "en": "This phrase originates from a metaphorical description of new technologies, ideas, or trends, similar to waves continually surging forward, symbolizing the inevitable trends of the future. It is often used to describe something emerging that is expected to become very important and widespread in the future."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Electric cars are the wave of the future.",
+          "zh": "电动汽车是未来的趋势。"
+        }
+      ],
+      "audio": "audio/1297.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Remote work is likely the wave of the future.",
+          "zh": "远程工作很可能是未来的发展方向。"
+        }
+      ],
+      "audio": "audio/1297.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Artificial intelligence is the wave of the future in many industries.",
+          "zh": "人工智能是许多行业未来的发展趋势。"
+        }
+      ],
+      "audio": "audio/1297.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 523,
+  "name": "Go out of one's way",
+  "meaning": {
+    "zh": "“不遗余力” 或 “竭尽全力”。\n\n这个短语起源于古英语中 “way” 代表道路或途径，而 “go out of one’s way” 则表示脱离正常路径去完成某事。它意味着为了达成目标或者帮助别人，做出超出常规的努力和牺牲。",
+    "en": "**This phrase originates from Old English where \"way\" means road or path, and \"go out of one’s way\" refers to stepping off the normal path to accomplish something. It signifies making extra effort and sacrifice in order to achieve a goal or help someone.**"
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "She really *went out of her way* to make sure everyone felt comfortable at the party.",
+          "zh": "她真的竭尽全力确保每个人在聚会上都感到舒服。"
+        }
+      ],
+      "audio": "audio/523.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "My boss *went out of his way* to help me with the project.",
+          "zh": "我的老板不遗余力地帮助我完成了这个项目。"
+        }
+      ],
+      "audio": "audio/523.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "They *went out of their way* to make our visit enjoyable.",
+          "zh": "他们竭尽全力让我们的拜访变得愉快。"
+        }
+      ],
+      "audio": "audio/523.3.mp3"
+    }
+  ]
+}

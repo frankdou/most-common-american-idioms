@@ -1,0 +1,37 @@
+{
+  "n": 967,
+  "name": "Put something down in black and white",
+  "meaning": {
+    "zh": "“用书面形式记录下来” 或 “白纸黑字写下来”。\n\n这个短语源于书写和印刷的过程，其中文字是以黑色墨水书写在白色纸张上的。因此，当某物被 “用黑白色” 记录下来时，意味着它已正式以书面形式被记录下来，不容否认和改变。",
+    "en": "This phrase originates from the process of writing and printing, where text is written in black ink on white paper. Therefore, when something is \"put down in black and white,\" it means it has been formally documented in a written form, making it undeniable and unchangeable."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Make sure to put the agreement *down in black and white* to avoid any misunderstandings.",
+          "zh": "确保用白纸黑字把协议写下来，以免产生任何误解。"
+        }
+      ],
+      "audio": "audio/967.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I always prefer to have important details *put down in black and white*.",
+          "zh": "我总是倾向于把重要细节用白纸黑字记录下来。"
+        }
+      ],
+      "audio": "audio/967.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "They *put the terms down in black and white* to avoid disputes later.",
+          "zh": "他们用白纸黑字把条款写下来，以避免以后的争议。"
+        }
+      ],
+      "audio": "audio/967.3.mp3"
+    }
+  ]
+}

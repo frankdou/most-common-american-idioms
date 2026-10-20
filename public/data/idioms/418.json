@@ -1,0 +1,37 @@
+{
+  "n": 418,
+  "name": "Fix someone's wagon",
+  "meaning": {
+    "zh": "“让某人吃苦头” 或 “让某人受到惩罚”。\n\n这个短语源自美国19世纪，当时马车是主要的交通工具。如果有人对你不利，而你破坏或修理他们的马车以阻止他们前进，就表示你正在让他们吃苦头或受到惩罚。随着时间的推移，这个短语变成了对付某人或报复某人的意思。",
+    "en": "This phrase originates from the 19th century in the United States, when wagons were the primary means of transportation. If someone wronged you, and you either sabotaged or fixed their wagon to hinder their progress, it would mean you were making them suffer or punishing them. Over time, the phrase evolved to mean dealing with or exacting revenge on someone."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "If he keeps being rude, someone will eventually *fix his wagon*.",
+          "zh": "如果他继续无礼，总有人会让他吃苦头。"
+        }
+      ],
+      "audio": "audio/418.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The coach promised to *fix the team's wagon* after their poor performance.",
+          "zh": "教练承诺要让团队因为他们的糟糕表现而受到惩罚。"
+        }
+      ],
+      "audio": "audio/418.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Don't worry, we'll *fix their wagon* for trying to cheat us.",
+          "zh": "别担心，我们会让他们因为企图欺骗我们而吃苦头。"
+        }
+      ],
+      "audio": "audio/418.3.mp3"
+    }
+  ]
+}

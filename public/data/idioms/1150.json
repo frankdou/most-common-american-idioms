@@ -1,0 +1,37 @@
+{
+  "n": 1150,
+  "name": "The pits",
+  "meaning": {
+    "zh": "“最糟糕的情况” 或 “绝望的境地”。\n\n这个短语起源于 “坑” 这个字面的意思，即一个黑暗、深而难以逃脱的地方。这个隐喻用法表示处于一个非常不好的情况或经历了非常不愉快的事情。",
+    "en": "This phrase comes from the literal meaning of \"pits,\" which are dark, deep, and hard-to-escape places. This metaphorical usage signifies being in a very bad situation or experiencing something extremely unpleasant."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "That new restaurant is really *the pits*. The food was terrible.",
+          "zh": "那家新餐馆真是糟糕透了。食物太差了。"
+        }
+      ],
+      "audio": "audio/1150.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Missing the bus on a rainy day is just *the pits*.",
+          "zh": "在雨天错过公共汽车真是糟糕透顶了。"
+        }
+      ],
+      "audio": "audio/1150.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I got a flat tire on my way to an important meeting; it was *the pits*.",
+          "zh": "在去参加重要会议的路上车胎爆了，真是太糟糕了。"
+        }
+      ],
+      "audio": "audio/1150.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 1207,
+  "name": "To draw a blank",
+  "meaning": {
+    "zh": "“一无所获” 或 “搜索记忆时想到脑袋空白”。\n\n这个短语起源于16世纪的英国，当时有一种抽签游戏，其中一部分签是空白的，抽到的人就什么都得不到。如今，这个短语常用于描述一种情况，即努力回忆或搜索某些信息时，脑袋一片空白，什么都想不起来。",
+    "en": "This phrase originates from a 16th-century English lottery game where some of the tickets were blank, meaning that whoever drew them won nothing. Nowadays, this idiom is commonly used to depict a situation where someone tries to remember or find information but ends up with a blank, or nothing at all, in their mind."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I tried to remember his name, but I just *drew a blank*.",
+          "zh": "我努力想起他的名字，但脑子里一片空白。"
+        }
+      ],
+      "audio": "audio/1207.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "When asked about the details of the meeting, she completely *drew a blank*.",
+          "zh": "当被问及会议细节时，她完全脑子一片空白。"
+        }
+      ],
+      "audio": "audio/1207.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He tried to remember his locker combination but *drew a blank*.",
+          "zh": "他试图想起自己的储物柜密码，但一无所获。"
+        }
+      ],
+      "audio": "audio/1207.3.mp3"
+    }
+  ]
+}

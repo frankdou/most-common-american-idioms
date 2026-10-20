@@ -1,0 +1,37 @@
+{
+  "n": 245,
+  "name": "Clean someone out",
+  "meaning": {
+    "zh": "“清空某人的钱财” 或 “倾家荡产”。\n\n这个短语在字面上是指彻底清理一个地方，但在用作习语时，常常表示通过赌博、诈骗或其他手段让某人倾家荡产或者彻底赔光。这个表达方式描绘了涉及财务损失的一种彻底性和严重性。",
+    "en": "This phrase literally refers to cleaning a place thoroughly, but when used idiomatically, it often means causing someone to lose all their money through gambling, swindling, or other means. It depicts the thoroughness and severity involved in the financial loss."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The casino trip *cleaned him out* completely.",
+          "zh": "去赌场的那次旅行把他的钱赔光了。"
+        }
+      ],
+      "audio": "audio/245.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She warned him that investing in such risky stocks could *clean him out*.",
+          "zh": "她警告他说，投资这种高风险股票会让他倾家荡产。"
+        }
+      ],
+      "audio": "audio/245.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The scam artist almost *cleaned out* the entire family.",
+          "zh": "那个诈骗犯几乎让这个家庭倾家荡产。"
+        }
+      ],
+      "audio": "audio/245.3.mp3"
+    }
+  ]
+}

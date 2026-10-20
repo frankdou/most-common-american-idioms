@@ -1,0 +1,37 @@
+{
+  "n": 1276,
+  "name": "Under the wire",
+  "meaning": {
+    "zh": "赶在最后时刻，刚好及时。\n\n“Under the wire” 来源于赛马比赛。在赛马比赛中，骑手必须在设定的时间内让马匹通过终点线。而 “wire” 指的是设在终点上的线，骑手如果能赶在那个时间点前通过，就被称为 “under the wire”。现如今，这个短语被广泛用于表示在最紧迫的时刻完成某事。",
+    "en": "This idiom originated from horseracing, where jockeys must get their horses across the finish line within a set time. The \"wire\" refers to the line at the finish, and jockeys who make it in time are said to come in \"under the wire\". Today, this phrase is used widely to describe completing something just in the nick of time."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "She turned in her assignment just *under the wire* before the deadline.",
+          "zh": "她在截止日期前刚好及时交了作业。"
+        }
+      ],
+      "audio": "audio/1276.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The team finished the project *under the wire* with only minutes to spare.",
+          "zh": "团队在仅剩几分钟时赶在最后时刻完成了项目。"
+        }
+      ],
+      "audio": "audio/1276.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He caught the last train *under the wire* just before it left the station.",
+          "zh": "他刚好赶上了最后一班离站的火车。"
+        }
+      ],
+      "audio": "audio/1276.3.mp3"
+    }
+  ]
+}

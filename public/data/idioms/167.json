@@ -1,0 +1,37 @@
+{
+  "n": 167,
+  "name": "Bolt from the blue",
+  "meaning": {
+    "zh": "“突如其来的事” 或 “晴天霹雳”。\n\n这个短语起源于18世纪，表示一种完全出乎意料的事件，就像一个晴朗的天空中突然打下一道闪电，完全无法预见。在现代语境中，它通常用来表示完全出乎意料的消息或事件。",
+    "en": "This idiom dates back to the 18th century and describes something entirely unexpected, much like a bolt of lightning from a clear blue sky, which is completely unforeseen. In contemporary usage, it often refers to news or events that are completely unexpected."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Her resignation was a *bolt from the blue* for the whole team.",
+          "zh": "她的辞职对整个团队来说是个晴天霹雳。"
+        }
+      ],
+      "audio": "audio/167.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The announcement was a *bolt from the blue*, no one saw it coming.",
+          "zh": "这个公告简直是突如其来，谁都没有预料到。"
+        }
+      ],
+      "audio": "audio/167.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "When I got the job offer, it felt like a *bolt from the blue*.",
+          "zh": "当我收到工作邀请时，感觉就像晴天霹雳。"
+        }
+      ],
+      "audio": "audio/167.3.mp3"
+    }
+  ]
+}

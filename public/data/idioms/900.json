@@ -1,0 +1,37 @@
+{
+  "n": 900,
+  "name": "Out of the blue",
+  "meaning": {
+    "zh": "“突如其来” 或 “出乎意料”。\n\n这个短语来源于天气相关的隐喻，原意为形容晴朗的天空突然出现闪电或雷暴（蓝天中的蓝代表晴天）。因此，“out of the blue” 后来用以描述那些没有任何预兆的、意外发生的事情或事件。",
+    "en": "This phrase originates from a weather-related metaphor, originally describing lightning or thunder suddenly appearing from a clear blue sky (with blue representing clear weather). Therefore, \"out of the blue\" is used to describe those events or things that happen unexpectedly without any warning."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He called me *out of the blue* after five years of no contact.",
+          "zh": "在五年没有联系之后，他突然给我打了电话。"
+        }
+      ],
+      "audio": "audio/900.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The idea for the new project came to her *out of the blue*.",
+          "zh": "新项目的想法突然出现在她的脑海中。"
+        }
+      ],
+      "audio": "audio/900.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "It started raining *out of the blue* during our picnic.",
+          "zh": "我们的野餐期间突然开始下雨了。"
+        }
+      ],
+      "audio": "audio/900.3.mp3"
+    }
+  ]
+}

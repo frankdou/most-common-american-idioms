@@ -1,0 +1,37 @@
+{
+  "n": 1278,
+  "name": "Up a blind alley",
+  "meaning": {
+    "zh": "“走入死胡同” 或 “陷入困境”。\n\n这个短语起源于第一次世界大战期间，描述信号部门在地下隧道和战壕设置线缆时会遇到的死胡同。在这种情况下，找到正确的方向是极其重要的，而追进一个错误的方向或死胡同意味着回头重新开始。在当今，这个成语常用来指代一个无成果的努力或错误的方向，表示徒劳无功或者无路可走的情况。",
+    "en": "This phrase originated during World War I, when signal units setting up communications cables in underground tunnels and trenches would sometimes encounter dead ends. In such a situation, finding the right direction was crucial, and pursuing a wrong direction or a dead-end meant going back to start again. Today, this idiom is commonly used to describe an unproductive effort or a wrong direction, indicating a useless or blocked path."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "We spent months on this project, but in the end, we realized we were *up a blind alley*.",
+          "zh": "我们在这个项目上花了几个月时间，但最终发现我们走入了死胡同。"
+        }
+      ],
+      "audio": "audio/1278.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The detective followed several leads, but they all led *up a blind alley*.",
+          "zh": "侦探跟踪了几个线索，但它们都无果而终。"
+        }
+      ],
+      "audio": "audio/1278.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Trying to fix the problem without understanding its root cause is like going *up a blind alley*.",
+          "zh": "在不了解问题根本原因的情况下尝试解决问题就像在走入死胡同。"
+        }
+      ],
+      "audio": "audio/1278.3.mp3"
+    }
+  ]
+}

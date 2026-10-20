@@ -1,0 +1,37 @@
+{
+  "n": 971,
+  "name": "Put your finger on it",
+  "meaning": {
+    "zh": "“准确指出” 或 “恰恰找出问题的根源”。\n\n这个短语来源于人们用手指指向某个特定点的动作，这个动作表示对特定事物进行明确的识别或指出。在现代英语中，这个短语通常用来形容某人准确地识别出问题的根源或关键点。",
+    "en": "This phrase originates from the action of pointing to a specific spot with one's finger, which signifies identifying or indicating something precisely. In modern English, it is commonly used to describe someone accurately identifying the root cause or key point of a problem."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I can't quite *put my finger on* what's wrong with this project.",
+          "zh": "我无法准确指出这个项目的问题出在哪里。"
+        }
+      ],
+      "audio": "audio/971.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "After thinking for a while, she finally managed to *put her finger on* the issue.",
+          "zh": "经过一段时间的思考后，她终于成功地找出了问题所在。"
+        }
+      ],
+      "audio": "audio/971.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "There's something not quite right, but I can't *put my finger on* it.",
+          "zh": "有些地方不太对劲，但我无法准确说出是什么。"
+        }
+      ],
+      "audio": "audio/971.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 725,
+  "name": "Knock on wood",
+  "meaning": {
+    "zh": "“敲木头” 或 “祈求好运”。\n\n这个短语有好几种起源说法，其中一种是，古欧洲人认为树木和森林拥有神秘的力量，因此敲击木头可以唤起或感应到这些力量来保护自己。在现代使用中，当人们说了某件好事情或者希望某事顺利进行，会通过 “敲木头” 来避免不好的事情发生，是一种祈求好运的迷信行为。",
+    "en": "This phrase has several origin theories. One popular belief is that ancient Europeans thought trees and forests held mystical powers. Therefore, touching or knocking on wood would invoke or signal these powers for protection. In modern usage, after mentioning something positive or hoping for something to proceed smoothly, people knock on wood to ward off bad luck—a superstitious act of seeking good fortune."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I’ve never gotten a speeding ticket, *knock on wood*.",
+          "zh": "我从来没有被开过超速罚单，敲木头（希望这样一直下去）。"
+        }
+      ],
+      "audio": "audio/725.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "We have had great weather for our trip so far, *knock on wood*.",
+          "zh": "我们这次旅行的天气很好，敲木头（希望天气继续保持良好）。"
+        }
+      ],
+      "audio": "audio/725.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The project is going smoothly, *knock on wood*.",
+          "zh": "项目进展顺利，敲木头（希望继续顺利）。"
+        }
+      ],
+      "audio": "audio/725.3.mp3"
+    }
+  ]
+}

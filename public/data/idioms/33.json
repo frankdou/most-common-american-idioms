@@ -1,0 +1,37 @@
+{
+  "n": 33,
+  "name": "A picture is worth a thousand words",
+  "meaning": {
+    "zh": "“一图胜千言” 或 “图胜于言”。\n\n这个短语起源于古代中国的一句成语 “百闻不如一见”，它被引入英语并逐渐演变为今天的形式。这句话的意思是，图片或视觉效果所传达的信息和情感往往比文字更丰富、更直观。现代社会中，这个短语常用于强调在某些时候，文字的描述可能无法与图片的直观表现相提并论。",
+    "en": "This phrase originates from an ancient Chinese proverb \"百闻不如一见\" (seeing once is better than hearing a hundred times), which was introduced into English and gradually evolved into the present form. The saying means that images or visual effects often convey information and emotions more richly and straightforwardly than words. In modern society, this idiom is often used to emphasize that sometimes, a visual representation can be more impactful than a verbal description."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "She showed us the photos from her vacation because *a picture is worth a thousand words*.",
+          "zh": "她给我们看了她度假的照片，因为一图胜千言。"
+        }
+      ],
+      "audio": "audio/033.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "When making a presentation, remember that *a picture is worth a thousand words*.",
+          "zh": "做演示时，请记住图片胜于言。"
+        }
+      ],
+      "audio": "audio/033.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The infographic helped everyone understand the data better because *a picture is worth a thousand words*.",
+          "zh": "这张信息图帮助所有人更好地理解数据，因为一图胜千言。"
+        }
+      ],
+      "audio": "audio/033.3.mp3"
+    }
+  ]
+}

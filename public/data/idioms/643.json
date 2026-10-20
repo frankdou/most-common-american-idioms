@@ -1,0 +1,37 @@
+{
+  "n": 643,
+  "name": "In a nutshell",
+  "meaning": {
+    "zh": "“简而言之” 或 “用简短的话说”。\n\n这个短语起源于古代，因为坚果壳很小，寓意可以在一个坚果壳里容纳尽可能多的信息。从17世纪开始，人们就开始用 \"in a nutshell\" 来表示用最简短的方式来表达某种信息，意思是言简意赅、概述某事。",
+    "en": "This phrase originates from ancient times, as nutshells are small and the idea was to fit as much information as possible in a tiny space. Since the 17th century, \"in a nutshell\" has been used to mean expressing something in the briefest way possible, summarizing or encapsulating the information."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "To put it *in a nutshell*, we need more time to complete the project.",
+          "zh": "简而言之，我们需要更多时间来完成这个项目。"
+        }
+      ],
+      "audio": "audio/643.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "*In a nutshell*, the company is facing financial difficulties.",
+          "zh": "简而言之，公司正面临财务困难。"
+        }
+      ],
+      "audio": "audio/643.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He explained the plan *in a nutshell* so that everyone understood it quickly.",
+          "zh": "他简明扼要地解释了计划，使每个人都能迅速明白。"
+        }
+      ],
+      "audio": "audio/643.3.mp3"
+    }
+  ]
+}

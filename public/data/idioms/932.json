@@ -1,0 +1,37 @@
+{
+  "n": 932,
+  "name": "Pitch dark",
+  "meaning": {
+    "zh": "“漆黑一片” 或 “伸手不见五指”。\n\n这个短语源于 “pitch”，一种非常黑的物质。将它用作形容词来表示完全没有光线，非常黑暗的状态。",
+    "en": "The phrase originates from \"pitch,\" a substance known for its extreme blackness. It is used as an adjective to describe a condition where there is no light at all, an extremely dark state."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "It was *pitch dark* outside, so we could barely see anything.",
+          "zh": "外面漆黑一片，我们几乎什么都看不见。"
+        }
+      ],
+      "audio": "audio/932.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "After the power went out, the whole house was *pitch dark*.",
+          "zh": "停电之后，整座房子立刻伸手不见五指。"
+        }
+      ],
+      "audio": "audio/932.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "They had to use flashlights because the cave was *pitch dark*.",
+          "zh": "他们不得不用手电筒，因为洞穴里漆黑一片。"
+        }
+      ],
+      "audio": "audio/932.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 1022,
+  "name": "See someone's true colors",
+  "meaning": {
+    "zh": "“看清某人的真面目” 或 “看透某人的真实本性”。\n\n这个短语原始意义是 “看到某人的真实颜色”，颜色在这里象征一个人的性格或本性。通常用来描述当一个人的行为或意图因某些特殊状况而暴露出来时，其他人能看清他们的真实面目。在现实生活中，这个短语经常在描述辨别出某人真实意图的时候使用。",
+    "en": "The phrase \"see someone's true colors\" originally means to see someone's true personality or nature. Colors here symbolize a person's character or nature. It is often used to describe a situation where someone's true intentions are revealed under specific conditions, allowing others to understand their real nature. In everyday life, it's frequently used when someone’s real intentions become apparent."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "After the argument, I finally *saw his true colors*.",
+          "zh": "争吵过后，我终于看清了他的真面目。"
+        }
+      ],
+      "audio": "audio/1022.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She seemed so nice at first, but we *saw her true colors* when the pressure was on.",
+          "zh": "刚开始她看起来很友善，但在压力之下我们看透了她的真实本性。"
+        }
+      ],
+      "audio": "audio/1022.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "It took a while, but I *saw his true colors* eventually.",
+          "zh": "花了很长时间，但我最终看清了他的真面目。"
+        }
+      ],
+      "audio": "audio/1022.3.mp3"
+    }
+  ]
+}

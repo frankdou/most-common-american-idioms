@@ -1,0 +1,37 @@
+{
+  "n": 1196,
+  "name": "To box someone in",
+  "meaning": {
+    "zh": "“使某人走投无路” 或 “困住某人”。\n\n这个习语源自拳击运动中的 “围困” 策略，即把对手逼到角落，限制他们的行动自由。在现实生活中，该短语常用来形容通过策略或手段使某人没有其他选择或出路。",
+    "en": "This idiom originates from the boxing world, where a strategy involves cornering the opponent to limit their movement. In everyday life, it's used to describe a situation where someone is left with no options or way out due to strategic actions or constraints."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "They tried to *box him in* during the meeting, forcing him to agree to their terms.",
+          "zh": "他们在会议中试图困住他，迫使他同意他们的条件。"
+        }
+      ],
+      "audio": "audio/1196.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She felt *boxed in* by the company's strict policies.",
+          "zh": "她觉得被公司的严格政策所困住了。"
+        }
+      ],
+      "audio": "audio/1196.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The lack of funding *boxed us in* and halted the project's progress.",
+          "zh": "资金不足使我们走投无路，项目进展因此停滞。"
+        }
+      ],
+      "audio": "audio/1196.3.mp3"
+    }
+  ]
+}

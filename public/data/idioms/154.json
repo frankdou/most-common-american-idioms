@@ -1,0 +1,37 @@
+{
+  "n": 154,
+  "name": "Black-and-white",
+  "meaning": {
+    "zh": "“非黑即白” 或 “非此即彼”。\n\n这个短语起源于早期的黑白照片和文字印刷，那里不存在灰色地带。在现代社会，这个短语用来形容某些人看待事物或问题的方式非常极端，要么是对的，要么是错的，不存在中立或模棱两可的情况。",
+    "en": "This phrase originates from early black-and-white photographs and printed text, where there was no grey area. In modern society, this phrase is used to describe a way of viewing things or issues in a very extreme, either-right-or-wrong manner, with no room for middle ground or ambiguity."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Her views on the matter are very *black-and-white*; there’s no room for compromise.",
+          "zh": "她对这个问题的看法非常非黑即白，没有妥协的余地。"
+        }
+      ],
+      "audio": "audio/154.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Life isn't always *black-and-white*; sometimes there are shades of grey.",
+          "zh": "生活并不总是非黑即白，有时也有灰色地带。"
+        }
+      ],
+      "audio": "audio/154.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The situation is more complicated than a *black-and-white* scenario.",
+          "zh": "情况比一个非黑即白的情景要复杂得多。"
+        }
+      ],
+      "audio": "audio/154.3.mp3"
+    }
+  ]
+}

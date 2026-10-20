@@ -1,0 +1,37 @@
+{
+  "n": 892,
+  "name": "Once in a blue moon",
+  "meaning": {
+    "zh": "“千载难逢” 或 “难得一见”。\n\n这个短语来源于天文学中的一种罕见现象，即同一个月内出现第二次满月，叫做蓝月亮。由于这种现象非常少见，“once in a blue moon” 就用来形容极为罕见的事件。",
+    "en": "This phrase originates from a rare astronomical event where a second full moon appears in a single month, known as a blue moon. Because this occurrence is very rare, \"once in a blue moon\" has come to describe events that happen extremely infrequently."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He only visits us *once in a blue moon*, but it's always a great time when he does.",
+          "zh": "他难得来看我们一次，但每次来访都很愉快。"
+        }
+      ],
+      "audio": "audio/892.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I clean my attic *once in a blue moon* because it's usually not that messy.",
+          "zh": "我难得整理一次阁楼，因为它一般没那么乱。"
+        }
+      ],
+      "audio": "audio/892.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He’s not very social and only goes out *once in a blue moon*.",
+          "zh": "他不太爱社交，所以难得出去玩一次。"
+        }
+      ],
+      "audio": "audio/892.3.mp3"
+    }
+  ]
+}

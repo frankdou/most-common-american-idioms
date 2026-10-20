@@ -1,0 +1,37 @@
+{
+  "n": 1175,
+  "name": "Throw a monkey wrench into the works",
+  "meaning": {
+    "zh": "“搅局” 或 “破坏计划”。\n\n这个短语起源于美国工业历史中的一个真实工具，即 “猴子扳手（monkey wrench）”。如果把这个工具扔进运转的机器里，势必会导致机器停工或损坏。因此，这个表达逐渐演变为比喻任何故意或无意中破坏已经计划好或正在进行的事情的行为。",
+    "en": "This phrase originates from a real tool in American industrial history, the \"monkey wrench.\" If the tool was thrown into a working machine, it would cause the machine to stop or be damaged. Consequently, this phrase metaphorically evolved to describe any action that disrupts or sabotages plans or ongoing processes, whether intentionally or accidentally."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "His sudden resignation really *threw a monkey wrench into the works* of our project.",
+          "zh": "他的突然辞职真是我么项目里的大搅局。"
+        }
+      ],
+      "audio": "audio/1175.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The bad weather *threw a monkey wrench into the works* of our outdoor event schedules.",
+          "zh": "恶劣天气破坏了我们户外活动的安排。"
+        }
+      ],
+      "audio": "audio/1175.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Technical issues *threw a monkey wrench into the works* of the live broadcast.",
+          "zh": "技术问题让直播出了乱子。"
+        }
+      ],
+      "audio": "audio/1175.3.mp3"
+    }
+  ]
+}

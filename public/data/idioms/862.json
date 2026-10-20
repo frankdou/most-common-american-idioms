@@ -1,0 +1,37 @@
+{
+  "n": 862,
+  "name": "Off the hook",
+  "meaning": {
+    "zh": "“脱身” 或 “摆脱困境”。\n\n这个短语来源于捕鱼时鱼从鱼钩上脱离的情况，表示某人成功避免了一场麻烦或责罚。在日常生活中，它常用于形容一个人免于承担责任或从某种困境中解脱出来。",
+    "en": "This phrase originates from fishing, where a fish manages to get off the hook, symbolizing successfully avoiding trouble or punishment. In everyday use, it is often used to describe someone being freed from responsibility or escaping from a difficult situation."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He thought he would get in trouble for the mistake, but his boss let him *off the hook*.",
+          "zh": "他以为会因为这个错误而惹麻烦，但老板让他脱身了。"
+        }
+      ],
+      "audio": "audio/862.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "You're *off the hook* this time, but be more careful in the future.",
+          "zh": "这次你脱身了，但以后要小心点。"
+        }
+      ],
+      "audio": "audio/862.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Thanks to the new evidence, the suspect was *off the hook*.",
+          "zh": "多亏了新证据，嫌疑人得以摆脱困境。"
+        }
+      ],
+      "audio": "audio/862.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 101,
+  "name": "At-large",
+  "meaning": {
+    "zh": "\" 广泛地\" 或 \" 普遍地\"，也可以表示 \" 不受限制地\"。\n\n这个短语起源于法律和政治领域，常用来形容一个没有指定区域或特定范围限制的职位或角色。例如，在一些选举中， \"at-large\" 代表的是由整个选区选出，而不是特定区域或分区的候选人。此外，这个短语也可以描述某人没有拘束，自由行动。",
+    "en": "This phrase originates from the legal and political fields, commonly used to describe a position or role that is not restricted to a specific area or constituency. For example, in some elections, “at-large” refers to representatives elected by the entire electorate rather than a specific district. Additionally, the phrase can describe someone who is at liberty and not confined."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He was elected as an *at-large* member of the city council.",
+          "zh": "他被选为市议会的普选成员。"
+        }
+      ],
+      "audio": "audio/101.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The criminal is still *at-large* and considered dangerous.",
+          "zh": "那名罪犯仍然在逃，并被认为很危险。"
+        }
+      ],
+      "audio": "audio/101.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The committee includes both district representatives and *at-large* members.",
+          "zh": "委员会包括地区代表和广域代表。"
+        }
+      ],
+      "audio": "audio/101.3.mp3"
+    }
+  ]
+}

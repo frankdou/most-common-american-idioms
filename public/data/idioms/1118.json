@@ -1,0 +1,37 @@
+{
+  "n": 1118,
+  "name": "Tar someone with the same brush",
+  "meaning": {
+    "zh": "“同一枚刷子刷所有人” 或 “一概而论”。\n\n这个词组源自古代，早期形容在海运中给船只刷沥青以防腐蚀。然而，逐渐演变为一种隐喻，用来描述将个人特质或行为推广到整个群体或其他个体上，即对某人集团或某类事物持有相同的负面看法，不分具体情况。",
+    "en": "This phrase originates from maritime practices where tar was used to coat and protect ships. Over time, it has evolved into a metaphor indicating treating everyone the same way, often negatively, based on the actions or characteristics of a few individuals."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Just because he made a mistake doesn't mean you should *tar everyone with the same brush*.",
+          "zh": "仅仅因为他犯了错误，并不意味着你应该一概而论。"
+        }
+      ],
+      "audio": "audio/1118.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "It's not fair to *tar* all teenagers *with the same brush* for the actions of a few.",
+          "zh": "因为少数青少年的行为就一概而论所有青少年是不公平的。"
+        }
+      ],
+      "audio": "audio/1118.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "You can't *tar* the entire team *with the same brush* because of one person's failure.",
+          "zh": "因为一个人的失败就把整个团队一概而论是不对的。"
+        }
+      ],
+      "audio": "audio/1118.3.mp3"
+    }
+  ]
+}

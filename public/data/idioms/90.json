@@ -1,0 +1,37 @@
+{
+  "n": 90,
+  "name": "As right as rain",
+  "meaning": {
+    "zh": "“完好无损” 或 “非常健康”。\n\n这个短语的起源不完全确定，但据认为它与 “雨” 在自然界带来的有利影响有关，尤其是在农业中，雨水是作物生长所必需的。因此，“as right as rain” 表示某物或某人处于最佳状态，完好无损，或恢复了健康。",
+    "en": "This phrase's origin is not entirely clear, but it is believed to be related to the beneficial effects of rain in nature, particularly in agriculture where rain is essential for crop growth. Thus, \"as right as rain\" means that something or someone is in optimal condition, unharmed, or has recovered health."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "After a few days of rest, I'm feeling *as right as rain*.",
+          "zh": "休息了几天之后，我感觉非常健康。"
+        }
+      ],
+      "audio": "audio/090.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The mechanic fixed the car, and now it's *as right as rain*.",
+          "zh": "修理工修好了车，现在它完好无损了。"
+        }
+      ],
+      "audio": "audio/090.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Don’t worry, everything will be *as right as rain* by tomorrow.",
+          "zh": "别担心，一切明天就会恢复正常。"
+        }
+      ],
+      "audio": "audio/090.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "n": 305,
+  "name": "Damn someone with faint praise",
+  "meaning": {
+    "zh": "“用轻微的赞美来贬低某人” 或 “明褒实贬”。\n\n这个短语起源于古希腊和罗马的文学传统，当时作家们常常用微不足道的赞美来讽刺或贬低他人。给予某人非常轻微的赞美，会让人觉得这个人并不值得更多的认可，从而起到贬低的效果。",
+    "en": "This phrase originates from the literary traditions of ancient Greece and Rome, where writers would use slight praise as a tool for satire or to demean someone. By giving someone only faint praise, it implies that the person is not worthy of significant recognition, thereby having a diminishing effect."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He said her singing was \"not bad,\" faintly damning her with faint praise.",
+          "zh": "他说她唱得 “还不错”，用轻微的赞美贬低了她。"
+        }
+      ],
+      "audio": "audio/305.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The review called it \"a decent effort,\" which seemed like faint praise damning the work.",
+          "zh": "评论称它为 “一次不错的尝试”，这听上去像是明褒实贬。"
+        }
+      ],
+      "audio": "audio/305.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "When he complimented her cooking as \"edible,\" he was clearly damning her with faint praise.",
+          "zh": "当他说她的菜 “还可以吃” 时，他显然是在用轻微的赞美贬低她。"
+        },
+        {
+          "en": "```",
+          "zh": ""
+        }
+      ],
+      "audio": "audio/305.3.mp3"
+    }
+  ]
+}

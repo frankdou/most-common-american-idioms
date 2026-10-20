@@ -1,0 +1,37 @@
+{
+  "n": 1141,
+  "name": "The elephant in the room",
+  "meaning": {
+    "zh": "“显而易见却被人忽视的问题”。\n\n这个短语源自于一种极端的状况，即房间里有一只大象，但人们都假装看不见它。这主要用来形容一个显而易见的问题或事实，因为太过尴尬、敏感或复杂，人们选择避而不谈。该短语的使用提醒人们，虽然大的问题无法忽视，但却经常被巧妙地避开。",
+    "en": "This phrase originates from an extreme situation where an elephant is in a room, but everyone pretends not to see it. It is mainly used to describe an obvious issue or fact that people choose to ignore because it is too awkward, sensitive, or complex. The use of this phrase reminds people that although big problems cannot be ignored, they are often cleverly avoided."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "We need to address the *elephant in the room*—why sales are declining.",
+          "zh": "我们需要解决这个显而易见却被忽视的问题——为什么销售额在下降。"
+        }
+      ],
+      "audio": "audio/1141.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Discussing layoffs is the *elephant in the room* that nobody wants to mention.",
+          "zh": "谈论裁员是一个显而易见却被忽视的问题，没有人愿意提及。"
+        }
+      ],
+      "audio": "audio/1141.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Financial troubles are the *elephant in the room* for many families.",
+          "zh": "财务问题是许多家庭显而易见却被忽视的问题。"
+        }
+      ],
+      "audio": "audio/1141.3.mp3"
+    }
+  ]
+}

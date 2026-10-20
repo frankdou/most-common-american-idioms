@@ -1,0 +1,37 @@
+{
+  "n": 1113,
+  "name": "Talk to the hand",
+  "meaning": {
+    "zh": "“别跟我说” 或 “我不想听”。\n\n这个短语起源于上世纪90年代的美国俚语，通常是作为一种表示不耐烦或不愿意听某人说话的手势动作。在说这句话时，人们会将手掌向外平伸，表示拒绝交流和不满。随着时间的推移，这个短语渐渐成为一种口头表达，用来表示某人对他人的话语不感兴趣且不愿意听。",
+    "en": "This phrase originates from the slang of the 1990s in the United States, typically accompanied by a hand gesture with the palm facing outward, symbolizing a refusal to listen or impatience. Over time, \"Talk to the hand\" became a verbal expression used to indicate that someone is uninterested and does not want to hear what the other person is saying."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "When he started arguing, she just said, \"Talk to the hand.\"",
+          "zh": "当他开始争论时，她只说了一句，“别跟我说。”"
+        }
+      ],
+      "audio": "audio/1113.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "If you're going to complain again, just talk to the hand.",
+          "zh": "如果你又要抱怨，那就别跟我说。"
+        }
+      ],
+      "audio": "audio/1113.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I tried to explain, but he just told me, \"Talk to the hand.\"",
+          "zh": "我试图解释，但他只是对我说，“我不想听。”"
+        }
+      ],
+      "audio": "audio/1113.3.mp3"
+    }
+  ]
+}

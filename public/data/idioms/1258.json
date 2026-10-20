@@ -1,0 +1,37 @@
+{
+  "n": 1258,
+  "name": "Travel light",
+  "meaning": {
+    "zh": "“轻装旅行” 或 “尽量减少行李”。\n\n这个短语起源于旅行时尽量减少随身行李，以便更轻松、便捷地移动。它特别适用于那些喜欢纯粹旅行体验，而不希望被繁重行李所累的人。",
+    "en": "This phrase originates from the idea of minimizing baggage while traveling to make the journey easier and more convenient. It is particularly applicable to those who enjoy a pure travel experience without being burdened by heavy luggage."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "When we go camping, we always try to *travel light*.",
+          "zh": "我们去露营时，总是尽量轻装上阵。"
+        }
+      ],
+      "audio": "audio/1258.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "You should *travel light* if you're going to be moving around a lot.",
+          "zh": "如果你要频繁移动，最好轻装旅行。"
+        }
+      ],
+      "audio": "audio/1258.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "It's easier to catch flights when you *travel light*.",
+          "zh": "轻装旅行更容易赶上航班。"
+        }
+      ],
+      "audio": "audio/1258.3.mp3"
+    }
+  ]
+}

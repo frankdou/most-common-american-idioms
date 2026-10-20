@@ -1,0 +1,37 @@
+{
+  "n": 552,
+  "name": "Graveyard shift",
+  "meaning": {
+    "zh": "“夜班” 或 “凌晨班”。\n\n这个短语来源于19世纪，用于形容在深夜或者清晨时段工作的班次。因为这个时段往往非常安静、黑暗，与墓地（graveyard）的氛围相似，因此被称为 “墓地班次” 或 “凌晨班”。",
+    "en": "This phrase originates from the 19th century to describe work shifts that occur during the late-night or early morning hours. Because this time period is typically very quiet and dark, akin to the atmosphere of a graveyard, it became known as the \"graveyard shift\"."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He’s working the *graveyard shift* at the hospital this week.",
+          "zh": "他这周在医院上夜班。"
+        }
+      ],
+      "audio": "audio/552.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "It’s hard to adjust to the *graveyard shift* because of the sleep schedule.",
+          "zh": "由于睡眠时间安排，适应夜班是很难的。"
+        }
+      ],
+      "audio": "audio/552.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The factory runs 24/7, so someone always needs to cover the *graveyard shift*.",
+          "zh": "工厂全天运行，所以总是需要有人值夜班。"
+        }
+      ],
+      "audio": "audio/552.3.mp3"
+    }
+  ]
+}

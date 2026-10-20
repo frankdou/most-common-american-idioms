@@ -1,0 +1,37 @@
+{
+  "n": 206,
+  "name": "Call it a day",
+  "meaning": {
+    "zh": "“收工” 或 “结束一天的工作”。\n\n这个短语最早起源于工人们在一天工作结束时使用的表达，意思是决定停止工作并回家。如今，“call it a day” 被广泛用于在完成某个任务后表示结束工作，无论是在职场还是其他项目中。",
+    "en": "This phrase originally came from workers used to signify the end of their day's work, meaning to decide to stop working and go home. Nowadays, \"call it a day\" is widely used to indicate the conclusion of a task, whether in the workplace or other projects."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "It's getting late; let's *call it a day* and finish this tomorrow.",
+          "zh": "天色已晚，我们收工吧，明天再完成这个。"
+        }
+      ],
+      "audio": "audio/206.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "After fixing the last bug in the code, he decided to *call it a day*.",
+          "zh": "修复了代码中的最后一个错误后，他决定收工。"
+        }
+      ],
+      "audio": "audio/206.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "We have accomplished a lot today; it's time to *call it a day*.",
+          "zh": "我们今天完成了很多任务，现在该收工了。"
+        }
+      ],
+      "audio": "audio/206.3.mp3"
+    }
+  ]
+}

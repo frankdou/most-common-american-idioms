@@ -1,0 +1,37 @@
+{
+  "n": 812,
+  "name": "Make tracks",
+  "meaning": {
+    "zh": "“赶紧离开” 或 “迅速回避”。\n\n这个短语源自 19 世纪，美国西部拓荒时代。当时的人们必须依靠马车和步行在荒原上旅行，他们离开某地时会在地上留下明显的足迹或车辙。这个表达扩展了其原始含义，开始表示迅速离开某地或者加速前进的动作。",
+    "en": "This phrase originated in the 19th century during the American Westward Expansion era. People had to rely on wagons and walking while traveling across the wilderness, leaving noticeable tracks behind when they left a place. The expression evolved from its literal meaning to indicate the act of leaving quickly or hastening away."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "We need to make tracks if we want to catch the last train.",
+          "zh": "如果我们想赶上最后一班火车，就得赶紧离开。"
+        }
+      ],
+      "audio": "audio/812.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "After the warning, everyone decided to make tracks out of the building.",
+          "zh": "在警告之后，所有人决定迅速撤离大楼。"
+        }
+      ],
+      "audio": "audio/812.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "It's getting late, let's make tracks and go back home.",
+          "zh": "天色已晚，我们赶紧回家吧。"
+        }
+      ],
+      "audio": "audio/812.3.mp3"
+    }
+  ]
+}

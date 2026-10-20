@@ -1,0 +1,37 @@
+{
+  "n": 342,
+  "name": "Don't quote me on that",
+  "meaning": {
+    "zh": "“这话不要引用我说的” 或 “这只是我的个人看法，可能不完全准确”。\n\n这个短语起源于人们在提供信息或意见时，提醒听者这并非确凿无疑的信息，不要把它视为对外传播的正式内容。通常用于表达一种谨慎态度，免得因为信息不准确而造成误解或责任。",
+    "en": "This phrase is derived from the practice of discouraging others from citing or repeating one’s words as definitive or fully accurate. It is generally used to convey a sense of caution that the information or opinion shared is not guaranteed to be 100% correct, and to avoid responsibility for potential inaccuracies."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I think the meeting is at 3 PM, but don't quote me on that.",
+          "zh": "我认为会议在下午3点，但别引用我这话。"
+        }
+      ],
+      "audio": "audio/342.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The project might be delayed, but don't quote me on that.",
+          "zh": "项目可能会延迟，但这话不要引述我。"
+        }
+      ],
+      "audio": "audio/342.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I heard they're going to announce a new product, but don't quote me on that.",
+          "zh": "我听说他们将宣布一款新产品，但不要引用我这话。"
+        }
+      ],
+      "audio": "audio/342.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 124,
+  "name": "Before you know it",
+  "meaning": {
+    "zh": "“眨眼之间” 或 “转瞬之间”。\n\n这个短语的意思是在你意识到之前，一件事情已经发生了。它强调事件发生的迅速和出乎意料。一般用来形容时间过得很快或事情变化得很快。",
+    "en": "This phrase means that something happens before you have time to become aware of it. It emphasizes the quickness and unexpectedness of an event. It is often used to describe how fast time passes or how quickly things change."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The kids grow up so fast; *before you know it*, they're off to college.",
+          "zh": "孩子们长得太快了，转瞬之间，他们就要上大学了。"
+        }
+      ],
+      "audio": "audio/124.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "*Before you know it*, summer will be over, and it will be time for school again.",
+          "zh": "眨眼之间，夏天就会结束，又该上学了。"
+        }
+      ],
+      "audio": "audio/124.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "You should start preparing now because *before you know it*, the deadline will be here.",
+          "zh": "你现在就该开始准备了，因为转瞬之间，截止日期就会到来。"
+        }
+      ],
+      "audio": "audio/124.3.mp3"
+    }
+  ]
+}

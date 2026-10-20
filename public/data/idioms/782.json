@@ -1,0 +1,37 @@
+{
+  "n": 782,
+  "name": "Look before you leap",
+  "meaning": {
+    "zh": "“三思而后行”。\n\n这个短语源自古老的智慧，强调在做出重要决策或采取行动之前，要仔细考虑和评估潜在的风险和后果。最早的记录可以追溯到14世纪，由英国作家约翰·海伍德（John Heywood）在他的谚语和箴言集中提出。在现代，它被广泛用于提醒人们在采取行动之前要慎重权衡。",
+    "en": "This phrase originates from ancient wisdom, emphasizing the importance of carefully considering and evaluating potential risks and consequences before making important decisions or taking action. The earliest recorded use dates back to the 14th century, by the English writer John Heywood in his collection of proverbs and sayings. In contemporary use, it serves as a common reminder for people to deliberate thoroughly before acting."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "*Look before you leap* when investing in stocks.",
+          "zh": "在投资股票时一定要三思而后行。"
+        }
+      ],
+      "audio": "audio/782.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Before quitting your job, remember to *look before you leap*.",
+          "zh": "在辞职之前，记得三思而后行。"
+        }
+      ],
+      "audio": "audio/782.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "It's always wise to *look before you leap* in new relationships.",
+          "zh": "在新关系中，总是要三思而后行才是明智的。"
+        }
+      ],
+      "audio": "audio/782.3.mp3"
+    }
+  ]
+}

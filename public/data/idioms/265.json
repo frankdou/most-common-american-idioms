@@ -1,0 +1,37 @@
+{
+  "n": 265,
+  "name": "Come in handy",
+  "meaning": {
+    "zh": "“派上用场” 或 “有用”。\n\n这个短语起源于讲话者认为某个物品或人的技能在未来某一时刻会非常有用的场合。日常生活中，人们经常用它来表示某个物品或技能即将或将来会帮助解决某些问题或麻烦。",
+    "en": "This phrase originates from discussions where the speaker believes that an item or skill will be very useful at some point in the future. In everyday life, it's often used to indicate that something or someone's skill will help resolve some issues or problems eventually."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Keep this tool in your bag, it might *come in handy* one day.",
+          "zh": "把这个工具放在包里，它将来可能会派上用场。"
+        }
+      ],
+      "audio": "audio/265.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Her sewing skills really *came in handy* during the costume party.",
+          "zh": "她的缝纫技巧在化妆舞会上确实派上了用场。"
+        }
+      ],
+      "audio": "audio/265.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "This guide will *come in handy* for your trip to Japan.",
+          "zh": "这本指南会在你去日本时派上用场。"
+        }
+      ],
+      "audio": "audio/265.3.mp3"
+    }
+  ]
+}

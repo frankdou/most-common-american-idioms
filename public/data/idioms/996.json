@@ -1,0 +1,37 @@
+{
+  "n": 996,
+  "name": "Run errands",
+  "meaning": {
+    "zh": "“跑腿” 或 “办杂事”。\n\n这个短语起源于古英语中的 “erran”，意为 “游走，跑来跑去”。在现代英语中，\"run errands\" 表示为了处理各种小事情或任务而跑来跑去。常见的例子包括买菜、取包裹、送文件等。这在生活和工作中都非常普遍，特别是当需要处理多项小事务时。",
+    "en": "This phrase originates from Old English \"erran,\" which means \"to roam or wander.\" In modern usage, \"run errands\" refers to running around to handle various small tasks or assignments. Common examples include grocery shopping, picking up packages, or delivering documents. It's quite common in both daily life and work, especially when there are multiple small tasks to take care of."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I have to run errands this afternoon, including going to the bank and picking up groceries.",
+          "zh": "我今天下午得跑腿，包括去银行和买菜。"
+        }
+      ],
+      "audio": "audio/996.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Can you run some errands for me while I'm at work?",
+          "zh": "你能在我工作的时候帮我跑一些腿吗？"
+        }
+      ],
+      "audio": "audio/996.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She spends her weekends running errands and preparing for the coming week.",
+          "zh": "她周末都在跑腿，为接下来的一周做准备。"
+        }
+      ],
+      "audio": "audio/996.3.mp3"
+    }
+  ]
+}

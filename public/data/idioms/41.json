@@ -1,0 +1,37 @@
+{
+  "n": 41,
+  "name": "A snowball effect",
+  "meaning": {
+    "zh": "“滚雪球效应”。\n\n“滚雪球效应” 指的是某件事情像滚雪球一样越滚越大，影响范围越来越广。这个短语起源于雪在滚下山坡时越来越大的现象，最初是指堆叠的力量或影响会迅速扩大，现在也可以泛指任何形式的累积性增长或扩大。",
+    "en": "The \"snowball effect\" refers to something that starts small but grows larger and larger, with its impact increasing over time. This phrase originates from the natural phenomenon where a ball of snow rolling down a hillside gathers more snow and becomes bigger. Initially, it was used to describe the rapid expansion of force or impact, but now it can refer to any cumulative growth or expansion."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Once the rumor started, it created a *snowball effect* and spread quickly.",
+          "zh": "一旦谣言开始，就产生了滚雪球效应，很快传播开来。"
+        }
+      ],
+      "audio": "audio/041.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Her small investment had a *snowball effect*, eventually leading to big profits.",
+          "zh": "她的小投入产生了滚雪球效应，最终带来了巨大的利润。"
+        }
+      ],
+      "audio": "audio/041.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The project took off slowly, but then the *snowball effect* made it hugely successful.",
+          "zh": "项目起初进展缓慢，但随后滚雪球效应使它取得了巨大的成功。"
+        }
+      ],
+      "audio": "audio/041.3.mp3"
+    }
+  ]
+}

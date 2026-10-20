@@ -1,0 +1,37 @@
+{
+  "n": 605,
+  "name": "Hit me up",
+  "meaning": {
+    "zh": "“联系我” 或 “找我”。\n\n这个短语起源于美国俚语，通常用于表示通过电话、短信或社交媒体联系某人。它具有一种比较随意和日常的感觉，特别在年轻人中间经常使用。",
+    "en": "This phrase originates from American slang, commonly used to indicate contact by phone, text, or through social media. It carries a casual and everyday vibe, often used among younger people."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "If you need any help, *hit me up* anytime.",
+          "zh": "如果你需要任何帮助，随时联系我。"
+        }
+      ],
+      "audio": "audio/605.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I'm free this weekend, *hit me up* if you want to hang out.",
+          "zh": "这个周末我有空，如果你想一起出去玩，联系我。"
+        }
+      ],
+      "audio": "audio/605.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "*Hit me up* when you get to the party.",
+          "zh": "你到了派对的时候联系我。"
+        }
+      ],
+      "audio": "audio/605.3.mp3"
+    }
+  ]
+}

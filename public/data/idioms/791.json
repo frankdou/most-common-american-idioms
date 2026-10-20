@@ -1,0 +1,37 @@
+{
+  "n": 791,
+  "name": "Lost my head",
+  "meaning": {
+    "zh": "失去理智、发怒或慌乱。\n\n“Lost my head” 这个短语起源于人们在极端情绪下（如愤怒、恐惧或紧张）的行为方式，此时他们会表现得难以自控，好像 “失去了头脑” 一样。现代社会中，人们使用这个短语来描述在情绪激动或压力下失去冷静的情况。",
+    "en": "This phrase originates from the way people behave under extreme emotions like anger, fear, or anxiety, where they seem to lose control, as if they “lost their head.” In modern society, this idiom is used to describe situations where someone becomes overly emotional or upset under pressure."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I'm sorry I shouted at you. I just *lost my head* for a moment.",
+          "zh": "对不起，我刚才对你大喊大叫了。我只是一下子失去了理智。"
+        }
+      ],
+      "audio": "audio/791.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "When he saw the mess in the kitchen, he completely *lost his head*.",
+          "zh": "当他看到厨房里的乱象时，他完全失控了。"
+        }
+      ],
+      "audio": "audio/791.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She tends to *lose her head* under stress, so try to be patient with her.",
+          "zh": "她在压力下容易失去理智，所以请对她多点耐心。"
+        }
+      ],
+      "audio": "audio/791.3.mp3"
+    }
+  ]
+}

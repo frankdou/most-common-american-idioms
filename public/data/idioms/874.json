@@ -1,0 +1,37 @@
+{
+  "n": 874,
+  "name": "On the blink",
+  "meaning": {
+    "zh": "“出故障” 或 “运转不正常”。\n\n这个短语起源于 20 世纪早期，最初用于描述闪烁的灯光。当灯光开始闪烁或快速地一明一暗，这常常意味着灯泡即将坏掉。从此之后，\"on the blink\" 这个短语被用来描述任何即将坏掉或已经不再正常运行的设备或机器。",
+    "en": "This phrase originates from the early 20th century and was initially used to describe flickering lights. When lights start to blink or flicker, it often means the bulb is about to fail. Since then, the phrase \"on the blink\" has been used to describe any equipment or machinery that is about to break down or is no longer functioning properly."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "My old laptop is on the blink again.",
+          "zh": "我的旧笔记本电脑又出故障了。"
+        }
+      ],
+      "audio": "audio/874.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The TV went on the blink just before the big game.",
+          "zh": "就在大比赛开始前，电视突然坏了。"
+        }
+      ],
+      "audio": "audio/874.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Whenever the washing machine is on the blink, I have to do the laundry by hand.",
+          "zh": "每当洗衣机出故障时，我就得手洗衣服。"
+        }
+      ],
+      "audio": "audio/874.3.mp3"
+    }
+  ]
+}

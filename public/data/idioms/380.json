@@ -1,0 +1,37 @@
+{
+  "n": 380,
+  "name": "Every dog has his day",
+  "meaning": {
+    "zh": "“凡人皆有得意日” 或 “风水轮流转”。\n\n这个短语来源于15世纪的英国，意思是即便是最普通或不显眼的人也会有成功的一天。寓意每个人在某个特定时候都会有一个属于自己的机会或高光时刻。",
+    "en": "This phrase originates from 15th-century England, meaning that even the most ordinary or unnoticed person will have a day of success. It signifies that everyone will have an opportunity or moment of glory at some point."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Don't lose hope; after all, *every dog has his day*.",
+          "zh": "不要失望，毕竟凡人皆有得意日。"
+        }
+      ],
+      "audio": "audio/380.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He finally got his breakthrough. I guess *every dog has his day*.",
+          "zh": "他终于取得了突破。我想风水真的是轮流转。"
+        }
+      ],
+      "audio": "audio/380.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She might be struggling now, but *every dog has his day*.",
+          "zh": "她现在或许很挣扎，但总会有她的高光时刻。"
+        }
+      ],
+      "audio": "audio/380.3.mp3"
+    }
+  ]
+}

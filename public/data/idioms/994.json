@@ -1,0 +1,37 @@
+{
+  "n": 994,
+  "name": "Run amok",
+  "meaning": {
+    "zh": "“失控” 或 “狂乱”。\n\n这个短语源自马来语 “amok” 或 “amuck”，原本是指一种突然间暴力地失去控制的行为，这个词语后来被引入英语表示某种失去理智的狂暴行为。在现代社会中，“run amok” 常被用来描述人们或情况变得失控或混乱的状态。",
+    "en": "This phrase originates from the Malay term \"amok\" or \"amuck,\" which originally described a sudden and uncontrollable violent behavior. The term was later adopted into English to denote a state of being out of control in a violent or chaotic manner. In modern usage, \"run amok\" is often used to describe people or situations that become wildly uncontrollable or chaotic."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The kids ran *amok* during the birthday party.",
+          "zh": "孩子们在生日派对上失控了。"
+        }
+      ],
+      "audio": "audio/994.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "When the teacher left the room, the students ran *amok*.",
+          "zh": "当老师离开房间时，学生们开始发狂。"
+        }
+      ],
+      "audio": "audio/994.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Without supervision, the machine could *run amok* and cause damage.",
+          "zh": "如果无人监管，机器可能会失控并造成损害。"
+        }
+      ],
+      "audio": "audio/994.3.mp3"
+    }
+  ]
+}

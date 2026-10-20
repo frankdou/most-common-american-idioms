@@ -1,0 +1,37 @@
+{
+  "n": 624,
+  "name": "Hot-button issue",
+  "meaning": {
+    "zh": "“敏感问题” 或 “热议话题”。\n\n这个短语源自于早期机械设备上的 “热键”，即按下该键可快速激活某项功能。而在美国英语中，\"hot-button\" 后来也用来隐喻那些一触即发、引起广泛关注和争论的社会或政治话题。这样的议题通常能引起人们强烈的情感反应并激发广泛讨论。",
+    "en": "This phrase originates from early mechanical equipment where \"hot buttons\" were keys that could quickly activate certain functions. In American English, \"hot-button\" later became a metaphor for issues that are highly controversial and likely to trigger strong emotional responses and widespread discussions, particularly in social or political contexts."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Abortion has always been a *hot-button issue* in the United States.",
+          "zh": "堕胎问题一直是美国的敏感问题。"
+        }
+      ],
+      "audio": "audio/624.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Climate change is becoming a new *hot-button issue* globally.",
+          "zh": "气候变化正成为一个全球性的热议话题。"
+        }
+      ],
+      "audio": "audio/624.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Gun control is a *hot-button issue* that divides many Americans.",
+          "zh": "枪支管制是一个使许多美国人产生分歧的敏感问题。"
+        }
+      ],
+      "audio": "audio/624.3.mp3"
+    }
+  ]
+}

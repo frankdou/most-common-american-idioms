@@ -1,0 +1,37 @@
+{
+  "n": 126,
+  "name": "Behind the eight ball",
+  "meaning": {
+    "zh": "“处于困境” 或 “处于不利地位”。\n\n这个短语起源于台球游戏。在八球比赛中，如果你的球停在八号球的后面，你的下一杆击球将会变得非常困难，因为你无法直接击打目标球。这种情况隐喻了一个人在困境或不利位置时的处境。",
+    "en": "This phrase originates from the game of pool (billiards). In the game of eight-ball, if your ball is positioned behind the eight ball, your next shot becomes very tricky because you can't directly hit your target ball. This situation metaphorically represents being in a difficult or disadvantaged position."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He's really *behind the eight ball* at work since he missed the deadline.",
+          "zh": "他由于错过了截止日期，所以在工作上处于困境。"
+        }
+      ],
+      "audio": "audio/126.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "After the unexpected expenses, they found themselves *behind the eight ball* financially.",
+          "zh": "在意外开支之后，他们发现自己在经济上处于不利地位。"
+        }
+      ],
+      "audio": "audio/126.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "If you don't finish this project on time, you'll be *behind the eight ball*.",
+          "zh": "如果你不能按时完成这个项目，你会陷入困境。"
+        }
+      ],
+      "audio": "audio/126.3.mp3"
+    }
+  ]
+}

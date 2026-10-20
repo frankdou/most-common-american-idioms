@@ -1,0 +1,37 @@
+{
+  "n": 198,
+  "name": "Button one's lip",
+  "meaning": {
+    "zh": "“闭嘴” 或 “保持沉默”。\n\n这个短语起源于把嘴唇比作一个可以扣上的纽扣，以图像化的方式表示 “闭嘴” 或 “保持沉默”。通常用于劝诫某人不要继续讲话、泄露秘密或者发表不必要的评论。",
+    "en": "This phrase originates from the imagery of sealing one's lips as if buttoning up a piece of clothing. It is often used to advise someone to stop talking, to keep a secret or to refrain from making unnecessary comments."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "When discussing confidential matters, it's best to *button your lip*.",
+          "zh": "讨论机密事项时，最好闭嘴。"
+        }
+      ],
+      "audio": "audio/198.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He wanted to share his success story, but was told to *button his lip*.",
+          "zh": "他想分享自己的成功故事，但被告知闭嘴。"
+        }
+      ],
+      "audio": "audio/198.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "You should *button your lip* to avoid any misunderstandings.",
+          "zh": "你应该闭嘴以避免任何误会。"
+        }
+      ],
+      "audio": "audio/198.3.mp3"
+    }
+  ]
+}

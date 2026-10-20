@@ -1,0 +1,37 @@
+{
+  "n": 402,
+  "name": "Feeling blue",
+  "meaning": {
+    "zh": "“感到忧郁” 或 “感到沮丧”。\n\n这个短语的起源常与航海有关，船只如果在船主或高级船员去世后会悬挂蓝色旗帜，人们因此将 “蓝色” 与忧郁联系在一起。此外，蓝色通常与悲伤、忧虑的情感色彩相关联。在现代英语中，形容一个人 “蓝色” 意味着他感到情绪低落或者精神状态不佳。",
+    "en": "The origin of this phrase is often linked to maritime traditions; if a ship lost its captain or any senior officer while at sea, it would fly blue flags, thus associating \"blue\" with feelings of sadness. Additionally, the color blue is commonly related to emotions of sadness and melancholy. In modern English, describing someone as \"feeling blue\" means they feel down or are in a low mood."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "She's been *feeling blue* ever since her pet dog passed away.",
+          "zh": "自从她的小狗去世后，她一直很忧郁。"
+        }
+      ],
+      "audio": "audio/402.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Whenever I'm *feeling blue*, I listen to my favorite music.",
+          "zh": "每当我感到沮丧时，我会听自己最喜欢的音乐。"
+        }
+      ],
+      "audio": "audio/402.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He's been *feeling blue* since he lost his job.",
+          "zh": "自从他失业以来，他一直感到很沮丧。"
+        }
+      ],
+      "audio": "audio/402.3.mp3"
+    }
+  ]
+}

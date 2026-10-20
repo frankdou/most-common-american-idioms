@@ -1,0 +1,37 @@
+{
+  "n": 1062,
+  "name": "Something sucks",
+  "meaning": {
+    "zh": "“某事很糟糕” 或 “某事很差劲”。\n\n这个短语起源于20世纪的美国俚语，主要用于表达对某事的不满意或不快感。虽然其确切的起源尚不明确，但该短语开始于比较粗俗的语言表达。在日常生活中，人们习惯用 “sucks” 来形容令人失望或不好的事情。",
+    "en": "This phrase originated from American slang in the 20th century, primarily used to express dissatisfaction or unpleasantness about something. Though its exact origin is somewhat unclear, the phrase began as a more vulgar form of expression. In daily life, people often use \"sucks\" to describe disappointing or unsatisfactory situations."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "This rainy weather really *sucks*.",
+          "zh": "这鬼天气真糟糕。"
+        }
+      ],
+      "audio": "audio/1062.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Waiting in long lines at the DMV *sucks*.",
+          "zh": "在机动车管理局排长队真是糟透了。"
+        }
+      ],
+      "audio": "audio/1062.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "It *sucks* that we missed the concert.",
+          "zh": "我们错过了音乐会，真是太糟糕了。"
+        }
+      ],
+      "audio": "audio/1062.3.mp3"
+    }
+  ]
+}

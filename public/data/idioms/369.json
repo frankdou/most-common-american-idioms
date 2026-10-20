@@ -1,0 +1,37 @@
+{
+  "n": 369,
+  "name": "Easy come, easy go",
+  "meaning": {
+    "zh": "“来也匆匆，去也匆匆” 或 “得之容易，失之亦易”。\n\n这个短语的起源可以追溯到早期英语文化，传达出一个简单的观念，即容易得到的东西也容易失去。它常用于描述没有经过努力而获得的财富、机会或其他资源，这些东西往往不会长久留下来。",
+    "en": "This idiom originates from early English culture, conveying the simple idea that things obtained easily are lost easily. It is often used to describe wealth, opportunities, or other resources gained without much effort and therefore not likely to last."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He spent his lottery winnings in a month—*easy come, easy go*.",
+          "zh": "他一个月内花光了彩票奖金 —— 来也匆匆，去也匆匆。"
+        }
+      ],
+      "audio": "audio/369.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I lost that money I won at the casino; *easy come, easy go,* I guess.",
+          "zh": "我在赌场赢的钱也丢了，我想这就是得之容易，失之亦易吧。"
+        }
+      ],
+      "audio": "audio/369.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "They don't seem upset about losing their investment; *easy come, easy go*.",
+          "zh": "他们对投资失败似乎并不感到难过，只是认为来得容易，去得也快。"
+        }
+      ],
+      "audio": "audio/369.3.mp3"
+    }
+  ]
+}

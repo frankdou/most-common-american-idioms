@@ -1,0 +1,37 @@
+{
+  "n": 778,
+  "name": "Lock, stock, and barrel",
+  "meaning": {
+    "zh": "“一应俱全” 或 “不留余地、彻底地”。这个成语表示完全或彻底，包括所有部分，不留任何遗漏。\n\n这个短语起源于枪械，\"lock\" 指枪机，\"stock\" 指枪托，\"barrel\" 指枪管。这三部分共同构成了一支完整的枪支。这个表达方式后来被引申用来描述任何事物的全部或全部内容。",
+    "en": "This phrase originates from firearms, where \"lock\" refers to the firing mechanism, \"stock\" refers to the handle, and \"barrel\" refers to the tube that the bullet passes through. These three parts together make up a complete gun. The expression has come to mean the entirety of something."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "They sold the business *lock, stock, and barrel* to a new owner.",
+          "zh": "他们把生意一应俱全地卖给了新老板。"
+        }
+      ],
+      "audio": "audio/778.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "We had to move everything, *lock, stock, and barrel*, to the new office.",
+          "zh": "我们不得不把所有东西一应俱全地搬到新办公室。"
+        }
+      ],
+      "audio": "audio/778.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The company was taken over, *lock, stock, and barrel*, by a multinational corporation.",
+          "zh": "这家公司被一家跨国公司彻底收购了。"
+        }
+      ],
+      "audio": "audio/778.3.mp3"
+    }
+  ]
+}

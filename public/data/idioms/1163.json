@@ -1,0 +1,37 @@
+{
+  "n": 1163,
+  "name": "There are other fish in the sea",
+  "meaning": {
+    "zh": "“天涯何处无芳草” 或 “海里还有别的鱼”。\n\n这个短语起源于捕鱼的类比，表示在关系或机会中，即使失去了一个特定的人或机会，仍然有很多其他的选择。通常用于安慰那些在感情或其他重要关系中的失意者。",
+    "en": "This phrase originates from a fishing analogy, suggesting that in relationships or opportunities, even if one specific person or chance is lost, there are plenty of other options available. It is commonly used to comfort those who are heartbroken or have faced a setback in a significant relationship."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Don't be so upset over a breakup; *there are other fish in the sea*.",
+          "zh": "不要为分手太难过，天涯何处无芳草。"
+        }
+      ],
+      "audio": "audio/1163.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He wasn't right for you anyway. Trust me, *there are other fish in the sea*.",
+          "zh": "反正他不适合你。相信我，海里还有别的鱼。"
+        }
+      ],
+      "audio": "audio/1163.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "After losing that job opportunity, remember that *there are other fish in the sea*.",
+          "zh": "在失去那个工作机会后，记得海里还有别的鱼。"
+        }
+      ],
+      "audio": "audio/1163.3.mp3"
+    }
+  ]
+}

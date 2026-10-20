@@ -1,0 +1,37 @@
+{
+  "n": 1096,
+  "name": "Take a rain check",
+  "meaning": {
+    "zh": "“改天再约” 或 “下次再说”。\n\n这个短语起源于19世纪的美国棒球比赛。当比赛因雨被取消时，观众会收到一张票，允许他们在以后的比赛中使用。这张票被称为 \"rain check\"（雨票）。现在，这个表达被用来礼貌地拒绝某个提议，并表示会在将来的某一天再考虑。",
+    "en": "This phrase originated in the 19th century in American baseball games. When a game was rained out, spectators would receive a ticket allowing them to attend a future game. This ticket was called a \"rain check.\" Nowadays, the expression is used to politely decline an offer while indicating the intention to consider it at a future time."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I'm really busy tonight, but can I *take a rain check* on dinner?",
+          "zh": "我今晚真的很忙，但晚餐可以改天再约吗？"
+        }
+      ],
+      "audio": "audio/1096.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She had to *take a rain check* on our meeting because she wasn't feeling well.",
+          "zh": "她因为身体不适，不得不改天再约我们的会议。"
+        }
+      ],
+      "audio": "audio/1096.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Thanks for inviting me, but I'll have to *take a rain check* this time.",
+          "zh": "谢谢你的邀请，但这次我不得不改天再说。"
+        }
+      ],
+      "audio": "audio/1096.3.mp3"
+    }
+  ]
+}

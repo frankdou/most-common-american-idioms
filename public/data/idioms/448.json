@@ -1,0 +1,37 @@
+{
+  "n": 448,
+  "name": "From time to time",
+  "meaning": {
+    "zh": "“时不时” 或 “偶尔”。\n\n这个短语起源于古英语，在现代英语中依然保留，用以描述某件事情不是经常发生，通常为不规则或者偶然的频率。",
+    "en": "This phrase originated from Old English and has been retained in modern English. It is used to describe something that happens irregularly or occasionally, rather than frequently."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "We like to go hiking *from time to time*.",
+          "zh": "我们喜欢时不时去徒步。"
+        }
+      ],
+      "audio": "audio/448.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "*From time to time*, I think about moving to a new city.",
+          "zh": "我时不时会想搬到一个新城市。"
+        }
+      ],
+      "audio": "audio/448.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "You should take breaks *from time to time* while working.",
+          "zh": "工作时你应该时不时休息一下。"
+        }
+      ],
+      "audio": "audio/448.3.mp3"
+    }
+  ]
+}

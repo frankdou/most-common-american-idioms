@@ -1,0 +1,37 @@
+{
+  "n": 2,
+  "name": "A bad apple",
+  "meaning": {
+    "zh": "“害群之马” 或 “一个有害的个体”。\n\n这个短语的起源可以追溯到一条古老的谚语 “一个烂苹果会把整篮苹果都弄坏”（One bad apple spoils the whole barrel）。这表明，一个负面或有害的个体可能会影响周围的人或整个群体。因此，在现代用法中，“a bad apple” 仍然用于指一个对群体有负面影响的人或事物。",
+    "en": "This phrase originates from the old saying “one bad apple spoils the whole barrel,” illustrating that a negative or harmful individual can affect the entirety of their surroundings or group. In modern usage, \"a bad apple\" continues to signify someone or something that negatively impacts a group."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "It only takes *a bad apple* to ruin the entire team dynamic.",
+          "zh": "只需一个害群之马就能破坏整个团队的氛围。"
+        }
+      ],
+      "audio": "audio/002.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "They had to fire him because he was *a bad apple* disrupting the workplace harmony.",
+          "zh": "他们不得不开除他，因为他是一个破坏职场和谐的害群之马。"
+        }
+      ],
+      "audio": "audio/002.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Be careful who you trust in this business, *a bad apple* can cause a lot of damage.",
+          "zh": "在这个行业里，要小心信任谁，一个害群之马会造成很大的损害。"
+        }
+      ],
+      "audio": "audio/002.3.mp3"
+    }
+  ]
+}

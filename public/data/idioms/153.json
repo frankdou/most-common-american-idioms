@@ -1,0 +1,37 @@
+{
+  "n": 153,
+  "name": "Black tie event",
+  "meaning": {
+    "zh": "\"黑领结活动\" 或 \"正式晚宴\"，指的是要求着正式礼服参加的晚会或宴会。\n\n这个短语源自晚宴和正式活动的着装规范，需要男士穿着黑色领结和燕尾服，女士穿着晚礼服。在正式场合中，这类活动通常具有一定的严谨和典雅氛围，因此也代表着一种尊重和重视。",
+    "en": "This phrase originates from the dress code for evening and formal events, requiring men to wear black bow ties and tuxedos, and women to wear evening gowns. These events generally carry a sense of formality and elegance, indicating respect and importance."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "We were invited to a *black tie event* at the embassy.",
+          "zh": "我们受邀参加大使馆的黑领结活动。"
+        }
+      ],
+      "audio": "audio/153.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The charity gala is a *black tie event*, so don’t forget your tuxedo.",
+          "zh": "慈善晚会是正式晚宴，所以别忘了穿你的燕尾服。"
+        }
+      ],
+      "audio": "audio/153.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She looked stunning at the *black tie event* in her evening gown.",
+          "zh": "她在正式晚宴上穿着晚礼服，显得很惊艳。"
+        }
+      ],
+      "audio": "audio/153.3.mp3"
+    }
+  ]
+}

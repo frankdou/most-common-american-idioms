@@ -1,0 +1,37 @@
+{
+  "n": 337,
+  "name": "Don't hold your breath",
+  "meaning": {
+    "zh": "“不要屏住呼吸” 或 “不要期待。”\n\n这个短语起源于人们屏住呼吸等待某件事情的焦虑感，其暗示某件事不太可能很快或根本不会发生。在现代语境中，它常用于告诫别人不要对某个结果抱有太高期望，或是某件事短时间内不会发生。",
+    "en": "This phrase originates from the anxious feeling of holding one's breath while waiting for something to happen, suggesting that something is unlikely to happen soon or at all. In modern usage, it is often used to advise someone not to get their hopes up or to imply that something won't occur in the near future."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "If you're waiting for him to apologize, *don't hold your breath*.",
+          "zh": "如果你在等他道歉，那就不要抱太大希望了。"
+        }
+      ],
+      "audio": "audio/337.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "They said they'll finish the project by tomorrow, but *don't hold your breath*.",
+          "zh": "他们说明天会完成项目，但不要指望它。"
+        }
+      ],
+      "audio": "audio/337.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "You think the weather will improve? *Don't hold your breath*.",
+          "zh": "你认为天气会好转？别抱太大期望。"
+        }
+      ],
+      "audio": "audio/337.3.mp3"
+    }
+  ]
+}

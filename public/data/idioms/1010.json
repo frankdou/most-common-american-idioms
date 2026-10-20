@@ -1,0 +1,37 @@
+{
+  "n": 1010,
+  "name": "Say uncle",
+  "meaning": {
+    "zh": "“认输” 或 “投降”。\n\n这个短语的起源并不十分明确，但有一种常见的理论认为，它源自儿童之间的游戏或打闹，当一方被另一方制服时，被迫说 “叔叔”（uncle）来请求对方停止。这个表达方式后来被用在任何逼迫或让步的情况下，意指承认失败或屈服。",
+    "en": "This phrase's exact origin is unclear, but a common theory is that it comes from children's games or roughhousing, where one child would force another to say \"uncle\" as a way of asking for mercy. This expression then came to be used in any situation involving yielding or giving up, meaning to admit defeat or surrender."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "After ten minutes of arm wrestling, he finally *said uncle*.",
+          "zh": "在扳手腕战斗了十分钟后，他终于认输了。"
+        }
+      ],
+      "audio": "audio/1010.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "No matter how tough it gets, I won't *say uncle*.",
+          "zh": "无论情况多么艰难，我都不会认输。"
+        }
+      ],
+      "audio": "audio/1010.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The bully kept pushing him until he had to *say uncle*.",
+          "zh": "那个恶霸一直逼迫他，直到他不得不认输。"
+        }
+      ],
+      "audio": "audio/1010.3.mp3"
+    }
+  ]
+}

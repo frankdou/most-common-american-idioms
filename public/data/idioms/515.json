@@ -1,0 +1,37 @@
+{
+  "n": 515,
+  "name": "Go down in flames",
+  "meaning": {
+    "zh": "“彻底失败” 或 “彻底崩溃”。\n\n这个短语的起源可以追溯到航空术语，当飞机被击中或机械故障导致坠毁时，通常会燃烧并坠于地面。在现代使用中，这个短语用来比喻一个计划、项目或任务以极不成功的方式结束。",
+    "en": "This phrase originates from aviation terminology, where a plane that gets hit or suffers mechanical failure may burn and crash to the ground. In modern usage, this phrase metaphorically describes a plan, project, or task that ends in a spectacularly unsuccessful manner."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The business idea went *down in flames* after investors pulled out.",
+          "zh": "投资者退出后，这个商业计划彻底失败了。"
+        }
+      ],
+      "audio": "audio/515.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Their attempt to negotiate a lower price *went down in flames*.",
+          "zh": "他们试图谈判降低价格的努力彻底崩溃了。"
+        }
+      ],
+      "audio": "audio/515.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The project *went down in flames* due to poor planning and execution.",
+          "zh": "由于糟糕的计划和执行，这个项目彻底失败了。"
+        }
+      ],
+      "audio": "audio/515.3.mp3"
+    }
+  ]
+}

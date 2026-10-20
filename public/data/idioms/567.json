@@ -1,0 +1,37 @@
+{
+  "n": 567,
+  "name": "Half a mind to do something",
+  "meaning": {
+    "zh": "“有点想做某事”。\n\n这个短语起源于19世纪，用来表达某个人对做某件事情有不全坚定的意愿，即并不是很有把握或是完全确定要去做，而只是有这个想法。这个表达多用于表达一种犹豫不决的态度。",
+    "en": "This idiom originates from the 19th century and is used to express that someone has an inclination or a mild desire to do something, but is not fully committed or sure about it. It often conveys a sense of hesitation or uncertainty."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I have *half a mind to* quit my job and travel the world.",
+          "zh": "我有点想辞掉工作去环游世界。"
+        }
+      ],
+      "audio": "audio/567.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She has *half a mind to* tell her boss off, but she won't.",
+          "zh": "她有点想训斥她的老板，但她不会这么做。"
+        }
+      ],
+      "audio": "audio/567.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He has *half a mind to* buy that car, but he's still thinking about it.",
+          "zh": "他有点想买那辆车，但他还在考虑。"
+        }
+      ],
+      "audio": "audio/567.3.mp3"
+    }
+  ]
+}

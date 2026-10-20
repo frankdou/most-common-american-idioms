@@ -1,0 +1,37 @@
+{
+  "n": 400,
+  "name": "Feel the pinch",
+  "meaning": {
+    "zh": "“感觉到手头紧” 或 “感受到经济压力”。\n\n这个短语起源于 18 世纪，意指因经济紧张或财务困难而受到压力。它可以描述个人、家庭或企业在预算有限或收入减少时感受到的紧张和不便。现代社会中，这个表达到处可见，用以形容任何感受到财务压力的情况。",
+    "en": "This phrase originates from the 18th century and means feeling pressure due to financial difficulties or economic constraints. It can describe individuals, families, or businesses that experience stress or inconvenience when budgets are tight or incomes decrease. In modern society, this expression is widely used to refer to any situation where financial pressure is felt."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Since losing his job, he's really starting to *feel the pinch*.",
+          "zh": "自从失业后，他真正开始感受到手头紧了。"
+        }
+      ],
+      "audio": "audio/400.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "With the rising cost of living, many families are beginning to *feel the pinch*.",
+          "zh": "随着生活成本的提高，许多家庭开始感受到经济压力。"
+        }
+      ],
+      "audio": "audio/400.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Small businesses often *feel the pinch* during economic downturns.",
+          "zh": "小型企业通常在经济低迷期间感受到经济上的压力。"
+        }
+      ],
+      "audio": "audio/400.3.mp3"
+    }
+  ]
+}

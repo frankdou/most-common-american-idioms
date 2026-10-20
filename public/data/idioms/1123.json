@@ -1,0 +1,37 @@
+{
+  "n": 1123,
+  "name": "That ship has sailed",
+  "meaning": {
+    "zh": "“船已经开了” 或 “机不可失时不再来”。\n\n这个短语源自于航海的时代，当一艘船离港后，错过这艘船的人只能等待下一艘。现代社会中，这个表达被用来形容一个机会已经错过，不再可能实现。",
+    "en": "This idiom comes from the age of sailing, where once a ship left the port, those who missed it had to wait for the next one. In modern usage, it describes a situation where an opportunity has been missed and is no longer possible."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He wanted to ask her out, but now she’s dating someone else. *That ship has sailed*.",
+          "zh": "他曾想约她出去，但她现在已经在和别人约会了。机不可失时不再来。"
+        }
+      ],
+      "audio": "audio/1123.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "We were considering buying that house last month, but now *that ship has sailed*.",
+          "zh": "我们上个月考虑买那栋房子，但现在机会已经没了。"
+        }
+      ],
+      "audio": "audio/1123.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Could we reschedule the meeting? Sorry, *that ship has sailed*.",
+          "zh": "我们能重新安排会议吗？抱歉，已经来不及了。"
+        }
+      ],
+      "audio": "audio/1123.3.mp3"
+    }
+  ]
+}

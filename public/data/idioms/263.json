@@ -1,0 +1,37 @@
+{
+  "n": 263,
+  "name": "Come down with a cold",
+  "meaning": {
+    "zh": "“染上感冒” 或 “得了感冒”。\n\n这个短语的字面意思是 “染上” 或 “患上” 某种疾病，“come down with” 特指生病，尤其是指轻微疾病。这个 idiom 最常用于表示某人开始有感冒或类似的小病症状。",
+    "en": "This phrase literally means \"coming down\" or getting a particular illness. \"Come down with\" is especially used to refer to non-serious illnesses, and it is most commonly used to convey that someone has begun to show symptoms of a cold or a similar minor ailment."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "She missed the meeting because she *came down with a cold*.",
+          "zh": "她没来开会，因为她得了感冒。"
+        }
+      ],
+      "audio": "audio/263.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I think I’m *coming down with a cold*; my throat is sore.",
+          "zh": "我觉得自己要感冒了；我的喉咙很疼。"
+        }
+      ],
+      "audio": "audio/263.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Everyone in the office seems to have *come down with a cold* this week.",
+          "zh": "办公室里每个人这周似乎都感冒了。"
+        }
+      ],
+      "audio": "audio/263.3.mp3"
+    }
+  ]
+}

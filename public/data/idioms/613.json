@@ -1,0 +1,37 @@
+{
+  "n": 613,
+  "name": "Hit the road",
+  "meaning": {
+    "zh": "“上路” 或 “出发”。\n\n这个短语起源于美国早期的汽车文化，当时人们经常会用 “hit the road” 来表示启程或开始旅途。在现代英语中，这个短语泛指任何形式的出发或开始行动。",
+    "en": "This phrase originates from early American car culture, where people often used \"hit the road\" to indicate starting a journey or trip. In modern English, it broadly refers to any form of departure or commencing action."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "We should hit the road early to avoid traffic.",
+          "zh": "我们应该早些上路以避免交通堵塞。"
+        }
+      ],
+      "audio": "audio/613.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "After saying goodbye, he hit the road and didn't look back.",
+          "zh": "道别之后，他就上路了，没再回头看。"
+        }
+      ],
+      "audio": "audio/613.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "It's getting late, we should hit the road now.",
+          "zh": "天色晚了，我们该上路了。"
+        }
+      ],
+      "audio": "audio/613.3.mp3"
+    }
+  ]
+}

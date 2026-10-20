@@ -1,0 +1,37 @@
+{
+  "n": 555,
+  "name": "Grease monkey",
+  "meaning": {
+    "zh": "“维修技工” 或 “修车工”。\n\n这个短语起源于那些在机械维修车间工作的工人，他们通常会接触到大量的润滑油和油脂，因此 “grease” (油脂) 和 “monkey” (猴子) 的组合用来形容这些人。尽管这个词有些俚语化，但它经常用于表示那些擅长修理机械的人，特别是汽车维修工。",
+    "en": "This phrase originates from the workers in mechanical repair shops, who often come into contact with a lot of lubricants and grease. The combination of \"grease\" and \"monkey\" is used to describe these workers. Though somewhat slangy, it frequently refers to people who are skilled in fixing machinery, particularly car mechanics."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "My brother is a *grease monkey* at the local garage.",
+          "zh": "我哥哥是本地车库的修车工。"
+        }
+      ],
+      "audio": "audio/555.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The *grease monkey* fixed my car in no time.",
+          "zh": "那个修车工很快就把我的车修好了。"
+        }
+      ],
+      "audio": "audio/555.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He's been working as a *grease monkey* since he finished high school.",
+          "zh": "他自从高中毕业后就一直在当修车工。"
+        }
+      ],
+      "audio": "audio/555.3.mp3"
+    }
+  ]
+}

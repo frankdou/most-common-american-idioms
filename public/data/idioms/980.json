@@ -1,0 +1,37 @@
+{
+  "n": 980,
+  "name": "Red flag",
+  "meaning": {
+    "zh": "“红旗” 或 “危险信号”。\n\n“Red flag” 的短语起源于游乐场或竞技场中用红旗表示危险或警告的做法。现在，这个短语广泛应用于任何需要警惕和注意的情况，用来指出潜在的问题或警告某事可能会有害或有危险。",
+    "en": "This phrase originates from the use of red flags in places like amusement parks or sporting arenas to signal danger or warning. Nowadays, the phrase is widely used in any context that requires vigilance and caution, indicating a potential problem or a warning that something might be wrong or harmful."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "His sudden change in behavior was a major *red flag*.",
+          "zh": "他行为突然改变是一个重要的危险信号。"
+        }
+      ],
+      "audio": "audio/980.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Poor financial records can be a significant *red flag* for investors.",
+          "zh": "不良的财务记录对投资者来说是一个显著的危险信号。"
+        }
+      ],
+      "audio": "audio/980.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "If the job interview feels off, consider it a *red flag*.",
+          "zh": "如果面试感觉不对劲，视为一个危险信号。"
+        }
+      ],
+      "audio": "audio/980.3.mp3"
+    }
+  ]
+}

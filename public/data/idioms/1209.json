@@ -1,0 +1,37 @@
+{
+  "n": 1209,
+  "name": "To drop by",
+  "meaning": {
+    "zh": "“顺道拜访” 或 “顺便造访”。\n\n这个短语表示不提前计划地或漫不经心地拜访某个地方。这通常用于非正式的场合，是指不正式、短暂地访问某人或某地。在现代社会，这个短语多用于朋友之间的随意造访。",
+    "en": "This phrase means to visit somewhere or someone casually or without planning in advance. It is typically used in informal settings, indicating an impromptu or brief visit to a person or place. In modern society, it is often used to describe the act of visiting friends or acquaintances casually."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I might *drop by* your place after work if you're home.",
+          "zh": "如果你在家，我下班后可能会顺道拜访你。"
+        }
+      ],
+      "audio": "audio/1209.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She decided to *drop by* the bakery on her way home.",
+          "zh": "她决定在回家的路上顺便去一下面包店。"
+        }
+      ],
+      "audio": "audio/1209.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Feel free to *drop by* any time you want!",
+          "zh": "随时欢迎你过来串门！"
+        }
+      ],
+      "audio": "audio/1209.3.mp3"
+    }
+  ]
+}

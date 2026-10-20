@@ -1,0 +1,37 @@
+{
+  "n": 1228,
+  "name": "To live hand-to-mouth",
+  "meaning": {
+    "zh": "“勉强糊口” 或 “靠天吃饭”。\n\n这个短语源于人们过去实际生活的艰难状况，意为将手中的食物直接送到嘴里，象征着每次仅能满足当前的需求，无法储备。它形象地描绘了缺乏稳定收入和储蓄的状态，即人们只能依靠每日的收入来维持最基本的生活。",
+    "en": "This phrase originates from the literal act of bringing food from the hand directly to the mouth, symbolizing a state where one only meets their immediate needs without being able to save or plan for the future. It vividly depicts a condition of living without stable income or savings, relying on daily earnings for basic sustenance."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Many people in developing countries still *live hand-to-mouth*.",
+          "zh": "许多发展中国家的人们仍然在勉强糊口。"
+        }
+      ],
+      "audio": "audio/1228.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "After losing his job, he had to *live hand-to-mouth*.",
+          "zh": "失去工作后，他不得不靠天吃饭。"
+        }
+      ],
+      "audio": "audio/1228.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "They've been *living hand-to-mouth* since their savings ran out.",
+          "zh": "自从积蓄耗尽后，他们一直在勉强糊口。"
+        }
+      ],
+      "audio": "audio/1228.3.mp3"
+    }
+  ]
+}

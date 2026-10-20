@@ -1,0 +1,37 @@
+{
+  "n": 756,
+  "name": "Let sleeping dogs lie",
+  "meaning": {
+    "zh": "“不要惹事生非” 或 “不要打扰沉睡的狗”。\n\n这个短语源自中世纪欧洲，当时的狗经常被用作看守和保护。因此，打扰一只沉睡的狗可能会导致它发动攻击或吠叫，从而引发不必要的麻烦。在现代英语中，这个短语用来表示避免触及已经平息的问题或不必要地挑起争端。",
+    "en": "This phrase originates from medieval Europe when dogs were often used for guarding and protection. Disturbing a sleeping dog could lead to it attacking or barking, thereby causing unnecessary trouble. In contemporary English, this idiom is used to advise avoiding stirring up settled issues or provoking disputes without need."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Let's not bring up that old argument again; it’s better to just *let sleeping dogs lie*.",
+          "zh": "不要再提那次旧争论了，最好不要惹事生非。"
+        }
+      ],
+      "audio": "audio/756.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I thought about asking him about his ex, but I decided to *let sleeping dogs lie*.",
+          "zh": "我本来想问他关于他前任的事，但最后决定还是不要打扰沉睡的狗。"
+        }
+      ],
+      "audio": "audio/756.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Sometimes it’s wiser to *let sleeping dogs lie* rather than risk causing unnecessary problems.",
+          "zh": "有时候宁可不要惹事生非，以免引起不必要的问题。"
+        }
+      ],
+      "audio": "audio/756.3.mp3"
+    }
+  ]
+}

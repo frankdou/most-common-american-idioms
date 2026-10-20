@@ -1,0 +1,37 @@
+{
+  "n": 35,
+  "name": "A ray of sunshine",
+  "meaning": {
+    "zh": "“一缕阳光” 或 “带来希望的人或事物”。\n\n这个短语常用于形容某个人或某件事物，在困境或者苦难中带来了希望、欢乐或温暖，就像在阴霾的日子里，阳光穿透云层带来希望的光芒一样。",
+    "en": "This phrase is often used to describe a person or thing that brings hope, joy, or warmth in times of trouble or difficulty, much like the sun's rays breaking through clouds on a gloomy day to bring light and hope."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Her smile is like a *ray of sunshine* on a cloudy day.",
+          "zh": "她的微笑像阴天里的一缕阳光。"
+        }
+      ],
+      "audio": "audio/035.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "During my toughest times, his support was a *ray of sunshine* for me.",
+          "zh": "在我最艰难的时刻，他的支持就是我的一缕阳光。"
+        }
+      ],
+      "audio": "audio/035.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The news of her recovery was a *ray of sunshine* for the whole family.",
+          "zh": "她康复的消息对整个家庭来说是一缕阳光。"
+        }
+      ],
+      "audio": "audio/035.3.mp3"
+    }
+  ]
+}

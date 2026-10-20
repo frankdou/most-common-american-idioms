@@ -1,0 +1,37 @@
+{
+  "n": 231,
+  "name": "Caught with your hand in the cookie jar",
+  "meaning": {
+    "zh": "“被抓现行” 或 “当场抓住”。\n\n这个短语起源于一种常见的情景：一个孩子偷偷摸摸地从饼干罐里拿饼干，却被大人抓个正着。因此，这个表达用来形容一个人在做不该做的事时被当场抓住。例如，偷盗、撒谎或其他不正当行为。",
+    "en": "This phrase originates from a common scenario where a child sneaks cookies from a jar and gets caught in the act by an adult. Consequently, it is used to describe someone being caught red-handed while doing something they shouldn't be doing, such as stealing, lying, or other improper actions."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He was *caught with his hand in the cookie jar* when he tried to steal office supplies.",
+          "zh": "他试图偷办公室用品时，被当场抓住。"
+        }
+      ],
+      "audio": "audio/231.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She was *caught with her hand in the cookie jar* while taking money from the cash register.",
+          "zh": "她从收银机里拿钱时，被当场抓住。"
+        }
+      ],
+      "audio": "audio/231.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The politician was *caught with his hand in the cookie jar* during the bribery investigation.",
+          "zh": "这位政客在贿赂调查中被当场抓住。"
+        }
+      ],
+      "audio": "audio/231.3.mp3"
+    }
+  ]
+}

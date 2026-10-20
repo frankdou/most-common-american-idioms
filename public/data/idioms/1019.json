@@ -1,0 +1,37 @@
+{
+  "n": 1019,
+  "name": "Second-rate (or third- or fourth-rate)",
+  "meaning": {
+    "zh": "“二流的”（或者 “三流的” 或 “四流的”），意指某物或某人不够优质或处于下层次的水平。\n\n这个短语源自于物品或艺术作品的分类习惯，其中 “第一流” 是最高等级，接下来是 “第二流”。当一个物品或人被称为 “第二流” 或更低级别时，通常意味着他们的质量或者能力未能达到最佳水平。这类短语用于表达对商品、服务或某个领域内个体能力的评价。",
+    "en": "This idiom originates from the grading system for objects or works of art, where \"first-rate\" is the highest level, followed by \"second-rate\". When something or someone is referred to as \"second-rate\" or a lower rank, it generally means their quality or capability is not top-notch. Such phrases are used to describe the evaluation of goods, services, or individual competence in a specific field."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The movie was *second-rate* and barely kept my attention.",
+          "zh": "这部电影真是二流，几乎没有吸引我的注意力。"
+        }
+      ],
+      "audio": "audio/1019.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "They hired a *third-rate* contractor who did a poor job.",
+          "zh": "他们雇了一个三流的承包商，结果工作做得很差。"
+        }
+      ],
+      "audio": "audio/1019.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "His *fourth-rate* performance at the concert was disappointing.",
+          "zh": "他在音乐会上的四流表演真让人失望。"
+        }
+      ],
+      "audio": "audio/1019.3.mp3"
+    }
+  ]
+}

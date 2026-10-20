@@ -1,0 +1,37 @@
+{
+  "n": 1295,
+  "name": "Water under the bridge",
+  "meaning": {
+    "zh": "“过眼云烟” 或 “既往不咎”。\n\n这个短语的起源与河水有关，表示已经流过桥下的水不会再回来，暗喻过去的事情已经发生，无需再为之烦恼或忧虑。在日常生活中，这个短语常用于表示放下过去的争执或矛盾，不再计较。",
+    "en": "This idiom originates with the imagery of water flowing under a bridge, signifying that the water (or past events) has passed and will not return. In everyday usage, this phrase indicates letting go of past disputes or issues, choosing not to worry about them anymore."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "We had our differences in the past, but it's all *water under the bridge* now.",
+          "zh": "我们过去有些分歧，但现在这些都已经是过眼云烟了。"
+        }
+      ],
+      "audio": "audio/1295.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Let’s forget about our old arguments; it’s *water under the bridge*.",
+          "zh": "让我们忘记以前的争吵吧，这都是既往不咎了。"
+        }
+      ],
+      "audio": "audio/1295.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "They decided to move forward and consider past mistakes as *water under the bridge*.",
+          "zh": "他们决定向前看，把过去的错误看作既往不咎。"
+        }
+      ],
+      "audio": "audio/1295.3.mp3"
+    }
+  ]
+}

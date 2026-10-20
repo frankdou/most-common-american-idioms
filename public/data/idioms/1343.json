@@ -1,0 +1,37 @@
+{
+  "n": 1343,
+  "name": "You can't have your cake and eat it too",
+  "meaning": {
+    "zh": "鱼与熊掌不可得兼。\n\n这个成语的意思是，有些事情由于它们本质上的冲突，无法同时拥有，必须做出选择。这个短语可以追溯到1546年的谚语，用于说明做选择时的两难境地，意在告诉人们无法对立的两件事物同时兼得。",
+    "en": "This idiom means that some things are inherently conflicting and cannot be possessed simultaneously; one must make a choice. The phrase dates back to a proverb in 1546, depicting the dilemma of making choices, implying that it's impossible to have two opposing things at the same time."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "You can't invest all your money and still have it saved; *you can't have your cake and eat it too*.",
+          "zh": "你不能既把钱全部投资，又保持存款；鱼与熊掌不可得兼。"
+        }
+      ],
+      "audio": "audio/1343.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He wants the promotion without working hard. Well, *you can't have your cake and eat it too*.",
+          "zh": "他想要升职却不愿意努力工作。嗯，鱼与熊掌不可得兼。"
+        }
+      ],
+      "audio": "audio/1343.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Marrying someone rich but not loving them? Sometimes, *you can't have your cake and eat it too*.",
+          "zh": "嫁给一个不爱的有钱人？有时候，鱼与熊掌不可得兼。"
+        }
+      ],
+      "audio": "audio/1343.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 1249,
+  "name": "Too big for one's boots",
+  "meaning": {
+    "zh": "“自负” 或 “目中无人”。\n\n这个短语起源于英国，原意是指鞋子（靴子）对于鞋主来说过于宽大，延伸含义则是指一个人对自己的能力或重要性有过高的评价，变得自大或目中无人。在现代用法中，它常用于形容某人因为自负而变得难以相处。",
+    "en": "This phrase originates from Britain and originally referred to boots being too large for their wearer. The expanded meaning is that someone has an overly high opinion of their abilities or importance, becoming arrogant or conceited. In modern usage, it’s often used to describe someone who has become difficult to deal with due to their arrogance."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Ever since his promotion, John has become too big for his boots.",
+          "zh": "自从升职以来，约翰就变得有些自负了。"
+        }
+      ],
+      "audio": "audio/1249.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Don't get too big for your boots just because you won one game.",
+          "zh": "不要因为赢了一场比赛就变得自负。"
+        }
+      ],
+      "audio": "audio/1249.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She became too big for her boots after receiving all those compliments.",
+          "zh": "受到那么多的称赞后，她变得有些目中无人。"
+        }
+      ],
+      "audio": "audio/1249.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 144,
+  "name": "Bird's-eye view",
+  "meaning": {
+    "zh": "“鸟瞰图” 或 “总体视图”。\n\n这个短语源自鸟类在高空俯视地面时获得的视角，可以看到一个地方的全景或大范围。应用于各种情景下，“bird's-eye view” 意味着对一个事物或情况有一个整体的大局观，而不是细节的关注。",
+    "en": "This phrase originates from the perspective that birds have when flying high above the ground, allowing them to see a broad and comprehensive view of an area. Applied in various contexts, a \"bird's-eye view\" means having an overall perspective on something rather than focusing on the details."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The CEO gave us a *bird's-eye view* of the company's future plans.",
+          "zh": "首席执行官向我们展示了公司未来计划的总体视图。"
+        }
+      ],
+      "audio": "audio/144.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "From the top of the mountain, we had a *bird's-eye view* of the entire valley.",
+          "zh": "从山顶上，我们能鸟瞰整个山谷。"
+        }
+      ],
+      "audio": "audio/144.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The map provides a *bird's-eye view* of the park's layout.",
+          "zh": "这幅地图提供了公园布局的鸟瞰图。"
+        }
+      ],
+      "audio": "audio/144.3.mp3"
+    }
+  ]
+}

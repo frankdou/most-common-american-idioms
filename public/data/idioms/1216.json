@@ -1,0 +1,37 @@
+{
+  "n": 1216,
+  "name": "To give in",
+  "meaning": {
+    "zh": "“妥协” 或 “让步”。\n\n这个短语起源于古英语” giefan in”，意思是把某物交给某人，逐渐演变为今天的” 妥协 “或” 让步 “的意思。通常用于描述在争论、谈判或者冲突中，一方放弃坚持自己的立场或要求，以达到妥协或解决问题的目的。",
+    "en": "This phrase originates from Old English \"giefan in,\" meaning to hand something over to someone. Over time, it evolved into its modern meaning of “compromising” or “yielding.” It is typically used to describe a situation where, in an argument, negotiation, or conflict, one party gives up their stance or demand to reach a compromise or resolution."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "After hours of debate, John finally decided to *give in*.",
+          "zh": "经过几个小时的争论，约翰终于决定妥协。"
+        }
+      ],
+      "audio": "audio/1216.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She didn't want to *give in* to their demands, but she had no choice.",
+          "zh": "她不想对他们的要求妥协，但她别无选择。"
+        }
+      ],
+      "audio": "audio/1216.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Despite the pressure, he refused to *give in*.",
+          "zh": "尽管有压力，他还是拒绝了妥协。"
+        }
+      ],
+      "audio": "audio/1216.3.mp3"
+    }
+  ]
+}

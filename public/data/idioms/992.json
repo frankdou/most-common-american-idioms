@@ -1,0 +1,37 @@
+{
+  "n": 992,
+  "name": "Ruffle feathers",
+  "meaning": {
+    "zh": "\"惹恼，激怒某人。\" 从字面上翻译就是 \"弄乱羽毛\"，意指在某种情形下冒犯或激怒他人，像是拨弄了舒展的羽毛使其感到不适。\n\n这个短语最早用来描述扭曲和弄乱鸟类羽毛的行为，后来引申为指惹人不快或使人愤怒的行为和举动。类似于打破平静的场景，它通常用来形容某种引起不愉快和冲突的言行举止。",
+    "en": "This phrase originally described the act of twisting and disturbing a bird's feathers, later extending to mean actions or behaviors that upset or anger someone. Similar to disrupting a state of calm, it is often used to describe words or actions that cause discord and feelings of displeasure."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "His decision to cancel the project really *ruffled some feathers* in the team.",
+          "zh": "他取消项目的决定确实激怒了团队中的一些人。"
+        }
+      ],
+      "audio": "audio/992.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She tends to *ruffle feathers* with her blunt comments.",
+          "zh": "她的直言不讳常常会惹恼别人。"
+        }
+      ],
+      "audio": "audio/992.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "If you want to implement changes, try not to *ruffle too many feathers*.",
+          "zh": "如果你想推动变革，尽量不要惹恼太多人。"
+        }
+      ],
+      "audio": "audio/992.3.mp3"
+    }
+  ]
+}

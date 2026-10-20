@@ -1,0 +1,37 @@
+{
+  "n": 312,
+  "name": "Dead tired",
+  "meaning": {
+    "zh": "“累得像死了一样” 或 “筋疲力尽”。\n\n这个短语的来源并没有具体的文献记录，但其直接的表达非常形象，“dead” 表示死去，“tired” 表示疲劳，合起来就表示疲惫到极限的状态。形容一个人感到非常，非常地累，好像已经没有力气再做任何事情了。",
+    "en": "Though there's no specific documented origin, the phrase is quite illustrative. \"Dead\" implies lifelessness, and \"tired\" indicates fatigue, combined to describe someone who is extremely exhausted, akin to having no energy left to do anything."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "After hiking all day, I was completely *dead tired*.",
+          "zh": "在徒步了一整天之后，我累得像死了一样。"
+        }
+      ],
+      "audio": "audio/312.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I'm *dead tired* after working a double shift.",
+          "zh": "在连着上了两个班之后，我筋疲力尽。"
+        }
+      ],
+      "audio": "audio/312.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She looked *dead tired* after the long flight.",
+          "zh": "长途飞行后她看起来累得像死了一样。"
+        }
+      ],
+      "audio": "audio/312.3.mp3"
+    }
+  ]
+}

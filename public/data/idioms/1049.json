@@ -1,0 +1,37 @@
+{
+  "n": 1049,
+  "name": "Slap on the wrist",
+  "meaning": {
+    "zh": "“小惩大诫” 或 “轻微的处罚”。\n\n这个短语的字面意思是打一下手腕，起源于家长对孩子轻微不当行为的惩罚，并发展为一种隐喻，表示一种非常轻微的处罚或警告。在现代语境中，通常用来形容对某人不严厉的惩罚，尤其是当期望受到更严厉的惩罚时。",
+    "en": "The literal meaning of this phrase is to hit someone's wrist lightly, originally stemming from a parent lightly disciplining a child for minor misbehavior. It has evolved into a metaphor indicating a very mild punishment or warning. In modern usage, it is often used to describe a lenient punishment when a harsher one might be expected."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The criminal only got a *slap on the wrist* for his offenses.",
+          "zh": "罪犯只因他的行为受到了轻微的处罚。"
+        }
+      ],
+      "audio": "audio/1049.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She received a mere *slap on the wrist* for breaking the rules.",
+          "zh": "她因为违反规定只受到了轻微的惩罚。"
+        }
+      ],
+      "audio": "audio/1049.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He expected to lose his job, but he ended up with just a *slap on the wrist*.",
+          "zh": "他本以为会丢掉工作，但最后只是受到了轻微的处罚。"
+        }
+      ],
+      "audio": "audio/1049.3.mp3"
+    }
+  ]
+}

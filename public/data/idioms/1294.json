@@ -1,0 +1,37 @@
+{
+  "n": 1294,
+  "name": "Watch out for",
+  "meaning": {
+    "zh": "“小心” 或 “留意”。\n\n这个短语源自英文口语表达，意味著要小心或者警惕某件事情或某个人。通常用来提醒别人注意潜在的危险、问题或重要的事物。",
+    "en": "This phrase originates from conversational English and means to be careful or alert about something or someone. It is often used to caution others about potential dangers, problems, or important matters."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "*Watch out for* that car while crossing the street.",
+          "zh": "过马路时小心那辆车。"
+        }
+      ],
+      "audio": "audio/1294.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "You should *watch out for* scams when shopping online.",
+          "zh": "你在网上购物时应该小心骗局。"
+        }
+      ],
+      "audio": "audio/1294.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "*Watch out for* pickpockets in crowded places.",
+          "zh": "在拥挤的地方要留意扒手。"
+        }
+      ],
+      "audio": "audio/1294.3.mp3"
+    }
+  ]
+}

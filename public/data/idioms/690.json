@@ -1,0 +1,37 @@
+{
+  "n": 690,
+  "name": "Jump through hoops",
+  "meaning": {
+    "zh": "“跳过重重圈套” 或 “经历繁琐的过程”。\n\n这个短语源自马戏团表演中的一个场景，动物必须跳过一系列的火圈或障碍。这种表演需要高度的训练和努力，因此这个短语被用来表示需要完成许多复杂或困难的任务或步骤以达到某个目标。",
+    "en": "This phrase originates from a circus act where animals, typically trained dogs or lions, are made to jump through a series of hoops, sometimes even lit on fire. This requires a great deal of training and effort, hence it has come to mean going through a lot of complicated or arduous tasks to achieve something."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "She had to jump through a lot of *hoops* to get her visa approved.",
+          "zh": "她为了获得签证不得不经历许多繁琐的过程。"
+        }
+      ],
+      "audio": "audio/690.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "They made us jump through so many *hoops* just to get a permit.",
+          "zh": "他们让我们为了拿到许可证经历了如此多的曲折。"
+        }
+      ],
+      "audio": "audio/690.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Getting the insurance claim approved was like jumping through *hoops*.",
+          "zh": "得到保险理赔的批准就像跳过重重圈套一样困难。"
+        }
+      ],
+      "audio": "audio/690.3.mp3"
+    }
+  ]
+}

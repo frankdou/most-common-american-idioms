@@ -1,0 +1,37 @@
+{
+  "n": 42,
+  "name": "A snowball's chance in hell",
+  "meaning": {
+    "zh": "“毫无机会” 或 “机会微乎其微”。\n\n这个成语用雪团（snowball）在地狱（hell）中存活的几率来比喻一件几乎不可能的事情。雪团在炎热的地狱中会迅速融化，因而表示成功的机会极小。",
+    "en": "This idiom uses the idea of a snowball surviving in the fires of hell to illustrate something nearly impossible. Just as a snowball would quickly melt in the inferno, so too does this phrase indicate extremely slim chances of success."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Winning the lottery? That's like a *snowball's chance in hell*.",
+          "zh": "中彩票？那简直是毫无希望的事。"
+        }
+      ],
+      "audio": "audio/042.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He doesn't have a *snowball's chance in hell* of passing that exam without studying.",
+          "zh": "他不复习的话，根本不可能通过那场考试。"
+        }
+      ],
+      "audio": "audio/042.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "There's a *snowball's chance in hell* that we'll finish this project on time.",
+          "zh": "我们按时完成这个项目的机会微乎其微。"
+        }
+      ],
+      "audio": "audio/042.3.mp3"
+    }
+  ]
+}

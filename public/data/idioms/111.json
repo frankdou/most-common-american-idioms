@@ -1,0 +1,37 @@
+{
+  "n": 111,
+  "name": "Barking up the wrong tree",
+  "meaning": {
+    "zh": "“找错目标” 或 “搞错对象”。\n\n这个短语起源于猎犬在狩猎过程中，偶尔会对着错误的树吠叫，认为猎物躲在那棵树上。后来，这个表达被引申为在做某事时找错了方向或目标，通常用于提醒别人所采取的措施或方向是错误的。",
+    "en": "This phrase originates from hunting dogs that occasionally bark at the wrong tree, thinking the prey is hiding there. Over time, this expression has been extended to mean that someone is wrong about the direction or target of their efforts, commonly used to alert someone that their actions or conclusions are mistaken."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "If you think I was the one who broke the vase, you're *barking up the wrong tree*.",
+          "zh": "如果你认为是我打碎了花瓶，那你是找错人了。"
+        }
+      ],
+      "audio": "audio/111.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The detective's theory was interesting, but he was *barking up the wrong tree*.",
+          "zh": "侦探的理论很有趣，但他搞错了方向。"
+        }
+      ],
+      "audio": "audio/111.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "If you're looking for easy money in this industry, you're *barking up the wrong tree*.",
+          "zh": "如果你在这个行业寻找轻松赚钱的机会，那你是搞错了方向。"
+        }
+      ],
+      "audio": "audio/111.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 307,
+  "name": "Dawned on me",
+  "meaning": {
+    "zh": "“突然意识到” 或 “恍然大悟”。\n\n这个短语起源于 “破晓” 这个意象，就像太阳升起，照亮大地一样。“Dawned on me” 表示某种理解或启示突然出现在你的脑海中，带来了清晰的认知或意识。",
+    "en": "This phrase originates from the imagery of \"dawn,\" where the sun rises and illuminates the earth. \"Dawned on me\" denotes a moment when understanding or realization suddenly springs to mind, bringing clarity or awareness."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "It finally *dawned on me* that I had left my keys at home.",
+          "zh": "我终于意识到我把钥匙落在家里了。"
+        }
+      ],
+      "audio": "audio/307.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "As she explained the problem, it *dawned on me* that I had misunderstood the instructions.",
+          "zh": "当她解释这个问题时，我突然意识到我误解了指示。"
+        }
+      ],
+      "audio": "audio/307.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "It *dawned on me* that we were heading in the wrong direction.",
+          "zh": "我突然意识到我们正朝着错误的方向前进。"
+        }
+      ],
+      "audio": "audio/307.3.mp3"
+    }
+  ]
+}

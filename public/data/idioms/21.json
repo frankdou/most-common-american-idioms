@@ -1,0 +1,37 @@
+{
+  "n": 21,
+  "name": "A fork in the road",
+  "meaning": {
+    "zh": "“人生的十字路口” 或 “关键抉择的时刻”。\n\n这个短语源自于道路分叉的情景，就像一条路分成两条或多条支路，需要选择前进方向。它常被用来比喻人生中的重要时刻，需要做出重大决定，这个决定会对未来产生深远影响。",
+    "en": "This idiom originates from the image of a literal fork in a road where a single path splits into two or more directions, requiring a choice of which way to go. It is often used metaphorically to describe a critical decision point in one's life, where the choice made will have significant future consequences."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "During his mid-30s, he encountered a *fork in the road* with his career.",
+          "zh": "在他三十多岁时，他的职业生涯遇到了一个关键的抉择时刻。"
+        }
+      ],
+      "audio": "audio/021.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Graduating from college presents a major *fork in the road* for many students.",
+          "zh": "大学毕业对许多学生来说是一个人生的重要转折点。"
+        }
+      ],
+      "audio": "audio/021.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "When the company restructured, she found herself at a *fork in the road* in her professional life.",
+          "zh": "当公司重组时，她发现自己的职业生涯走到了一个关键的十字路口。"
+        }
+      ],
+      "audio": "audio/021.3.mp3"
+    }
+  ]
+}

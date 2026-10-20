@@ -1,0 +1,37 @@
+{
+  "n": 550,
+  "name": "Got their hackles up",
+  "meaning": {
+    "zh": "“竖起脊毛” 或 “激怒” 。\n\n这个短语源于狗或猫等带有脊毛的动物，当它们受到威胁或感到愤怒时，脊毛会竖起来以示威胁。因此，这个表达用来描述某人因为某件事情而感到愤怒或被激怒。",
+    "en": "This phrase originates from animals such as dogs or cats that have hackles (the hairs on the back of their neck). When these animals feel threatened or angry, their hackles rise as a sign of aggression. Thus, this expression is used to describe someone who is angry or provoked by something."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The new policy really *got their hackles up*.",
+          "zh": "这项新政策真的让他们很生气。"
+        }
+      ],
+      "audio": "audio/550.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The comment he made *got her hackles up* immediately.",
+          "zh": "他的话立刻激怒了她。"
+        }
+      ],
+      "audio": "audio/550.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "You can tell when he *gets his hackles up* by the way he clenches his fists.",
+          "zh": "你可以从他握紧拳头的方式看出他什么时候生气了。"
+        }
+      ],
+      "audio": "audio/550.3.mp3"
+    }
+  ]
+}

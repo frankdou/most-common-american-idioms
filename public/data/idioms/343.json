@@ -1,0 +1,37 @@
+{
+  "n": 343,
+  "name": "Don't throw the baby out with the bath water",
+  "meaning": {
+    "zh": "“不要因噎废食” 或 “不要把好坏一起丢掉”。\n\n这个短语起源于古时候，人们用同一盆水给所有家庭成员洗澡，最小的婴儿通常是最后一个用水洗的，水已经非常脏污。但是在倒掉脏水时，必须小心不要误把婴儿也倒掉。现在这个短语常用于提醒人们在清除某些问题或不需要的事物时，不要把有价值的东西也丢掉。",
+    "en": "This phrase originates from an old practice where the whole family would bathe in the same water, with the smallest baby being the last to use the dirty water. While disposing of the dirty water, one must be careful not to throw the baby out with it. Nowadays, this expression is commonly used to remind people to be cautious about losing valuable aspects while trying to get rid of problems or unnecessary things."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Make sure you keep the good features of the software and not throw the baby out with the bath water during the upgrade.",
+          "zh": "升级时要确保保留软件的优点，不要因噎废食地把好的功能也丢掉。"
+        }
+      ],
+      "audio": "audio/343.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I agree we need changes in the policy, but let's not throw the baby out with the bath water.",
+          "zh": "我同意我们需要政策变更，但不要把好坏一起丢掉。"
+        }
+      ],
+      "audio": "audio/343.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "While redesigning the website, don't throw the baby out with the bath water; keep what works well.",
+          "zh": "在重新设计网站时，不要把好坏一起丢掉；保留那些运行良好的部分。"
+        }
+      ],
+      "audio": "audio/343.3.mp3"
+    }
+  ]
+}

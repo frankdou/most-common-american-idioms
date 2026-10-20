@@ -1,0 +1,37 @@
+{
+  "n": 770,
+  "name": "Like riding a bicycle",
+  "meaning": {
+    "zh": "“就像骑自行车一样”，意思是某个技能即使长时间不使用，也不会忘记。\n\n这个短语源于人们学习骑自行车的经历。骑自行车这种技能，一旦学会之后，即使很长时间不骑，它也很难被忘记。因此，这个短语常被用来形容那些一旦学会就不会轻易忘记的技能或事情。",
+    "en": "The phrase comes from people's experience of learning to ride a bicycle. Once a person learns how to ride, they can retain the ability to do so even after a long period of not practicing. Therefore, it is often used to describe skills or activities that, once learned, are not easily forgotten."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Don't worry about skiing again, it's *like riding a bicycle*.",
+          "zh": "不用担心再次滑雪，这就像骑自行车一样。"
+        }
+      ],
+      "audio": "audio/770.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Programming is *like riding a bicycle*, you'll quickly get back into it.",
+          "zh": "编程就像骑自行车一样，你会很快重新上手的。"
+        }
+      ],
+      "audio": "audio/770.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "After years of not painting, I realized it was *like riding a bicycle*.",
+          "zh": "多年没有画画后，我发现这就像骑自行车一样。"
+        }
+      ],
+      "audio": "audio/770.3.mp3"
+    }
+  ]
+}

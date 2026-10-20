@@ -1,0 +1,37 @@
+{
+  "n": 222,
+  "name": "Cat nap",
+  "meaning": {
+    "zh": "“小睡” 或 “打盹”。\n\n这个短语来源于猫的习性。猫经常会在一天中的任何时间进行短暂的、轻松的小睡。与猫的这种快速、简单的休息方式类似，这个 idiom 用来描述人类的短暂小憩。通常它指的是一种短时间的睡眠，能够迅速恢复能量。",
+    "en": "This phrase originates from the behavior of cats. Cats are known to take short, relaxed naps at various times of the day. Similar to this quick and simple form of rest, the idiom is used to describe a short sleep or nap that helps a person quickly restore energy."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I took a quick *cat nap* during my lunch break.",
+          "zh": "我在午休时间打了个盹。"
+        }
+      ],
+      "audio": "audio/222.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She always feels rejuvenated after a short *cat nap*.",
+          "zh": "她每次小睡一会儿后总会感觉精力充沛。"
+        }
+      ],
+      "audio": "audio/222.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "After a *cat nap*, I can focus better in the afternoon.",
+          "zh": "打个盹儿后，我下午会更能集中注意力。"
+        }
+      ],
+      "audio": "audio/222.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 736,
+  "name": "Last but not least",
+  "meaning": {
+    "zh": "“最后但同样重要” 或 “最后但并非最不重要”。\n\n这个短语常用于列举事物或人物时，尽管在顺序上最后提到，但并不意味着其重要性较低。其目的是强调最后提到的事物或人物的重要性和价值。",
+    "en": "This phrase is often used when listing things or people, indicating that although something or someone is mentioned last, it does not mean it is the least important. It aims to emphasize the importance and value of the final item or person mentioned."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "And *last but not least*, I'd like to thank all the volunteers for their hard work.",
+          "zh": "最后但同样重要的是，我想感谢所有志愿者的辛勤工作。"
+        }
+      ],
+      "audio": "audio/736.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "*Last but not least*, we must not forget the contributions of our team members.",
+          "zh": "最后但同样重要的是，我们绝不能忘记团队成员的贡献。"
+        }
+      ],
+      "audio": "audio/736.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "*Last but not least*, our final performer, please welcome Jane!",
+          "zh": "最后但同样重要的是，我们的最终表演者，请欢迎简！"
+        }
+      ],
+      "audio": "audio/736.3.mp3"
+    }
+  ]
+}

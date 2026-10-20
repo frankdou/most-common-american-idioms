@@ -1,0 +1,37 @@
+{
+  "n": 629,
+  "name": "I don't have two nickels to rub together",
+  "meaning": {
+    "zh": "“我连两个五分硬币都凑不齐”，意指 “我非常贫穷” 或 “我一文不名”。\n\n这个短语起源于19世纪的美国，当时五分钱硬币（nickel）是常见的小面值货币。两个五分钱硬币相互摩擦产生声音，表示拥有极少量的财富。如果连两个五分硬币都没有，这说明一个人非常贫穷，完全没有钱花。",
+    "en": "This idiom originates from 19th-century America when nickels were common low-denomination coins. Rubbing two nickels together creates a sound, indicating one has a small amount of money. If someone doesn't even have two nickels to rub together, it shows they are very poor and have no money at all."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "After losing my job, I don't have *two nickels to rub together*.",
+          "zh": "失业后，我连两个五分钱硬币都没了。"
+        }
+      ],
+      "audio": "audio/629.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "When I was a student, there were times I didn't have *two nickels to rub together*.",
+          "zh": "当我还是学生的时候，有时连两个五分钱硬币都凑不齐。"
+        }
+      ],
+      "audio": "audio/629.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "We can't go on a vacation right now; we don't have *two nickels to rub together*.",
+          "zh": "我们现在不能去度假，因为我们连两个五分钱硬币都拿不出。"
+        }
+      ],
+      "audio": "audio/629.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 898,
+  "name": "Out of my hands",
+  "meaning": {
+    "zh": "“我无能为力” 或 “这不由我掌控”。\n\n这个短语源自于字面意义，即情况已经超出了自己的控制范围，因此无法再去干预或影响某事。在日常生活中，它常被用来表示对某一情况或事件的无奈，无论你多么想要掌控或影响结果，但实际上你已经无能为力或非你所能决定。",
+    "en": "This phrase originates from the literal meaning that a situation has gone beyond one's control, thus making it impossible to intervene or influence it any further. In daily life, it is often used to express helplessness over a situation, indicating that no matter how much you want to control or influence the outcome, it's effectively out of your hands."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The decision is *out of my hands*; it’s up to the management now.",
+          "zh": "这个决定已经不由我掌控了；现在取决于管理层。"
+        }
+      ],
+      "audio": "audio/898.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I did my best in the interview, but what happens next is *out of my hands*.",
+          "zh": "我在面试中尽了最大努力，但接下来会发生什么，我已无能为力。"
+        }
+      ],
+      "audio": "audio/898.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The weather is *out of my hands*, so we might need to reschedule the event.",
+          "zh": "天气不是我能控制的，所以我们可能需要重新安排活动时间。"
+        }
+      ],
+      "audio": "audio/898.3.mp3"
+    }
+  ]
+}

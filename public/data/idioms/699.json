@@ -1,0 +1,37 @@
+{
+  "n": 699,
+  "name": "Keep me posted/Keep me in the loop",
+  "meaning": {
+    "zh": "“随时告知我最新情况” 或 “让我参与进来”。\n\n这个短语起源于人们希望保持最新信息更新。 \"Keep me posted\" 意思是 “随时告知我最新情况”，通常用于希望对方在事情进展中持续提供最新信息。而 \"Keep me in the loop\" 则意味着 “让我参与进来” 或 “让我知道所有相关信息”，常用于希望被告知所有与某事相关的动态，并参与到相关沟通中。",
+    "en": "This phrase originates from the concept of wanting to stay updated with the latest information. \"Keep me posted\" means to inform someone about the most recent developments, often used when one wants continuous updates on a particular situation. \"Keep me in the loop\" means to include someone in all related communications and updates about a particular matter, indicating the desire to be fully informed and involved."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Please *keep me posted* on any changes to the schedule.",
+          "zh": "请随时告知我时间表的任何变动。"
+        }
+      ],
+      "audio": "audio/699.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Make sure to *keep me in the loop* with the project's progress.",
+          "zh": "确保让我参与并随时了解项目的进展。"
+        }
+      ],
+      "audio": "audio/699.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Can you *keep me posted* about the meeting outcomes?",
+          "zh": "你能随时告诉我会议的结果吗？"
+        }
+      ],
+      "audio": "audio/699.3.mp3"
+    }
+  ]
+}

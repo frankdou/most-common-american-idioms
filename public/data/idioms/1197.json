@@ -1,0 +1,37 @@
+{
+  "n": 1197,
+  "name": "To bug someone",
+  "meaning": {
+    "zh": "“烦扰某人” 或 “使某人心烦”。\n\n这个短语源于俚语 “bug”，原意为小虫子，引申为不断干扰或烦扰的意思。形象地说，就像小虫子不断地叮咬，让人非常烦躁不安。因此，\"to bug someone\" 就是指不停地打扰某人或者做一些让对方感到厌烦的事情。",
+    "en": "This idiom originates from the slang word \"bug,\" which literally means a small insect, but has been extended to mean persistent disturbance or annoyance. Figuratively, it is akin to being constantly bitten or bothered by bugs, leading to considerable annoyance. Therefore, \"to bug someone\" means to continuously disturb or bother someone in a way that makes them irritated."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Can you stop asking me questions? You're starting to *bug me*.",
+          "zh": "你能不能别再问我问题了？你开始让我烦了。"
+        }
+      ],
+      "audio": "audio/1197.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Her habit of tapping the pen on the table really *bugs me*.",
+          "zh": "她敲桌子的习惯真的让我很烦。"
+        }
+      ],
+      "audio": "audio/1197.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "It *bugs me* when people don't clean up after themselves.",
+          "zh": "当人们不收拾自己的东西时，我很烦。"
+        }
+      ],
+      "audio": "audio/1197.3.mp3"
+    }
+  ]
+}

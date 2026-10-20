@@ -1,0 +1,37 @@
+{
+  "n": 260,
+  "name": "Come a long way",
+  "meaning": {
+    "zh": "“取得长足进步” 或 “大有长进”。\n\n这个短语起源于人们旅行长途的现象，后被用来比喻一个人经过很长时间和努力取得了显著的进步。在现代英语中，它通常用来称赞某人或某事从起点到现在取得了显著的进步。",
+    "en": "This phrase originated from the concept of traveling a long distance, which later became a metaphor for significant progress and achievements through time and effort. In modern English, it is often used to praise someone or something for showing notable improvements from the starting point to the present."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "She has *come a long way* since she first started learning to play the piano.",
+          "zh": "自从她开始学钢琴以来，她已经取得了很大的进步。"
+        }
+      ],
+      "audio": "audio/260.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Our company has *come a long way* since its humble beginnings in a small garage.",
+          "zh": "我们的公司自从在一个小车库里创立以来，已经取得了长足的进步。"
+        }
+      ],
+      "audio": "audio/260.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "You have *come a long way* in your studies of English, keep up the good work!",
+          "zh": "你的英语学习已经取得了很大的进步，继续努力吧！"
+        }
+      ],
+      "audio": "audio/260.3.mp3"
+    }
+  ]
+}

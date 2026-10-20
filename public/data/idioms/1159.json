@@ -1,0 +1,37 @@
+{
+  "n": 1159,
+  "name": "The tide has turned",
+  "meaning": {
+    "zh": "“形势已经逆转” 或 “局势发生了变化”。\n\n这个短语来自海洋学中的潮汐现象。当潮水退去或涌来时，它标志着一个明显的变化。在比喻意义上，这个短语被用来形容事物发生了显著的变化，通常是从不利转向有利的变化或者相反。",
+    "en": "This idiom originates from the phenomenon of tides in oceanography. When the tide goes out or comes in, it signifies a noticeable change. Figuratively, this phrase is used to describe a significant shift in circumstances, often implying a change from a worse situation to a better one, or vice versa."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The tide has turned, and now they are winning the match.",
+          "zh": "形势已经逆转，他们现在正在赢得比赛。"
+        }
+      ],
+      "audio": "audio/1159.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "After months of struggle, the tide has turned for their business.",
+          "zh": "经过几个月的挣扎，他们的生意终于好转了。"
+        }
+      ],
+      "audio": "audio/1159.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I felt hopeless at first, but now it seems the tide has turned in my favor.",
+          "zh": "一开始我感到绝望，但现在似乎形势对我有利了。"
+        }
+      ],
+      "audio": "audio/1159.3.mp3"
+    }
+  ]
+}

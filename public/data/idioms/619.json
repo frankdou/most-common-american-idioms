@@ -1,0 +1,37 @@
+{
+  "n": 619,
+  "name": "Holding the bag",
+  "meaning": {
+    "zh": "“背黑锅” 或 “承担责任”。\n\n这个短语起源于17-18世纪的英格兰，当时劫匪通常将在一名同伙手中装满战利品的袋子里，如果突然要逃跑，负责拿袋子的人往往会被捕，从而为整个团伙背黑锅。后来，这个短语逐渐演变为表示让某人承担所有的责任，尤其是在其他人逃避了责任的情况下。",
+    "en": "This phrase originates from 17th-18th century England, where robbers would often have one accomplice holding the bag of loot. If they needed to flee suddenly, the person holding the bag was likely to get caught, thus taking the blame for the entire gang. Over time, this phrase evolved to mean assigning someone all the responsibility, especially when others have evaded their parts."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "When the project failed, John was left *holding the bag*.",
+          "zh": "当项目失败时，约翰被迫背黑锅。"
+        }
+      ],
+      "audio": "audio/619.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She ended up *holding the bag* after her teammates didn't show up for the presentation.",
+          "zh": "在她的队友没有出现在报告时，她最终成为了替罪羊。"
+        }
+      ],
+      "audio": "audio/619.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Don't leave me *holding the bag*; we need to share the blame.",
+          "zh": "别让我背黑锅，我们需要分担责任。"
+        }
+      ],
+      "audio": "audio/619.3.mp3"
+    }
+  ]
+}

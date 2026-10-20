@@ -1,0 +1,37 @@
+{
+  "n": 444,
+  "name": "From day one",
+  "meaning": {
+    "zh": "“一开始” 或 “一开始就……”。\n\n这个短语的起源可以追溯到其字面意思，即从 “第一天” 开始。从时间的角度上，它指的是从某件事或某过程一开始的点。在日常对话中，这个短语经常用于强调某人从一开始就参与或者某事从一开始就具有某种特质。",
+    "en": "The origin of this phrase can be traced back to its literal meaning, \"from the first day.\" From a temporal perspective, it refers to the starting point of something or some process. In everyday conversations, this phrase is often used to emphasize that someone has been involved from the very beginning or that something has had a particular quality since it started."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He has been dedicated to the project *from day one*.",
+          "zh": "他从一开始就全心投入这个项目。"
+        }
+      ],
+      "audio": "audio/444.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "*From day one*, she knew this was where she wanted to be.",
+          "zh": "从一开始她就知道这就是她想待的地方。"
+        }
+      ],
+      "audio": "audio/444.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The team has had great chemistry *from day one*.",
+          "zh": "这个团队从一开始就有很好的化学反应。"
+        }
+      ],
+      "audio": "audio/444.3.mp3"
+    }
+  ]
+}

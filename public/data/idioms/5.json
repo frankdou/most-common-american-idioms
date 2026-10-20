@@ -1,0 +1,37 @@
+{
+  "n": 5,
+  "name": "A bird in the hand is worth two in the bush",
+  "meaning": {
+    "zh": "“手中之鸟胜过林中二鸟” 或 “稳妥之物胜过可能更多但不确定的事物”。\n\n这个成语起源于中世纪时期的猎人，他们认为已经抓在手里的猎物比还在灌木丛中的猎物更有价值。这句话用来教导人们珍惜已经拥有的东西，而不要冒险去追求那些可能更好但无法确定的东西。",
+    "en": "This idiom originates from medieval hunters who believed that the game already caught is more valuable than potential game still in the bush. The phrase teaches people to appreciate what they have rather than risk it for something that might seem better but is not guaranteed."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "You should take the job offer; remember, *a bird in the hand is worth two in the bush*.",
+          "zh": "你应该接受这个工作机会，记住，手中之鸟胜过林中二鸟。"
+        }
+      ],
+      "audio": "audio/005.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He decided not to sell his steady business in hopes of a bigger profit elsewhere, because *a bird in the hand is worth two in the bush*.",
+          "zh": "他决定不卖掉自己稳定的业务去别处寻求更大的利润，因为稳妥之物胜过可能更多但不确定的事物。"
+        }
+      ],
+      "audio": "audio/005.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Considering the risks, she kept the guarantee in her pocket, knowing *a bird in the hand is worth two in the bush*.",
+          "zh": "考虑到风险，她还是选择了保住已有的保障，因为手中之鸟胜过林中二鸟。"
+        }
+      ],
+      "audio": "audio/005.3.mp3"
+    }
+  ]
+}

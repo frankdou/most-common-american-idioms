@@ -1,0 +1,37 @@
+{
+  "n": 1003,
+  "name": "Running on fumes",
+  "meaning": {
+    "zh": "“继续运行但已几乎没有能量”；常用于形容人已经疲惫不堪但仍在勉强坚持。\n\n这个短语来源于汽车燃油几乎耗尽但仍继续行驶的情况。汽车燃油快用完时，通常仅靠最后残余的一点燃油（俗称fumes，意为烟或气），持续运转。借此比喻人们在精力或资源几乎耗尽的情况下，仍然努力工作或继续前行。",
+    "en": "The idiom comes from the scenario where a car keeps running while it is almost out of fuel. When a car is low on gas, it often runs on the very last bit of fuel, which is metaphorically called fumes. This compares to people continuing to work or move forward while their energy or resources are nearly depleted."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "After working three 12-hour shifts in a row, she's running on fumes.",
+          "zh": "连续工作三个12小时的班后，她已经精疲力竭了。"
+        }
+      ],
+      "audio": "audio/1003.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He was running on fumes by the end of the marathon.",
+          "zh": "马拉松接近尾声时，他已经在勉力支撑了。"
+        }
+      ],
+      "audio": "audio/1003.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I'm running on fumes after studying all night for the final exams.",
+          "zh": "为了期末考试熬夜学习后，我已经非常疲累了。"
+        }
+      ],
+      "audio": "audio/1003.3.mp3"
+    }
+  ]
+}

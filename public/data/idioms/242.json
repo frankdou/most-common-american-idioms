@@ -1,0 +1,37 @@
+{
+  "n": 242,
+  "name": "Chow down",
+  "meaning": {
+    "zh": "“痛快大吃” 或 “狼吞虎咽”。\n\n这个短语起源于美国的军事俚语，尤其是在二战时期。最初 “chow” 指的是食物，“chow down” 意即大口吃饭。后来，这个表达逐渐传到民间，成为了描述大快朵颐的常用说法。",
+    "en": "This phrase originated from American military slang, especially around the time of World War II. Initially, \"chow\" referred to food, and \"chow down\" meant to eat heartily. Over time, this expression made its way into civilian language as a common way to describe enjoying a substantial meal."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "We gathered around the table and *chowed down* on the Thanksgiving feast.",
+          "zh": "我们围在桌子旁，痛快大吃感恩节的盛宴。"
+        }
+      ],
+      "audio": "audio/242.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "After the hike, we all wanted to *chow down* on some burgers and fries.",
+          "zh": "远足之后，我们都想狼吞虎咽地吃一些汉堡和薯条。"
+        }
+      ],
+      "audio": "audio/242.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Let's *chow down* before the game starts.",
+          "zh": "让我们在比赛开始前痛快大吃一顿吧。"
+        }
+      ],
+      "audio": "audio/242.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 1039,
+  "name": "Shot in the dark",
+  "meaning": {
+    "zh": "“瞎猜” 或 “盲目尝试”。\n\n这个短语源自于射击比赛中，选手在漆黑的环境下射击，无法看到目标，只能凭感觉射击。引申义表示在没有充分信息或把握的情况下做出的一种尝试。通常用来表达做了一个没有依据的推测或行动。",
+    "en": "This phrase originates from shooting competitions where participants shoot in the dark, unable to see the target and can only rely on their intuition. By extension, it signifies an attempt made with insufficient information or a reasonable basis. It's commonly used to describe making a guess or taking an action without much knowledge."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I didn't know the answer, so I took a *shot in the dark*.",
+          "zh": "我不知道答案，所以我瞎猜了一个。"
+        }
+      ],
+      "audio": "audio/1039.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The detective’s guess turned out to be a successful *shot in the dark*.",
+          "zh": "侦探的猜测结果竟然成功了，真是瞎猫碰到死耗子。"
+        }
+      ],
+      "audio": "audio/1039.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Trying to find my keys in this messy room is like taking a *shot in the dark*.",
+          "zh": "在这个凌乱的房间里找钥匙就像是瞎猫碰死耗子。"
+        }
+      ],
+      "audio": "audio/1039.3.mp3"
+    }
+  ]
+}

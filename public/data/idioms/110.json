@@ -1,0 +1,37 @@
+{
+  "n": 110,
+  "name": "Band-Aid on a bullet wound",
+  "meaning": {
+    "zh": "“治标不治本” 或 “微小的解决方案来掩盖重大问题”。\n\n这个短语的文字上意思是给枪伤贴创口贴，但实际上用以形容一些小修小补的方法在面对重大问题的时候起不到什么作用。就如同用创口贴无法治愈严重的枪伤一样，这种比喻表明这些解决办法不够彻底或有效。",
+    "en": "The literal meaning of this phrase is putting a band-aid on a bullet wound, which can't actually heal or fix a severe injury. It is used to describe minor solutions that do not address the larger, underlying issues, emphasizing the ineffectiveness of such measures in serious situations."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Offering temporary shelter to the homeless is just a *Band-Aid on a bullet wound*. We need a long-term solution.",
+          "zh": "为无家可归者提供临时庇护只是治标不治本。我们需要一个长期的解决方案。"
+        }
+      ],
+      "audio": "audio/110.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The new tax plan is like a *Band-Aid on a bullet wound*. It won't solve the underlying economic problems.",
+          "zh": "新的税收计划就像是治标不治本。它解决不了根本的经济问题。"
+        }
+      ],
+      "audio": "audio/110.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Giving a bonus to keep unhappy employees is merely a *Band-Aid on a bullet wound*.",
+          "zh": "给不满的员工发奖金只是治标不治本。"
+        }
+      ],
+      "audio": "audio/110.3.mp3"
+    }
+  ]
+}

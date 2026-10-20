@@ -1,0 +1,37 @@
+{
+  "n": 6,
+  "name": "A bit/A little bit",
+  "meaning": {
+    "zh": "“一点点” 或 “稍微”。\n\n这个短语主要用于强调某事物的程度较小, 是一个常见的口语表达。它们可以互换使用，没有太大的区别。通常，用于表达程度比较轻微，或者表示某事物或某人的数量和品质不足。",
+    "en": "This phrase is mainly used to emphasize a small degree of something and is a common colloquial expression. They can be used interchangeably without much difference. Usually, it is used to express a slight degree, or to indicate that the quantity or quality of something or someone is insufficient."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I'm feeling *a bit* tired today.",
+          "zh": "我今天感觉有点累。"
+        }
+      ],
+      "audio": "audio/006.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Can you please move *a little bit* to the left?",
+          "zh": "你能稍微向左移动一点吗？"
+        }
+      ],
+      "audio": "audio/006.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She's *a bit* nervous about the interview.",
+          "zh": "她对面试有点紧张。"
+        }
+      ],
+      "audio": "audio/006.3.mp3"
+    }
+  ]
+}

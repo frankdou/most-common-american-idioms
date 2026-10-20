@@ -1,0 +1,37 @@
+{
+  "n": 1180,
+  "name": "Tilt at windmills",
+  "meaning": {
+    "zh": "“与风车作斗争” 或 “庸人自扰”。\n\n这个短语源自米格尔·德·塞万提斯撰写的小说《堂吉诃德》。在小说中，堂吉诃德将风车误认为巨人，并向它们发起攻击，最终徒劳无功。这个短语用来形容那些攻击或对抗想象中的敌人或毫无意义的目标，通常表示一种浪费精力的愚蠢行为。",
+    "en": "This idiom originates from Miguel de Cervantes' novel \"Don Quixote.\" In the novel, Don Quixote mistakes windmills for giants and attacks them, resulting in a futile effort. The phrase is used to describe a situation where someone is attacking imaginary enemies or pursuing a vain and futile course of action, signifying a waste of energy on pointless endeavors."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He's always *tilting at windmills* instead of solving real problems.",
+          "zh": "他总是与风车作斗争，而不是解决真正的问题。"
+        }
+      ],
+      "audio": "audio/1180.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Arguing with him about that old theory is just *tilting at windmills*.",
+          "zh": "跟他争论那个陈旧的理论只是在庸人自扰。"
+        }
+      ],
+      "audio": "audio/1180.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Stop *tilting at windmills* and focus on what's important.",
+          "zh": "别再庸人自扰了，专注于重要的事情。"
+        }
+      ],
+      "audio": "audio/1180.3.mp3"
+    }
+  ]
+}

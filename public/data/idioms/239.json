@@ -1,0 +1,37 @@
+{
+  "n": 239,
+  "name": "Chew someone out",
+  "meaning": {
+    "zh": "“严厉训斥某人” 或 “大骂某人”。\n\n这个短语源自军事用语，最早起源于二战时期。当时军队中的长官会严厉训斥犯错的士兵，形容这种言辞犀利的责备就像在 “咀嚼（chew）” 他们一样。随着时间的推移，这个表达被广泛使用，不仅局限于军事领域，而是指任何场合下的严厉斥责。",
+    "en": "This phrase originates from military jargon, tracing back to World War II. During that time, commanders would harshly reprimand erring soldiers, likening the severe scolding to \"chewing\" them out. Over time, this expression expanded beyond the military, indicating any severe reprimand in various contexts."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The boss *chewed him out* for being late again.",
+          "zh": "老板因为他又迟到了而严厉训斥了他。"
+        }
+      ],
+      "audio": "audio/239.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She got *chewed out* by her mother for not doing her homework.",
+          "zh": "她因为没有做家庭作业而被母亲狠狠地训了一顿。"
+        }
+      ],
+      "audio": "audio/239.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He was *chewed out* by the coach after missing the crucial shot.",
+          "zh": "他因为错过关键球而被教练严厉批评。"
+        }
+      ],
+      "audio": "audio/239.3.mp3"
+    }
+  ]
+}

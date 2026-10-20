@@ -1,0 +1,37 @@
+{
+  "n": 1349,
+  "name": "You get what you pay for",
+  "meaning": {
+    "zh": "“一分钱一分货” 或 “便宜没好货”。\n\n这个短语的意思是你为一件商品或服务支付多少费用，就会得到相应水平的质量或服务。起源于商业哲学，它警示消费者不要期望廉价商品会有高质量，付出多少努力或金钱，就得到相应的回报。",
+    "en": "This phrase means the amount of money you pay for a product or service is an indicator of its quality. Originating from commercial philosophy, it warns consumers not to expect high quality from cheap goods. It emphasizes that you receive a return proportional to the effort or money you put in."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I bought those cheap shoes, and now they're falling apart. I guess *you get what you pay for*.",
+          "zh": "我买了那些便宜的鞋，现在已经坏掉了。看来真的是一分钱一分货。"
+        }
+      ],
+      "audio": "audio/1349.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The service at that budget hotel wasn't great, but *you get what you pay for*.",
+          "zh": "那家经济型酒店的服务并不好，但便宜没好货。"
+        }
+      ],
+      "audio": "audio/1349.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "If you want high-quality products, be prepared to pay more because *you get what you pay for*.",
+          "zh": "如果你想要高质量的产品，就要准备多付一些钱，因为一分钱一分货。"
+        }
+      ],
+      "audio": "audio/1349.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 1187,
+  "name": "To be named after",
+  "meaning": {
+    "zh": "“以...命名”。\n\n这个短语指的是某人或某物是以另一个人或事物的名字命名的。这个惯用语来源于一种尊敬或纪念某个人或事物的方式，以他们的名字来命名新的事物或人的过程。",
+    "en": "This phrase means that someone or something is given a name derived from another person or thing. This idiom originates as a way to honor or memorialize a person or thing by naming something new after them."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "She was *named after* her grandmother.",
+          "zh": "她以她祖母的名字命名。"
+        }
+      ],
+      "audio": "audio/1187.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The new building was *named after* the founder of the company.",
+          "zh": "新大楼是以公司创始人的名字命名的。"
+        }
+      ],
+      "audio": "audio/1187.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He found out that he was *named after* a famous author.",
+          "zh": "他发现自己是以一位著名作家的名字命名的。"
+        }
+      ],
+      "audio": "audio/1187.3.mp3"
+    }
+  ]
+}

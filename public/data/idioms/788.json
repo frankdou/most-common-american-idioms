@@ -1,0 +1,37 @@
+{
+  "n": 788,
+  "name": "Lose your marbles",
+  "meaning": {
+    "zh": "“失去理智” 或 “发疯”。\n\n这个短语源于19世纪末， “marbles” 一词指的是玻璃弹珠，而这些弹珠是当时受儿童欢迎的玩具。 “Lose your marbles” 本意为丧失了这些弹珠，而后作为一个比喻用语，逐渐演变为表示一个人失去了理智或精神错乱。",
+    "en": "This phrase originated in the late 19th century, where \"marbles\" referred to the popular children's toy made of glass. Originally meaning to lose those toy marbles, it evolved as a metaphorical expression to indicate that someone has lost their sanity or is acting irrationally."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "After working 12 hours straight, he seemed to have *lost his marbles*.",
+          "zh": "连续工作了12小时后，他看起来好像失去了理智。"
+        }
+      ],
+      "audio": "audio/788.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She's been so stressed she feels like she's *losing her marbles*.",
+          "zh": "她压力太大了，感觉快要发疯了。"
+        }
+      ],
+      "audio": "audio/788.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "When he started talking to his plants, I thought he had *lost his marbles*.",
+          "zh": "当他开始对植物说话时，我以为他已经疯了。"
+        }
+      ],
+      "audio": "audio/788.3.mp3"
+    }
+  ]
+}

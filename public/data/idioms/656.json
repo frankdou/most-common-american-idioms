@@ -1,0 +1,37 @@
+{
+  "n": 656,
+  "name": "In the black",
+  "meaning": {
+    "zh": "“盈利” 或 “有盈余”。\n\n这个短语源于会计中的一个传统，即用黑色墨水记录盈利状况，用红色墨水记录亏损。因此，账目上用黑色墨水书写表示企业处于盈利状态，而用红色墨水书写则表示企业亏损。",
+    "en": "This idiom originates from traditional accounting practices, where profits were recorded in black ink and losses in red ink. Therefore, having \"in the black\" meant the business was profitable, while \"in the red\" indicated that it was running at a loss."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "After a tough year, the company is finally *in the black*.",
+          "zh": "经过艰难的一年，公司终于盈利了。"
+        }
+      ],
+      "audio": "audio/656.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "We need to cut costs in order to stay *in the black*.",
+          "zh": "我们需要削减成本以保持盈利。"
+        }
+      ],
+      "audio": "audio/656.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "It's essential for a business to be *in the black* to sustain long-term growth.",
+          "zh": "企业要想长期发展，保持盈利是至关重要的。"
+        }
+      ],
+      "audio": "audio/656.3.mp3"
+    }
+  ]
+}

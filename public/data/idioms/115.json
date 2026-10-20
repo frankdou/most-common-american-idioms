@@ -1,0 +1,37 @@
+{
+  "n": 115,
+  "name": "Beat a hasty retreat",
+  "meaning": {
+    "zh": "“匆忙撤退” 或 “仓惶离开”。\n\n这个成语源自军事术语，原意指的是军队迅速撤离战斗或危险区域，以避免遭受更大的损失。在现代语言中，它被用来描述任何人在面临不利或危险的情况时，迅速或突然离开的行为。",
+    "en": "This idiom originates from a military term, meaning that a force quickly withdraws from combat or a dangerous area to avoid more significant losses. In modern usage, it is employed to describe anyone quickly or suddenly leaving when faced with an unfavorable or dangerous situation."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "When the fire alarm went off, everyone *beat a hasty retreat* from the building.",
+          "zh": "当火警响起时，大家都匆忙撤离了大楼。"
+        }
+      ],
+      "audio": "audio/115.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The thief *beat a hasty retreat* when he heard the police sirens.",
+          "zh": "当小偷听到警笛声时，他仓惶逃走了。"
+        }
+      ],
+      "audio": "audio/115.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "After realizing he was speaking to the wrong person, he *beat a hasty retreat*.",
+          "zh": "意识到找错了人后，他赶紧离开了。"
+        }
+      ],
+      "audio": "audio/115.3.mp3"
+    }
+  ]
+}

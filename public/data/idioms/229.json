@@ -1,0 +1,37 @@
+{
+  "n": 229,
+  "name": "Caught red-handed",
+  "meaning": {
+    "zh": "“当场抓住” 或 “现行抓获”。\n\n这个短语起源于捕捉一个人犯下罪行时的情境，特别是带有犯罪证据的情形。最早的用例可以追溯到15世纪的苏格兰法律术语，指一个人手上沾满了血，被发现刚刚犯下某个暴力罪行。在现代，\"caught red-handed\" 用来表示一个人被当场逮住，通常指某人被抓到在做不应该做的事。",
+    "en": "This phrase originates from situations where someone is caught in the act of committing a crime, especially with incriminating evidence. The earliest usage dates back to 15th-century Scottish legal terminology, referring to a person caught with blood on their hands after committing a violent crime. In modern times, \"caught red-handed\" is used to indicate that someone has been caught in the act, typically doing something they shouldn't be doing."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The thief was *caught red-handed* trying to steal the car.",
+          "zh": "小偷在试图偷车时被当场抓住。"
+        }
+      ],
+      "audio": "audio/229.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I was *caught red-handed* by my boss while slacking off at work.",
+          "zh": "我在工作中偷懒时被老板当场抓住。"
+        }
+      ],
+      "audio": "audio/229.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She was *caught red-handed* cheating on the exam.",
+          "zh": "她在考试中作弊时被当场抓到。"
+        }
+      ],
+      "audio": "audio/229.3.mp3"
+    }
+  ]
+}

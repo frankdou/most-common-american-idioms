@@ -1,0 +1,37 @@
+{
+  "n": 524,
+  "name": "Go out on a limb",
+  "meaning": {
+    "zh": "“冒险做某事” 或 “承担风险”。\n\n这个短语源自于爬树时站在一根树枝上，即使站在树枝的末端会更加不稳定和危险。在现代社会，该短语用来形容一个人愿意冒风险或承担责任去做某事，通常是在给予某种支持或意见时。",
+    "en": "This idiom originates from the idea of climbing a tree and standing on a limb (a branch), where the further out you go the less stable and more risky it becomes. In modern usage, \"go out on a limb\" means to take a risk or put oneself in a vulnerable position for a particular purpose, often to offer support or give an opinion."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I'm going to *go out on a limb* and say that our team will win the championship this year.",
+          "zh": "我要冒险说一句，我们的球队今年会赢得冠军。"
+        }
+      ],
+      "audio": "audio/524.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She went *out on a limb* to defend her friend in the meeting.",
+          "zh": "她在会议上冒险为她的朋友辩护。"
+        }
+      ],
+      "audio": "audio/524.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He decided to *go out on a limb* and invest in the startup company.",
+          "zh": "他决定冒险投资那家初创公司。"
+        }
+      ],
+      "audio": "audio/524.3.mp3"
+    }
+  ]
+}

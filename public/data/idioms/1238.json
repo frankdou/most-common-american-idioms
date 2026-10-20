@@ -1,0 +1,37 @@
+{
+  "n": 1238,
+  "name": "To see the light",
+  "meaning": {
+    "zh": "“看到了光明” 或 “恍然大悟”。\n\n这个短语起源于圣经，指被神的光启发而明白真理。在现代英语中，这个短语用来形容某人在经过一段时间的困惑或怀疑后，最终理解或接受某个观点或事实。",
+    "en": "This phrase originates from the Bible, indicating being enlightened by God's light and understanding the truth. In modern English, it’s used to describe someone who, after a period of uncertainty or doubt, finally understands or accepts a point or fact."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "After years of struggling with his career, he finally *saw the light* and decided to pursue his passion.",
+          "zh": "在多年为事业挣扎后，他终于恍然大悟，决定追求自己的热情。"
+        }
+      ],
+      "audio": "audio/1238.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She was skeptical about the new policy, but after the meeting, she *saw the light*.",
+          "zh": "她对新政策持怀疑态度，但在会议后她恍然大悟。"
+        }
+      ],
+      "audio": "audio/1238.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "It took him a while to *see the light* and understand the benefits of a healthy lifestyle.",
+          "zh": "花了他一段时间才恍然大悟，并理解健康生活方式的好处。"
+        }
+      ],
+      "audio": "audio/1238.3.mp3"
+    }
+  ]
+}

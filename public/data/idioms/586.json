@@ -1,0 +1,37 @@
+{
+  "n": 586,
+  "name": "Have your head in the clouds",
+  "meaning": {
+    "zh": "“心不在焉” 或 “不切实际”。\n\n这个短语的历史背景相对模糊，但一般认为它形容一个人好像在做白日梦，心思不在当前的工作或者周围的环境中。也可以用来描述一个人想法不切实际，过于理想化。",
+    "en": "This phrase's historical background is relatively unclear, but it is generally thought to describe someone who seems to be daydreaming, with their thoughts not on their current task or surroundings. It can also describe someone whose ideas are unrealistic and overly idealistic."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He's always *got his head in the clouds* during meetings.",
+          "zh": "他在会议中总是心不在焉。"
+        }
+      ],
+      "audio": "audio/586.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "If you keep *having your head in the clouds*, you'll never finish your work on time.",
+          "zh": "如果你继续心不在焉，你绝对赶不完工作。"
+        }
+      ],
+      "audio": "audio/586.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She tends to *have her head in the clouds* instead of focusing on practical matters.",
+          "zh": "她倾向于不切实际，而不是关注实在的问题。"
+        }
+      ],
+      "audio": "audio/586.3.mp3"
+    }
+  ]
+}

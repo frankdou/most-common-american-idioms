@@ -1,0 +1,37 @@
+{
+  "n": 473,
+  "name": "Get off on the wrong foot",
+  "meaning": {
+    "zh": "“开始不顺” 或 “一开始就出错”。\n\n这个短语的起源并不十分清楚，但普遍认为它可能源自于军中的行走训练。如果士兵们在行军时没有步调一致，便会导致队伍的混乱。另一种说法认为它与舞蹈有关，如果舞伴之间的协调不佳，整个舞蹈就会不流畅。因此，这个短语被用来形容在事情刚开始的时候就出现问题或误解。",
+    "en": "This phrase's origin is somewhat unclear, but it is commonly believed to come from military marching drills. If soldiers do not start marching in sync, it leads to confusion. Another theory ties it to dancing, where partners need to coordinate well; otherwise, the dance won't be smooth. Thus, this phrase is used to describe situations where things start off badly or with misunderstandings."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "We got off on the wrong foot during our first meeting.",
+          "zh": "我们在第一次见面时就开始不顺。"
+        }
+      ],
+      "audio": "audio/473.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Starting a new job and getting off on the wrong foot can be stressful.",
+          "zh": "开始一份新工作却一开始就出错会很有压力。"
+        }
+      ],
+      "audio": "audio/473.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "They got off on the wrong foot but eventually became great friends.",
+          "zh": "他们一开始的时候不顺，但最终还是成为了好朋友。"
+        }
+      ],
+      "audio": "audio/473.3.mp3"
+    }
+  ]
+}

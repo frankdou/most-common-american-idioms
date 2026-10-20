@@ -1,0 +1,37 @@
+{
+  "n": 12,
+  "name": "A day late and a dollar short",
+  "meaning": {
+    "zh": "“为时已晚” 或 “错失良机”。\n\n这个短语起源于 19 世纪的美国，形容某人做事过于拖延，结果不仅在时间上晚了一步，而且经济上也没能因此赚到钱。有点类似于中文的 “追悔莫及” 或 “亡羊补牢为时已晚” 的意思。",
+    "en": "This phrase originated in the 19th century in America, describing someone who is overly procrastinating, ultimately missing out not just on time but also on financial opportunities. It somewhat resembles Chinese idioms like “追悔莫及” or “亡羊补牢为时已晚”."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He tried to submit his application, but it was *a day late and a dollar short*.",
+          "zh": "他试图提交申请，但已经为时已晚。"
+        }
+      ],
+      "audio": "audio/012.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Her apology felt *a day late and a dollar short* after the damage was already done.",
+          "zh": "在损害已经造成后，她的道歉显得为时已晚。"
+        }
+      ],
+      "audio": "audio/012.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The sale ended yesterday, so your interest now is *a day late and a dollar short*.",
+          "zh": "促销昨天就结束了，所以你现在才感兴趣已经为时已晚。"
+        }
+      ],
+      "audio": "audio/012.3.mp3"
+    }
+  ]
+}

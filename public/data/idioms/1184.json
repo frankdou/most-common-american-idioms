@@ -1,0 +1,37 @@
+{
+  "n": 1184,
+  "name": "To be beside yourself",
+  "meaning": {
+    "zh": "“极度激动” 或 “极度愤怒、悲伤”。\n\n这个表达的历史可以追溯到中古英语，意为一个人处于情绪的极端，使得他们感觉像是处于情绪之外，无法控制自己。这种状态类似于一种精神上的分离，表明人们被情感所淹没，以至于无法自我约束。",
+    "en": "This phrase can be traced back to Middle English, meaning a person is in an extreme state of emotion, making them feel like they are outside of themselves and unable to control their feelings. This state is similar to a mental separation, indicating that people are overwhelmed by emotions to the point of losing self-control."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "She was *beside herself* when she heard the news.",
+          "zh": "当她听到这个消息时，她几乎无法自控。"
+        }
+      ],
+      "audio": "audio/1184.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He was *beside himself* with rage after the argument.",
+          "zh": "争论之后，他愤怒得几乎要失去理智。"
+        }
+      ],
+      "audio": "audio/1184.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The mother was *beside herself* with worry when her child went missing.",
+          "zh": "当孩子失踪时，母亲忧虑得几乎无法自持。"
+        }
+      ],
+      "audio": "audio/1184.3.mp3"
+    }
+  ]
+}

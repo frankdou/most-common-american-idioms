@@ -1,0 +1,37 @@
+{
+  "n": 299,
+  "name": "Cut the mustard",
+  "meaning": {
+    "zh": "“达到标准” 或 “符合要求”。\n\n这个短语的起源有不同的解释。一个流行的观点认为，短语可能来自19世纪美国，最初指的是某人 “切开” 或 “处理” 非常辣的芥末，隐喻为能够应对或达到高标准的事情。此外，也有可能与德州的某种训练马匹的方法有关，总之，能够 “切开芥末” 表示能够胜任并满足要求。",
+    "en": "There are various explanations about the origin of this phrase. A popular view holds that it might have originated in 19th-century America, referring to someone being able to \"cut\" or handle strong, hot mustard, which is a metaphor for meeting high standards or dealing with challenging tasks. Another possibility relates to a method of training horses in Texas. Overall, \"cut the mustard\" indicates being up to the task and meeting expectations."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I'm not sure if he can *cut the mustard* in this highly competitive industry.",
+          "zh": "我不确定他能否在这个竞争激烈的行业中达到标准。"
+        }
+      ],
+      "audio": "audio/299.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Her performance didn't *cut the mustard* for the role she auditioned for.",
+          "zh": "她的表演未能达到她试镜的角色的要求。"
+        }
+      ],
+      "audio": "audio/299.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He believed he could *cut the mustard* as a project manager.",
+          "zh": "他相信自己能够胜任项目经理的工作。"
+        }
+      ],
+      "audio": "audio/299.3.mp3"
+    }
+  ]
+}

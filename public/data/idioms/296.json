@@ -1,0 +1,37 @@
+{
+  "n": 296,
+  "name": "Curve ball",
+  "meaning": {
+    "zh": "“曲线球” 或 “出其不意的情况”。\n\n这个短语源自棒球运动中的一种投球方式，投出的球会在飞行过程中改变方向，让击球手难以打中。引申义指在生活或工作中出现了意想不到的复杂情况，通常是使情况变得更加困难或挑战性的。",
+    "en": "This phrase originates from a type of pitch in baseball where the ball curves as it approaches the batter, making it difficult to hit. Metaphorically, it refers to an unexpected and challenging situation in life or work, often making things more difficult or complicated."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Life threw me a *curve ball* when I lost my job suddenly.",
+          "zh": "生活给我来了个出其不意的情况，我突然失去了工作。"
+        }
+      ],
+      "audio": "audio/296.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The last-minute changes to the project were a real *curve ball*.",
+          "zh": "项目最后时刻的变动真是个出其不意的情况。"
+        }
+      ],
+      "audio": "audio/296.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Just when I thought everything was going smoothly, I was thrown a *curve ball*.",
+          "zh": "就在我以为一切顺利的时候，却遇到了一个意外的挑战。"
+        }
+      ],
+      "audio": "audio/296.3.mp3"
+    }
+  ]
+}

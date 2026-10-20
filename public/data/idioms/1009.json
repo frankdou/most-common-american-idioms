@@ -1,0 +1,37 @@
+{
+  "n": 1009,
+  "name": "Saving for a rainy day",
+  "meaning": {
+    "zh": "“未雨绸缪” 或 “储蓄以备不时之需”。\n\n这个短语源自于古老的农民生活，在雨天不适合进行农活，所以需要在好天气的时候储存足够的粮食和物资，确保在无法进行户外活动时也能维持生计。在现代生活中，这个成语用来表达人们在经济上的预备，以避免未来可能出现的困难或紧急情况。",
+    "en": "This phrase originates from the old farming life where bad weather, such as a rainy day, would prevent work, requiring the storage of enough food and supplies during good weather to sustain themselves when outdoor activities were impossible. In modern life, this idiom is used to express the idea of financial preparation to avoid future hardships or emergencies."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "We should start *saving for a rainy day* sooner rather than later.",
+          "zh": "我们应该尽早开始未雨绸缪。"
+        }
+      ],
+      "audio": "audio/1009.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She puts aside a part of her salary every month, *saving for a rainy day*.",
+          "zh": "她每个月都会存部分工资，以备不时之需。"
+        }
+      ],
+      "audio": "audio/1009.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "They didn't *save for a rainy day*, and now they're in financial trouble.",
+          "zh": "他们没有未雨绸缪，所以现在遇到了财务困难。"
+        }
+      ],
+      "audio": "audio/1009.3.mp3"
+    }
+  ]
+}

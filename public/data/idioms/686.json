@@ -1,0 +1,37 @@
+{
+  "n": 686,
+  "name": "Joshing me",
+  "meaning": {
+    "zh": "“拿我开玩笑” 或 “戏弄我”。\n\n这个短语起源于19世纪，来源于美国俚语。Joshing 这个词本身是由名字 Josh 演变而来的。Josh 常常用于指喜欢开玩笑的人。随着时间的推移，\"joshing\" 便成了表示轻松开玩笑或戏弄的固定用语。",
+    "en": "The phrase originates from 19th-century American slang. The term \"joshing\" itself evolved from the name Josh, which was often used to refer to someone who enjoys making jokes. Over time, \"joshing\" became a fixed expression to signify light-hearted joking or teasing."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Stop *joshing me*, I know you didn't really see a ghost.",
+          "zh": "别拿我开玩笑了，我知道你根本没看到鬼。"
+        }
+      ],
+      "audio": "audio/686.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Are you *joshing me*? There's no way you finished that project in one day.",
+          "zh": "你在戏弄我吗？你不可能一天之内完成那个项目。"
+        }
+      ],
+      "audio": "audio/686.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He always likes *joshing me* about my cooking skills.",
+          "zh": "他总是喜欢拿我的烹饪技巧开玩笑。"
+        }
+      ],
+      "audio": "audio/686.3.mp3"
+    }
+  ]
+}

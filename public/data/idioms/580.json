@@ -1,0 +1,37 @@
+{
+  "n": 580,
+  "name": "Have bats in one's belfry",
+  "meaning": {
+    "zh": "“头脑不清楚” 或 “行为古怪”。\n\n这个短语的起源可以追溯到古老的钟楼（belfry），钟楼的顶部常常会有一些做巢的蝙蝠。如果钟楼内有蝙蝠飞来飞去，整个钟楼就会显得混乱和不协调，比喻一个人的头脑里面也如同有一些蝙蝠飞来飞去那样，神智不清或行为怪异。那么，这个习语通常用来描述一个人行为不寻常或思维不清晰。",
+    "en": "This idiom originates from the imagery of bats in a belfry (a church tower). When there are bats flying around in a belfry, it creates a sense of disorder and confusion. Similarly, having \"bats in one's belfry\" implies that someone's mind is in disarray or that they are eccentric. It is used to describe someone who behaves unusually or whose thoughts are jumbled."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "People say he's got *bats in his belfry* because of his strange inventions.",
+          "zh": "人们说他脑子有问题，因为他的发明都很古怪。"
+        }
+      ],
+      "audio": "audio/580.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Don't mind her; she's got *bats in her belfry* sometimes.",
+          "zh": "别在意她；她有时会显得有点怪异。"
+        }
+      ],
+      "audio": "audio/580.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "That guy has *bats in his belfry* if he thinks he can run a marathon without training.",
+          "zh": "如果那个人认为自己不用训练就能跑马拉松，那他真是脑子不清楚。"
+        }
+      ],
+      "audio": "audio/580.3.mp3"
+    }
+  ]
+}

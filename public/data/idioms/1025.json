@@ -1,0 +1,37 @@
+{
+  "n": 1025,
+  "name": "See through someone/something",
+  "meaning": {
+    "zh": "“看穿某人/某事”。\n\n这个短语的起源可以追溯到字面意思上的 “穿透看到”，即能够理解一个人的真实意图或动机，或者识破某事的真正本质。无论是指一个人的欺骗手段或是一个情况的实际真相，这个短语都有 “一眼看穿” 的含义。",
+    "en": "This phrase originates from the literal meaning of \"seeing through,\" which implies understanding a person's true intentions or motives, or discerning the real nature of a situation. Whether referring to someone's deceit or the actual truth of a matter, this idiom carries the connotation of \"seeing right through\" it."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I can see through his lies; he's not telling the truth.",
+          "zh": "我看穿了他的谎言; 他没有说实话。"
+        }
+      ],
+      "audio": "audio/1025.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She seems nice, but I see through her; she's just pretending to be kind.",
+          "zh": "她看起来很友好，但我看穿了她; 她只是假装善良。"
+        }
+      ],
+      "audio": "audio/1025.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The boss could see through the employee's excuse and knew he was lying.",
+          "zh": "老板看穿了员工的借口，知道他在撒谎。"
+        }
+      ],
+      "audio": "audio/1025.3.mp3"
+    }
+  ]
+}

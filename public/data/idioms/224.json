@@ -1,0 +1,37 @@
+{
+  "n": 224,
+  "name": "Catch some Zs",
+  "meaning": {
+    "zh": "“睡个觉” 或 “打个盹”。\n\n这个短语的起源在于字母 “Z” 常被用来表示打呼的声音，类似于人们在漫画或卡通中看到的情景。这种用法将 “catch some Zs” 变成了一个幽默的表达方式，用来指代睡觉或小憩一会儿。",
+    "en": "This phrase originates from the letter \"Z\" often used to represent the sound of snoring, similar to situations seen in comics or cartoons. This usage turned \"catch some Zs\" into a humorous way to denote sleeping or taking a nap."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I need to catch some Zs before the long drive.",
+          "zh": "我需要睡个觉以应对长途驾驶。"
+        }
+      ],
+      "audio": "audio/224.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He usually catches some Zs during his lunch break.",
+          "zh": "他通常在午休时间打个盹。"
+        }
+      ],
+      "audio": "audio/224.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "After the exam, all I wanted to do was catch some Zs.",
+          "zh": "考试后，我只想好好睡一觉。"
+        }
+      ],
+      "audio": "audio/224.3.mp3"
+    }
+  ]
+}

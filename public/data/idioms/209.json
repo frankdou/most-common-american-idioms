@@ -1,0 +1,37 @@
+{
+  "n": 209,
+  "name": "Calm before the storm",
+  "meaning": {
+    "zh": "“暴风雨前的宁静”。\n\n这个短语来源于天气现象，在暴风雨来临之前，常常会有一段异常的平静期。在此短语被引申应用到其他场合时，则表示在重大事件或问题发生之前的那段相对平静的时间。",
+    "en": "This phrase originates from a weather phenomenon where a period of unusual quietness or calmness occurs right before a storm hits. When applied metaphorically to other contexts, it describes the peaceful period before a major event or problem occurs."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The office was quiet, but it felt like the *calm before the storm*.",
+          "zh": "办公室很安静，但感觉就像暴风雨前的宁静。"
+        }
+      ],
+      "audio": "audio/209.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Everyone enjoyed the relaxing weekend, unaware it was the *calm before the storm*.",
+          "zh": "所有人都在享受轻松的周末，没有意识到这是暴风雨前的宁静。"
+        }
+      ],
+      "audio": "audio/209.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The market was stable, but analysts warned it was just the *calm before the storm*.",
+          "zh": "市场很稳定，但分析师警告说这只是暴风雨前的宁静。"
+        }
+      ],
+      "audio": "audio/209.3.mp3"
+    }
+  ]
+}

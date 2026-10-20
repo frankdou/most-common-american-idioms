@@ -1,0 +1,37 @@
+{
+  "n": 625,
+  "name": "Hotshot",
+  "meaning": {
+    "zh": "“能人” 或 “自命不凡的人”。\n\n这个短语起源于20世纪初，起初多用于形容技艺高超、有能力的人。后来，也用来描述那些自认为自己很了不起的人，带有一些贬义的成分。在不同的上下文中，可以是褒义，也可以是贬义。",
+    "en": "This phrase originated in the early 20th century and was initially used to describe someone who is highly skilled or capable. Over time, it also came to describe someone who is overly confident or conceited, sometimes carrying a slightly negative connotation. Depending on the context, it can be either positive or negative."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The new CEO is a real *hotshot* in the tech industry.",
+          "zh": "新任 CEO 是科技行业的一位真正能人。"
+        }
+      ],
+      "audio": "audio/625.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Watch out for that *hotshot* driver, he thinks he owns the road.",
+          "zh": "当心那个自命不凡的司机，他以为马路是他家的。"
+        }
+      ],
+      "audio": "audio/625.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She's a *hotshot* lawyer known for winning difficult cases.",
+          "zh": "她是一位以赢得艰难案件而闻名的能人律师。"
+        }
+      ],
+      "audio": "audio/625.3.mp3"
+    }
+  ]
+}

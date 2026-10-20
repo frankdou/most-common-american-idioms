@@ -1,0 +1,37 @@
+{
+  "n": 860,
+  "name": "Off on the wrong foot",
+  "meaning": {
+    "zh": "“开局不顺” 或 “一开始就出错”。\n\n这个短语起源于古希腊的文化，早期人们认为右脚是吉利的，所以走路或做事应该用右脚起步。而用左脚起步则被认为是不吉利的，因此用左脚走错了一步就象征着事情一开始就不太顺利。这个短语常用于描述一个不好的起点或第一次尝试不成功的情况。",
+    "en": "This phrase originates from ancient Greek culture, where the right foot was considered auspicious, and thus, people believed starting with the right foot brought good luck. Conversely, starting with the left foot was deemed unlucky, symbolizing a problematic beginning. The idiom is often used to describe a bad start or an unsuccessful first attempt."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "We got off on the wrong foot with the project, but things are improving now.",
+          "zh": "我们这个项目一开始就不顺利，但现在情况正在好转。"
+        }
+      ],
+      "audio": "audio/860.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "They got off on the wrong foot during their first meeting and have been at odds since.",
+          "zh": "他们在第一次见面时就开局不顺，从那以后一直有分歧。"
+        }
+      ],
+      "audio": "audio/860.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I'm afraid we may have gotten off on the wrong foot with our new client.",
+          "zh": "我担心我们与新客户的开局不太顺利。"
+        }
+      ],
+      "audio": "audio/860.3.mp3"
+    }
+  ]
+}

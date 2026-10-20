@@ -1,0 +1,37 @@
+{
+  "n": 43,
+  "name": "A stitch in time saves nine",
+  "meaning": {
+    "zh": "“小洞不补，大洞吃苦” 或 “及时缝一针，省下九针”。\n\n这个短语起源于缝纫的比喻，意思是如果能及时处理小问题，就能防止小问题变成大麻烦，进而避免更多的工作和烦恼。在某种情况下，有效的早期干预可以节省时间和精力。因此，用这个成语来强调及时处理问题的重要性。",
+    "en": "This phrase originates from a sewing metaphor, indicating that if a small tear in fabric is mended promptly, it can prevent the tear from becoming larger and thus save more sewing work later. In broader terms, it suggests that early intervention to address small issues avoids bigger problems and saves time and effort. Consequently, this idiom emphasizes the importance of addressing issues in a timely manner."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I know it's a small leak, but remember, *a stitch in time saves nine*.",
+          "zh": "我知道这只是一个小漏，但记住，小洞不补，大洞吃苦。"
+        }
+      ],
+      "audio": "audio/043.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Fix that flat tire now; *a stitch in time saves nine*.",
+          "zh": "现在就修好那个泄气的轮胎吧，及时缝一针，省下九针。"
+        }
+      ],
+      "audio": "audio/043.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "You should update the software immediately; *a stitch in time saves nine*.",
+          "zh": "你应该立即更新软件，及时解决可以避免大麻烦。"
+        }
+      ],
+      "audio": "audio/043.3.mp3"
+    }
+  ]
+}

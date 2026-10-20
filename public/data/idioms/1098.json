@@ -1,0 +1,37 @@
+{
+  "n": 1098,
+  "name": "Take it easy",
+  "meaning": {
+    "zh": "“放轻松” 或 “别紧张”。\n\n这个短语源自英语中的 “easy”，表示容易、轻松。在日常使用中，\"take it easy\" 被用来建议别人不要过于紧张、焦虑或者着急，而是保持冷静和放松的态度。这种表达通常用于安抚他人，或提醒对方不必过于担心。",
+    "en": "This phrase comes from the word \"easy,\" meaning simple or relaxed. In everyday use, \"take it easy\" is used to advise someone not to be too stressed, anxious, or hurried, but instead to remain calm and relaxed. It's often used to soothe others or remind them not to worry too much."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "After working non-stop, you need to *take it easy* for a while.",
+          "zh": "在连续工作之后，你需要放轻松一段时间。"
+        }
+      ],
+      "audio": "audio/1098.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "*Take it easy*, there’s no rush to finish everything today.",
+          "zh": "放轻松，没有必要今天完成所有事情。"
+        }
+      ],
+      "audio": "audio/1098.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He told her to *take it easy* before her big speech.",
+          "zh": "他告诉她在重要演讲前放轻松。"
+        }
+      ],
+      "audio": "audio/1098.3.mp3"
+    }
+  ]
+}

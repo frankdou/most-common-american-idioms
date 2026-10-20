@@ -1,0 +1,37 @@
+{
+  "n": 332,
+  "name": "Don't beat a dead horse",
+  "meaning": {
+    "zh": "“不做无用功” 或 “不要再纠缠无效的事情”。\n\n这个短语源自于19世纪，有人把马比喻为一种工具，如果这匹马已经死了，再怎么鞭打也没有意义。同样，当事情已经结果或不会变得更好时，再继续努力或纠缠也没有任何效果，反而是浪费时间和精力。",
+    "en": "This idiom originates from the 19th century, where a horse represents a tool, and if the horse is dead, beating it further is pointless. Similarly, when a matter is resolved or won't improve, continuing to exert effort or focus on it is futile, thus wasting time and energy."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "We have already decided to go with the new plan. Let's not *beat a dead horse*.",
+          "zh": "我们已经决定采用新计划了，不要再纠缠过去的事情了。"
+        }
+      ],
+      "audio": "audio/332.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Trying to fix this old car is like *beating a dead horse*. It's not worth the effort.",
+          "zh": "试图修这辆旧车就像是在做无用功，不值得花费精力。"
+        }
+      ],
+      "audio": "audio/332.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He keeps bringing up the same argument, but it's just *beating a dead horse* at this point.",
+          "zh": "他一直提同样的论点，但在这时候再说下去也只是白费力气。"
+        }
+      ],
+      "audio": "audio/332.3.mp3"
+    }
+  ]
+}

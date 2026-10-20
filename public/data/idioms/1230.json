@@ -1,0 +1,37 @@
+{
+  "n": 1230,
+  "name": "To make a long story short",
+  "meaning": {
+    "zh": "“长话短说” 或 “简而言之”。\n\n这个短语用来在谈论某件事情时省去不必要的细节，直接讲述结论或关键部分。它起源于英语，表达的是在讲述一个详细的故事时，省去不重要的部分，让听众赶快听到结论或主要事件。",
+    "en": "This phrase is used when discussing something to skip unnecessary details and get straight to the conclusion or key points. It originates from English, conveying the idea of shortening a detailed story, so the listener quickly hears the conclusion or main events."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "*To make a long story short*, we missed the flight but got a free hotel stay.",
+          "zh": "长话短说，我们错过了航班，但得到了免费的酒店住宿。"
+        }
+      ],
+      "audio": "audio/1230.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "*To make a long story short*, she got the job after several interviews.",
+          "zh": "简而言之，她经过几轮面试后得到了那份工作。"
+        }
+      ],
+      "audio": "audio/1230.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "*To make a long story short*, I moved out and found a better place to live.",
+          "zh": "长话短说，我搬走了，并找到了一个更好的住处。"
+        }
+      ],
+      "audio": "audio/1230.3.mp3"
+    }
+  ]
+}

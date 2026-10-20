@@ -1,0 +1,37 @@
+{
+  "n": 1043,
+  "name": "Sitting like a bump on a log",
+  "meaning": {
+    "zh": "形容某人什么也不做，呆若木鸡，无所事事地坐着。\n\n这个短语来源于观察木头上的凸块（树瘤）不会移动或反应。这个比喻用来形容一个人静止不动地坐着，毫无生气或没有参与感，就像树上的一个凸块一样。它常用于描述懒惰、不参与或无所事事的状态。",
+    "en": "This phrase originates from the observation that a bump (or knot) on a log is immobile and unresponsive. The metaphor is used to describe a person who sits motionless and uninvolved, just like a bump on a log. It’s often used to depict laziness, lack of involvement, or inactivity."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Don't just sit there *like a bump on a log*, help us move these boxes!",
+          "zh": "别就那样什么都不做，来帮我们搬这些箱子吧！"
+        }
+      ],
+      "audio": "audio/1043.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He sat *like a bump on a log* during the meeting and didn't contribute anything.",
+          "zh": "他在会议期间像呆若木鸡，什么也没有贡献。"
+        }
+      ],
+      "audio": "audio/1043.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She can't expect to get a job if she just sits *like a bump on a log* all day.",
+          "zh": "如果她整天无所事事地坐着，无法指望能找到工作。"
+        }
+      ],
+      "audio": "audio/1043.3.mp3"
+    }
+  ]
+}

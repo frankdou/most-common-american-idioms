@@ -1,0 +1,37 @@
+{
+  "n": 630,
+  "name": "I suck at something",
+  "meaning": {
+    "zh": "“我很不擅长做某事”。\n\n这个短语起源于美国的俚语，其中 “suck” 意思是 “糟糕” 或 “做得不好”。当人们说 “I suck at something” 时，他们是在表达自己在某项活动或技能上的不足或失败。这种表达通常带有自嘲的意味，并非过于严苛或正式。",
+    "en": "This phrase originates from American slang, where \"suck\" means to be bad at or perform poorly in something. When people say \"I suck at something,\" they are conveying their inadequacy or failure in a particular activity or skill. This expression usually carries a self-deprecating tone and is not overly harsh or formal."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I really suck at math. I always get bad grades.",
+          "zh": "我真的很不擅长数学，总是得低分。"
+        }
+      ],
+      "audio": "audio/630.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She sucks at cooking but loves to experiment in the kitchen.",
+          "zh": "她做饭很糟糕，但很喜欢在厨房里做实验。"
+        }
+      ],
+      "audio": "audio/630.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He admitted he sucks at playing the guitar but enjoys it anyway.",
+          "zh": "他承认自己弹吉他很差，但仍然很享受。"
+        }
+      ],
+      "audio": "audio/630.3.mp3"
+    }
+  ]
+}

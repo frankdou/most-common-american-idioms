@@ -1,0 +1,37 @@
+{
+  "n": 715,
+  "name": "Kept in the dark",
+  "meaning": {
+    "zh": "“不知情” 或 “被蒙在鼓里”。\n\n这个短语的起源可以追溯到许多世纪前，在英语中使用黑暗来描述无知或缺乏信息是很常见的。例如，种子的生长需要阳光，而如果种子被 “放在黑暗中”，它们就无法发芽。这类似于人们被故意隐瞒信息，他们就像种子被放在黑暗中一样无法 “增长” 或了解事实。",
+    "en": "This phrase can be traced back many centuries, as it's common in English to use darkness to describe ignorance or a lack of information. For example, seeds need sunlight to grow, and if seeds are \"kept in the dark,\" they cannot germinate. This is similar to people being deliberately kept from information, thus being unable to \"grow\" or understand the facts."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The employees were *kept in the dark* about the company's merger plans.",
+          "zh": "员工们被蒙在鼓里，不知道公司的合并计划。"
+        }
+      ],
+      "audio": "audio/715.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She felt *kept in the dark* about the decision-making process.",
+          "zh": "她感到在决策过程中自己被蒙在鼓里。"
+        }
+      ],
+      "audio": "audio/715.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "They don’t want us to know the truth, so they’ve *kept us in the dark*.",
+          "zh": "他们不想让我们知道真相，所以将我们蒙在鼓里。"
+        }
+      ],
+      "audio": "audio/715.3.mp3"
+    }
+  ]
+}

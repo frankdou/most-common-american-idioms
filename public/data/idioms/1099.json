@@ -1,0 +1,37 @@
+{
+  "n": 1099,
+  "name": "Take it with a grain of salt/a pinch of salt",
+  "meaning": {
+    "zh": "“持保留态度” 或 “有所怀疑地看待”。\n\n这个短语起源于古罗马时代。当时，Pliny the Elder（老普林尼）在他的著作《自然史》中提到，用一粒盐来缓和毒药的效果。现代用法中，这个短语表示对某些信息或陈述不完全相信，需要保留怀疑态度。这通常适用于串行听闻或可能夸大的信息。",
+    "en": "This idiom originates from ancient Rome. At that time, Pliny the Elder mentioned in his work \"Natural History\" that a grain of salt could mitigate the effects of poison. In modern usage, the phrase means to be skeptical about something or to not take it at face value. It is often used when encountering hearsay or potentially exaggerated information."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He told me an incredible story, but I decided to *take it with a grain of salt*.",
+          "zh": "他给我讲了一个难以置信的故事，但我决定持保留态度。"
+        }
+      ],
+      "audio": "audio/1099.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "You should *take what he says with a pinch of salt*; he's known to exaggerate.",
+          "zh": "你应该对他的话持保留态度；他是出了名的夸大其词。"
+        }
+      ],
+      "audio": "audio/1099.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "When reading online reviews, always *take them with a grain of salt*.",
+          "zh": "阅读在线评论时，总要持保留态度。"
+        }
+      ],
+      "audio": "audio/1099.3.mp3"
+    }
+  ]
+}

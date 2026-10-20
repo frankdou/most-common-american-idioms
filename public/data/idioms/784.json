@@ -1,0 +1,37 @@
+{
+  "n": 784,
+  "name": "Look like the cat that swallowed the canary/got the cream",
+  "meaning": {
+    "zh": "“像吃了金丝雀的猫” 或 “像吃了奶油的猫”。\n\n这个短语源于猫捉到或偷吃到金丝雀或奶油后的满足和得意神态，常用于形容一个人做了某件事后非常得意或自信满满，就像猫偷吃到了美味食物一样，这是从视觉上的形象进行的比喻。",
+    "en": "This idiom originates from the visual image of a cat that has caught or stolen a canary or cream and looks extremely satisfied or smug. It's often used to describe someone who appears very pleased or confident after doing something, akin to a cat after consuming a delightful treat."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He walked in looking like the cat that swallowed the canary after closing the big deal.",
+          "zh": "他进来时一副得意洋洋的样子，因为刚刚完成了一笔大交易。"
+        }
+      ],
+      "audio": "audio/784.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "When she won the game, she looked like the cat that got the cream.",
+          "zh": "她赢了比赛后，脸上满是满足和得意的神色。"
+        }
+      ],
+      "audio": "audio/784.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He had that look like the cat that swallowed the canary when his idea was accepted.",
+          "zh": "他的主意被采纳后，他有一种像吃了金丝雀的猫的得意样子。"
+        }
+      ],
+      "audio": "audio/784.3.mp3"
+    }
+  ]
+}

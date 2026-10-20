@@ -1,0 +1,37 @@
+{
+  "n": 1117,
+  "name": "Tall story",
+  "meaning": {
+    "zh": "“夸张的故事” 或 “荒诞的故事”。\n\n这个短语源自于 “tall tale” 这个短语，描述高度夸张或难以置信的故事。这样的故事通常是虚构的，往往通过夸大的细节来吸引听众的注意力。这类故事在西方文化中有时被用于娱乐，特别是在口头讲述传统中。",
+    "en": "This idiom originates from the phrase \"tall tale,\" which describes a highly exaggerated or hard-to-believe story. Such stories are usually fictional, often using exaggerated details to capture the audience's attention. In Western culture, these stories are sometimes used for entertainment, particularly in the tradition of oral storytelling."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He told us a *tall story* about how he once wrestled a bear.",
+          "zh": "他给我们讲了一个关于他曾经与熊摔跤的夸张故事。"
+        }
+      ],
+      "audio": "audio/1117.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "That's just a *tall story*. I don't believe a word of it.",
+          "zh": "那只是一个夸张的故事，我一个字都不相信。"
+        }
+      ],
+      "audio": "audio/1117.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Kids love to hear *tall stories* around the campfire.",
+          "zh": "孩子们喜欢在篝火旁听夸张的故事。"
+        }
+      ],
+      "audio": "audio/1117.3.mp3"
+    }
+  ]
+}

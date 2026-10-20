@@ -1,0 +1,37 @@
+{
+  "n": 121,
+  "name": "Beating around the bush",
+  "meaning": {
+    "zh": "“拐弯抹角” 或 “兜圈子”。\n\n这个短语的起源可以追溯到狩猎时期。当猎人在丛林中打猎时，他们经常需要拍打或敲打灌木丛，以惊动鸟类或猎物，但他们并不直接冲入丛林。而在语言中，“beating around the bush” 就是指人们在讨论问题或表达意思时不直接切入正题，而是绕来绕去、拐弯抹角。",
+    "en": "This phrase originates from hunting periods. Hunters often needed to beat or hit bushes to flush out birds or other game, but they didn't directly rush into the bushes. In language, \"beating around the bush\" means that people don't directly get to the point when discussing issues or expressing thoughts but instead talk around it."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Stop *beating around the bush* and tell me what you really think.",
+          "zh": "别拐弯抹角了，直接告诉我你的真实想法。"
+        }
+      ],
+      "audio": "audio/121.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I'm tired of you *beating around the bush*. Let's get to the point.",
+          "zh": "我厌倦了你绕圈子，我们切入正题吧。"
+        }
+      ],
+      "audio": "audio/121.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He was *beating around the bush* instead of directly answering the question.",
+          "zh": "他在拐弯抹角，而不是直接回答问题。"
+        }
+      ],
+      "audio": "audio/121.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 65,
+  "name": "All in the same boat",
+  "meaning": {
+    "zh": "“同舟共济” 或 “处境相同”。\n\n这个短语起源于航海的历史。如果船上的人面临危险或遇到困境，他们必须共同努力去解决问题，因为他们都是 “同在一条船上”。在现代语境中，这个成语被用来表示大家处于相同的境遇，需要一起面对和解决问题。",
+    "en": "This phrase originates from the history of seafaring. If people on a boat face danger or problems, they must work together to solve them because they are \"all in the same boat.\" In modern contexts, this idiom is used to indicate that everyone is in the same situation and must face and solve problems together."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "During the pandemic, we were all in the same boat, trying to adjust to new norms.",
+          "zh": "在疫情期间，我们都处于相同的境遇，努力适应新的常态。"
+        }
+      ],
+      "audio": "audio/065.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "We can't blame him; we're all in the same boat right now.",
+          "zh": "我们不能责怪他；我们现在都处于同样的境遇。"
+        }
+      ],
+      "audio": "audio/065.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "It’s comforting to know that we’re all in the same boat.",
+          "zh": "知道大家都处于同样的境遇，让人感到宽慰。"
+        }
+      ],
+      "audio": "audio/065.3.mp3"
+    }
+  ]
+}

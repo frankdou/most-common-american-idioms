@@ -1,0 +1,37 @@
+{
+  "n": 59,
+  "name": "Against the clock",
+  "meaning": {
+    "zh": "“与时间赛跑” 或 “争分夺秒”。\n\n这个短语起源于比赛或竞赛中的计时场景。在很多赛事中，选手们需要在规定的时间内完成任务，因此他们是在与时间赛跑。现代社会中，这个短语被广泛用于形容人们在有限的时间内需要完成的紧迫任务，表示要尽快完成某事。",
+    "en": "This phrase originates from timed events or races where participants need to complete their tasks within a set timeframe, essentially racing against the clock. In modern usage, it is widely used to describe the urgency of completing tasks within a limited period, indicating the need to hurry up."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "We are working against the clock to meet the project deadline.",
+          "zh": "我们正争分夺秒地工作，以赶上项目的截止日期。"
+        }
+      ],
+      "audio": "audio/059.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The team was running against the clock to finish the building before the storm hit.",
+          "zh": "团队正在争分夺秒地赶工，以在暴风雨来临前完成建筑。"
+        }
+      ],
+      "audio": "audio/059.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Trying to catch the last train, she was racing against the clock.",
+          "zh": "为了赶上最后一班火车，她正在与时间赛跑。"
+        }
+      ],
+      "audio": "audio/059.3.mp3"
+    }
+  ]
+}

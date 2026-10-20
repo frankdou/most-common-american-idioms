@@ -1,0 +1,37 @@
+{
+  "n": 1320,
+  "name": "Who asked you?",
+  "meaning": {
+    "zh": "“谁问你了？” 或 “轮得着你吗？”\n\n这个短语通常用来表达一种不耐烦或不悦的情绪，意指对方不受欢迎的评论或意见。在交流中，当一个人插嘴或者发表不被期望的意见时，另一个人可能会用这句话来打断或表达不认同。这种说法带有一定的攻击性，因此需要谨慎使用。",
+    "en": "This phrase is often used to express impatience or displeasure, implying that the other person's comment or opinion is unwelcome. In conversation, when someone interrupts or gives an unsolicited opinion, the person receiving it may use this phrase to interrupt or show disagreement. It carries a certain level of aggressiveness, thus should be used with caution."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "\"I think you should try a different approach.\" \"Who asked you?\"",
+          "zh": "“我觉得你应该尝试不同的方法。”“谁问你了？”"
+        }
+      ],
+      "audio": "audio/1320.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "\"Honestly, that shirt doesn't suit you.\" \"Who asked you?\"",
+          "zh": "“老实说，那件衬衫不适合你。”“谁问你了？”"
+        }
+      ],
+      "audio": "audio/1320.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "\"I really don't think this is a good idea.\" \"Who asked you?\"",
+          "zh": "“我真的觉得这不是个好主意。”“谁问你了？”"
+        }
+      ],
+      "audio": "audio/1320.3.mp3"
+    }
+  ]
+}

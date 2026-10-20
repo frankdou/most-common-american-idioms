@@ -1,0 +1,37 @@
+{
+  "n": 970,
+  "name": "Put the squeeze/screws on someone",
+  "meaning": {
+    "zh": "“施压于某人” 或 “对某人施加压力”。\n\n这个短语源自一种形象的表达方式，意指通过某种方式对某人施压，让其屈服或做某事。它可以追溯到两种古老的刑罚工具：一种是 “screws”（螺丝），用来加压，而且这种施压方式会让人非常难受并最终妥协；另一种是 “squeeze”（压榨），意指通过榨取和压迫逼迫某人。同样的表达方式在现代被用来比喻得寸进尺地施压以达到目的。",
+    "en": "This phrase originates from a vivid expression that means to apply pressure on someone to make them comply or do something. It can be traced back to two ancient forms of punishment devices: \"screws,\" which were used to apply pressure causing considerable pain, compelling people to concede, and \"squeeze,\" which indicates pressing or squeezing forcefully. This expression is widely used in modern times to metaphorically describe putting pressure on someone to achieve a certain goal."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The boss really put the screws on us to finish the project by Friday.",
+          "zh": "老板真的对我们施加了压力，让我们在星期五之前完成项目。"
+        }
+      ],
+      "audio": "audio/970.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She had to put the squeeze on her landlord to fix the leaking roof.",
+          "zh": "她不得不向房东施压，去修理漏水的屋顶。"
+        }
+      ],
+      "audio": "audio/970.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "During negotiations, they put the screws on the other party to agree to the terms.",
+          "zh": "在谈判过程中，他们对对方施压，以使其同意条款。"
+        }
+      ],
+      "audio": "audio/970.3.mp3"
+    }
+  ]
+}

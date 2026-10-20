@@ -1,0 +1,37 @@
+{
+  "n": 633,
+  "name": "I'm losing it",
+  "meaning": {
+    "zh": "“我要崩溃了” 或 “我快要失控了”。\n\n这个短语用来表达一个人处于极度压力或情绪波动下，即将失去控制的状态。它可以指代心理压力大导致的精神崩溃，也可以指日常情绪崩溃。\n\n**来历**\n\n这个短语起源于20世纪，主要用于描述人在压力或情绪波动下快要失去理智或控制的状态。它常见于日常对话中，用于形容在工作或生活中面对困难境地时的情绪反应。",
+    "en": "This phrase is used to express that a person is under extreme stress or emotional turbulence and is about to lose control. It can refer to a mental breakdown due to high psychological pressure or simply an emotional outburst in everyday situations.\n\nThis phrase originated in the 20th century, primarily used to describe a state where someone is about to lose their sanity or control due to stress or emotional fluctuations. It's commonly found in daily conversations, used to describe emotional reactions when facing challenging situations in work or life."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I'm so stressed out with all these deadlines; I'm losing it.",
+          "zh": "所有这些最后期限让我压力山大，我快要崩溃了。"
+        }
+      ],
+      "audio": "audio/633.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "With the kids screaming non-stop, I feel like I'm losing it.",
+          "zh": "孩子们不停地尖叫，我觉得我要失控了。"
+        }
+      ],
+      "audio": "audio/633.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "After hours of trying to fix my computer, I'm losing it.",
+          "zh": "经过几个小时的修电脑，我快要崩溃了。"
+        }
+      ],
+      "audio": "audio/633.3.mp3"
+    }
+  ]
+}

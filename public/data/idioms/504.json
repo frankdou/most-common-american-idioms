@@ -1,0 +1,37 @@
+{
+  "n": 504,
+  "name": "Give someone short shrift",
+  "meaning": {
+    "zh": "“草草了事” 或 “敷衍了事”。\n\n这一短语源于中世纪的法律实践，当罪犯被迅速判决并处决时，他们仅允许简短的忏悔时间（shrift）。现代的用法是指不认真对待某人或某事，不给予足够的关注或时间。",
+    "en": "This phrase comes from medieval law practices when criminals were quickly judged and executed, with only a brief time given for confession (shrift). In modern use, it means to not take someone or something seriously, giving it little attention or time."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The manager gave her complaint *short shrift* and moved on to the next task.",
+          "zh": "经理对她的投诉草草了事，然后继续处理下一个任务。"
+        }
+      ],
+      "audio": "audio/504.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "When the idea was proposed, it was given *short shrift* by the board.",
+          "zh": "当这个想法被提出时，董事会敷衍了事。"
+        }
+      ],
+      "audio": "audio/504.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Her concerns were given *short shrift* in the meeting.",
+          "zh": "她的担忧在会议上被草草了事。"
+        }
+      ],
+      "audio": "audio/504.3.mp3"
+    }
+  ]
+}

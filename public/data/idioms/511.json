@@ -1,0 +1,37 @@
+{
+  "n": 511,
+  "name": "Go bananas",
+  "meaning": {
+    "zh": "“发疯” 或 “变得狂热”。\n\n“Go bananas” 这个短语来源于20世纪中期的美国俚语，常被用来形容某人突然变得非常兴奋、愤怒或是表现出非理性的行为。关于该短语的确切起源有很多说法，但其中一种较为普遍的解释是它与猴子喜欢香蕉有关，因为看到香蕉时猴子显得特别激动和疯狂。",
+    "en": "This phrase originated in American slang in the mid-20th century and is often used to describe someone who suddenly becomes extremely excited, angry, or exhibits irrational behavior. There are various explanations for its exact origin, but one common theory is that it is related to the way monkeys act excitedly around bananas."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The kids went bananas when they heard about the trip to Disneyland.",
+          "zh": "孩子们听到要去迪士尼乐园的消息后变得非常兴奋。"
+        }
+      ],
+      "audio": "audio/511.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Her mother went bananas when she saw the mess in the kitchen.",
+          "zh": "她妈妈看到厨房的凌乱后非常生气。"
+        }
+      ],
+      "audio": "audio/511.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Fans go bananas whenever their favorite team wins a match.",
+          "zh": "每当他们喜欢的球队赢得比赛时，粉丝们都会变得狂热。"
+        }
+      ],
+      "audio": "audio/511.3.mp3"
+    }
+  ]
+}

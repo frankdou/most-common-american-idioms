@@ -1,0 +1,37 @@
+{
+  "n": 839,
+  "name": "Nest egg",
+  "meaning": {
+    "zh": "“储备金” 或 “养老金”。\n\n这个短语起源于古英语中用鸡蛋巢指代一种投资方式：在巢里放一个假鸡蛋，鼓励母鸡下更多的蛋。而后来，这个短语就引申用于指代为了未来特定的目的而积攒的钱。",
+    "en": "This phrase originates from an old English practice where a fake egg was placed in a nest to encourage hens to lay more eggs. Over time, the phrase has evolved to represent money saved for a specific future purpose."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "She’s been saving a *nest egg* for her retirement.",
+          "zh": "她在为自己的退休生活积攒储备金。"
+        }
+      ],
+      "audio": "audio/839.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "It's important to have a *nest egg* in case of emergencies.",
+          "zh": "有一笔应急储备金是很重要的。"
+        }
+      ],
+      "audio": "audio/839.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "They used part of their *nest egg* to buy a new house.",
+          "zh": "他们动用了一部分储备金来买新房。"
+        }
+      ],
+      "audio": "audio/839.3.mp3"
+    }
+  ]
+}

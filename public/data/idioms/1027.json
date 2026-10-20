@@ -1,0 +1,37 @@
+{
+  "n": 1027,
+  "name": "Sell someone short",
+  "meaning": {
+    "zh": "“小看某人” 或 “低估某人”。\n\n这个短语起源于金融术语，原本指卖空股票，低估其真实价值，从中获利。在日常对话中，这个短语则表示低估某人的能力或价值，未充分认识到他们的潜力或成就。",
+    "en": "This phrase originated from a financial term, which originally meant selling stock short, underestimating its real value to make a profit. In everyday conversation, the phrase is used to mean underestimating someone's abilities or value, failing to fully recognize their potential or achievements."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Don't *sell yourself short*. You have a lot of talent.",
+          "zh": "不要小看自己。你有很多才华。"
+        }
+      ],
+      "audio": "audio/1027.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He *sold her short*, not realizing she was the best candidate for the job.",
+          "zh": "他低估了她，没有意识到她是该职位最好的候选人。"
+        }
+      ],
+      "audio": "audio/1027.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "They *sold* their competitor *short* but ended up losing the market share.",
+          "zh": "他们低估了竞争对手，结果失去了市场份额。"
+        }
+      ],
+      "audio": "audio/1027.3.mp3"
+    }
+  ]
+}

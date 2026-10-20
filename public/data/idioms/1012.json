@@ -1,0 +1,37 @@
+{
+  "n": 1012,
+  "name": "Scapegoat",
+  "meaning": {
+    "zh": "“替罪羊”。\n\n这个短语源于《圣经》中旧约的《利未记》16章，在赎罪日，祭司亚伦要将一只羊放归旷野，象征着赎去以色列人所有罪孽。这个传统行为使 “scapegoat” 成为了承担他人罪责或过错的代名词。在现代用法中，它用来描述无辜地被指责或被迫承担责任的人。",
+    "en": "This phrase originates from the Bible, specifically the Book of Leviticus 16, where on the Day of Atonement, the priest Aaron would send a goat into the wilderness, symbolically carrying the sins of the Israelites. This ritual act made \"scapegoat\" a term used to refer to someone who is unfairly blamed or forced to take responsibility for the wrongdoing of others."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "When the project failed, John became the office *scapegoat*.",
+          "zh": "当项目失败时，约翰成了办公室的替罪羊。"
+        }
+      ],
+      "audio": "audio/1012.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "They needed a *scapegoat* to take the blame for the accident.",
+          "zh": "他们需要一个替罪羊来承担事故的责任。"
+        }
+      ],
+      "audio": "audio/1012.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She was made the *scapegoat* for the company's financial troubles.",
+          "zh": "她成了公司财务问题的替罪羊。"
+        }
+      ],
+      "audio": "audio/1012.3.mp3"
+    }
+  ]
+}

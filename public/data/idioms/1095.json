@@ -1,0 +1,37 @@
+{
+  "n": 1095,
+  "name": "Sweating bullets",
+  "meaning": {
+    "zh": "“汗如雨下” 或 “非常紧张、焦虑”。\n\n这个成语最早可以追溯到19世纪美国西部，原意是形容人在极度紧张或害怕时会大量出汗，类似于子弹般大小的汗珠滚落下来。现在常用于形容人在极度压力或恐惧下流汗的情景，但并不仅限于实际流汗，更多的是形容精神上的紧张和焦虑。",
+    "en": "This idiom dates back to the 19th-century American West, originally used to describe someone sweating profusely under extreme stress or fear, as if bullets were rolling down their face. Nowadays, it is commonly used to describe a situation where someone is extremely anxious or stressed, not necessarily involving actual sweat but indicating mental stress and anxiety."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He was *sweating bullets* before his big presentation.",
+          "zh": "在重要的演讲之前，他紧张得汗如雨下。"
+        }
+      ],
+      "audio": "audio/1095.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She started *sweating bullets* when she couldn't find her passport.",
+          "zh": "当她找不到护照时，开始紧张得汗如雨下。"
+        }
+      ],
+      "audio": "audio/1095.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Waiting for the exam results had him *sweating bullets*.",
+          "zh": "等待考试结果时，他紧张得汗如雨下。"
+        }
+      ],
+      "audio": "audio/1095.3.mp3"
+    }
+  ]
+}

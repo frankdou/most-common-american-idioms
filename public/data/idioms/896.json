@@ -1,0 +1,37 @@
+{
+  "n": 896,
+  "name": "Out of date",
+  "meaning": {
+    "zh": "“过时” 或 “不再流行”。\n\n这个短语起源于日常用语，用以表示某物、某信息或者某想法不再符合当前的潮流或实际情况。在现代社会，随着科技和文化的快速发展，某些事物很容易变得过时，因此这个短语经常被使用。",
+    "en": "This phrase originates from everyday language and is used to express that something, some information, or an idea is no longer in line with current trends or relevant. In modern society, with the rapid development of technology and culture, certain things can easily become outdated, making this phrase commonly used."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "His phone is so *out of date*; it doesn't even have a touch screen.",
+          "zh": "他的手机太过时了，甚至没有触摸屏。"
+        }
+      ],
+      "audio": "audio/896.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Your fashion sense is a bit *out of date*.",
+          "zh": "你的时尚感有点过时了。"
+        }
+      ],
+      "audio": "audio/896.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Using paper maps is pretty *out of date* now that we have GPS.",
+          "zh": "现在有了 GPS，再使用纸质地图就很过时了。"
+        }
+      ],
+      "audio": "audio/896.3.mp3"
+    }
+  ]
+}

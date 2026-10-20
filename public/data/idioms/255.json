@@ -1,0 +1,37 @@
+{
+  "n": 255,
+  "name": "Coin a phrase",
+  "meaning": {
+    "zh": "“创造一个短语” 或 “造新词”。\n\n这一短语源自于铸造货币的过程。就像铸币一样，创造一个新的短语或词语意味着将新的表达方式引入到语言中。最初，“coin” 这一动词特指铸造硬币，后来引申为创造新的词语或短语。",
+    "en": "This phrase originates from the process of minting coins. Just like minting money, coining a phrase means introducing a new expression into the language. Originally, the verb \"coin\" specifically referred to minting coins, and later it was extended to mean creating new words or phrases."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He is often credited with coining the phrase \"survival of the fittest.\"",
+          "zh": "他经常被认为是 \"适者生存\" 这一短语的创作者。"
+        }
+      ],
+      "audio": "audio/255.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "When your friend said \"staycation,\" do you think she coined that phrase?",
+          "zh": "当你的朋友说 \"宅度假\" 的时候，你认为是她创造了这个词吗？"
+        }
+      ],
+      "audio": "audio/255.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Many writers hope to coin a phrase that becomes widely adopted.",
+          "zh": "许多作家希望能创造出一个被广泛接受的短语。"
+        }
+      ],
+      "audio": "audio/255.3.mp3"
+    }
+  ]
+}

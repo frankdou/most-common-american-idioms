@@ -1,0 +1,37 @@
+{
+  "n": 582,
+  "name": "Have something down pat",
+  "meaning": {
+    "zh": "“彻底掌握某事” 或 “对某事驾轻就熟”。\n\n这个短语源于戏剧术语，其中 “pat” 表示演员已经完全记住了台词，并且可以完美地表演出来。在这个背景下，使用这个短语意味着某人已经非常熟练地掌握了一项技能或知识，达到无需思考即可完成的程度。",
+    "en": "This phrase originates from theatrical terminology, where \"pat\" means an actor has fully memorized their lines and can perform them flawlessly. In this context, using this phrase means that someone has mastered a skill or knowledge to the point where they can execute it effortlessly."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "She has the whole presentation down pat and can deliver it without any notes.",
+          "zh": "她已经完全掌握了整个演讲，可以毫不依赖笔记地进行。"
+        }
+      ],
+      "audio": "audio/582.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I've got my morning routine down pat, it takes me only 15 minutes to get ready.",
+          "zh": "我的晨间习惯已经驾轻就熟，只需15分钟就能准备好。"
+        }
+      ],
+      "audio": "audio/582.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He has the recipe down pat and makes the dish perfectly every time.",
+          "zh": "他已经完全掌握了这道菜的食谱，每次都能做得很完美。"
+        }
+      ],
+      "audio": "audio/582.3.mp3"
+    }
+  ]
+}

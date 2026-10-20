@@ -1,0 +1,37 @@
+{
+  "n": 512,
+  "name": "Go belly up",
+  "meaning": {
+    "zh": "“倒闭” 或 “失败”。\n\n这个短语源自鱼类死亡后会四肢朝天漂浮在水面上的情景，显得它们的肚子 (belly) 朝上 (up)，因此用于形容企业或项目彻底失败和崩溃。在现代英语中，这个表达通常用于指企业破产或事情彻底失败。",
+    "en": "This phrase originates from the imagery of fish turning belly up when they die, floating on the water surface with their bellies facing up, signifying they are dead. Thus, the expression is used to describe a business or project that has completely failed. In modern English, this is often used to refer to business bankruptcy or the complete failure of an endeavor."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The company went *belly up* after years of financial trouble.",
+          "zh": "这家公司在多年财务困境后终于倒闭了。"
+        }
+      ],
+      "audio": "audio/512.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Many restaurants went *belly up* during the economic downturn.",
+          "zh": "许多餐馆在经济衰退期间倒闭了。"
+        }
+      ],
+      "audio": "audio/512.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Our startup could go *belly up* if we don't get more investors soon.",
+          "zh": "如果我们不尽快找到更多投资者，我们的初创公司可能会倒闭。"
+        }
+      ],
+      "audio": "audio/512.3.mp3"
+    }
+  ]
+}

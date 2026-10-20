@@ -1,0 +1,37 @@
+{
+  "n": 286,
+  "name": "Crack someone up",
+  "meaning": {
+    "zh": "“使某人大笑” 或 “逗乐某人”。\n\n这个短语起源于英语中 “crack” 的几种含义之一，即 “破裂或崩裂”。在这种语境下，形象地表示一个人因为某事而笑得几乎裂开了。现代英语中，\"crack someone up\" 被用来表示某人被逗得哈哈大笑。",
+    "en": "This phrase originates from one of the many meanings of \"crack\" in English, which implies breaking or cracking up. In this context, it vividly describes someone laughing so hard that they almost break apart. In modern English, \"crack someone up\" is used to indicate that someone is made to laugh heartily."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The comedian's jokes always *crack me up*.",
+          "zh": "那个喜剧演员的笑话总是让我大笑。"
+        }
+      ],
+      "audio": "audio/286.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Her funny stories never fail to *crack us up*.",
+          "zh": "她的搞笑故事从来不让我们失望，总能逗我们笑。"
+        }
+      ],
+      "audio": "audio/286.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "That movie was so hilarious, it really *cracked me up*.",
+          "zh": "那部电影真是太搞笑了，真的让我笑翻了。"
+        }
+      ],
+      "audio": "audio/286.3.mp3"
+    }
+  ]
+}

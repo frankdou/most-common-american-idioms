@@ -1,0 +1,37 @@
+{
+  "n": 223,
+  "name": "Catch some rays",
+  "meaning": {
+    "zh": "“晒太阳”。\n\n这个短语起源于美国口语中的一种表达，指的是外出以享受日光浴或吸收阳光来放松自己。随着时间的推移，“catch some rays” 已经成为一种常用的表达，用来描述晒太阳这一休闲活动，特别是在天气晴朗的时候。",
+    "en": "This phrase originates from American slang, referring to going outside to enjoy the sunshine or absorb sunlight to relax. Over time, \"catch some rays\" has become a commonly used expression to describe the activity of sunbathing, especially on a sunny day."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I'm planning to head to the beach this weekend to *catch some rays*.",
+          "zh": "我打算这个周末去海滩晒晒太阳。"
+        }
+      ],
+      "audio": "audio/223.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "After a long week at work, she loves to *catch some rays* in her backyard.",
+          "zh": "经历了一周的忙碌工作后，她喜欢在自家后院里晒晒太阳。"
+        }
+      ],
+      "audio": "audio/223.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Don’t forget to put on sunscreen when you go out to *catch some rays*.",
+          "zh": "出门晒太阳时别忘了涂上防晒霜。"
+        }
+      ],
+      "audio": "audio/223.3.mp3"
+    }
+  ]
+}

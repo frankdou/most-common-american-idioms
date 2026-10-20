@@ -1,0 +1,37 @@
+{
+  "n": 575,
+  "name": "Happy-go-lucky",
+  "meaning": {
+    "zh": "“乐天派” 或 “无忧无虑”。\n\n这个短语源自于早期的英语，它的意思字面上是 “遇事开心”。这个成语主要用来形容那些轻松愉快、不太在意未来的人。他们往往保持积极、随遇而安的生活态度，不因为未来而担忧。",
+    "en": "This phrase originates from early English, with the literal meaning of \"happy with whatever luck comes\". It primarily describes individuals who are carefree and do not worry much about the future. These people tend to maintain a positive, go-with-the-flow attitude towards life."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "She's always been a *happy-go-lucky* person, never worrying too much about what tomorrow brings.",
+          "zh": "她一直是个乐天派，从不为明天的事情担忧。"
+        }
+      ],
+      "audio": "audio/575.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "His *happy-go-lucky* nature makes him a joy to be around.",
+          "zh": "他那种无忧无虑的性格让人很愿意与他相处。"
+        }
+      ],
+      "audio": "audio/575.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Even in difficult times, she remains *happy-go-lucky* and optimistic.",
+          "zh": "即使在艰难时期，她依旧保持着乐天的心态和乐观的态度。"
+        }
+      ],
+      "audio": "audio/575.3.mp3"
+    }
+  ]
+}

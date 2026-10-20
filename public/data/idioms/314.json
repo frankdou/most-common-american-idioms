@@ -1,0 +1,37 @@
+{
+  "n": 314,
+  "name": "Dead-end job",
+  "meaning": {
+    "zh": "“没有前途的工作” 或 “毫无发展前景的工作”。\n\n这个短语的起源与一种工作类别有关，这类工作基本上没有升迁机会或职业发展的前景。通常用来形容个人在职业生涯中很难看到未来发展的工作，虽然可以提供短期的经济保障，但不具备长期的发展回报。",
+    "en": "This phrase originates from certain types of jobs that essentially offer no opportunities for advancement or career growth. It is often used to describe jobs where individuals cannot see future development in their career, even though it may provide short-term financial stability, it lacks long-term development returns."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Tom felt stuck in a *dead-end job* with no hope of promotion.",
+          "zh": "汤姆觉得自己被困在一份没有升迁希望的没有前途的工作中。"
+        }
+      ],
+      "audio": "audio/314.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She decided to quit her *dead-end job* and go back to school.",
+          "zh": "她决定辞掉自己的没有前途的工作，回到学校继续深造。"
+        }
+      ],
+      "audio": "audio/314.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "A *dead-end job* might pay the bills, but it won't lead to a fulfilling career.",
+          "zh": "一份没有前途的工作可能能支付账单，但不会带来有意义的职业生涯。"
+        }
+      ],
+      "audio": "audio/314.3.mp3"
+    }
+  ]
+}

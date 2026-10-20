@@ -1,0 +1,37 @@
+{
+  "n": 1286,
+  "name": "Use your loaf",
+  "meaning": {
+    "zh": "“动脑筋” 或 “用心想想”。\n\n这个短语起源于英国俚语，把头部比作一条面包。在伦敦的Cockney俚语中，“loaf of bread” 通过押韵，本义转化为代表 “head”（头）的意思。因此，“use your loaf” 就代表着使用你的头脑，即动脑筋的意思。",
+    "en": "This phrase originates from British slang, comparing the head to a loaf of bread. In London Cockney rhyming slang, \"loaf of bread\" rhymes with \"head\". Therefore, \"use your loaf\" means using your head or thinking carefully."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Come on, *use your loaf*! It's not that complicated.",
+          "zh": "拜托，动动脑筋！这没有那么复杂。"
+        }
+      ],
+      "audio": "audio/1286.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "If you *use your loaf*, you'll figure out the solution soon.",
+          "zh": "如果你动动脑筋，很快就能找到解决方法。"
+        }
+      ],
+      "audio": "audio/1286.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She didn't need my help; she just needed to *use her loaf*.",
+          "zh": "她不需要我的帮助，她只需要动脑筋。"
+        }
+      ],
+      "audio": "audio/1286.3.mp3"
+    }
+  ]
+}

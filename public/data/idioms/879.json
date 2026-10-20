@@ -1,0 +1,37 @@
+{
+  "n": 879,
+  "name": "On the fritz",
+  "meaning": {
+    "zh": "“出故障” 或 “坏了”。\n\n这个短语的起源不太明确，但据说 “fritz” 可能来源于20世纪初期美国对德国人的俚语 “Fritz” 的使用。当时 “Fritz” 是一个常见的德国名字，许多技术问题或故障都会被昵称为 “fritz”，这可能带有一些讽刺意味。在现代英语中，“on the fritz” 被用来形容各种设备或系统出故障。",
+    "en": "The exact origin of this phrase is unclear, but \"fritz\" is believed to come from the early 20th-century American slang term for Germans, \"Fritz,\" a common German name. At the time, many technical issues or malfunctions would be colloquially referred to as \"fritz,\" possibly with some ironic connotation. In modern English, \"on the fritz\" is used to describe any device or system that is malfunctioning."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "My computer is on the fritz again; I think I need a new one.",
+          "zh": "我的电脑又出故障了，我觉得我需要一台新的。"
+        }
+      ],
+      "audio": "audio/879.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The coffee machine in the office is on the fritz.",
+          "zh": "办公室的咖啡机坏了。"
+        }
+      ],
+      "audio": "audio/879.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Our internet connection has been on the fritz all day.",
+          "zh": "我们的网络连接一整天都在出故障。"
+        }
+      ],
+      "audio": "audio/879.3.mp3"
+    }
+  ]
+}

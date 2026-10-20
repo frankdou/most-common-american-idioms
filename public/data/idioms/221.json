@@ -1,0 +1,37 @@
+{
+  "n": 221,
+  "name": "Cat got your tongue?",
+  "meaning": {
+    "zh": "“猫把你的舌头叼走了吗？” 或 “怎么不说话了？”\n\n这个表达起源尚不清楚，但它可以追溯到19世纪早期。很多人认为它与迷信或孩子们对猫的恐惧有关。这个短语通常用于当某人突然变得沉默时，特别是当他们应该说话的时候。",
+    "en": "The origin of this phrase is unclear, but it can be traced back to the early 19th century. Many believe it is related to superstitions or children's fear of cats. This idiom is typically used when someone suddenly becomes silent, especially when they are expected to speak."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Why are you so quiet? *Cat got your tongue?*",
+          "zh": "你怎么这么安静？猫把你的舌头叼走了吗？"
+        }
+      ],
+      "audio": "audio/221.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "When I asked him about the mistake, he just sat there. *Cat got your tongue?*",
+          "zh": "当我问他关于错误的事情时，他只是坐在那里。猫把你的舌头叼走了吗？"
+        }
+      ],
+      "audio": "audio/221.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "You usually have so much to say. What's wrong today? *Cat got your tongue?*",
+          "zh": "你平时话那么多，今天怎么了？猫把你的舌头叼走了吗？"
+        }
+      ],
+      "audio": "audio/221.3.mp3"
+    }
+  ]
+}

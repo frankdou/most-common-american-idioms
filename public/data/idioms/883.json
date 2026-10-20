@@ -1,0 +1,37 @@
+{
+  "n": 883,
+  "name": "On the same page",
+  "meaning": {
+    "zh": "“意见一致” 或 “观点一致”。\n\n这个短语源自于一种比喻，把合作或讨论中的人们比作一本书的读者。如果所有人都在同一页，那么他们对讨论的内容是完全了解并一致认同的。这种说法强调的是双方或多方达成共识，共同理解并朝着相同的目标努力。",
+    "en": "This idiom originates from a metaphor likening the participants in a collaboration or discussion to readers of a book. If everyone is on the same page, they fully understand and agree on the topic being discussed. This expression emphasizes mutual understanding, agreement, and unified effort towards a common goal."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "In order to ensure the project's success, we need to make sure everyone is *on the same page*.",
+          "zh": "为了确保项目的成功，我们需要确保每个人的意见一致。"
+        }
+      ],
+      "audio": "audio/883.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Before we start, let's have a meeting to get everyone *on the same page*.",
+          "zh": "在开始之前，我们开个会确保所有人意见一致。"
+        }
+      ],
+      "audio": "audio/883.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "It's important for the entire team to be *on the same page* to avoid any confusion.",
+          "zh": "确保整个团队意见一致很重要，以避免任何困惑。"
+        }
+      ],
+      "audio": "audio/883.3.mp3"
+    }
+  ]
+}

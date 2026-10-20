@@ -1,0 +1,37 @@
+{
+  "n": 913,
+  "name": "Par for the course",
+  "meaning": {
+    "zh": "“情理之中” 或 “习以为常”。\n\n这个短语源自高尔夫运动中的 “标准杆数 (par)”，表示在特定的球洞或高尔夫球场上完成比赛所用的标准次数。当某件事被描述为 “par for the course” 时，它意味着这种情况是预期内的，或是与通常所期望的情况一致。",
+    "en": "This phrase originates from golf, where \"par\" refers to the standard number of strokes set for each hole or the entire course. When something is described as \"par for the course,\" it means that the situation is expected, typical, or consistent with the norm."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Traffic jams are *par for the course* during rush hour in the city.",
+          "zh": "在城市的高峰时间，交通堵塞是情理之中的事。"
+        }
+      ],
+      "audio": "audio/913.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "In winter, heavy snowfall is *par for the course* in this region.",
+          "zh": "在冬天，这个地区的大雪是习以为常的。"
+        }
+      ],
+      "audio": "audio/913.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Dealing with late deliveries is *par for the course* when ordering online.",
+          "zh": "在网上购物时，处理延迟送货是习以为常的。"
+        }
+      ],
+      "audio": "audio/913.3.mp3"
+    }
+  ]
+}

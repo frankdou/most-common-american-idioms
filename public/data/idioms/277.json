@@ -1,0 +1,37 @@
+{
+  "n": 277,
+  "name": "Copycat",
+  "meaning": {
+    "zh": "“抄袭者” 或 “模仿者”。\n\n这个短语起源于儿童之间用来形容那些总是模仿他们行为的人的词语。“copycat” 源自 “copy” 和 “cat” 两个词的组合，表示一个像猫一样模仿动作的人。后来，这个短语被广泛使用，适用于任何没有自己想法，只是模仿别人的人或行为。",
+    "en": "This phrase originates from a term used among children to describe someone who constantly imitates their actions. \"Copycat\" derives from the combination of \"copy\" and \"cat,\" symbolizing a person who imitates like a cat. Eventually, this phrase came into widespread use, fitting anyone who lacks their own ideas and merely mimics others."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Stop being a *copycat* and come up with your own ideas.",
+          "zh": "别做个抄袭者，想一些你自己的主意吧。"
+        }
+      ],
+      "audio": "audio/277.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The new app is just a *copycat* of an existing one.",
+          "zh": "这个新应用程序只不过是现有应用的抄袭品。"
+        }
+      ],
+      "audio": "audio/277.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Kids often call each other *copycat* when they mimic actions.",
+          "zh": "孩子们模仿动作时经常会互相叫对方抄袭者。"
+        }
+      ],
+      "audio": "audio/277.3.mp3"
+    }
+  ]
+}

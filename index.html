@@ -1,129 +1,15 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh-CN">
     <head>
         <meta charset="UTF-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>Most Common American Idioms</title>
-        <style>
-            body {
-                margin: 0;
-            }
-            #content {
-                padding: 1rem;
-            }
-            .sample {
-                margin-top: 30px;
-            }
-            .actions {
-                position: sticky;
-                bottom: 0;
-                display: flex;
-                gap: 0.4rem;
-                & > * {
-                    color: #fff;
-                    flex: 1;
-                    padding: 1rem;
-                    display: flex;
-                    justify-content: center;
-                    background-color: #94a3b8;
-                }
-            }
-        </style>
+        <meta
+            name="viewport"
+            content="width=device-width, initial-scale=1.0, viewport-fit=cover"
+        />
+        <title>American Idioms</title>
     </head>
-
     <body>
-        <div id="content"></div>
-        <div class="actions">
-            <div id="pre">Pre</div>
-            <div id="next">Next</div>
-        </div>
-        <script src="book.js"></script>
-        <script>
-            function getQueryParam(paramName) {
-                const url = new URL(window.location)
-                const value = url.searchParams.get(paramName)
-
-                if (value === null) {
-                    const nDefault = 1
-
-                    setQueryParam("pageNumber", nDefault)
-
-                    return nDefault
-                }
-
-                return parseInt(value, 10)
-            }
-
-            function setQueryParam(key, value) {
-                const url = new URL(window.location)
-                url.searchParams.set(key, value)
-                window.history.replaceState({}, "", url)
-            }
-
-            function showIdiom(index) {
-                const contentDiv = document.getElementById("content")
-                contentDiv.innerHTML = ""
-
-                const item = books[index - 1]
-                const itemDiv = document.createElement("div")
-                itemDiv.className = "item"
-
-                const title = document.createElement("h2")
-                title.textContent = `${index}. ${item.name}`
-                itemDiv.appendChild(title)
-
-                const desc = document.createElement("p")
-                desc.textContent = item.desc
-                itemDiv.appendChild(desc)
-
-                for (let i = 0; i < item.examples.length; i++) {
-                    const sampleDiv = document.createElement("div")
-                    sampleDiv.className = "sample"
-                    const example = item.examples[i]
-                    const title = document.createElement("b")
-                    title.innerText = `例句 ${i + 1}`
-                    sampleDiv.appendChild(title)
-
-                    const enSentence = document.createElement("p")
-                    enSentence.innerText = example.en
-                    sampleDiv.appendChild(enSentence)
-
-                    const cnSentence = document.createElement("p")
-                    cnSentence.innerText = example.cn
-                    sampleDiv.appendChild(cnSentence)
-
-                    const audio = document.createElement("audio")
-                    audio.controls = true
-                    const source = document.createElement("source")
-                    source.src = example.audio_link
-                    source.type = "audio/mpeg"
-                    audio.appendChild(source)
-                    sampleDiv.appendChild(audio)
-                    itemDiv.appendChild(sampleDiv)
-                }
-
-                contentDiv.appendChild(itemDiv)
-            }
-
-            document.getElementById("pre").addEventListener("click", () => {
-                let tmp = getQueryParam("pageNumber")
-
-                if (tmp === 1) return
-
-                tmp -= 1
-
-                setQueryParam("pageNumber", tmp)
-                showIdiom(tmp)
-            })
-
-            document.getElementById("next").addEventListener("click", () => {
-                const tmp = getQueryParam("pageNumber") + 1
-
-                setQueryParam("pageNumber", tmp)
-                showIdiom(tmp)
-            })
-
-            showIdiom(getQueryParam("pageNumber"))
-        </script>
+        <div id="app"></div>
+        <script type="module" src="/src/main.js"></script>
     </body>
 </html>

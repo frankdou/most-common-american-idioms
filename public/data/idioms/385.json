@@ -1,0 +1,37 @@
+{
+  "n": 385,
+  "name": "Face the music",
+  "meaning": {
+    "zh": "“面对现实” 或 “接受后果”。\n\n这个短语的起源不完全明确，但有两个主要的猜测。第一个是与传统军队中的阅兵有关，士兵需要在音乐的伴奏下坦然面对自己的命运。另一个猜测则与戏剧舞台表演有关，演员在面对观众表演时，要直面现场的掌声或嘘声。因此，“face the music” 意味着勇敢地面对困难或责任，无论好坏。",
+    "en": "This idiom's origin is not entirely clear, but there are two main theories. The first one relates to the military tradition where soldiers had to face their fate in a ceremony accompanied by music. The second theory is linked to theatrical performances, where actors had to face the audience's applause or boos. Therefore, \"face the music\" means to bravely confront difficulties or take responsibility, regardless of the outcome."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "After avoiding his responsibilities for months, John finally had to *face the music* and confess his mistakes.",
+          "zh": "在逃避责任几个月后，约翰终于不得不面对现实，承认自己的错误。"
+        }
+      ],
+      "audio": "audio/385.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "You can't run away forever; sooner or later, you'll have to *face the music*.",
+          "zh": "你不能永远逃避；迟早你不得不面对现实。"
+        }
+      ],
+      "audio": "audio/385.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The company had to *face the music* after their product caused a safety issue.",
+          "zh": "在他们的产品引发安全问题后，公司不得不面对现实。"
+        }
+      ],
+      "audio": "audio/385.3.mp3"
+    }
+  ]
+}

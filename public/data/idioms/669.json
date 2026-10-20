@@ -1,0 +1,37 @@
+{
+  "n": 669,
+  "name": "It ain't over till the fat lady sings",
+  "meaning": {
+    "zh": "“事情还没到最后一刻，还未见分晓” 或 “在最后结果出来之前，事情都有变数”。\n\n这个短语出自歌剧背景，用以表示在事情结束之前，不要轻易下结论。具体来说，歌剧中通常在最后一幕登场的角色是一位丰满的女高音歌手，这意味着演出正式结束之前，一切结局都还未定。",
+    "en": "This phrase originates from the opera, suggesting that one should not assume the outcome of an event until it is formally concluded. Specifically, in operas, the final act often features a prominent soprano, typically portrayed by a larger woman, and her performance signifies the conclusion of the show."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Don't be discouraged by the score; *it ain't over till the fat lady sings*.",
+          "zh": "不要被分数吓倒，事情还未到最后一刻。"
+        }
+      ],
+      "audio": "audio/669.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "We still have a chance to win; *it ain't over till the fat lady sings*.",
+          "zh": "我们还有赢的机会，事情还未见分晓。"
+        }
+      ],
+      "audio": "audio/669.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Keep pushing until the end because *it ain't over till the fat lady sings*.",
+          "zh": "要坚持到最后，因为结果还未见分晓。"
+        }
+      ],
+      "audio": "audio/669.3.mp3"
+    }
+  ]
+}

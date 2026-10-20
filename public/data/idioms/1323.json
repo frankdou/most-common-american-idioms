@@ -1,0 +1,37 @@
+{
+  "n": 1323,
+  "name": "Wild and woolly",
+  "meaning": {
+    "zh": "“狂野而毛茸茸” 或 “未开化的、粗犷的”。\n\n这个短语起源于19世纪美国西部的拓荒历史。最初用于描述西部地区未开化、混乱且充满冒险的环境。如今，它常用于形容某些地方或情形混乱、不受约束或未被现代文明影响，有时也含有活力和趣味的意味。",
+    "en": "This phrase originates from the 19th century American West's frontier history. It was initially used to describe undeveloped, chaotic, and adventurous environments of the western territories. Today, it is often used to describe places or situations that are chaotic, unrestrained, or untouched by modern civilization, sometimes also implying a sense of vibrancy and excitement."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The party last night was wild and woolly; no one knew what would happen next.",
+          "zh": "昨晚的派对非常狂野且不可预测，没人知道接下来会发生什么。"
+        }
+      ],
+      "audio": "audio/1323.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He loves to tell stories about the wild and woolly days of the gold rush.",
+          "zh": "他喜欢讲述淘金热时期那些狂野而混乱的日子。"
+        }
+      ],
+      "audio": "audio/1323.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The new city felt wild and woolly compared to the small town he grew up in.",
+          "zh": "与他成长的小镇相比，新城市显得疯狂而不受拘束。"
+        }
+      ],
+      "audio": "audio/1323.3.mp3"
+    }
+  ]
+}

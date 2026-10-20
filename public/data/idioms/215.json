@@ -1,0 +1,37 @@
+{
+  "n": 215,
+  "name": "Can't see the forest for the trees",
+  "meaning": {
+    "zh": "“只见树木，不见森林”，意为只看到细节而忽略了整体。\n\n这个短语起源于人们在散步或观察森林时，常常会迷失在繁杂的树木之间，而忘记去了解和观察整个森林的全貌。用于形容那些专注于细节而忽略了整体情况的人。这种情况下，人们可能会失去对大局的把握。",
+    "en": "This phrase originates from people walking or observing forests, often getting lost among the multitude of trees and failing to appreciate or understand the forest as a whole. It is used to describe those who focus too much on details and miss the bigger picture. In such situations, people may lose sight of the grand scheme."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He's so focused on the details of the project, he's *can't see the forest for the trees*.",
+          "zh": "他太专注于项目的细节，反而忽略了整体。"
+        }
+      ],
+      "audio": "audio/215.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "By only worrying about minor errors, you're *can't see the forest for the trees*.",
+          "zh": "仅仅担心小错误，你是只见树木，不见森林。"
+        }
+      ],
+      "audio": "audio/215.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Sometimes you need to step back and look at the bigger picture; don't *can't see the forest for the trees*.",
+          "zh": "有时候你需要退一步看看整体情况，而不是只见树木，不见森林。"
+        }
+      ],
+      "audio": "audio/215.3.mp3"
+    }
+  ]
+}

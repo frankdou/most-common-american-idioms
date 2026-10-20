@@ -1,0 +1,37 @@
+{
+  "n": 71,
+  "name": "Along for the ride",
+  "meaning": {
+    "zh": "“随波逐流” 或 “被带着走”。\n\n这个短语源自乘车旅行的情景，意指参与某活动但并未真正投入或参与决策。常用来形容那些被牵引着行动的人，他们并没有主导权或深度参与，只是随大流。",
+    "en": "This phrase originates from the scenario of joining a car ride, meaning participating in an activity without being genuinely involved or making decisions. It's often used to describe people who are being guided and do not take an active role, simply going along with the flow."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I didn't really want to go to the party, but I went *along for the ride*.",
+          "zh": "我其实并不想去参加那个派对，但还是随波逐流跟去了。"
+        }
+      ],
+      "audio": "audio/071.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He wasn't an active participant in the project; he was just *along for the ride*.",
+          "zh": "他并没有积极参与这个项目，只是被带着走。"
+        }
+      ],
+      "audio": "audio/071.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She felt like she was just *along for the ride* in her friend's adventure.",
+          "zh": "她觉得自己在朋友的冒险中只是随波逐流。"
+        }
+      ],
+      "audio": "audio/071.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 1303,
+  "name": "Weather the storm",
+  "meaning": {
+    "zh": "“经受住风暴” 或 “渡过难关”。\n\n这个短语源自于航海术语，船只在暴风雨中保持稳定并最终安全度过风暴的情况。在现代用法中，这个成语表示经受住艰难的时期或挑战，并最终渡过难关。",
+    "en": "This phrase originates from nautical terminology where a ship endures and ultimately survives a storm. In modern usage, the idiom signifies enduring difficult periods or challenges and coming through them."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "They had to *weather the storm* of layoffs at their company.",
+          "zh": "他们不得不经受住公司裁员的风暴。"
+        }
+      ],
+      "audio": "audio/1303.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "We're trying to *weather the storm* of this financial crisis.",
+          "zh": "我们正在努力渡过这场金融危机的难关。"
+        }
+      ],
+      "audio": "audio/1303.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She has *weathered many storms* in her career and emerged stronger each time.",
+          "zh": "她在事业上经历了许多风暴，每次都变得更强大。"
+        }
+      ],
+      "audio": "audio/1303.3.mp3"
+    }
+  ]
+}

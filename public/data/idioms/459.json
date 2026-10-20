@@ -1,0 +1,37 @@
+{
+  "n": 459,
+  "name": "Get a second wind",
+  "meaning": {
+    "zh": "“重新焕发活力” 或 “恢复精力”。\n\n这个短语来源于体育训练，尤其是长跑。当运动员跑步感到疲劳时，常会经历一个阶段之后突然找到另一股力量去继续比赛。这种经历被描述为 “第二风”，在现代被延伸到任何感觉疲惫但却突然恢复精力的情况。",
+    "en": "This phrase originates from sports training, particularly long-distance running. When athletes feel tired during a run, they sometimes suddenly find another burst of energy to continue the race. This experience is described as getting a \"second wind,\" and in modern use, it extends to any situation where someone feels weary but then suddenly regains energy."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "After the first mile, I was exhausted, but then I got a second wind and finished the race strong.",
+          "zh": "跑了一英里之后，我已经筋疲力尽，但突然恢复了精力，强劲地完成了比赛。"
+        }
+      ],
+      "audio": "audio/459.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Just when we thought we couldn't continue the project, we all got a second wind and pushed through.",
+          "zh": "就在我们认为无法继续这个项目时，我们所有人都重新焕发了活力并坚持了下来。"
+        }
+      ],
+      "audio": "audio/459.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She felt tired after the long meeting, but a short break gave her a second wind to finish her tasks.",
+          "zh": "长时间的会议让她感到疲惫，但短暂的休息让她重新焕发了活力，完成了工作。"
+        }
+      ],
+      "audio": "audio/459.3.mp3"
+    }
+  ]
+}

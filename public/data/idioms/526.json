@@ -1,0 +1,37 @@
+{
+  "n": 526,
+  "name": "Go postal",
+  "meaning": {
+    "zh": "“发疯” 或 “暴怒”。\n\n这个短语起源于20世纪80年代美国邮政服务的员工由于过度压力而发生的几起暴力事件。当时几名邮局员工在工作场所大开杀戒，引发了极大的社会关注。尽管这一现象并非普遍，但从此 “go postal” 就成为了描述某人突然暴怒或失控行为的表达。",
+    "en": "This phrase originated in the 1980s in the United States following several instances where postal workers committed acts of workplace violence due to excessive stress. Although such incidents were not widespread, \"go postal\" has since become an expression used to describe someone suddenly going into a violent rage or losing control."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "When traffic is this bad, I feel like I'm about to *go postal*.",
+          "zh": "当交通如此糟糕时，我感觉我快要发疯了。"
+        }
+      ],
+      "audio": "audio/526.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He went postal when he found out they had crashed his car.",
+          "zh": "当他发现他们撞了他的车时，他暴怒了。"
+        }
+      ],
+      "audio": "audio/526.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The boss will go postal if the report isn't finished by tomorrow.",
+          "zh": "如果报告明天之前还没完成，老板会发疯的。"
+        }
+      ],
+      "audio": "audio/526.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 653,
+  "name": "In spades",
+  "meaning": {
+    "zh": "“非常多” 或 “大量地”。\n\n这个短语起源于纸牌游戏中的一张牌，尤其是指 “黑桃” (spades)。在纸牌游戏中，黑桃通常具有较高的价值和权力，因此它被用来表示大量的和极端的情况。如果某事物 “in spades”，就表示它非常丰富或极多。",
+    "en": "This phrase originates from a card game, specifically referring to the \"spades\" suit. In card games, spades often hold high value and power, thus it came to represent an abundance or an extreme amount. If something happens “in spades”, it means it happens in great quantities or to a high degree."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "She inherited her father's artistic talent *in spades*.",
+          "zh": "她继承了她父亲非常多的艺术天赋。"
+        }
+      ],
+      "audio": "audio/653.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Their hard work paid off *in spades* when they won the championship.",
+          "zh": "他们的努力非常多地得到了回报，当他们赢得了冠军。"
+        }
+      ],
+      "audio": "audio/653.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "If you do good deeds, you'll be rewarded *in spades*.",
+          "zh": "如果你做善事，你将会得到很多的回报。"
+        }
+      ],
+      "audio": "audio/653.3.mp3"
+    }
+  ]
+}

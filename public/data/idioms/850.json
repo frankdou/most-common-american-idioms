@@ -1,0 +1,37 @@
+{
+  "n": 850,
+  "name": "No-brainer",
+  "meaning": {
+    "zh": "不需要动脑筋的简单决定，显而易见的事情。\n\n这个短语起源于20世纪50年代，意指做这样一个决定或采取这样的行动不需要用脑思考。通常用于表达某事明显并且容易做决定或理解，不需要复杂的思考过程。",
+    "en": "This phrase originated in the 1950s, indicating that making such a decision or taking such action doesn't require brain power. It's typically used to express that something is obvious and easy to decide or understand, without a complex thought process."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Accepting that job offer was a *no-brainer* for me.",
+          "zh": "接受那个工作邀请对我来说是不需要动脑筋的决定。"
+        }
+      ],
+      "audio": "audio/850.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Choosing the cheaper and better-quality option is a *no-brainer*.",
+          "zh": "选择更便宜且质量更好的选项是显而易见的。"
+        }
+      ],
+      "audio": "audio/850.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "When it comes to protecting your health, quitting smoking is a *no-brainer*.",
+          "zh": "在保护健康方面，戒烟是不需要动脑筋的决定。"
+        }
+      ],
+      "audio": "audio/850.3.mp3"
+    }
+  ]
+}

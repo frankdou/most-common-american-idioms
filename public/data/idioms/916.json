@@ -1,0 +1,37 @@
+{
+  "n": 916,
+  "name": "Passed the course",
+  "meaning": {
+    "zh": "“Passed the course” 表示 “通过了课程” 或 “通过了课程的考试”。\n\n这个短语来源于学校和教育系统中用来表示学生通过了某种课程要求或考试。在学生成功完成特定课程作业或者考试达到要求标准后，就会说他们 “Passed the course”。",
+    "en": "This phrase originates from the educational system where it is used to indicate that a student has met the requirements of a particular course or examination. When a student successfully completes the coursework or achieves the necessary standard in an exam, it is said that they \"Passed the course.\""
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I'm so relieved I *passed the course*; now I can graduate on time.",
+          "zh": "我通过了课程考试，真是松了一口气；现在我可以按时毕业了。"
+        }
+      ],
+      "audio": "audio/916.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She studied really hard and finally *passed the course* with flying colors.",
+          "zh": "她非常努力地学习，最终以优异的成绩通过了课程。"
+        }
+      ],
+      "audio": "audio/916.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "If you *passed the course*, you can move on to the next level.",
+          "zh": "如果你通过了课程考试，你就可以进入下一个阶段学习。"
+        }
+      ],
+      "audio": "audio/916.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 945,
+  "name": "Pull it off",
+  "meaning": {
+    "zh": "“成功做到” 或 “完成某件困难的事情”。\n\n这个短语的起源不太确定，但可以理解为将某件不容易的任务成功地 “拉” 过去，或者从中 “脱” 出来。这表示在面对挑战或困难时，某人能够出色地应对并取得成功。",
+    "en": "The origin of this phrase is not entirely clear, but it can be understood as successfully \"pulling\" a difficult task off or \"getting through\" it. It implies that someone is able to handle and succeed in a challenging situation or task."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Despite all the challenges, they managed to *pull it off* and win the championship.",
+          "zh": "尽管有诸多挑战，他们还是成功地完成了任务并赢得了冠军。"
+        }
+      ],
+      "audio": "audio/945.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Nobody thought she could finish the project on time, but she *pulled it off*.",
+          "zh": "没有人认为她能按时完成这个项目，但她成功做到了。"
+        }
+      ],
+      "audio": "audio/945.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "It seemed impossible, but they *pulled it off* with hard work and determination.",
+          "zh": "这看起来不可能，但他们通过努力和决心成功完成了。"
+        }
+      ],
+      "audio": "audio/945.3.mp3"
+    }
+  ]
+}

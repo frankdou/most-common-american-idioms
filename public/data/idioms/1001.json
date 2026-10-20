@@ -1,0 +1,37 @@
+{
+  "n": 1001,
+  "name": "Run the show",
+  "meaning": {
+    "zh": "“掌控全局” 或 “负责一切”。\n\n这个短语源自娱乐业，最早用于描述电影导演或剧院导演的职责。他们在场景布置、演员调度以及整体观感上有决定性发言权。在现代，\"run the show\" 被广泛用于各种场合，尤其是在职场中，意思是某人对项目、团队或事件负有全部责任，并掌控它的每个方面。",
+    "en": "This phrase originates from the entertainment industry, originally describing the responsibilities of a movie or theater director who has the decisive say in setting up scenes, managing actors, and the overall presentation. In modern contexts, \"run the show\" is broadly used to indicate that someone is in full charge of a project, team, or event, overseeing every aspect."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He really knows how to *run the show* during big meetings.",
+          "zh": "他在大型会议中掌控全局的能力真的很强。"
+        }
+      ],
+      "audio": "audio/1001.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Janet was chosen to *run the show* for this year's company picnic.",
+          "zh": "珍妮特被选中负责今年公司野餐的整个过程。"
+        }
+      ],
+      "audio": "audio/1001.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "After the manager left, Rob stepped up to *run the show*.",
+          "zh": "经理离职后，罗伯特站出来掌控全局。"
+        }
+      ],
+      "audio": "audio/1001.3.mp3"
+    }
+  ]
+}

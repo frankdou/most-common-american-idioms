@@ -1,0 +1,37 @@
+{
+  "n": 351,
+  "name": "Down the tube",
+  "meaning": {
+    "zh": "“付诸东流” 或 “一败涂地”。\n\n这个短语最初源自19世纪铁路术语，用以描述火车在隧道中行驶的状态，引申为某事物迅速消失或变得毫无价值。在现代，\"down the tube\" 通常表示事物崩溃、失败或丧失效力，特别指原本被视为有价值或成功的事物突然变得一文不值。",
+    "en": "This phrase originally comes from 19th-century railway terminology, describing a train traveling in a tunnel, metaphorically expanding to indicate something rapidly disappearing or becoming worthless. In modern usage, \"down the tube\" typically means collapse, failure, or losing effectiveness, especially referring to something initially seen as valuable or successful that suddenly becomes worthless."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "All the time and effort went *down the tube* when the project was canceled.",
+          "zh": "当项目被取消时，所有的时间和努力都付诸东流了。"
+        }
+      ],
+      "audio": "audio/351.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "His business went *down the tube* after the financial crisis.",
+          "zh": "金融危机后，他的生意一败涂地。"
+        }
+      ],
+      "audio": "audio/351.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Plans for the trip went *down the tube* because of the unexpected storm.",
+          "zh": "由于突如其来的风暴，旅行计划完全泡汤了。"
+        }
+      ],
+      "audio": "audio/351.3.mp3"
+    }
+  ]
+}

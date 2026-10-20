@@ -1,0 +1,37 @@
+{
+  "n": 950,
+  "name": "Pull the plug",
+  "meaning": {
+    "zh": "“拔掉插头” 或 “终止、结束某事”。\n\n这个短语的原始意义是指拔掉电器或设备的插头，使其停止工作。然而，近年来它被广泛用于比喻意义上，表示彻底终止或取消某个项目、活动或行动。",
+    "en": "This phrase originally referred to physically unplugging an appliance or device to stop it from working. In modern usage, it has been widely adopted metaphorically to indicate the complete termination or cancellation of a project, activity, or action."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "After years of poor sales, the company decided to *pull the plug* on the project.",
+          "zh": "由于多年的销售不佳，公司决定终止这个项目。"
+        }
+      ],
+      "audio": "audio/950.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The government had to *pull the plug* on the funding due to budget cuts.",
+          "zh": "由于预算削减，政府不得不中止资金支持。"
+        }
+      ],
+      "audio": "audio/950.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "We had to *pull the plug* on our vacation plans because of the pandemic.",
+          "zh": "由于疫情，我们不得不中止度假计划。"
+        }
+      ],
+      "audio": "audio/950.3.mp3"
+    }
+  ]
+}

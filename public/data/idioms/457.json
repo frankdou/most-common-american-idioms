@@ -1,0 +1,37 @@
+{
+  "n": 457,
+  "name": "Get a hold of yourself",
+  "meaning": {
+    "zh": "“控制自己” 或 “冷静下来”。\n\n这个短语源于 “hold” 这个词，字面意思是抓住或控制某物。用在形容情绪时，它表示一个人需要控制或调整自己的情绪，通常是在面对压力或困境时常用。",
+    "en": "This idiom originates from the word \"hold,\" which literally means to grab or control something. When used in the context of emotions, it suggests that a person needs to control or adjust their emotions, often used in situations of stress or challenges."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "You need to *get a hold of yourself* and think clearly.",
+          "zh": "你需要控制自己，冷静思考。"
+        }
+      ],
+      "audio": "audio/457.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "After the shocking news, Jane told herself to *get a hold of herself*.",
+          "zh": "在听到那个令人震惊的消息后，简告诉自己要冷静下来。"
+        }
+      ],
+      "audio": "audio/457.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Don't panic, just *get a hold of yourself* and we'll figure this out.",
+          "zh": "不要慌张，冷静下来，我们会解决这个问题的。"
+        }
+      ],
+      "audio": "audio/457.3.mp3"
+    }
+  ]
+}

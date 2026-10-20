@@ -1,0 +1,37 @@
+{
+  "n": 95,
+  "name": "At loggerheads",
+  "meaning": {
+    "zh": "“意见不合” 或 “严重争执”。\n\n这个成语最早出现在16世纪，“loggerheads” 原意是一种厚重的劳动工具，用来搅拌沥青或是熔化铅等。由于工具粗重，两者撞击时会发出巨大的碰撞声，“at loggerheads” 因此演变成了形容两人或多方处于激烈冲突或争执的状态。",
+    "en": "This idiom dates back to the 16th century, where \"loggerheads\" initially referred to a heavy tool used for stirring hot tar or molten lead. Given its weight, the tools would produce a loud clashing sound when collided. As a result, \"at loggerheads\" evolved to describe a state of severe conflict or disagreement between two or more parties."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The two politicians have been *at loggerheads* over the new policy.",
+          "zh": "这两位政客对新政策意见不合。"
+        }
+      ],
+      "audio": "audio/095.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "My parents are always *at loggerheads* about money matters.",
+          "zh": "我父母总是因金钱问题争执不断。"
+        }
+      ],
+      "audio": "audio/095.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The company and the union are *at loggerheads* over the new contract.",
+          "zh": "公司和工会因新合同而严重争执。"
+        }
+      ],
+      "audio": "audio/095.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 155,
+  "name": "Blackball someone",
+  "meaning": {
+    "zh": "“投票反对某人加入” 或 “排斥某人”。\n\n这个短语源于投票程序中使用黑色球（black ball）表示反对。在许多俱乐部或秘密组织中，当新成员入会时，成员们会使用黑色球来否决候选人的入会请求。这种做法使得 “blackball someone” 意味着通过秘密投票或排斥来阻止某人加入某个团体或组织。",
+    "en": "This phrase originates from the voting procedure where black balls were used to indicate disapproval. In many clubs or secret societies, when admitting new members, existing members would use black balls to veto a candidate's entry. Thus, \"blackball someone\" means to prevent someone from joining a group or organization through secret voting or exclusion."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "They decided to *blackball him* from the club due to his controversial views.",
+          "zh": "由于他的争议观点，他们决定把他从俱乐部中排除。"
+        }
+      ],
+      "audio": "audio/155.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She was unfairly *blackballed* from the committee.",
+          "zh": "她被不公平地排除在委员会之外。"
+        }
+      ],
+      "audio": "audio/155.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The rumor caused him to be *blackballed* by his peers.",
+          "zh": "这个谣言导致他被同事们排斥。"
+        }
+      ],
+      "audio": "audio/155.3.mp3"
+    }
+  ]
+}

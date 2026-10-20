@@ -1,0 +1,37 @@
+{
+  "n": 1106,
+  "name": "Take the wind out of your sails",
+  "meaning": {
+    "zh": "“让你泄气” 或 “使你气馁”。\n\n这个短语源自航海术语。当一艘船被其他船只阻挡风力时，它的速度会减慢，失去动力。“Take the wind out of your sails” 被用来比喻一个人被打击，失去了动力或信心。",
+    "en": "This phrase originates from sailing. When one ship blocks the wind of another ship, the latter loses speed and momentum. \"Take the wind out of your sails\" is used metaphorically to describe situations where someone is discouraged or loses confidence or motivation."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Her criticism really *took the wind out of my sails*.",
+          "zh": "她的批评真的让我很泄气。"
+        }
+      ],
+      "audio": "audio/1106.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "When I found out I didn't get the job, it *took the wind out of my sails*.",
+          "zh": "当我知道自己没得到那份工作时，真的很泄气。"
+        }
+      ],
+      "audio": "audio/1106.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The unexpected death of his mentor *took the wind out of his sails*.",
+          "zh": "导师的意外去世让他倍感失落。"
+        }
+      ],
+      "audio": "audio/1106.3.mp3"
+    }
+  ]
+}

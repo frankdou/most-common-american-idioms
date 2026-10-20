@@ -1,0 +1,37 @@
+{
+  "n": 381,
+  "name": "Every now and then",
+  "meaning": {
+    "zh": "“时不时” 或 “偶尔”。\n\n这个短语出现于 16 世纪，表达的是一种不定期但会重复发生的事情。“Every now and then” 用来描述那些偶尔会发生或被做的事，但不是很规律性的。",
+    "en": "This phrase originated in the 16th century and describes something that happens or is done occasionally and not regularly. \"Every now and then\" captures the notion of irregular but repeated occurrences."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I like to take a walk *every now and then* to clear my mind.",
+          "zh": "我喜欢时不时地散散步来清理一下思绪。"
+        }
+      ],
+      "audio": "audio/381.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "*Every now and then*, we go out for dinner instead of cooking at home.",
+          "zh": "我们偶尔会出去吃饭，而不是在家做饭。"
+        }
+      ],
+      "audio": "audio/381.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He calls his parents *every now and then* to check on them.",
+          "zh": "他时不时地打电话给父母，看看他们情况如何。"
+        }
+      ],
+      "audio": "audio/381.3.mp3"
+    }
+  ]
+}

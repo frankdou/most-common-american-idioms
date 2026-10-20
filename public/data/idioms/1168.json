@@ -1,0 +1,37 @@
+{
+  "n": 1168,
+  "name": "Third time's a charm",
+  "meaning": {
+    "zh": "“三次定律” 或 “第三次会有好运”。\n\n这个短语的起源可以追溯到古老的英国，表达的是在第三次尝试通常会获得成功的观念。这种观念认为前两次尝试可能会因为各种原因失败，但第三次通常会有好运相伴，进而成功。因此，在遇到困难或失败后，鼓励继续尝试的语境中常会使用这个短语。",
+    "en": "This phrase traces its origins back to ancient British culture, expressing the notion that success usually comes on the third try. This idea suggests that while the first two attempts might fail due to various reasons, the third attempt is often accompanied by good luck, leading to success. Hence, it is commonly used in contexts where persistence and continued effort after failure are encouraged."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Don't worry if you didn't pass the exam this time. Remember, *third time's a charm*.",
+          "zh": "不要担心这次没通过考试。记住，第三次会有好运的。"
+        }
+      ],
+      "audio": "audio/1168.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He failed to climb the mountain twice, but *third time's a charm* he finally made it.",
+          "zh": "他前两次爬山都失败了，但第三次他终于成功了。"
+        }
+      ],
+      "audio": "audio/1168.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "They lost their first two games, but they believe *third time's a charm* for their next match.",
+          "zh": "他们前两场比赛输了，但他们相信下一场比赛会有好运的。"
+        }
+      ],
+      "audio": "audio/1168.3.mp3"
+    }
+  ]
+}

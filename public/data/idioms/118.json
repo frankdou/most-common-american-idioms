@@ -1,0 +1,37 @@
+{
+  "n": 118,
+  "name": "Beat someone to the punch",
+  "meaning": {
+    "zh": "\"抢先一步\" 或 \"先发制人”。\n\n这个习语源于拳击中的术语。当一名拳击手 \"beat someone to the punch\"，意味着他在对手出拳之前已经先行攻击。在日常用语中，这个短语用来表示某人抢在别人之前做了一件事，先人一步，从而获得优势。",
+    "en": "This idiom originates from boxing terminology. When a boxer \"beats someone to the punch,\" it means he has struck his opponent before the opponent had a chance to punch. In everyday language, this phrase is used to indicate that someone has done something before someone else, thus gaining an advantage."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I wanted to buy that last piece of cake, but she *beat me to the punch*.",
+          "zh": "我想买最后一块蛋糕，但她抢先一步。"
+        }
+      ],
+      "audio": "audio/118.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "We planned to release the new product next month, but our competitors *beat us to the punch*.",
+          "zh": "我们计划下个月发布新产品，但竞争对手抢先一步。"
+        }
+      ],
+      "audio": "audio/118.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I was going to suggest that idea in the meeting, but John *beat me to the punch*.",
+          "zh": "我打算在会议上提出那个想法，但约翰抢先一步。"
+        }
+      ],
+      "audio": "audio/118.3.mp3"
+    }
+  ]
+}

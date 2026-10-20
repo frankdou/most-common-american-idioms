@@ -1,0 +1,37 @@
+{
+  "n": 1120,
+  "name": "Test the waters",
+  "meaning": {
+    "zh": "“试探” 或 “摸底”。\n\n这个短语起源于人们在进入未知的水域时，通常会先用脚去试探水温和深浅，确保安全后才会进入水中。在现代生活中，“test the waters” 用来描述在做重要决定之前先进行少量的尝试或调查，以判断是否可行或合适。",
+    "en": "This phrase originates from the act of people testing the water with their foot before fully stepping into it, ensuring it’s safe. In modern life, \"test the waters\" is used to describe making small attempts or investigations before making a significant decision to determine if it’s viable or suitable."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "We should *test the waters* before committing to the new project.",
+          "zh": "我们应该在对新项目做出承诺之前试探一下。"
+        }
+      ],
+      "audio": "audio/1120.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She decided to *test the waters* by pitching her idea to a few investors first.",
+          "zh": "她决定通过先向几位投资人提出她的想法来试探一下。"
+        }
+      ],
+      "audio": "audio/1120.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Before launching the product nationwide, the company plans to *test the waters* in a few select markets.",
+          "zh": "在全国范围内推出产品之前，公司计划在几个选择的市场中试探一下。"
+        }
+      ],
+      "audio": "audio/1120.3.mp3"
+    }
+  ]
+}

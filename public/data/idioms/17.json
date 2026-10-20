@@ -1,0 +1,37 @@
+{
+  "n": 17,
+  "name": "A fifth wheel",
+  "meaning": {
+    "zh": "“多余的人” 或 “不必要的存在”。\n\n这个短语来源于以前马车时代。车子通常都有四个轮子，而第五个轮子是多余的，不起作用。在现代社会中，这个短语用来形容在一个团体里多余、无关紧要的人，就像多余的第五个轮子一样没有用处。",
+    "en": "This phrase originates from the time of horse-drawn carriages, which typically had four wheels. A fifth wheel was unnecessary and had no function. In modern context, the phrase is used to describe someone who feels out of place or unnecessary in a group, much like an unneeded fifth wheel."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I felt like a *fifth wheel* at their party since I didn't know anyone.",
+          "zh": "在他们的派对上，我感觉自己像个多余的人，因为我不认识任何人。"
+        }
+      ],
+      "audio": "audio/017.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Whenever my friends go out on dates, I always feel like a *fifth wheel*.",
+          "zh": "每当我的朋友们出去约会时，我总感觉自己像个多余的存在。"
+        }
+      ],
+      "audio": "audio/017.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Don't worry about becoming a *fifth wheel* at the family gathering; everyone will make you feel welcome.",
+          "zh": "不用担心在家庭聚会上成为多余的人，大家都会让你感觉受欢迎的。"
+        }
+      ],
+      "audio": "audio/017.3.mp3"
+    }
+  ]
+}

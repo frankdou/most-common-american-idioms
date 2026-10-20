@@ -1,0 +1,37 @@
+{
+  "n": 1002,
+  "name": "Run-of-the-mill",
+  "meaning": {
+    "zh": "“普通的” 或 “平凡的”。\n\n这个短语的起源可以追溯到工业时代的工厂术语，“run-of-the-mill” 原本是指工厂生产线上所产出的普通产品，不带有任何特殊或高品质的含义。如今，这个短语已经广泛用于描述任何普通、平常或没有什么特别出众之处的人或事。",
+    "en": "This phrase originates from industrial factory terminology, where \"run-of-the-mill\" referred to ordinary products coming off the production line without any special or high-quality distinction. Nowadays, the phrase is widely used to describe anything or anyone that is ordinary, usual, or not particularly outstanding."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The restaurant was just a *run-of-the-mill* place; nothing special.",
+          "zh": "那家餐馆只是一个普通的地方，没什么特别的。"
+        }
+      ],
+      "audio": "audio/1002.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He gave a *run-of-the-mill* presentation, which didn't impress the audience.",
+          "zh": "他的演讲很普通，没有给听众留下深刻印象。"
+        }
+      ],
+      "audio": "audio/1002.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Most of the movies on the streaming service are pretty *run-of-the-mill*.",
+          "zh": "流媒体服务上的大多数电影都挺普通的。"
+        }
+      ],
+      "audio": "audio/1002.3.mp3"
+    }
+  ]
+}

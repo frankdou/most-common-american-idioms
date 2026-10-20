@@ -1,0 +1,37 @@
+{
+  "n": 1058,
+  "name": "Snowed under",
+  "meaning": {
+    "zh": "“被压得喘不过气” 或 “工作堆积如山”。\n\n这个短语源自雪把东西完全覆盖的景象，延伸到表示人被事务或工作压得喘不过气。通常用于形容一个人忙得不可开交，尤其在工作上事情特别多的时候。",
+    "en": "This phrase originates from the imagery of snow completely covering something, extended to describe a person being overwhelmed by tasks or work. It is commonly used to describe someone who is exceedingly busy, particularly with a large amount of work."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I'm completely *snowed under* with paperwork this week.",
+          "zh": "我这个星期被一大堆文件工作压得喘不过气。"
+        }
+      ],
+      "audio": "audio/1058.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Teachers often feel *snowed under* at the end of the semester.",
+          "zh": "老师们在学期末经常感到工作堆积如山。"
+        }
+      ],
+      "audio": "audio/1058.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She can't take on more projects right now because she's already *snowed under*.",
+          "zh": "她现在不能再接更多项目了，因为她已经忙得不可开交。"
+        }
+      ],
+      "audio": "audio/1058.3.mp3"
+    }
+  ]
+}

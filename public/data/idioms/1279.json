@@ -1,0 +1,37 @@
+{
+  "n": 1279,
+  "name": "Up a gum tree",
+  "meaning": {
+    "zh": "“陷入困境” 或 “束手无策”。\n\n这个短语源自澳大利亚，特指在桉树（gum tree）上困住的小动物，当它们在树上时，会感到困惑和无法脱身。因此，用 “up a gum tree” 来比喻人们遇到了困难或陷入困境，无法找到解决的办法。",
+    "en": "This phrase originates from Australia and refers to animals trapped in a gum (eucalyptus) tree, feeling confused and unable to get down. Hence, \"up a gum tree\" is used metaphorically to describe people who are in trouble or stuck in a difficult situation with no solution in sight."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "After his car broke down in the middle of nowhere, he was really *up a gum tree*.",
+          "zh": "当他的车在偏僻的地方抛锚时，他真是陷入了困境。"
+        }
+      ],
+      "audio": "audio/1279.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "When the project lost its funding, the whole team felt *up a gum tree*.",
+          "zh": "当项目失去资金支持时，整个团队都感到束手无策。"
+        }
+      ],
+      "audio": "audio/1279.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Without the right tools, the technician found himself *up a gum tree* trying to fix the problem.",
+          "zh": "没有合适的工具，这名技师发现自己在解决问题时束手无策。"
+        }
+      ],
+      "audio": "audio/1279.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 503,
+  "name": "Give someone a song and dance",
+  "meaning": {
+    "zh": "“编瞎话” 或 “找借口”。\n\n这个习语中的 “song and dance” 最早源自美国剧院中的古典讽刺表演，艺术家们通过歌唱和跳舞来夸大或掩饰某些事情。后来，这个短语开始用来形容为某件事情编造不真实且复杂的借口或解释，企图迷惑或误导他人。",
+    "en": "This idiom originally comes from classic American theater, where performers would use exaggerated singing and dancing to distract or cover something up. Over time, it began to describe the act of creating elaborate and untruthful excuses or explanations to deceive or mislead someone."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "When asked why he was late, he gave them a *song and dance* about traffic.",
+          "zh": "当被问及为什么迟到时，他编了一堆关于交通的瞎话。"
+        }
+      ],
+      "audio": "audio/503.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I don't want your *song and dance*; just tell me the truth.",
+          "zh": "我不想听你的借口；直接告诉我真相吧。"
+        }
+      ],
+      "audio": "audio/503.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She gave the teacher a *song and dance* about why she didn't do her homework.",
+          "zh": "她向老师编了一堆不做作业的借口。"
+        }
+      ],
+      "audio": "audio/503.3.mp3"
+    }
+  ]
+}

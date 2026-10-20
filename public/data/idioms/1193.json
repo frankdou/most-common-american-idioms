@@ -1,0 +1,37 @@
+{
+  "n": 1193,
+  "name": "To black out",
+  "meaning": {
+    "zh": "“失去知觉” 或 “临时断电”。\n\n这个短语源自于两个主要场景: 一是人因某些原因 （例如酗酒、极端疲劳或医疗问题） 短暂失去知觉或记忆；二是在停电的时候，整个区域变黑。无论是何种情况，都强调突然和暂时地失去知觉或视力。",
+    "en": "This phrase originates from two main contexts: one is when a person temporarily loses consciousness or memory due to reasons like drunkenness, extreme fatigue, or medical issues; the other is when there is a blackout and the entire area becomes dark. In both scenarios, the emphasis is on sudden and temporary loss of awareness or visibility."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He *blacked out* after drinking too much at the party.",
+          "zh": "他在聚会上喝得太多而失去知觉。"
+        }
+      ],
+      "audio": "audio/1193.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The street *blacked out* during the storm last night.",
+          "zh": "昨晚的暴风雨使整条街断电变黑。"
+        }
+      ],
+      "audio": "audio/1193.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She *blacked out* during her presentation due to stage fright.",
+          "zh": "她因为怯场在做报告时失去了知觉。"
+        }
+      ],
+      "audio": "audio/1193.3.mp3"
+    }
+  ]
+}

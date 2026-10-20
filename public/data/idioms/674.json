@@ -1,0 +1,37 @@
+{
+  "n": 674,
+  "name": "It's a piece of cake",
+  "meaning": {
+    "zh": "“轻而易举的事” 或 “非常简单的事情”。\n\n这个俗语起源于20世纪初的美国，“piece of cake” 是指某些特定的竞赛中获胜的奖品——蛋糕——于是这个短语逐渐演变成一种口语用法，用以表示某事非常容易完成。类似于中文中的 “小菜一碟”。",
+    "en": "This idiom originates from early 20th century America, where \"piece of cake\" referred to a prize in certain competitions—a cake. Over time, it evolved into a colloquial expression used to indicate that something is very easy to accomplish, similar to the Chinese expression “小菜一碟”."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Don't worry about the test; it's a piece of cake.",
+          "zh": "别担心考试；这简直小菜一碟。"
+        }
+      ],
+      "audio": "audio/674.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Fixing this bike is a piece of cake for me.",
+          "zh": "修理这辆自行车对我来说简直轻而易举。"
+        }
+      ],
+      "audio": "audio/674.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Compared to the problems we faced last year, this one is a piece of cake.",
+          "zh": "和我们去年面对的问题相比，这个简直太容易了。"
+        }
+      ],
+      "audio": "audio/674.3.mp3"
+    }
+  ]
+}

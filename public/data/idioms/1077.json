@@ -1,0 +1,37 @@
+{
+  "n": 1077,
+  "name": "Stay in touch",
+  "meaning": {
+    "zh": "“保持联系”。\n\n这个短语源自人们常用的表达方式，尤其在电子邮件和电话尚未普及的时候，更加重要。无论是朋友、家人还是同事，这个短语被频繁使用来表达双方希望持续沟通的信息。在现代社会，尽管沟通方式变得越来越多样化和便利，这个短语仍然具有温馨和关心的意味。",
+    "en": "This phrase originates from the common way people expressed their desire to remain connected, especially before electronic mails and telephones became prevalent. Whether it was friends, family, or colleagues, the phrase is frequently used to express the mutual hope to keep in touch. In modern society, although communication methods have become more diverse and convenient, this phrase still carries a warm and caring undertone."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Let's *stay in touch* after you move to New York.",
+          "zh": "你搬去纽约以后，让我们保持联系。"
+        }
+      ],
+      "audio": "audio/1077.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I always make an effort to *stay in touch* with my old friends from college.",
+          "zh": "我总是努力和大学期间的老朋友保持联系。"
+        }
+      ],
+      "audio": "audio/1077.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Even though we've moved to different cities, we still *stay in touch* through social media.",
+          "zh": "尽管我们搬到了不同的城市，我们仍通过社交媒体保持联系。"
+        }
+      ],
+      "audio": "audio/1077.3.mp3"
+    }
+  ]
+}

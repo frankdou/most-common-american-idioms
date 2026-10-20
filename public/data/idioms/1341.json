@@ -1,0 +1,37 @@
+{
+  "n": 1341,
+  "name": "You can lead a horse to water, but you can't make him drink",
+  "meaning": {
+    "zh": "“你可以带马到水边，但不能强迫它喝水。” 这个成语比喻你可以为某人提供机会或资源，但不能强迫他们接受或利用。最终决定权还是在他们自己手中。\n\n这个短语起源于中世纪的英国，最早可以追溯到1175年的古英语文献。它常用于强调无论我们多么努力地提供帮助或建议，最关键的行动还是需要对方自己去完成。",
+    "en": "This idiom originates from medieval England, dating back to as early as 1175 in Old English literature. It is commonly used to stress that no matter how hard we try to provide assistance or advice, the essential action must still be taken by the other person."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I gave her all the tools to succeed, but she still failed. *You can lead a horse to water, but you can't make him drink*.",
+          "zh": "我给了她成功所需的所有工具，但她仍然失败了。你可以带马到水边，但不能强迫它喝水。"
+        }
+      ],
+      "audio": "audio/1341.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "We provided him with the best education, but he dropped out. It's true that *you can lead a horse to water, but you can't make him drink*.",
+          "zh": "我们提供了最好的教育，但他还是退学了。确实是你可以带马到水边，但不能强迫它喝水。"
+        }
+      ],
+      "audio": "audio/1341.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I advised him to apply for the job, but he didn't. *You can lead a horse to water, but you can't make him drink*.",
+          "zh": "我建议他申请那份工作，但他没有。你可以带马到水边，但不能强迫它喝水。"
+        }
+      ],
+      "audio": "audio/1341.3.mp3"
+    }
+  ]
+}

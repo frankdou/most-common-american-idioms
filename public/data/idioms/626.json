@@ -1,0 +1,37 @@
+{
+  "n": 626,
+  "name": "How do you like them apples",
+  "meaning": {
+    "zh": "“你怎么看这个？” 或 “你对此有何感想？” 带有挑衅和炫耀意味。\n\n这个短语最初出现在第一次世界大战期间，源于英国士兵用来描述他们的Mills bomb榴弹：“Toffee Apple”，短语里的 “苹果” 就是指这些炸弹。随着时间推移，该短语逐渐演化为一种引起注意并且带有挑衅意味的问话方式，通常用于表达自豪、胜利或是挑战对方。",
+    "en": "Initially appearing during World War I, this phrase originated from British soldiers referring to their Mills bomb grenades as \"Toffee Apple.\" Over time, it evolved into a phrase used to draw attention with a provocative tone, often expressing pride, victory, or challenge to the listener."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I got a promotion at work! How do you like them apples?",
+          "zh": "我在工作上升职了！你怎么看这个？"
+        }
+      ],
+      "audio": "audio/626.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "We won the championship! How do you like them apples?",
+          "zh": "我们赢得了冠军！你对此有何感想？"
+        }
+      ],
+      "audio": "audio/626.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I solved that difficult problem. How do you like them apples?",
+          "zh": "我解决了那个难题。你怎么看这个？"
+        }
+      ],
+      "audio": "audio/626.3.mp3"
+    }
+  ]
+}

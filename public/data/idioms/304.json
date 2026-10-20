@@ -1,0 +1,37 @@
+{
+  "n": 304,
+  "name": "Cutting corners",
+  "meaning": {
+    "zh": "“走捷径” 或 “偷工减料”。\n\n这个成语源于建筑与制造业，意指为了节省时间或成本而不按照正常或标准的步骤进行工作，避免麻烦的部分。在日常对话中，它经常用来形容为了快速完成工作而牺牲质量，或者在不遵守规定的情况下达到目的。",
+    "en": "This idiom originates from the building and manufacturing industries, meaning to skip steps or avoid certain procedures to save time or cost, thereby cutting off the corners in a potentially substandard way. In everyday conversations, it is often used to describe acting in ways that sacrifice quality for speed or not following rules to achieve a goal."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "If you keep *cutting corners*, the project will not meet the quality standards.",
+          "zh": "如果你一直偷工减料，这个项目将无法达到质量标准。"
+        }
+      ],
+      "audio": "audio/304.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "They finished it quickly by *cutting corners*, but there were many flaws.",
+          "zh": "他们通过走捷径很快完成了这项工作，但有很多缺陷。"
+        }
+      ],
+      "audio": "audio/304.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "We can't afford to *cut corners* on safety regulations.",
+          "zh": "我们不能在安全规定上偷工减料。"
+        }
+      ],
+      "audio": "audio/304.3.mp3"
+    }
+  ]
+}

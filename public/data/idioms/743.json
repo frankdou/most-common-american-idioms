@@ -1,0 +1,37 @@
+{
+  "n": 743,
+  "name": "Learn by rote",
+  "meaning": {
+    "zh": "“死记硬背” 或 “机械记忆”。\n\n这个短语起源于古英语中的 “rote”，意思是用重复和机械的方法来学习某些东西。虽然这种方法能够在短时间内记住大量信息，但通常缺乏理解和应用能力。在现代教育中，这种学习方法常常被视为低效和不灵活。",
+    "en": "This phrase originates from Old English \"rote,\" meaning to learn something through repetition and mechanical methods. While this method allows memorizing significant amounts of information in a short time, it often lacks comprehension and application skills. In modern education, this learning method is generally viewed as inefficient and inflexible."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He *learned the poem by rote*, but didn't really understand its meaning.",
+          "zh": "他靠死记硬背记住了这首诗，但并没有真正理解其含义。"
+        }
+      ],
+      "audio": "audio/743.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Students often *learn mathematical formulas by rote* without understanding the concepts.",
+          "zh": "学生们往往通过死记硬背来学习数学公式，但并没有理解其中的概念。"
+        }
+      ],
+      "audio": "audio/743.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "*Learning by rote* can be useful for short-term exams, but not for long-term retention.",
+          "zh": "死记硬背对短期考试可能有用，但对长期记忆没有帮助。"
+        }
+      ],
+      "audio": "audio/743.3.mp3"
+    }
+  ]
+}

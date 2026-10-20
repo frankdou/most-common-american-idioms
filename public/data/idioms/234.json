@@ -1,0 +1,37 @@
+{
+  "n": 234,
+  "name": "Charley horse",
+  "meaning": {
+    "zh": "“抽筋” 或 “肌肉痉挛”。\n\n这个短语的起源并不完全确定，但有几种流行的解释。一个常见的说法是，这种表达源自19世纪美国棒球运动员对疼痛的形容。另一个说法是，一个叫查理的马，经常用于拖运球员和设备，当它劳累时常出现类似的症状。因此，“Charley horse” 被用于描述类似的肌肉痉挛或抽筋。",
+    "en": "This phrase's origin is not completely certain, but there are several popular explanations. One common belief is that the term originated from 19th-century American baseball players who used it to describe pain. Another story is that a horse named Charley, used to pull players and equipment, would develop similar symptoms when overworked. Thus, \"Charley horse\" came to be used to describe similar muscle cramps or spasms."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He got a *Charley horse* after running the marathon.",
+          "zh": "跑完马拉松后，他得了抽筋。"
+        }
+      ],
+      "audio": "audio/234.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I woke up in the middle of the night with a painful *Charley horse*.",
+          "zh": "我半夜突然被疼痛的抽筋惊醒。"
+        }
+      ],
+      "audio": "audio/234.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Make sure to stretch properly to avoid a *Charley horse*.",
+          "zh": "一定要好好拉伸，以避免抽筋。"
+        }
+      ],
+      "audio": "audio/234.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 424,
+  "name": "Fly in the ointment",
+  "meaning": {
+    "zh": "“美中不足” 或 “小缺点”。\n\n这个短语的英文含义直译过来是\"药膏里的苍蝇\"。它的起源可以追溯到《圣经》旧约《传道书》第10章第1节，描述的是一点点的愚蠢如何能毁掉大量的智慧和名誉。这个短语通常用来指微小但令人恼火的问题，可能会破坏整体的愉快或成功。",
+    "en": "This phrase originates from the Bible, specifically Ecclesiastes 10:1, which describes how a little foolishness can spoil much wisdom and honor. It is often used to refer to a small but irritating problem that spoils an otherwise satisfactory situation."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Everything was perfect for the trip, but the flight delay was a real *fly in the ointment*.",
+          "zh": "一切都为这次旅行安排得很完美，但航班延误让人感到美中不足。"
+        }
+      ],
+      "audio": "audio/424.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The party was great, except for the argument which was a *fly in the ointment*.",
+          "zh": "除了那场争吵，这次聚会非常精彩，不过那场争吵确实是一个美中不足之处。"
+        }
+      ],
+      "audio": "audio/424.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Their new house is wonderful, but the noisy neighborhood is the *fly in the ointment*.",
+          "zh": "他们的新房子很棒，但嘈杂的邻居是个美中不足之处。"
+        }
+      ],
+      "audio": "audio/424.3.mp3"
+    }
+  ]
+}

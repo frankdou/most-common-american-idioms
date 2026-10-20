@@ -1,0 +1,37 @@
+{
+  "n": 1264,
+  "name": "Turn a blind eye",
+  "meaning": {
+    "zh": "“视而不见” 或 “装作没看见”。\n\n这个成语来源于英国海军英雄霍雷肖·纳尔逊上将的故事。在1801年，纳尔逊在一次战斗中接受指挥官的信号，让他撤退。然而，纳尔逊因为自己的一只眼睛是盲的，他把这个信号看作是一个借口，故意用盲眼看向信号，并继续进攻。最终他战斗成功，这个故事流传下来，就有了 “Turn a blind eye” 这个成语，表示故意忽视某些事实或问题。",
+    "en": "This idiom originates from the story of British naval hero Admiral Horatio Nelson. In 1801, during a battle, Nelson received a signal from his commander to retreat. However, because Nelson was blind in one eye, he used his blind eye to look at the signal, effectively ignoring it and continuing the attack. He won the battle, and the phrase \"Turn a blind eye\" has come to mean deliberately ignoring certain facts or issues."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The manager decided to *turn a blind eye* to the minor rule-breaking.",
+          "zh": "经理决定对小违规行为视而不见。"
+        }
+      ],
+      "audio": "audio/1264.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She knows her son is lying, but she chooses to *turn a blind eye*.",
+          "zh": "她知道儿子在撒谎，但她选择装作没看见。"
+        }
+      ],
+      "audio": "audio/1264.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "It’s hard to *turn a blind eye* to corruption in the government.",
+          "zh": "很难对政府中的腐败现象视而不见。"
+        }
+      ],
+      "audio": "audio/1264.3.mp3"
+    }
+  ]
+}

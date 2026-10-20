@@ -1,0 +1,37 @@
+{
+  "n": 1045,
+  "name": "Sixth sense",
+  "meaning": {
+    "zh": "“第六感” 或 “直觉”。\n\n这个短语源自哲学和心理学领域，假定人类除了五种传统感官（视、听、嗅、味、触）之外，还存在一种额外的感官，即 “第六感”，指的是人对某些事物或情况的预感或直觉。这类感觉并非通过直接的感官体验得到，而是通过一种内在的、本能的感觉传递出来。",
+    "en": "This phrase originates from the fields of philosophy and psychology, based on the hypothesis that humans possess an additional sense beyond the traditional five senses (sight, hearing, smell, taste, touch). The \"sixth sense\" refers to an extra sensory perception or intuition, a premonition or instinct about certain situations or happenings. This type of sense is not derived from direct sensory experience but is conveyed through an inherent, instinctive feeling."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "She had a *sixth sense* that something bad was going to happen.",
+          "zh": "她有一种直觉，感觉会有不好的事情发生。"
+        }
+      ],
+      "audio": "audio/1045.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Trust your *sixth sense* when making important decisions.",
+          "zh": "在做重要决策时，相信你的直觉。"
+        }
+      ],
+      "audio": "audio/1045.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "My *sixth sense* told me to avoid that road today, and it turned out to be right.",
+          "zh": "我的第六感告诉我今天不要走那条路，结果果然是对的。"
+        }
+      ],
+      "audio": "audio/1045.3.mp3"
+    }
+  ]
+}

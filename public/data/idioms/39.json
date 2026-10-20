@@ -1,0 +1,37 @@
+{
+  "n": 39,
+  "name": "A sledgehammer to crack a nut",
+  "meaning": {
+    "zh": "“小题大做” 或 “大材小用”。\n\n这个成语源自于使用超出所需的过多力量来完成一个微不足道的任务。类似于用大榔头砸开一个小坚果，这不仅夸张且不必要，还会造成浪费。它用来形容采取过于强硬或复杂的措施来处理简单的问题。",
+    "en": "This idiom originates from the concept of using excessive force to solve a trivial problem. Like using a sledgehammer to crack a small nut, it exaggerates and unnecessarily wastes resources. It is used to describe taking overly strong or complex measures to deal with a simple issue."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Bringing in a lawyer for this minor dispute is like using *a sledgehammer to crack a nut*.",
+          "zh": "请律师来解决这个小纠纷简直是小题大做。"
+        }
+      ],
+      "audio": "audio/039.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Installing a full security system for such a small store seems like *a sledgehammer to crack a nut*.",
+          "zh": "在这么小的店里安装全套安保系统感觉像是大材小用。"
+        }
+      ],
+      "audio": "audio/039.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Buying a huge SUV for driving around the city is *a sledgehammer to crack a nut*.",
+          "zh": "在城市里开这么大的越野车简直是小题大做。"
+        }
+      ],
+      "audio": "audio/039.3.mp3"
+    }
+  ]
+}

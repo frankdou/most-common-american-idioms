@@ -1,0 +1,37 @@
+{
+  "n": 854,
+  "name": "Not playing with a full deck",
+  "meaning": {
+    "zh": "“脑袋不灵光” 或 “思维有问题”。\n\n这个短语的来源是扑克游戏中的 “一副完整的牌”（a full deck），如果某人 “not playing with a full deck”，意指他们的思维没有达到正常或完整的状态。这个表达通常用来形容一个人的行为或者思考方式有点古怪或者不完全正常。",
+    "en": "This phrase originates from the game of cards, where “a full deck” refers to all 52 cards being present. If someone is \"not playing with a full deck,\" it suggests that their thinking is not in a normal or complete state. This expression is typically used to describe someone's behavior or way of thinking as a bit odd or not entirely rational."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I think the new guy in accounting is *not playing with a full deck*.",
+          "zh": "我觉得新来的会计部门那个人脑袋不太灵光。"
+        }
+      ],
+      "audio": "audio/854.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Some of his ideas make me wonder if he's *not playing with a full deck*.",
+          "zh": "他的一些想法让我怀疑他思维有问题。"
+        }
+      ],
+      "audio": "audio/854.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She's nice but sometimes seems like she's *not playing with a full deck*.",
+          "zh": "她人很好，但有时看起来思维有点问题。"
+        }
+      ],
+      "audio": "audio/854.3.mp3"
+    }
+  ]
+}

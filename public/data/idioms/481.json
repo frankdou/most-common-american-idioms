@@ -1,0 +1,37 @@
+{
+  "n": 481,
+  "name": "Get the green light",
+  "meaning": {
+    "zh": "“获得许可” 或 “得到批准”。\n\n这个短语源自交通信号灯中的绿色灯，表示车辆可以继续通行。在日常用语中，\"get the green light\" 用来比喻获得上级或者相关方的允许或授权，可以继续某个计划或行动。",
+    "en": "This phrase originates from traffic lights, where the green light indicates that vehicles can proceed. In daily usage, \"get the green light\" is a metaphor for receiving permission or approval from a superior or relevant authority to proceed with a plan or action."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "We finally got the green light from the boss to start the project.",
+          "zh": "我们终于得到了老板的批准，可以开始这个项目了。"
+        }
+      ],
+      "audio": "audio/481.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "After months of planning, the team got the green light to launch the app.",
+          "zh": "经过数月的规划，这个团队终于得到了启动应用程序的许可。"
+        }
+      ],
+      "audio": "audio/481.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The construction can't begin until we get the green light from the city council.",
+          "zh": "施工必须等到得到市政会的批准后才能开始。"
+        }
+      ],
+      "audio": "audio/481.3.mp3"
+    }
+  ]
+}

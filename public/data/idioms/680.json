@@ -1,0 +1,37 @@
+{
+  "n": 680,
+  "name": "It's raining cats and dogs",
+  "meaning": {
+    "zh": "“倾盆大雨” 或 “大雨滂沱”。\n\n这个短语的起源并不十分明确，但有几种解释。其中一种理论认为，这个表达来源于老英国的一个习俗，即在暴风雨之后，街道上会出现死去的猫和狗，因为它们无处避难而被冲走。另一种解释则认为这个短语来自于北欧神话，猫和狗分别代表着风和雨，从而描述暴风雨的猛烈程度。现在，这个短语通常用来形容下大雨的时候。",
+    "en": "The origin of this phrase is not very clear, but there are several explanations. One theory suggests it comes from an old English practice where, after heavy storms, dead cats and dogs would be found on the streets because they had no shelter and were washed out. Another explanation is that it comes from Norse mythology, with cats and dogs symbolizing wind and rain, respectively, thus describing the intensity of the storm. Currently, this phrase is used to describe very heavy rain."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Don't forget your umbrella, it's *raining cats and dogs* out there!",
+          "zh": "别忘了带伞，外面正在下倾盆大雨！"
+        }
+      ],
+      "audio": "audio/680.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "We had to cancel the picnic because it was *raining cats and dogs*.",
+          "zh": "我们不得不取消野餐计划，因为当时正在下倾盆大雨。"
+        }
+      ],
+      "audio": "audio/680.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I got completely drenched; it started *raining cats and dogs* as soon as I stepped outside.",
+          "zh": "我被淋得透湿；我一出门就开始下倾盆大雨。"
+        }
+      ],
+      "audio": "audio/680.3.mp3"
+    }
+  ]
+}

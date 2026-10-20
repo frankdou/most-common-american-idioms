@@ -1,0 +1,37 @@
+{
+  "n": 98,
+  "name": "At the crack of dawn",
+  "meaning": {
+    "zh": "“一大清早” 或 “破晓时分”。\n\n这个短语起源于破晓时太阳开始升起时发出的第一道光，通常意味着非常早的时间点。在古代，许多日常活动和工作都是从清晨开始的，因此，这个短语用来形容非常早的时间，表示在天刚亮的时候开始某项活动或工作。",
+    "en": "This phrase originates from the first light of the day when the sun rises, typically indicating an extremely early time. In ancient times, many daily activities and work would start at dawn, so this phrase is used to describe an early time, indicating the beginning of an activity or work at the break of first light."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "They started their journey *at the crack of dawn* to avoid the heat.",
+          "zh": "他们一大清早就开始了旅程，以避开酷热。"
+        }
+      ],
+      "audio": "audio/098.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I always walk my dog *at the crack of dawn* before heading to work.",
+          "zh": "我总是在天刚亮的时候遛狗，然后再去上班。"
+        }
+      ],
+      "audio": "audio/098.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Farmers often wake up *at the crack of dawn* to tend to their fields.",
+          "zh": "农民们通常在破晓时分起床去照料田地。"
+        }
+      ],
+      "audio": "audio/098.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 1103,
+  "name": "Take the cake",
+  "meaning": {
+    "zh": "“出乎意料” 或 “最了不起” 或 “糟糕透顶”。\n\n这个短语源自于19世纪美国的选美比赛，优胜者会获得一个蛋糕作为奖品。在现代英语中，“take the cake” 则被用来表示某事非常出色或令人震惊，有时也带有讽刺意味，用来指某事极其糟糕。",
+    "en": "This idiom originates from 19th-century American beauty contests where the winner would receive a cake as a prize. In modern English, \"take the cake\" is used to denote something outstanding or surprising, sometimes with a sarcastic tone to indicate something is extremely bad."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Her performance truly *takes the cake*; it was amazing!",
+          "zh": "她的表演真的太了不起了；简直令人惊叹！"
+        }
+      ],
+      "audio": "audio/1103.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Out of all the mistakes, that one really *takes the cake*.",
+          "zh": "在所有的错误中，那一个真是最糟糕的。"
+        }
+      ],
+      "audio": "audio/1103.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I’ve heard some excuses before, but this one *takes the cake*.",
+          "zh": "我以前听过一些借口，但这个真是出乎意料。"
+        }
+      ],
+      "audio": "audio/1103.3.mp3"
+    }
+  ]
+}

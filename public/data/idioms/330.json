@@ -1,0 +1,37 @@
+{
+  "n": 330,
+  "name": "Dog-eat-dog",
+  "meaning": {
+    "zh": "“狗咬狗” 或 “你死我活” 的竞争。\n\n这个短语的起源可以追溯到非常残酷和无情的竞争环境，类似于一种无规则的野战。在这样的环境中，人们为了自身利益可以不择手段，哪怕是伤害他人。这一表达用来形容极其激烈和无情的竞争氛围。",
+    "en": "This phrase traces its origin to extremely cutthroat and ruthless competition, akin to a lawless wilderness battle. In such environments, people may resort to any means, even harming others for their gain. This expression is used to describe a highly fierce and merciless competitive atmosphere."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The corporate world can often be a *dog-eat-dog* environment.",
+          "zh": "企业界常常是一个狗咬狗的环境。"
+        }
+      ],
+      "audio": "audio/330.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "In such a *dog-eat-dog* industry, only the strongest survive.",
+          "zh": "在这样一个你死我活的行业，只有最强者才能生存。"
+        }
+      ],
+      "audio": "audio/330.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The startup world is notorious for its *dog-eat-dog* nature.",
+          "zh": "创业界以其残酷的竞争性而臭名昭著。"
+        }
+      ],
+      "audio": "audio/330.3.mp3"
+    }
+  ]
+}

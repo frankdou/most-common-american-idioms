@@ -1,0 +1,37 @@
+{
+  "n": 10,
+  "name": "A bunch of",
+  "meaning": {
+    "zh": "“一堆” 或 “许多”。\n\n这个短语的起源可以追溯到古英语单词 “bunc” ，表示一捆或一束。在现代英语中，“a bunch of” 被广泛使用，意思是指一大群的某种东西，通常是相同类型的事物。这个短语适用于非正式场合，常用来表示数量众多。",
+    "en": "This phrase originates from the Old English word “bunc,” meaning a bundle or cluster. In modern English, \"a bunch of\" is widely used to refer to a large number of things, usually of the same kind. It is often used in informal contexts to indicate a considerable quantity."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I bought *a bunch of* bananas at the market.",
+          "zh": "我在市场上买了一堆香蕉。"
+        }
+      ],
+      "audio": "audio/010.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She has *a bunch of* friends coming over tonight.",
+          "zh": "她今晚有一大堆朋友要来家里。"
+        }
+      ],
+      "audio": "audio/010.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "There's *a bunch of* paperwork on my desk I need to finish.",
+          "zh": "我的桌上有一堆文件需要处理。"
+        }
+      ],
+      "audio": "audio/010.3.mp3"
+    }
+  ]
+}

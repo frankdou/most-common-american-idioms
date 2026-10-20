@@ -1,0 +1,37 @@
+{
+  "n": 753,
+  "name": "Lend me your ear",
+  "meaning": {
+    "zh": "“请听我说” 或 “借我片刻倾听”。\n\n这个短语源自莎士比亚的戏剧《凯撒大帝》中的一句话，Mark Antony 在给人们演讲时说 \"Friends, Romans, countrymen, lend me your ears\"，意思是请求他们注意听他说话。在今天，这个短语广泛用于请求别人的注意和倾听。",
+    "en": "This phrase originates from Shakespeare's play \"Julius Caesar\", where Mark Antony says \"Friends, Romans, countrymen, lend me your ears\" while addressing the people, meaning he is asking them to listen attentively. Nowadays, this phrase is widely used to ask for someone's attention and listening."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Could you *lend me your ear* for a moment? I need to talk about something important.",
+          "zh": "你能听我说一会儿吗？我有些重要的事情要讲。"
+        }
+      ],
+      "audio": "audio/753.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I always *lend him my ear* when he's feeling down.",
+          "zh": "每当他情绪低落时，我都会愿意听他说话。"
+        }
+      ],
+      "audio": "audio/753.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "If you *lend me your ear*, I promise it won't take long.",
+          "zh": "如果你愿意听我说，我保证不会花很长时间。"
+        }
+      ],
+      "audio": "audio/753.3.mp3"
+    }
+  ]
+}

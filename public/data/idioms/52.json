@@ -1,0 +1,37 @@
+{
+  "n": 52,
+  "name": "Ace up the sleeve",
+  "meaning": {
+    "zh": "“隐藏的王牌” 或 “秘密武器”。\n\n这个短语来自于纸牌游戏，特别是扑克。在这些游戏中，一个玩家如果在袖子里藏了一张王牌（最有价值的牌），当他需要时可以出其不意地使用。在现代生活中，这个表达用来表示某人或某团队有一个隐藏的优势或秘密武器，可以在关键时刻使用。",
+    "en": "This phrase originates from card games, especially poker. In these games, a player might hide an ace (the highest-value card) up their sleeve to use it unexpectedly when needed. In modern life, the phrase is used to indicate that someone or some team has a hidden advantage or a secret weapon that can be used at a crucial moment."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "She always has an *ace up her sleeve* during negotiations.",
+          "zh": "她在谈判中总是藏有一张王牌。"
+        }
+      ],
+      "audio": "audio/052.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He thought he had lost, but then he pulled an *ace up his sleeve* and won the game.",
+          "zh": "他以为自己输了，但随后他使出了藏在袖子里的王牌，赢得了比赛。"
+        }
+      ],
+      "audio": "audio/052.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The team didn’t reveal their *ace up their sleeve* until the last minute.",
+          "zh": "团队直到最后一刻才亮出他们的秘密武器。"
+        }
+      ],
+      "audio": "audio/052.3.mp3"
+    }
+  ]
+}

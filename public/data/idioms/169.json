@@ -1,0 +1,37 @@
+{
+  "n": 169,
+  "name": "Bookworm",
+  "meaning": {
+    "zh": "“书虫” 或 “书呆子”。\n\n这个短语起源于一种真正存在的昆虫，这种昆虫以书页为食。后来，人们用它来形容那些喜欢沉浸在书本中的人，就像书虫一样，一本一本地 “啃” 书。",
+    "en": "This phrase originates from a real insect that feeds on the pages of books. Over time, it has come to describe people who love to immerse themselves in books, devouring them one by one like a bookworm."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "She’s a real *bookworm*; you’ll always find her with her nose in a book.",
+          "zh": "她真是个书虫，你总能看到她埋头读书。"
+        }
+      ],
+      "audio": "audio/169.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Being a *bookworm*, he spends most of his weekends reading in the library.",
+          "zh": "作为一个书虫，他大部分周末都在图书馆读书。"
+        }
+      ],
+      "audio": "audio/169.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "My sister is such a *bookworm* that she even reads during meals.",
+          "zh": "我妹妹是个书虫，甚至吃饭的时候也在读书。"
+        }
+      ],
+      "audio": "audio/169.3.mp3"
+    }
+  ]
+}

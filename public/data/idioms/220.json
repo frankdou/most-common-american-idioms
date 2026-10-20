@@ -1,0 +1,37 @@
+{
+  "n": 220,
+  "name": "Castle in the sky",
+  "meaning": {
+    "zh": "“空中楼阁” 或 “不切实际的幻想”。\n\n“Castle in the sky” 这个短语源自对某种不切实际的幻想或计划的形象化描述。一个 “空中楼阁” 是指一个美好的愿景或理想，但是没有实际的基础或可行性，无法实现。",
+    "en": "This phrase originates from the metaphor of a beautiful and grand castle floating in the sky, which represents an ideal or dream that lacks practical foundation or feasibility, hence, cannot be realized."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "His plan to start a business with no money was just a *castle in the sky*.",
+          "zh": "他在没有资金的情况下开一家公司的计划不过是一个空中楼阁。"
+        }
+      ],
+      "audio": "audio/220.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Dreaming of becoming a millionaire overnight is often a *castle in the sky*.",
+          "zh": "梦想一夜之间成为百万富翁往往是空中楼阁。"
+        }
+      ],
+      "audio": "audio/220.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Without realistic steps, his aspirations are nothing but a *castle in the sky*.",
+          "zh": "没有现实的步骤，他的抱负不过是空中楼阁。"
+        }
+      ],
+      "audio": "audio/220.3.mp3"
+    }
+  ]
+}

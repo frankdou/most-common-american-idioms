@@ -1,0 +1,37 @@
+{
+  "n": 1310,
+  "name": "What are you up to?",
+  "meaning": {
+    "zh": "“你在做什么？” 或 “你最近在忙什么？”\n\n这个短语 “What are you up to?” 通常用来询问对方目前的活动或计划。它是一种很随和、非正式的问候方式，通常用于朋友、家人或熟人的交谈中，以了解他们的近况或当前正在做的事情。",
+    "en": "This phrase \"What are you up to?\" is commonly used to inquire about what someone is currently doing or planning to do. It is a casual, informal way of greeting often used in conversations among friends, family, or acquaintances to find out about their current activities or well-being."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Hey John, *what are you up to* this weekend?",
+          "zh": "嘿，John，你这个周末打算做什么？"
+        }
+      ],
+      "audio": "audio/1310.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Hi, *what are you up to* right now?",
+          "zh": "嗨，你现在在忙什么？"
+        }
+      ],
+      "audio": "audio/1310.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Long time no see! *What are you up to* these days?",
+          "zh": "好久不见，你最近在忙什么？"
+        }
+      ],
+      "audio": "audio/1310.3.mp3"
+    }
+  ]
+}

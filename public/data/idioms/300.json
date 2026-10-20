@@ -1,0 +1,37 @@
+{
+  "n": 300,
+  "name": "Cut them some slack",
+  "meaning": {
+    "zh": "“对他们宽容一些” 或 “放他们一马”。\n\n这个短语的起源可以追溯到航海术语。绳索被拉得紧紧的，没有任何放松的余地时，会使得船员感到紧张，但如果给他们一些 “slack”（松弛），就意味着减少一些压力，给他们更多的余地。在现代社会中，这个短语变成了日常用语，用于建议对某人宽容一些，特别是在他们遇到困难或者压力大的情况下。",
+    "en": "This phrase originates from nautical terminology. When a rope is pulled tight with no slack, it creates tension for the sailors, but giving them some slack means reducing the tension, providing them more leeway. In modern society, this phrase has evolved into everyday language to suggest being more forgiving or lenient with someone, especially when they are under stress or going through a tough time."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He's new to the job, so let's *cut him some slack* while he learns the ropes.",
+          "zh": "他刚开始这工作，所以在他熟悉情况时我们要对他宽容一些。"
+        }
+      ],
+      "audio": "audio/300.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I know she made a mistake, but she's been under a lot of stress. *Cut her some slack*",
+          "zh": "我知道她犯了个错误，但她最近压力很大。我们放她一马吧。"
+        }
+      ],
+      "audio": "audio/300.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "If your friend is late, don't get angry. Maybe you should *cut him some slack* this time.",
+          "zh": "如果你的朋友迟到了，不要生气。可能这次你应该对他宽容一些。"
+        }
+      ],
+      "audio": "audio/300.3.mp3"
+    }
+  ]
+}

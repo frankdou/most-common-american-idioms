@@ -1,0 +1,37 @@
+{
+  "n": 832,
+  "name": "Mum's the word",
+  "meaning": {
+    "zh": "“嘴严” 或 “保持沉默”。\n\n这个短语起源于英国，用于表示保守秘密或者不透露信息。词中的 \"mum\" 来自于古英语 \"mummer\"，意味着保持安静，避免发声。因此，“Mum's the word” 表达了要求某人对某件事保持缄默的意思。",
+    "en": "This phrase originates from Britain and is used to indicate keeping a secret or not divulging information. The word \"mum\" comes from the Old English \"mummer,\" which means to keep silent or to avoid making noise. Hence, “Mum's the word” communicates the idea of asking someone to keep quiet about something."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Remember, *mum's the word* about the surprise party.",
+          "zh": "记住，关于惊喜派对要保密。"
+        }
+      ],
+      "audio": "audio/832.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She promised that she would not tell anyone, so *mum's the word*.",
+          "zh": "她答应了不会告诉任何人，所以我们要保密。"
+        }
+      ],
+      "audio": "audio/832.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I've been asked to keep this information confidential, so *mum's the word*.",
+          "zh": "我被要求对这些信息保密，所以要保持沉默。"
+        }
+      ],
+      "audio": "audio/832.3.mp3"
+    }
+  ]
+}

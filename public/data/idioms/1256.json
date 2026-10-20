@@ -1,0 +1,37 @@
+{
+  "n": 1256,
+  "name": "Train of thought",
+  "meaning": {
+    "zh": "“思路” 或 “思维的轨迹”。\n\n这个短语是由 “train” 和 “thought” 组合而来，字面意思是 “思维列车”。它形象地比喻了思维像列车一样沿着轨迹前进，不断推进。在日常对话中，当人们想表达某人思维的连续性或逻辑思维流程时，会使用这个表达。",
+    "en": "This phrase is a combination of \"train\" and \"thought\", literally meaning a \"thought train\". It metaphorically suggests that thoughts move along a track like a train, advancing continuously. In daily conversations, people use this idiom to refer to someone's sequence of thoughts or logical thinking process."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I lost my *train of thought* during the presentation.",
+          "zh": "在演讲过程中，我的思路中断了。"
+        }
+      ],
+      "audio": "audio/1256.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Let me finish my *train of thought* before you ask a question.",
+          "zh": "在你提问之前，让我先把我的思路讲完。"
+        }
+      ],
+      "audio": "audio/1256.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "His *train of thought* was difficult to follow.",
+          "zh": "他的思路很难跟上。"
+        }
+      ],
+      "audio": "audio/1256.3.mp3"
+    }
+  ]
+}

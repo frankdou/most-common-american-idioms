@@ -1,0 +1,37 @@
+{
+  "n": 122,
+  "name": "Bed head",
+  "meaning": {
+    "zh": "“床头发” 或 “睡乱的头发”。\n\n这个俗语用来形容刚从床上起床时，头发凌乱不堪的样子。因为睡觉的时候辗转反侧，头发会变得乱糟糟的，所以这种状态被称为 “bed head”。在现代使用中，除了字面意思，还可以用来幽默地形容一个人看起来还没完全清醒的样子。",
+    "en": "This idiom is used to describe hair that is messy and tousled after getting out of bed. Because tossing and turning during sleep can make hair disheveled, this condition is termed \"bed head.\" In modern usage, aside from its literal meaning, it can humorously describe someone who looks like they haven't fully woken up."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I looked in the mirror and saw bed head like never before.",
+          "zh": "我照了照镜子，看到了自己前所未有的凌乱头发。"
+        }
+      ],
+      "audio": "audio/122.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Her bed head was so bad she needed a shower to fix it.",
+          "zh": "她的头发乱得要命，需要洗个澡来整理一下。"
+        }
+      ],
+      "audio": "audio/122.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I grabbed a hat to hide my bed head before going out.",
+          "zh": "我拿了一顶帽子戴上，以遮住我的凌乱头发，然后才出门。"
+        }
+      ],
+      "audio": "audio/122.3.mp3"
+    }
+  ]
+}

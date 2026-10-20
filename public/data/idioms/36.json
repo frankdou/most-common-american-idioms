@@ -1,0 +1,37 @@
+{
+  "n": 36,
+  "name": "A rip-off",
+  "meaning": {
+    "zh": "“敲竹杠” 或 “宰人”。\n\n这个短语起源于俚语，表示某个商品或服务的价格被抬高到不合理的程度，从而使人感到自己被欺骗和剥削。它通常用来形容不公正的交易或价格过高的商品和服务。",
+    "en": "This phrase originates from slang and means that the price of a product or service has been unfairly inflated, making the buyer feel cheated and exploited. It is often used to describe unfair deals or overpriced goods and services."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The tickets to the concert were a total *rip-off*.",
+          "zh": "那场演唱会的门票简直是敲竹杠。"
+        }
+      ],
+      "audio": "audio/036.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He felt the cost of the new phone was a *rip-off*.",
+          "zh": "他觉得新手机的价格简直是宰人。"
+        }
+      ],
+      "audio": "audio/036.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Don’t go to that restaurant, it’s such a *rip-off*!",
+          "zh": "别去那家餐厅，他们的价格太坑了！"
+        }
+      ],
+      "audio": "audio/036.3.mp3"
+    }
+  ]
+}

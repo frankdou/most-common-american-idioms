@@ -1,0 +1,37 @@
+{
+  "n": 114,
+  "name": "Bear in mind/keep in mind",
+  "meaning": {
+    "zh": "“记住” 或 “铭记于心”。\n\n这个短语起源于古英语中的 “bear” 一词，本义是 “携带” 或 “承受”，后来发展为 “保持某种状态”。因此，*bear in mind* 或 *keep in mind* 就是指将某件事情记在心里，随时提醒自己。",
+    "en": "This phrase originates from the Old English word \"bear,\" which originally meant \"to carry\" or \"to endure,\" and later developed into \"to maintain a state.\" Therefore, *bear in mind* or *keep in mind* means to remember something and keep it in your thoughts."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "*Bear in mind* that the deadline is next Monday.",
+          "zh": "请记住截止日期是下周一。"
+        }
+      ],
+      "audio": "audio/114.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "*Keep in mind* to bring your ID to the meeting.",
+          "zh": "牢记带上身份证去会议。"
+        }
+      ],
+      "audio": "audio/114.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "*Keep in mind* that she is very sensitive about that topic.",
+          "zh": "记住她对那个话题非常敏感。"
+        }
+      ],
+      "audio": "audio/114.3.mp3"
+    }
+  ]
+}

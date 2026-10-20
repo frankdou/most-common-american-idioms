@@ -1,0 +1,37 @@
+{
+  "n": 614,
+  "name": "Hit the sack",
+  "meaning": {
+    "zh": "“上床睡觉” 或 “就寝”。\n\n这个短语起源于美国。早期的时候，人们经常用装满稻草的麻袋来当床垫，所以 “hit the sack” 最初表示的是往 “麻袋床垫” 上一躺，后来演变成了 “上床睡觉”。如今，它被普遍用来表示准备就寝的动作和时间。",
+    "en": "This phrase originated in the United States. In the past, people often used sacks filled with straw as mattresses, so \"hit the sack\" initially meant lying down on a \"sack mattress.\" Over time, it evolved to mean going to bed. Nowadays, it's commonly used to indicate the action and time of going to sleep."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I'm really tired, so I'm going to *hit the sack* early tonight.",
+          "zh": "我真是累了，所以今晚要早点睡。"
+        }
+      ],
+      "audio": "audio/614.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "After a long day at work, he can't wait to *hit the sack*.",
+          "zh": "工作了一整天后，他迫不及待地想要睡觉。"
+        }
+      ],
+      "audio": "audio/614.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "It's getting late, I think it's time for me to *hit the sack*.",
+          "zh": "时间不早了，我觉得该睡觉了。"
+        }
+      ],
+      "audio": "audio/614.3.mp3"
+    }
+  ]
+}

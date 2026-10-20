@@ -1,0 +1,37 @@
+{
+  "n": 324,
+  "name": "Do something at the drop of a hat",
+  "meaning": {
+    "zh": "\"毫不犹豫；马上行动；立刻做某事。\"\n\n这个短语源于早期的美国西部，当时在一场比赛或决斗之前，比赛的开始信号通常就是扔下一顶帽子。这个动作非常迅速，因此逐渐演变为一个成语，表示人们在没有丝毫犹豫或延迟的情况下立即采取行动。",
+    "en": "This phrase originates from the early American West, where the start of a race or duel was often signaled by the dropping of a hat. The action was swift, and over time, the phrase evolved to mean doing something immediately without hesitation or delay."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "She's always ready to help her friends *at the drop of a hat*.",
+          "zh": "她总是随时准备好帮助她的朋友们，毫不犹豫。"
+        }
+      ],
+      "audio": "audio/324.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "If you need me, I'll be there *at the drop of a hat*.",
+          "zh": "如果你需要我，我会立刻赶到。"
+        }
+      ],
+      "audio": "audio/324.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He would leave his job *at the drop of a hat* if he found a better opportunity.",
+          "zh": "如果他找到更好的机会，他会马上辞掉他的工作。"
+        }
+      ],
+      "audio": "audio/324.3.mp3"
+    }
+  ]
+}

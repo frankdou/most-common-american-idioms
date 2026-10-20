@@ -1,0 +1,37 @@
+{
+  "n": 285,
+  "name": "Crack open a cold one",
+  "meaning": {
+    "zh": "“打开一瓶冰镇的啤酒”。\n\n这个短语来源于当你打开一瓶冰镇啤酒时产生的 “嘶” 声。在现代社会中，这个短语通常用来描述人们在工作或活动后放松时，打开一瓶冰镇饮料，通常是啤酒的场景。",
+    "en": "This phrase originates from the hissing sound made when you open a cold bottle of beer. In modern usage, it typically describes a relaxed atmosphere where people are opening a cold beverage, usually beer, after work or an activity."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "After a long day at work, he likes to *crack open a cold one* and unwind.",
+          "zh": "工作了一整天之后，他喜欢打开一瓶冰镇啤酒放松一下。"
+        }
+      ],
+      "audio": "audio/285.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "During the barbecue, everyone was *cracking open a cold one* and having a great time.",
+          "zh": "在烧烤时，每个人都在打开冰镇啤酒，玩得非常开心。"
+        }
+      ],
+      "audio": "audio/285.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He invited his friends over to *crack open a cold one* and watch the game.",
+          "zh": "他邀请朋友们过来一起打开冰镇啤酒看比赛。"
+        }
+      ],
+      "audio": "audio/285.3.mp3"
+    }
+  ]
+}

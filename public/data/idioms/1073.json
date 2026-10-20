@@ -1,0 +1,37 @@
+{
+  "n": 1073,
+  "name": "Square meal",
+  "meaning": {
+    "zh": "“一顿丰盛的饭” 或 “营养均衡的一餐”。\n\n这个短语最早出现在19世纪，被认为是源自航海术语。船上的水手们用方形的餐盘进餐，被称为 \"square meal\"。后来，引申为一种全面、丰富的餐食。这种表达强调了吃一顿美味且营养的饭的重要性。",
+    "en": "This phrase first appeared in the 19th century and is believed to originate from nautical terminology. Sailors on ships used square wooden plates, which were called \"square meal\". Over time, it was extended to mean a complete, nourishing meal. This expression highlights the importance of having a tasty and nutritious meal."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "After working all day, he looks forward to having a *square meal* at home.",
+          "zh": "工作了一整天后，他期待着回家吃一顿丰盛的饭。"
+        }
+      ],
+      "audio": "audio/1073.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Many people do not get a *square meal* every day, which is a serious issue.",
+          "zh": "有很多人每天都吃不上营养均衡的饭，这确实是一个严重的问题。"
+        }
+      ],
+      "audio": "audio/1073.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "You can order a *square meal* from this restaurant's special menu.",
+          "zh": "你可以从这家餐厅的特别菜单上点一顿丰盛的饭。"
+        }
+      ],
+      "audio": "audio/1073.3.mp3"
+    }
+  ]
+}

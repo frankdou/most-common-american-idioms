@@ -1,0 +1,37 @@
+{
+  "n": 675,
+  "name": "It's a scorcher",
+  "meaning": {
+    "zh": "“这是个大热天” 或 “今天真是特别热”。\n\n这个表达源自于单词 “scorch”，意思是 “烧焦” 或 “烤焦”。当形容天气时，意味着非常炎热的温度，仿佛整个地面都被烤焦了。在炎热的夏天，特别是阳光强烈的日子，“it’s a scorcher” 常用来表示高温难忍的天气状况。",
+    "en": "This expression derives from the word \"scorch,\" which means \"to burn\" or \"to sear.\" When describing the weather, it implies extremely hot temperatures, as if the ground itself is being scorched. This idiom is typically used on hot summer days when the sun is particularly strong, indicating unbearably high temperatures."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "It's a scorcher today; let's make sure to stay hydrated.",
+          "zh": "今天真是特别热，我们一定要确保多喝水。"
+        }
+      ],
+      "audio": "audio/675.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "We picked the wrong day for a hike—it's a scorcher out there.",
+          "zh": "我们选错了日子去远足，外面简直热得受不了。"
+        }
+      ],
+      "audio": "audio/675.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "It's a scorcher, so the beach is crowded with people trying to cool off.",
+          "zh": "今天特别热，海滩上挤满了想要凉快一下的人。"
+        }
+      ],
+      "audio": "audio/675.3.mp3"
+    }
+  ]
+}

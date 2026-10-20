@@ -1,0 +1,37 @@
+{
+  "n": 162,
+  "name": "Blow one's top",
+  "meaning": {
+    "zh": "“勃然大怒” 或 “暴跳如雷”。\n\n这个短语源自于猛然 “爆发” 的比喻，如火山爆发时顶端喷出熔岩一样。当某人 “blows one's top”，表示他因某事而极度愤怒，情绪失控。这个习惯短语通常用来描述突然的、强烈的愤怒情绪。",
+    "en": "This idiom originates from the metaphor of a sudden \"eruption,\" similar to a volcano spewing lava from its top. When someone \"blows one's top,\" it signifies that they are extremely angry and losing control over their emotions. This idiom is typically used to describe sudden and intense bouts of anger."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "When he found out someone had crashed his car, he almost *blew his top*.",
+          "zh": "当他发现有人撞了他的车，他简直勃然大怒。"
+        }
+      ],
+      "audio": "audio/162.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She *blew her top* when she saw the mess in the kitchen.",
+          "zh": "当她看到厨房的烂摊子时，暴跳如雷。"
+        }
+      ],
+      "audio": "audio/162.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "You need to calm down before you *blow your top* over something trivial.",
+          "zh": "你需要冷静下来，别为小事情勃然大怒。"
+        }
+      ],
+      "audio": "audio/162.3.mp3"
+    }
+  ]
+}

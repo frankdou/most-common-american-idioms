@@ -1,0 +1,37 @@
+{
+  "n": 848,
+  "name": "No pain, no gain",
+  "meaning": {
+    "zh": "“没有付出就没有收获” 或 “不经历风雨，怎么见彩虹”。\n\n这个短语的来源可以追溯到古罗马时代，但它在现代英语中的使用主要是由Benjamin Franklin普及的。他在他的《贫农历》中使用了这个短语，强调努力和牺牲是达到成功的必要条件。在不同的文化和社群中，这个短语常用于鼓励人们迎难而上，不畏艰难，只有通过付出和努力才能取得成功。",
+    "en": "This phrase can be traced back to Ancient Rome, but its popularity in modern English is largely attributed to Benjamin Franklin. He used it in his \"Poor Richard's Almanack\", highlighting that effort and sacrifice are essential for achieving success. It's commonly used in various cultures and communities to encourage people to face challenges, emphasizing that hard work and endurance are key to achieving goals."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "If you want to get fit, remember: *No pain, no gain*.",
+          "zh": "如果你想健身，要记住：没有付出就没有收获。"
+        }
+      ],
+      "audio": "audio/848.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Her teacher told her, \"*No pain, no gain*,\" when she complained about the difficult homework.",
+          "zh": "当她抱怨作业艰难时，老师告诉她：“不经历风雨，怎么见彩虹。”"
+        }
+      ],
+      "audio": "audio/848.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "They kept reminding each other, \"*No pain, no gain*,\" while preparing for the exam.",
+          "zh": "他们在准备考试时，一直互相提醒：没有付出就没有收获。"
+        }
+      ],
+      "audio": "audio/848.3.mp3"
+    }
+  ]
+}

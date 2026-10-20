@@ -1,0 +1,37 @@
+{
+  "n": 908,
+  "name": "Packed like sardines",
+  "meaning": {
+    "zh": "“像沙丁鱼一样被挤满” 或 “挤得像沙丁鱼罐头一样”。\n\n这个短语源自沙丁鱼被紧紧地排列在罐头里的情景，用来形容人或物被挤得非常紧密、拥挤不堪。适用于描述非常拥挤的场合，比如公共交通、集会或其他需要容纳很多人的地方。",
+    "en": "This phrase originates from the image of sardines being tightly packed in a can, used to describe situations where people or objects are crammed very closely together. It is suitable for describing extremely crowded situations, such as public transportation, gatherings, or any place that needs to accommodate many people."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The subway was *packed like sardines* during rush hour.",
+          "zh": "高峰时段，地铁里挤得像沙丁鱼罐头一样。"
+        }
+      ],
+      "audio": "audio/908.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Everyone at the concert was *packed like sardines*.",
+          "zh": "演唱会现场每个人都挤得像沙丁鱼一样。"
+        }
+      ],
+      "audio": "audio/908.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "We were *packed like sardines* in the small elevator.",
+          "zh": "我们在小电梯里挤得像沙丁鱼罐头一样。"
+        }
+      ],
+      "audio": "audio/908.3.mp3"
+    }
+  ]
+}

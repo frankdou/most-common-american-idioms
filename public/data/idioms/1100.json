@@ -1,0 +1,37 @@
+{
+  "n": 1100,
+  "name": "Take someone at their word",
+  "meaning": {
+    "zh": "“信以为真” 或 “按某人说的去做”。\n\n这个短语的起源可以追溯到古代英语，用来表示直接相信某人所说的话，而不做任何怀疑或要求额外的保证。在日常生活中，这个短语通常用来表示信任某人并按照他们说法去行动。",
+    "en": "The origin of this phrase can be traced back to old English, used to mean believing what someone says without any doubt or demand for additional guarantees. In everyday life, this idiom often indicates trusting someone and acting according to their words."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "When she promised to help, I took her at her word.",
+          "zh": "当她承诺会帮忙的时候，我信以为真。"
+        }
+      ],
+      "audio": "audio/1100.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "You shouldn't always take him at his word; sometimes he jokes around.",
+          "zh": "你不应该总是信以为真，有时候他在开玩笑。"
+        }
+      ],
+      "audio": "audio/1100.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "If you tell him you'll pay him back, he'll take you at your word.",
+          "zh": "如果你告诉他你会还钱，他会信以为真的。"
+        }
+      ],
+      "audio": "audio/1100.3.mp3"
+    }
+  ]
+}

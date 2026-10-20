@@ -1,0 +1,37 @@
+{
+  "n": 676,
+  "name": "It's crunch time",
+  "meaning": {
+    "zh": "“关键时刻” 或 “紧要关头”。\n\n这个短语起源于体育比赛、军事行动和商界，指的是时间非常紧迫，必须全力以赴完成某项任务的时刻。在现代英语中，“crunch time” 用于形容任何需要集中所有力量完成的紧急时刻，不限于某一个领域。",
+    "en": "This phrase originates from sports, military operations, and the business world, referring to a critical period when time is running out, and one must give their maximum effort to complete a task. In modern English, \"crunch time\" is used to describe any urgent moment requiring intense focus and effort, across various fields."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "With the project deadline tomorrow, it's crunch time for the whole team.",
+          "zh": "项目明天就到截止时间了，现在是整个团队的关键时刻。"
+        }
+      ],
+      "audio": "audio/676.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "It's crunch time before the final exams, so I'm studying all night.",
+          "zh": "临近期末考，现在是关键时刻，我要通宵学习。"
+        }
+      ],
+      "audio": "audio/676.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The election is next week; it's crunch time for the candidates.",
+          "zh": "选举下周就要举行了，现在是候选人的紧要关头。"
+        }
+      ],
+      "audio": "audio/676.3.mp3"
+    }
+  ]
+}

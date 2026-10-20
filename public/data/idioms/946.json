@@ -1,0 +1,37 @@
+{
+  "n": 946,
+  "name": "Pull out all the stops",
+  "meaning": {
+    "zh": "“竭尽全力” 或 “不遗余力”。\n\n这个短语源自管风琴的演奏。在演奏管风琴时，有许多 “拉杆” 或 “制音器”，可以控制不同的音响效果。把所有的制音器都拉出来，意思就是使管风琴发出最大和最丰富的声音。在现代用法中，“pull out all the stops” 意味着尽一切可能去完成某事或达到某个目标。",
+    "en": "This phrase originates from playing the pipe organ. There are many \"stops\" or controls on a pipe organ that can be pulled out to produce different sound effects. To \"pull out all the stops\" means to make the organ produce the fullest and richest sound possible. In contemporary usage, it means to do everything possible to achieve something or to go all-out."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "We need to *pull out all the stops* to finish this project on time.",
+          "zh": "我们需要竭尽全力按时完成这个项目。"
+        }
+      ],
+      "audio": "audio/946.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "For their wedding, they really *pulled out all the stops*.",
+          "zh": "为了他们的婚礼，他们真的不遗余力。"
+        }
+      ],
+      "audio": "audio/946.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The company *pulled out all the stops* to impress the new clients.",
+          "zh": "公司竭尽全力给新客户留下深刻印象。"
+        }
+      ],
+      "audio": "audio/946.3.mp3"
+    }
+  ]
+}

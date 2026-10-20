@@ -1,0 +1,37 @@
+{
+  "n": 538,
+  "name": "Goes without saying",
+  "meaning": {
+    "zh": "“不言而喻” 或 “显而易见”。\n\n这个短语的起源可以追溯到古英语时期，意指某些事情如此显然，以至于无需说出来。这个成语常用于强调某些事情是大家都知道的常识或理所当然的真理。",
+    "en": "This phrase can be traced back to Old English times, meaning that some things are so obvious that they don't need to be said. It's often used to stress that certain matters are common knowledge or self-evident truths."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "It *goes without saying* that you should apologize for being late.",
+          "zh": "显而易见，你应该为迟到道歉。"
+        }
+      ],
+      "audio": "audio/538.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "*It goes without saying* that you need to study to pass the exam.",
+          "zh": "不言而喻，你需要学习才能通过考试。"
+        }
+      ],
+      "audio": "audio/538.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "*It goes without saying* that safety is our top priority.",
+          "zh": "不言而喻，安全是我们的首要任务。"
+        }
+      ],
+      "audio": "audio/538.3.mp3"
+    }
+  ]
+}

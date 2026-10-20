@@ -1,0 +1,37 @@
+{
+  "n": 130,
+  "name": "Beside oneself",
+  "meaning": {
+    "zh": "“极度激动” 或 “失去自制”。\n\n这个短语起源于一种心理状态，描述一个人的情绪达到了极限，仿佛自己的灵魂挣脱了身体，不再能控制自己的行为和情绪。这种状态可以是由于极大的愤怒、兴奋、悲伤或其他强烈的情感而导致的。",
+    "en": "The phrase originates from a psychological state describing a person whose emotions have reached such an extreme level that it feels like their soul has left their body, and they can no longer control their actions and emotions. This state can be triggered by extreme anger, excitement, sadness, or other intense emotions."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "She was *beside herself* with joy when she heard the news.",
+          "zh": "听到这个消息时，她高兴得无法自己。"
+        }
+      ],
+      "audio": "audio/130.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "After the accident, he was *beside himself* with grief.",
+          "zh": "事故发生后，他悲痛得不能自拔。"
+        }
+      ],
+      "audio": "audio/130.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She was *beside herself* with rage when she found out the truth.",
+          "zh": "当她得知真相时，她愤怒得不能自已。"
+        }
+      ],
+      "audio": "audio/130.3.mp3"
+    }
+  ]
+}

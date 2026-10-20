@@ -1,0 +1,37 @@
+{
+  "n": 1114,
+  "name": "Talk turkey",
+  "meaning": {
+    "zh": "“直截了当” 或 “开门见山”。\n\n这个短语起源于美国，在19世纪初非常流行。当时，欧洲定居者和印第安人之间经常进行火鸡贸易。最初，它意味着严肃而认真地讨论交易，因此带有直接和诚实的对话的意味。如今，“talk turkey” 用于表示在谈话中直奔主题、直接了当。",
+    "en": "This phrase originated in the United States and became popular in the early 19th century. Initially, it referred to serious and earnest discussions about trading turkeys between European settlers and Native Americans. It now signifies getting straight to the point in conversations."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Let's *talk turkey* about the deal and see if we can agree.",
+          "zh": "让我们开门见山地谈谈这个交易，看能否达成一致。"
+        }
+      ],
+      "audio": "audio/1114.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "We should *talk turkey* instead of avoiding the real issues.",
+          "zh": "我们应该直截了当地讨论，而不是避开真正的问题。"
+        }
+      ],
+      "audio": "audio/1114.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "It's time to *talk turkey* about how to improve our project efficiency.",
+          "zh": "是时候开门见山地讨论如何提高我们的项目效率了。"
+        }
+      ],
+      "audio": "audio/1114.3.mp3"
+    }
+  ]
+}

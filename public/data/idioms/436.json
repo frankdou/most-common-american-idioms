@@ -1,0 +1,37 @@
+{
+  "n": 436,
+  "name": "For crying out loud",
+  "meaning": {
+    "zh": "“天哪！” 或 “哎呀！” 或 表达强烈情感的语气词，通常用来表示惊讶或恼怒。\n\n这个短语的起源并不十分明确，但它是用来表达情绪强烈的感叹词，旨在引起他人的注意或表达说话人的愤怒、不满或激动。类似于中文中的 “天哪” 或 “我的天啊”。",
+    "en": "This phrase's origins are not entirely clear, but it is used as an exclamation to draw attention or express the speaker's anger, frustration, or excitement. It is similar to saying \"Oh my gosh\" or \"For goodness' sake\" in English."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "For crying out loud, can you please turn down the music?",
+          "zh": "天哪，你能把音乐音量调小一点吗？"
+        }
+      ],
+      "audio": "audio/436.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "*For crying out loud*, how many times do I have to tell you?",
+          "zh": "哎呀，我要告诉你多少次？"
+        }
+      ],
+      "audio": "audio/436.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "*For crying out loud*, we’re going to be late!",
+          "zh": "天哪，我们要迟到了！"
+        }
+      ],
+      "audio": "audio/436.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 80,
+  "name": "Armchair quarterback",
+  "meaning": {
+    "zh": "“事后诸葛” 或 “舒适沙发上的指挥官”。\n\n这个短语源自于美国橄榄球比赛中的 “四分卫” 角色。而 “armchair”（扶手椅）则象征着舒适、不参与实际行动的人。组合在一起，这个短语形象地描述了那些不参与实际操作，只是在事后评头论足的人。此短语在日常生活中常用来形容那些在履行完一个决定或行动后，用自己的 “高见” 来评判别人的人。",
+    "en": "This phrase originates from football, where the quarterback is a crucial position making calls on the field. The \"armchair\" symbolizes someone who is comfortable and not participating actively. Combined, the phrase metaphorically describes a person who offers opinions and criticisms after the event has taken place without having been involved in the decision-making or action."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "It's easy to be an *armchair quarterback* when you’re not the one making the tough decisions.",
+          "zh": "当你不是做出艰难决定的人时，充当事后诸葛当然很容易。"
+        }
+      ],
+      "audio": "audio/080.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Don't be an *armchair quarterback*, help us find a solution.",
+          "zh": "别当个事后诸葛了，帮我们找个解决方案吧。"
+        }
+      ],
+      "audio": "audio/080.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "After the project failed, everyone became an *armchair quarterback*.",
+          "zh": "项目失败后，人人都成了事后诸葛。"
+        }
+      ],
+      "audio": "audio/080.3.mp3"
+    }
+  ]
+}

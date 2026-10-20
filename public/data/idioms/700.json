@@ -1,0 +1,37 @@
+{
+  "n": 700,
+  "name": "Keep my cool",
+  "meaning": {
+    "zh": "“保持冷静” 或 “沉住气”。\n\n这个短语起源于 “cool” 一词，意为冷静、不激动。 表示在紧张或困境中保持沉着、不失去理性。在现代英语中，这一短语常用于描述在面对压力或挑战时，能够保持冷静和不被情绪左右的心理状态。",
+    "en": "This phrase originates from the word \"cool,\" meaning calm and not agitated. It signifies maintaining composure and not losing temper in tense or difficult situations. In modern English, this idiom is commonly used to describe the psychological state of staying calm and not being swayed by emotions when facing stress or challenges."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I had to *keep my cool* during the heated argument to resolve the issue calmly.",
+          "zh": "在激烈的争论中，我必须保持冷静，以便冷静地解决问题。"
+        }
+      ],
+      "audio": "audio/700.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Even though the project deadline was approaching, she managed to *keep her cool*.",
+          "zh": "尽管项目截止日期临近，她还是设法保持了冷静。"
+        }
+      ],
+      "audio": "audio/700.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "It's important to *keep your cool* in stressful situations at work.",
+          "zh": "在工作中的紧张情况下保持冷静是很重要的。"
+        }
+      ],
+      "audio": "audio/700.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 257,
+  "name": "Cold feet",
+  "meaning": {
+    "zh": "“临阵退缩” 或 “在最后一刻因为害怕或紧张而退缩”。\n\n这个短语的起源不太明确，但有一种解释认为 “cold feet” 是由身体上的冷感觉与害怕或紧张相关联的比喻。这种情绪可能发生在马上要做某件事但突然感到害怕的时候，尤其在面临重大决定的时候，如婚礼、面试或上台演讲等。",
+    "en": "The origin of this phrase is unclear, but one explanation is that \"cold feet\" metaphorically links the physical sensation of coldness with fear or nervousness. This feeling may arise when someone is about to do something but suddenly feels scared, especially during significant decisions like weddings, job interviews, or public speaking."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He got *cold feet* right before the wedding and called it off.",
+          "zh": "他在婚礼前临阵退缩，取消了婚礼。"
+        }
+      ],
+      "audio": "audio/257.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I was going to take that job offer, but I got *cold feet* at the last moment.",
+          "zh": "我本来要接受那个工作机会，但最后一刻我临阵退缩了。"
+        }
+      ],
+      "audio": "audio/257.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Don't get *cold feet* now; you've prepared so much for this presentation.",
+          "zh": "现在可别临阵退缩；你已经为这次演讲准备了这么多。"
+        }
+      ],
+      "audio": "audio/257.3.mp3"
+    }
+  ]
+}

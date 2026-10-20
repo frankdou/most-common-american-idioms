@@ -1,0 +1,37 @@
+{
+  "n": 537,
+  "name": "Go-to-guy",
+  "meaning": {
+    "zh": "“关键人物” 或 “专门负责某事的人”。\n\n这个短语用来形容在某个领域或情况下，人们依赖的那个最可靠、最具能力的人。这种表述源于人们在面对问题或难题时，总会有一个特定的人可以求助，并且这个人通常都能提供有效的解决方案，堪称关键人物或得力干将。",
+    "en": "This phrase is used to describe the most reliable and capable person people turn to in a particular field or situation. It originates from the notion that when faced with problems or challenges, there’s always a specific person who can help, often providing effective solutions, thus becoming the key person or dependable go-to person."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "When it comes to fixing computers, John is our *go-to-guy*.",
+          "zh": "提到修电脑，约翰是我们的关键人物。"
+        }
+      ],
+      "audio": "audio/537.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Every time we need advice on financial matters, Sarah is our *go-to-guy*.",
+          "zh": "每当我们需要有关财务问题的建议时，萨拉就是我们的专门负责人。"
+        }
+      ],
+      "audio": "audio/537.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Mike is the *go-to-guy* for organizing any office event.",
+          "zh": "组织任何办公室活动，迈克是我们的关键人物。"
+        }
+      ],
+      "audio": "audio/537.3.mp3"
+    }
+  ]
+}

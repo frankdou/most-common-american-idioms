@@ -1,0 +1,37 @@
+{
+  "n": 13,
+  "name": "A dime a dozen",
+  "meaning": {
+    "zh": "“非常普通” 或 “随处可见”。这表示某事物极为常见，并没有特别的价值。\n\n这个短语起源于 19 世纪美国，当时人们可以用 10 美分买到一打（12 个）某些廉价常见的商品如鸡蛋、苹果等。因此这个短语逐渐衍生出形容某物非常常见，毫无特别价值的意思。",
+    "en": "This phrase originates from 19th-century America, where people could buy a dozen (12) of some cheap, common items like eggs or apples for a dime (10 cents). Over time, the phrase evolved to describe something that is very common and has little to no unique value."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Cheap souvenirs are *a dime a dozen* at the tourist market.",
+          "zh": "在旅游市场上，廉价纪念品非常普通。"
+        }
+      ],
+      "audio": "audio/013.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Local coffee shops are *a dime a dozen* in that neighborhood.",
+          "zh": "在那个社区，当地咖啡店随处可见。"
+        }
+      ],
+      "audio": "audio/013.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Talent like his doesn’t come *a dime a dozen*.",
+          "zh": "像他这样的天赋是很稀有的。"
+        }
+      ],
+      "audio": "audio/013.3.mp3"
+    }
+  ]
+}

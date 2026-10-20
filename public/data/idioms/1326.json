@@ -1,0 +1,37 @@
+{
+  "n": 1326,
+  "name": "Winging it",
+  "meaning": {
+    "zh": "“即兴发挥” 或 “临时应付”。\n\n这个短语来源于戏剧领域，最初是指那些没有充分排练、靠在舞台后面迅速学习台词，然后即兴表演的演员。他们在舞台背后的 “翼” 区域准备，因此有了这个说法。在现代用法中，它广泛适用于尚未做好充分准备而即兴完成任务的情境。",
+    "en": "This phrase originates from the theater, where it referred to actors who had not rehearsed enough and had to quickly learn their lines in the wings (the areas of the stage out of sight of the audience) and then perform impromptu. In modern usage, it broadly applies to situations where someone acts without full preparation and improvises."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I forgot my speech notes, so I had to *wing it* during the presentation.",
+          "zh": "我忘了带演讲稿，只好在演讲期间即兴发挥。"
+        }
+      ],
+      "audio": "audio/1326.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She didn't study for the test and decided to *wing it* instead.",
+          "zh": "她没有准备考试，决定即兴应付。"
+        }
+      ],
+      "audio": "audio/1326.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "We had no rehearsal, so we just *winged it* at the wedding ceremony.",
+          "zh": "我们没有排练，所以在婚礼上只能即兴发挥。"
+        }
+      ],
+      "audio": "audio/1326.3.mp3"
+    }
+  ]
+}

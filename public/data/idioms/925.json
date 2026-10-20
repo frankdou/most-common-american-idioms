@@ -1,0 +1,37 @@
+{
+  "n": 925,
+  "name": "Pick up the tab",
+  "meaning": {
+    "zh": "“买单” 或 “付账”。\n\n这个短语起源于餐饮业中的习惯，指某个人为某一桌客人的餐饮消费买单。在更广泛的语境中，\"pick up the tab\" 被用来说明某人承担某种费用，尤其是在多人聚会的时候。",
+    "en": "This phrase originates from the customs in the hospitality industry, referring to someone paying the bill for a table of guests. In a broader context, \"pick up the tab\" is used to indicate that someone is covering some expense, especially during group gatherings."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I will *pick up the tab* for dinner tonight.",
+          "zh": "今晚的晚餐我来买单。"
+        }
+      ],
+      "audio": "audio/925.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She insisted on *picking up the tab* for our lunch.",
+          "zh": "她坚持为我们的午餐买单。"
+        }
+      ],
+      "audio": "audio/925.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He offered to *pick up the tab* for the entire team's lunch.",
+          "zh": "他提议为整个团队的午餐买单。"
+        }
+      ],
+      "audio": "audio/925.3.mp3"
+    }
+  ]
+}

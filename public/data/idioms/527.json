@@ -1,0 +1,37 @@
+{
+  "n": 527,
+  "name": "Go south",
+  "meaning": {
+    "zh": "“情况变糟” 或 “事态恶化”。\n\n这个短语来源于地理方向，主要是指朝南走。在地图上，南方通常在下方，隐喻着下降和负面变化。在英语中，“go south” 常用来形容情况突然变坏或者事情失控，类似于中文的 “走下坡路” 或 “每况愈下” 的意思。",
+    "en": "This phrase comes from the geographical direction, mainly referring to moving south. On a map, south is usually towards the bottom, which metaphorically represents decline or negative changes. In English, \"go south\" is often used to describe a situation that suddenly deteriorates or becomes uncontrollable, similar to the Chinese expressions “走下坡路” or “每况愈下”."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "After the new policy was implemented, sales started to *go south*.",
+          "zh": "新政策实施后，销售情况开始变糟。"
+        }
+      ],
+      "audio": "audio/527.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Their relationship began to *go south* after the argument.",
+          "zh": "争吵之后，他们的关系开始恶化。"
+        }
+      ],
+      "audio": "audio/527.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The project was going well, but then it suddenly *went south*.",
+          "zh": "项目进行得很顺利，但突然间就出了问题。"
+        }
+      ],
+      "audio": "audio/527.3.mp3"
+    }
+  ]
+}

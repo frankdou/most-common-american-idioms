@@ -1,0 +1,37 @@
+{
+  "n": 938,
+  "name": "Playing dumb",
+  "meaning": {
+    "zh": "装傻，装作不知道。\n\n“Playing dumb” 的短语用来描述一个人故意表现得好像不懂、不知情或者不聪明，以避免责任、麻烦或其他不想面对的情况。这个短语常常用于形容某人试图通过装傻来逃避某些困境或追问。",
+    "en": "The phrase \"Playing dumb\" is used to describe someone who purposely acts as if they are ignorant, unaware, or not intelligent to avoid responsibility, trouble, or other situations they do not want to deal with. This phrase often depicts someone trying to evade certain predicaments or questioning by pretending to be unaware."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "She was totally *playing dumb* when the manager asked who broke the vase.",
+          "zh": "当经理问是谁打碎了花瓶时，她完全在装傻。"
+        }
+      ],
+      "audio": "audio/938.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Don't *play dumb* with me; I know you saw everything.",
+          "zh": "别在我面前装傻；我知道你全都看到了。"
+        }
+      ],
+      "audio": "audio/938.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He tried *playing dumb*, but everyone knew he was lying.",
+          "zh": "他试图装傻，但所有人都知道他在撒谎。"
+        }
+      ],
+      "audio": "audio/938.3.mp3"
+    }
+  ]
+}

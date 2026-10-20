@@ -1,0 +1,37 @@
+{
+  "n": 1270,
+  "name": "Twist someone's arm",
+  "meaning": {
+    "zh": "“扭某人的胳膊” 或 “强迫某人做某事”。\n\n这个短语源自于物理上的动作——扭曲某人的胳膊来迫使他们屈服或顺从，在语言中它被用作比喻，表示通过胁迫或施压让某人做他们本来不愿意做的事情。现代社会中，常用于形容一种劝说或施压的行为，以达到某种目的。",
+    "en": "This phrase originates from the physical action of twisting someone's arm to make them submit or comply. In language, it is used metaphorically to indicate persuading or pressuring someone to do something they might not want to do. In modern context, it frequently describes using persuasion or pressure to achieve an objective."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I had to *twist his arm* to get him to join the team.",
+          "zh": "我不得不强迫他加入团队。"
+        }
+      ],
+      "audio": "audio/1270.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She finally came to the party after I twisted her arm.",
+          "zh": "在我施加压力后，她最终来参加了聚会。"
+        }
+      ],
+      "audio": "audio/1270.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "No one had to *twist his arm* to convince him to take the job; he was excited about the offer.",
+          "zh": "没有人费劲就说服他接受了这个工作；他对这个职位很感兴趣。"
+        }
+      ],
+      "audio": "audio/1270.3.mp3"
+    }
+  ]
+}

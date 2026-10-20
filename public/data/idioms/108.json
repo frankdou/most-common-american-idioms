@@ -1,0 +1,37 @@
+{
+  "n": 108,
+  "name": "Bad blood",
+  "meaning": {
+    "zh": "“仇恨” 或 “嫌隙”。\n\n这个短语源自于古代幻想医学中的理论，即不健康的血液会导致人们的恶劣情绪和疾病。如今，这个短语用来描述人们之间的长期对立、怨恨或无法和解的矛盾。",
+    "en": "This phrase originates from ancient folk medicine theories, where it was believed that bad blood caused negative emotions and illnesses. Nowadays, it is used to describe long-standing animosity, resentment, or unresolved conflicts between people."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "There's a lot of *bad blood* between the two families.",
+          "zh": "这两家人之间存在很多仇恨。"
+        }
+      ],
+      "audio": "audio/108.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Even after all these years, there's still *bad blood* between them.",
+          "zh": "即使这么多年过去了，他们之间仍有嫌隙。"
+        }
+      ],
+      "audio": "audio/108.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The *bad blood* from their last argument hasn't gone away.",
+          "zh": "他们上次争吵的仇恨还没有消散。"
+        }
+      ],
+      "audio": "audio/108.3.mp3"
+    }
+  ]
+}

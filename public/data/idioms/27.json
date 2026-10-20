@@ -1,0 +1,37 @@
+{
+  "n": 27,
+  "name": "A little bird told me",
+  "meaning": {
+    "zh": "“有小道消息告诉我” 或 “我听说”。\n\n这个短语起源于古老的西方民间传说，传说鸟儿会传递消息。尤其是在维多利亚时代，人们常常用鸟儿比喻小道消息的传播者，表示消息来源不明确或不愿透露具体的消息来源，带有一点神秘感。",
+    "en": "This phrase originates from old Western folklore, where birds were often seen as messengers. Particularly during the Victorian era, birds were symbolically used to represent the conveyance of news, signifying that the source of the information is unspecified or that the speaker does not want to disclose it, adding a touch of mystique."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "*A little bird told me* you're getting a promotion soon.",
+          "zh": "有小道消息告诉我你很快会升职。"
+        }
+      ],
+      "audio": "audio/027.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "*A little bird told me* that you have a new hobby.",
+          "zh": "有小道消息告诉我你有了一个新的爱好。"
+        }
+      ],
+      "audio": "audio/027.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Guess what? *A little bird told me* you're getting married!",
+          "zh": "你猜怎么着？有小道消息告诉我你要结婚了！"
+        }
+      ],
+      "audio": "audio/027.3.mp3"
+    }
+  ]
+}

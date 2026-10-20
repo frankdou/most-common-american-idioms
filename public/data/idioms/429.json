@@ -1,0 +1,37 @@
+{
+  "n": 429,
+  "name": "Follow in someone's footsteps",
+  "meaning": {
+    "zh": "\"追随某人的脚步\" 或 “继承某人的事业”。\n\n这个短语源自于比喻意义上的 “跟随” 某人的路径，或者说走上与某人相同的道路。在语言中，通常用于描述一个人选择与某人相同的生活道路或职业，例如子女继承父母的事业或职业选择。",
+    "en": "This phrase originates from the metaphorical sense of \"following\" someone's path or walking along the same road as someone else. It is commonly used to describe someone opting for the same life path or career as another person, such as children taking up their parents' profession or career choice."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "She decided to *follow in her mother's footsteps* and become a doctor.",
+          "zh": "她决定追随她母亲的脚步，成为一名医生。"
+        }
+      ],
+      "audio": "audio/429.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Many young musicians try to *follow in the footsteps* of famous stars.",
+          "zh": "许多年轻的音乐家试图追随明星的脚步。"
+        }
+      ],
+      "audio": "audio/429.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "John aims to *follow in his father's footsteps* by joining the family business.",
+          "zh": "约翰打算继承父亲的事业，加入家族企业。"
+        }
+      ],
+      "audio": "audio/429.3.mp3"
+    }
+  ]
+}

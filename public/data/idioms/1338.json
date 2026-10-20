@@ -1,0 +1,45 @@
+{
+  "n": 1338,
+  "name": "You bet",
+  "meaning": {
+    "zh": "“当然” 或 “你说得对”。\n\n这个短语表示强烈的肯定或同意，类似于中文的 “没错” 或 “当然了”。它通常用来回应他人的问题或陈述，表示完全赞同或确认。这个表达非常口语化，适用于非正式的交流中。在二十世纪初，这个短语就已经被广泛使用，如今在美式英语中依然很常见。",
+    "en": "This phrase signifies strong affirmation or agreement, similar to saying \"Absolutely\" or \"Certainly\" in English. It is often used to respond to someone’s question or statement, indicating full concurrence or confirmation. This expression is very colloquial and typically used in informal communications. It has been widely used since the early 20th century and remains common in American English today."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "\"Will you be at the party tonight?\"",
+          "zh": "“你今晚会去派对吗？”"
+        },
+        {
+          "en": "\"*You bet*!\"",
+          "zh": "“当然！”"
+        }
+      ],
+      "audio": "audio/1338.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "\"*You bet* I'm going to get that job!\"",
+          "zh": "“我当然会去争取那份工作！”"
+        }
+      ],
+      "audio": "audio/1338.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "\"Do we have tickets for the concert?\"",
+          "zh": "“我们有音乐会的票吗？”"
+        },
+        {
+          "en": "\"*You bet*!\"",
+          "zh": "“当然有！”"
+        }
+      ],
+      "audio": "audio/1338.3.mp3"
+    }
+  ]
+}

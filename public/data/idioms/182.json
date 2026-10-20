@@ -1,0 +1,37 @@
+{
+  "n": 182,
+  "name": "Bright and early",
+  "meaning": {
+    "zh": "“一大早” 或 “非常早”。\n\n这个短语可以追溯到19世纪，用 “bright” 来形容天刚亮时的清晨，空气清新，光线明亮，而 “early” 则明确强调时间点，表示很早起床或开始活动。这一表达通常用来形容早起活动起头有力、充满能量。",
+    "en": "This phrase dates back to the 19th century, using “bright” to describe the freshness and light of early morning, and “early” to emphasize the time point, indicating an early start or activity. It is commonly used to describe energetic beginnings at dawn."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "We have to get up bright and early for the hike tomorrow.",
+          "zh": "明天我们必须一大早就起床去徒步旅行。"
+        }
+      ],
+      "audio": "audio/182.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She loves to start her day bright and early with a cup of coffee.",
+          "zh": "她喜欢一大早起来喝一杯咖啡开始她的一天。"
+        }
+      ],
+      "audio": "audio/182.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He arrived bright and early to ensure he got a good seat at the conference.",
+          "zh": "他一大早就到了，以确保在会议上能有一个好位置。"
+        }
+      ],
+      "audio": "audio/182.3.mp3"
+    }
+  ]
+}

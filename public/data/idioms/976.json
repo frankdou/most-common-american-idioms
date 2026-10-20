@@ -1,0 +1,37 @@
+{
+  "n": 976,
+  "name": "Rain or shine",
+  "meaning": {
+    "zh": "“风雨无阻”。\n\n这个短语起源于在任何天气条件下都要继续进行的活动或任务，最早用于描述邮差的工作，他们无论天气如何都要按时送达邮件。现代社会中，此短语用以表达即使有困难或不便，也会坚持完成某个活动或任务。",
+    "en": "This phrase originates from activities or tasks that continue despite weather conditions, originally describing postal carriers who deliver mail regardless of the weather. In modern society, it is used to express the determination to carry out an activity or task despite challenges or inconveniences."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The soccer game will take place *rain or shine*.",
+          "zh": "无论风雨，足球比赛仍将照常进行。"
+        }
+      ],
+      "audio": "audio/976.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "We'll meet for the picnic *rain or shine*.",
+          "zh": "无论风雨，我们都会去野餐。"
+        }
+      ],
+      "audio": "audio/976.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "They promised to support each other *rain or shine*.",
+          "zh": "他们承诺无论风雨都会互相支持。"
+        }
+      ],
+      "audio": "audio/976.3.mp3"
+    }
+  ]
+}

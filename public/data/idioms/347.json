@@ -1,0 +1,37 @@
+{
+  "n": 347,
+  "name": "Doom and gloom",
+  "meaning": {
+    "zh": "“悲观失望” 或 “前景黯淡”。\n\n这个短语通常用来描述一种极度悲观的情绪状态，暗示情况非常糟糕且没有希望。它的起源可以追溯到14世纪的宗教文学，但直到20世纪60年代才在美国广泛流行起来。该短语用于指代一种普遍的负面情绪或对未来的消极展望。",
+    "en": "This phrase is typically used to describe an extremely pessimistic state of mind, implying that the situation is very bad and hopeless. It traces its origins to religious literature of the 14th century but became widely popular in the United States in the 1960s. The term is used to refer to a general negative outlook or a pessimistic view of the future."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Despite the *doom and gloom* prediction, the company posted record profits.",
+          "zh": "尽管有悲观失望的预测，公司还是创下了创纪录的利润。"
+        }
+      ],
+      "audio": "audio/347.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Not everything is *doom and gloom*; we just need to change our perspective.",
+          "zh": "并不是所有事情都那么悲观失望；我们只需要改变我们的视角。"
+        }
+      ],
+      "audio": "audio/347.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The news might be full of *doom and gloom*, but there are still many reasons to be hopeful.",
+          "zh": "尽管新闻充满了悲观失望的报道，但仍有很多理由可以让我们保持希望。"
+        }
+      ],
+      "audio": "audio/347.3.mp3"
+    }
+  ]
+}

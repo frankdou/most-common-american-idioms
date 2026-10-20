@@ -1,0 +1,37 @@
+{
+  "n": 86,
+  "name": "As genuine as a three-dollar bill",
+  "meaning": {
+    "zh": "“假到不行” 或 “完全不是真的”。\n\n这个短语的出处在于美国没有真正的三美元纸币，因此，任何所谓的三美元纸币必然是假币。所以，当需要形容某事物或者某个人完全不可信不真实时，人们会使用这个短语。",
+    "en": "This phrase originates from the fact that there is no genuine three-dollar bill in the United States. Therefore, any supposed three-dollar bill must be a counterfeit. Hence, the phrase is commonly used to describe something or someone as completely untrustworthy or fake."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "His apology was *as genuine as a three-dollar bill*.",
+          "zh": "他的道歉和三美元钞票一样假。"
+        }
+      ],
+      "audio": "audio/086.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "That offer sounds *as genuine as a three-dollar bill*.",
+          "zh": "那个报价听起来和三美元钞票一样不可信。"
+        }
+      ],
+      "audio": "audio/086.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Her compliments are *as genuine as a three-dollar bill*.",
+          "zh": "她的赞美和三美元钞票一样虚伪。"
+        }
+      ],
+      "audio": "audio/086.3.mp3"
+    }
+  ]
+}

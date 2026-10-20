@@ -1,0 +1,37 @@
+{
+  "n": 431,
+  "name": "Food for thought",
+  "meaning": {
+    "zh": "“值得深思的事” 或 “发人深省的事情”。\n\n这个短语源自于隐喻，将某些有价值的思想或观点比喻成可以 “食用” 的营养品，能够滋养我们的思维和拓宽我们的见解。在书信、演讲或讨论中，常常用到这个短语来表示某些引人思考的观点或建议。",
+    "en": "The phrase originates from a metaphor, likening valuable ideas or opinions to \"food\" that can be \"consumed\" to nourish our minds and broaden our perspectives. It is often used in letters, speeches, or discussions to denote thought-provoking points or suggestions."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Her lecture provided a lot of *food for thought* about the future of technology.",
+          "zh": "她的演讲对未来科技的发展提供了很多值得深思的内容。"
+        }
+      ],
+      "audio": "audio/431.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The book offers plenty of *food for thought* on social issues.",
+          "zh": "这本书在社会问题上提供了很多发人深省的见解。"
+        }
+      ],
+      "audio": "audio/431.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Your suggestions gave me some much-needed *food for thought* on how to proceed.",
+          "zh": "你的建议给了我一些关于如何进行下去的宝贵思考。"
+        }
+      ],
+      "audio": "audio/431.3.mp3"
+    }
+  ]
+}

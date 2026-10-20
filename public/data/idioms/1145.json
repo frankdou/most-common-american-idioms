@@ -1,0 +1,37 @@
+{
+  "n": 1145,
+  "name": "The lion's share",
+  "meaning": {
+    "zh": "“最大份额” 或 “最好的一部分”。\n\n这个短语来源于古希腊寓言作家伊索的故事。在这个寓言中，狮子、狐狸、狼和其他动物一起合作狩猎，但最终狮子声称自己应该得到最好的和最多的猎物。这也象征着在权力关系中，强者往往占据较大或最好的份额。",
+    "en": "This phrase originates from a fable by the ancient Greek storyteller Aesop. In the fable, a lion, a fox, a wolf, and other animals hunt together, but the lion claims the best and largest portion of the prey for himself. This symbolizes that in power dynamics, the strongest often take the largest or best share."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The manager took the lion's share of the credit for the project’s success.",
+          "zh": "经理把项目成功的最大功劳占为己有。"
+        }
+      ],
+      "audio": "audio/1145.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Despite the team's effort, the CEO received the lion's share of the profits.",
+          "zh": "尽管团队付出了努力，CEO 却获得了最大的利润份额。"
+        }
+      ],
+      "audio": "audio/1145.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He always insists on getting the lion's share of the inheritance.",
+          "zh": "他总是坚持要得到遗产中最大的那一份。"
+        }
+      ],
+      "audio": "audio/1145.3.mp3"
+    }
+  ]
+}

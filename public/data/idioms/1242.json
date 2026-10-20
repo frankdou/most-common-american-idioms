@@ -1,0 +1,37 @@
+{
+  "n": 1242,
+  "name": "To start over from scratch",
+  "meaning": {
+    "zh": "“从头开始” 或 “从零开始”。\n\n这个短语的来历可以追溯到食品制作的领域，特别是烘焙。在过去，所有的食材都得从头准备，没有预混合的粉或现成的配料。这种使用从零开始准备所有食材的过程，后来演变为表示将某事物或计划完全重新开始的表达。\n\n**适用场合**\n\n通常用于描述在某项目或任务失败后，重新开始，不借助任何已有的工作或资源。这也可以适用于重新开始的生活或职业。",
+    "en": "This phrase originates from the field of cooking, particularly baking, where all ingredients had to be prepared from scratch, with no pre-mixed flour or ready-made components. This process of preparing everything from the beginning eventually evolved into an expression that means to restart something completely anew."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "After losing all the data, we had to *start over from scratch* with the project.",
+          "zh": "在丢失所有数据后，我们不得不从头开始这个项目。"
+        }
+      ],
+      "audio": "audio/1242.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He decided to *start over from scratch* after his business failed.",
+          "zh": "他的生意失败后，他决定从零开始。"
+        }
+      ],
+      "audio": "audio/1242.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Learning a new language means *starting over from scratch* in many ways.",
+          "zh": "学习一种新语言意味着在许多方面从零开始。"
+        }
+      ],
+      "audio": "audio/1242.3.mp3"
+    }
+  ]
+}

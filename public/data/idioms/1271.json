@@ -1,0 +1,37 @@
+{
+  "n": 1271,
+  "name": "Two peas in a pod",
+  "meaning": {
+    "zh": "“一模一样” 或 “形影不离”。\n\n这个短语来源于豌豆荚里的两颗豌豆，意思是它们看起来相同且都在一起。人们用它来描述两个人非常相似，或者形影不离，就像豌豆荚里的两颗豌豆一样。",
+    "en": "This phrase originates from the idea of two peas within the same pod, which look alike and are always together. It is used to describe two people who are very similar or inseparable, just like two peas in a pod."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "They are *two peas in a pod*; they do everything together.",
+          "zh": "他们俩就像一模一样，什么事情都在一起做。"
+        }
+      ],
+      "audio": "audio/1271.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Those twins are *two peas in a pod*, both in looks and personality.",
+          "zh": "那对双胞胎无论外貌还是性格都一模一样。"
+        }
+      ],
+      "audio": "audio/1271.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "My best friend and I are *two peas in a pod*. We think alike.",
+          "zh": "我和我最好的朋友就像形影不离。我们的想法很相似。"
+        }
+      ],
+      "audio": "audio/1271.3.mp3"
+    }
+  ]
+}

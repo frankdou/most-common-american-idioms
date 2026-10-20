@@ -1,0 +1,37 @@
+{
+  "n": 671,
+  "name": "It is always darkest before the dawn",
+  "meaning": {
+    "zh": "“黎明前的黑暗” 或者 “最黑暗的时刻往往在黎明到来之前”。\n\n这个短语起源于对自然现象的观察，即夜晚最黑暗的时刻通常是黎明破晓之前。它用来比喻在最艰难、最困难的时刻之后，情况会开始好转，光明和希望即将到来。",
+    "en": "This phrase originates from the natural observation that the darkest part of the night is right before dawn. It is used metaphorically to suggest that in the most difficult or challenging times, things will get better soon, and hope or a new beginning is near."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Remember, it's always darkest before the dawn; things will get better soon.",
+          "zh": "记住，黎明前总是最黑暗的；情况很快就会好转。"
+        }
+      ],
+      "audio": "audio/671.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Even though things are tough now, it's always darkest before the dawn.",
+          "zh": "即使现在情况很糟糕，黎明前总是最黑暗的。"
+        }
+      ],
+      "audio": "audio/671.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Don't lose hope; it's always darkest before the dawn.",
+          "zh": "不要失去希望，黎明前总是最黑暗的。"
+        }
+      ],
+      "audio": "audio/671.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 960,
+  "name": "Put a sock in it",
+  "meaning": {
+    "zh": "“闭嘴” 或 “安静”。\n\n这个短语起源于早期的留声机时代。当音量太大时，人们会把一只袜子塞进喇叭里来降低音量，从而达到安静的效果。在现代，这个短语常用于让某人停止说话或安静下来，通常带有不耐烦的意味。",
+    "en": "This phrase originates from the early days of the phonograph. When the volume was too loud, people would put a sock in the horn to muffle the sound and achieve a quieter effect. In modern times, this phrase is often used to tell someone to stop talking or be quiet, usually in a somewhat impatient manner."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Would you please *put a sock in it* for a moment? I'm trying to concentrate.",
+          "zh": "你能不能闭嘴一会儿？我在努力集中注意力。"
+        }
+      ],
+      "audio": "audio/960.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Hey, *put a sock in it*! We're trying to watch the movie.",
+          "zh": "嘿，闭嘴！我们在看电影。"
+        }
+      ],
+      "audio": "audio/960.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "If he doesn't *put a sock in it* soon, I'm going to leave the room.",
+          "zh": "如果他再不停嘴，我就要离开这个房间了。"
+        }
+      ],
+      "audio": "audio/960.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 911,
+  "name": "Paint you a picture",
+  "meaning": {
+    "zh": "“描绘一个画面” 或 “描述详细”。\n\n这个短语起源于通过绘画来展示一个想法或场景的行为。在文字或口头交流中使用这个表达用以表示某人通过语言来详细描述一个情景、事物或故事，就像一名画家绘制一幅画一样生动和具体。",
+    "en": "This phrase originates from the act of showing an idea or scene through painting. In verbal or written communication, this expression is used to signify that someone is describing a scene, object, or story in great detail, much like an artist painting a vivid picture."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Let me *paint you a picture* of what happened at the party last night.",
+          "zh": "让我详细描述一下昨晚派对上发生的事情。"
+        }
+      ],
+      "audio": "audio/911.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She can *paint you a picture* of the village where she grew up.",
+          "zh": "她可以详细地描述她长大的村庄。"
+        }
+      ],
+      "audio": "audio/911.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I'll try to *paint you a picture* of what our new office will look like.",
+          "zh": "我会尽力详细描述一下我们新办公室的样子。"
+        }
+      ],
+      "audio": "audio/911.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 1139,
+  "name": "The devil is in the details",
+  "meaning": {
+    "zh": "“细节决定成败” 或 “问题出在细节上”。\n\n这个表达起源于德语的 “Der Teufel steckt im Detail” ，在英语中搬用了这种说法。它强调即使是看起来很简单的事情，如果不注意细节，也可能在细节上出问题或导致失败。",
+    "en": "This expression originates from the German phrase \"Der Teufel steckt im Detail,\" which has been adopted into English. It emphasizes that even seemingly simple tasks can go wrong or fail if one does not pay attention to the details."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "We thought we had the project completed, but the *devil is in the details*.",
+          "zh": "我们以为项目已经完成了，但问题出在细节上。"
+        }
+      ],
+      "audio": "audio/1139.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The *devil is in the details*, so we need to review every part of the contract carefully.",
+          "zh": "问题出在细节上，所以我们需要仔细审查合同的每一部分。"
+        }
+      ],
+      "audio": "audio/1139.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "When planning an event, remember that the *devil is in the details*.",
+          "zh": "在策划活动时，记住细节决定成败。"
+        }
+      ],
+      "audio": "audio/1139.3.mp3"
+    }
+  ]
+}

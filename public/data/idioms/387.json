@@ -1,0 +1,37 @@
+{
+  "n": 387,
+  "name": "Fair to middling",
+  "meaning": {
+    "zh": "\"还过得去\" 或 \"普普通通\"。\n\n这个短语源于19世纪的农业，在当时 “fair” 表示作物的质量尚可，而 “middling” 表示质量中等。这两个词结合起来，用以描述事物或情况处于中等、普通水平，并没有特别优秀或糟糕。",
+    "en": "This phrase originates from 19th-century agriculture, where \"fair\" indicated crops of decent quality, and \"middling\" referred to a medium quality. Combined, these words came to describe something that is average or moderate, neither particularly good nor bad."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "How's your day been? \"Fair to middling,\" I guess.",
+          "zh": "你的今天过得怎么样？还过得去吧，我想。"
+        }
+      ],
+      "audio": "audio/387.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The meal was fair to middling, nothing special.",
+          "zh": "这顿饭还过得去，没有什么特别的。"
+        }
+      ],
+      "audio": "audio/387.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "His performance was fair to middling; not his best work.",
+          "zh": "他的表现普普通通，不是他最好的作品。"
+        }
+      ],
+      "audio": "audio/387.3.mp3"
+    }
+  ]
+}

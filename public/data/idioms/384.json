@@ -1,0 +1,37 @@
+{
+  "n": 384,
+  "name": "Excuse my French/Pardon my French",
+  "meaning": {
+    "zh": "“原谅我说脏话” 或 “请原谅我的不雅语言”。\n\n这个短语的起源可以追溯到19世纪。当时，英国人有时会插入法语单词或短语来显得自己更有学识。然而，听众不一定懂法语，所以说话者会道歉说 “Excuse my French”，意思是对那些不懂法语的人表达歉意。随着时间的流逝，这个短语的含义逐渐转变，用来在说出不雅言辞之前或之后道歉，即表示对粗俗语言的歉意。",
+    "en": "This phrase can be traced back to the 19th century when English speakers would sometimes insert French words or phrases to appear more educated. However, the audience might not understand French, so the speaker would apologize by saying \"Excuse my French\" to excuse themselves for using a foreign language. Over time, the phrase evolved to apologize for using profane language, indicating an excuse for the use of cuss words or vulgarity."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "This project is a real pain in the... *pardon my French*.",
+          "zh": "这个项目真的是一个大麻烦……请原谅我的措辞。"
+        }
+      ],
+      "audio": "audio/384.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "That movie was so boring, it was a total waste of time. *Excuse my French*.",
+          "zh": "那部电影太无聊了，完全是浪费时间。请原谅我的措辞。"
+        }
+      ],
+      "audio": "audio/384.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He's such a... *pardon my French*, jerk.",
+          "zh": "他真是个……请原谅我的措辞，混蛋。"
+        }
+      ],
+      "audio": "audio/384.3.mp3"
+    }
+  ]
+}

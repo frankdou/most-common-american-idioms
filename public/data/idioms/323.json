@@ -1,0 +1,37 @@
+{
+  "n": 323,
+  "name": "Do someone a good turn",
+  "meaning": {
+    "zh": "\"帮某人一个忙\" 或 \"对某人行个方便\"。\n\n这个短语源于古老的表达 \"do (someone) a good turn\"，意指给予别人某种帮助或恩惠，通常是出于善意，不求回报的援助。在日常用语中，这个短语表示在他人需要帮助时，主动提供支持或便利。",
+    "en": "This phrase originates from the old expression \"do (someone) a good turn,\" implying to render some help or favor to others usually out of goodwill, expecting nothing in return. In everyday language, the phrase refers to offering assistance or convenience to someone when they need it."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He did me a good turn by lending me his car for the weekend.",
+          "zh": "他借了他的车给我用周末，对我行了个方便。"
+        }
+      ],
+      "audio": "audio/323.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She did her neighbor a good turn by looking after her plants while she was on vacation.",
+          "zh": "她在邻居度假时帮忙照看了她的植物，帮了个忙。"
+        }
+      ],
+      "audio": "audio/323.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "You never know when someone might do you a good turn in return.",
+          "zh": "你永远不知道什么时候别人会报你一个恩情。"
+        }
+      ],
+      "audio": "audio/323.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 1155,
+  "name": "The shoe is on the other foot",
+  "meaning": {
+    "zh": "“换位思考” 或 “角色互换”。\n\n这个短语最早在19世纪后期出现，用来形容角色或立场的互换。最初的背景是指鞋子在另一只脚上，由于左右脚鞋子的形状不同，这种换位会引发不同的感受。不仅仅是角色的物理交换，这个表达还延伸出对立场和情景的反转，以便更好地理解对方的处境。",
+    "en": "This idiom originated in the late 19th century and describes a situation where roles or positions are reversed. The original context referred to the discomfort or different experience when a shoe is on the other foot, since shoes were distinctly designed for the left and right foot. This expression has evolved to mean the reversal of roles or situations, often to emphasize understanding from another's perspective."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Now that the shoe is on the other foot, he realizes how difficult her job was.",
+          "zh": "现在角色互换了，他才意识到她的工作有多么困难。"
+        }
+      ],
+      "audio": "audio/1155.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "It feels weird when the shoe is on the other foot and you have to ask for help.",
+          "zh": "当你需要请求帮助时，换位思考的感觉很奇怪。"
+        }
+      ],
+      "audio": "audio/1155.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "With the shoe on the other foot, she quickly changed her opinion about the policy.",
+          "zh": "角色互换后，她很快对这个政策改变了看法。"
+        }
+      ],
+      "audio": "audio/1155.3.mp3"
+    }
+  ]
+}

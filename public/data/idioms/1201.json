@@ -1,0 +1,37 @@
+{
+  "n": 1201,
+  "name": "To carry a torch for someone",
+  "meaning": {
+    "zh": "\"暗恋某人\" 或 \"对某人单相思\"。\n\n这个短语源于古老的传统，火炬象征着激情与爱的火焰。在过去，如果一个人拿着火炬走向另一人，象征表示那人心中燃烧着对对方的爱慕之情。现代社会中，这一习语形象地描述了单方面的爱情或暗恋，通常其中一个人对另一个人怀有深深的爱情，但这份感情没有得到回报。",
+    "en": "This phrase originates from ancient traditions where a torch symbolized the flame of passion and love. In the past, if someone carried a torch towards another, it signified the burning love and admiration they had for the other person. In modern society, this idiom vividly describes an unreciprocated or one-sided love, where one person harbors deep feelings for another without those feelings being returned."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He's been *carrying a torch for her* since high school, but she's never noticed him.",
+          "zh": "自从高中以来，他一直暗恋着她，但她从来没有注意到他。"
+        }
+      ],
+      "audio": "audio/1201.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Even though they broke up years ago, he's still *carrying a torch for her*.",
+          "zh": "尽管他们几年前分手了，他仍然对她念念不忘。"
+        }
+      ],
+      "audio": "audio/1201.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She doesn’t date other people because she's still *carrying a torch for* her first love.",
+          "zh": "她不跟其他人约会，因为她仍然暗恋着她的初恋。"
+        }
+      ],
+      "audio": "audio/1201.3.mp3"
+    }
+  ]
+}

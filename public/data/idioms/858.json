@@ -1,0 +1,37 @@
+{
+  "n": 858,
+  "name": "Number cruncher",
+  "meaning": {
+    "zh": "“数字粉碎机” 或 “擅长处理和分析大量数字和数据的人”。\n\n这个短语的起源与计算机有关，特别是那些处理和分析大量数字数据的机器或软件。后来，这个表达被转用来描述那些擅长或专业于数字分析和数据处理的个人，通常是在金融或会计等领域。",
+    "en": "This phrase originates from computing, particularly with machines or software that handle and analyze large amounts of numerical data. Later, this expression was adapted to describe individuals who are skilled or specialize in numerical analysis and data processing, often in fields like finance or accounting."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The number crunchers in our accounting department worked overtime to finish the report.",
+          "zh": "我们会计部门的数字高手加班加点完成了报告。"
+        }
+      ],
+      "audio": "audio/858.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "You need to be a good number cruncher to excel in a finance career.",
+          "zh": "若想在金融领域有所成就，你需要成为一个出色的数字分析专家。"
+        }
+      ],
+      "audio": "audio/858.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "As a data scientist, she’s an excellent number cruncher.",
+          "zh": "作为一名数据科学家，她是一个出色的数字分析大师。"
+        }
+      ],
+      "audio": "audio/858.3.mp3"
+    }
+  ]
+}

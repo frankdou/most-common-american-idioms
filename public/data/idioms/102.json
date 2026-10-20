@@ -1,0 +1,37 @@
+{
+  "n": 102,
+  "name": "Baby boomer",
+  "meaning": {
+    "zh": "“婴儿潮一代” 或 “婴儿潮时期出生的人”。\n\n这个短语起源于二战结束后，从1946年到1964年之间，许多国家（尤其是美国）经历了出生率的显著增加，被称为 “婴儿潮”。“Baby boomer” 用来描述在这一时期出生的一代人，这一代人通常经历了许多重大的社会和文化变革，因此在社会上有明显的特点和影响力。",
+    "en": "This phrase originates from the significant increase in birth rates that many countries, particularly the United States, experienced after World War II, from 1946 to 1964. \"Baby boomer\" is used to describe the generation born during this period, who have witnessed numerous major societal and cultural changes, leading to distinct characteristics and influence in society."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "My parents are *baby boomers* who grew up during a time of great change.",
+          "zh": "我的父母是婴儿潮时期出生的人，他们在一个巨变时期成长。"
+        }
+      ],
+      "audio": "audio/102.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "*Baby boomers* often have different values than younger generations.",
+          "zh": "婴儿潮一代的人常常拥有与年轻一代不同的价值观。"
+        }
+      ],
+      "audio": "audio/102.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Many *baby boomers* are now reaching retirement age.",
+          "zh": "许多婴儿潮一代的人现在正步入退休年龄。"
+        }
+      ],
+      "audio": "audio/102.3.mp3"
+    }
+  ]
+}

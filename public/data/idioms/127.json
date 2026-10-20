@@ -1,0 +1,37 @@
+{
+  "n": 127,
+  "name": "Belt and suspenders",
+  "meaning": {
+    "zh": "“多重保险” 或 “双重保障”。\n\n这个短语起源于佩戴皮带和背带（吊带）的行为，这两种物品本身都可以独立防止裤子下滑。佩戴这两者意味着额外的安全性和保障，虽然一种方法已经足够。这种表达常用于形容某人非常谨慎，采取了多种措施以确保万无一失。",
+    "en": "This phrase originates from the act of wearing both a belt and suspenders. Both items individually can prevent trousers from falling down, and using both suggests extra security and assurance, even though one method would be sufficient. The expression is often used to describe someone who is very cautious and has taken multiple measures to ensure nothing goes wrong."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He's using a *belt and suspenders* approach to make sure the project succeeds.",
+          "zh": "为了确保项目成功，他采取了多重保险的方法。"
+        }
+      ],
+      "audio": "audio/127.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "It's better to have a *belt and suspenders* policy when dealing with important data.",
+          "zh": "处理重要数据时，最好有一个多重保险的政策。"
+        }
+      ],
+      "audio": "audio/127.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She always takes a *belt and suspenders* approach, double-checking everything.",
+          "zh": "她总是采取多重保险的方法，反复检查一切。"
+        }
+      ],
+      "audio": "audio/127.3.mp3"
+    }
+  ]
+}

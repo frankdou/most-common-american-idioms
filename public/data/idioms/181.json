@@ -1,0 +1,37 @@
+{
+  "n": 181,
+  "name": "Breeze through",
+  "meaning": {
+    "zh": "“轻松完成” 或 “轻而易举地做某事”。\n\n这个短语中的 “breeze” 指的是微风，而 “breeze through” 则形容人们像微风一样轻松地穿过某件事或者任务，没有遇到任何阻碍。这个表达通常用来表示某人以极少的努力就顺利完成了某件事，通常是因为他们有足够的能力、知识或经验来处理这件事。",
+    "en": "The phrase \"breeze through\" uses the metaphor of a breeze to illustrate how a person can pass through an event or task effortlessly, encountering little to no resistance. It is typically used to describe someone who completes something with minimal effort, often because they have ample skill, knowledge, or experience."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He managed to *breeze through* the exam without any difficulties.",
+          "zh": "他毫无困难地轻松通过了考试。"
+        }
+      ],
+      "audio": "audio/181.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She *breezed through* the project, as she had done similar work before.",
+          "zh": "她轻松地完成了这个项目，因为她以前做过类似的工作。"
+        }
+      ],
+      "audio": "audio/181.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "They *breezed through* the meeting, finishing in just 30 minutes.",
+          "zh": "他们轻松地完成了会议，只用了30分钟就结束了。"
+        }
+      ],
+      "audio": "audio/181.3.mp3"
+    }
+  ]
+}

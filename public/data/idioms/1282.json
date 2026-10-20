@@ -1,0 +1,37 @@
+{
+  "n": 1282,
+  "name": "Up in the air",
+  "meaning": {
+    "zh": "“悬而未决” 或 “不确定”。\n\n这个短语最早出现于 19 世纪的美国中西部，起初是指浮在空中的东西，后来演变成现在的比喻性用法，表示某事尚未决定或结果未定的状态。在很多场合，当讨论某项计划或项目时，如果其未来走向不明，就会使用 “up in the air” 来形容这种不确定性。",
+    "en": "This phrase first appeared in the mid-19th century in the American Midwest. Originally, it referred to objects floating in the air, but it has since evolved into a figurative expression to describe something that has not been decided or is uncertain. It is commonly used when discussing plans or projects whose future is unclear."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Our vacation plans are still *up in the air* because we're waiting for confirmation from the hotel.",
+          "zh": "我们的度假计划还悬而未决，因为我们在等酒店的确认。"
+        }
+      ],
+      "audio": "audio/1282.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The future of the project is *up in the air* until we get more funding.",
+          "zh": "该项目的未来悬而未决，直到我们获得更多的资金。"
+        }
+      ],
+      "audio": "audio/1282.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Whether we will have the meeting tomorrow is still *up in the air*.",
+          "zh": "我们明天是否会开会还不确定。"
+        }
+      ],
+      "audio": "audio/1282.3.mp3"
+    }
+  ]
+}

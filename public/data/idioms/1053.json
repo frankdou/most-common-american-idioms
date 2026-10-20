@@ -1,0 +1,37 @@
+{
+  "n": 1053,
+  "name": "Slow and steady wins the race",
+  "meaning": {
+    "zh": "“稳扎稳打才能赢得比赛” 或 “稳步前进胜过急于求成”。\n\n这个成语起源于伊索寓言《龟兔赛跑》。在故事中，乌龟虽然动作缓慢，却因为坚持不懈，最终超越了轻敌的兔子，赢得了比赛。这表达了做事稳重且持之以恒的重要性，而非追求一时的快捷和效率。",
+    "en": "This idiom originates from Aesop's fable \"The Tortoise and the Hare.\" In the story, the tortoise, though slow, wins the race against the hare by being steady and persistent, while the hare loses because of overconfidence and complacency. It emphasizes the importance of being thorough and consistent in one's efforts rather than rushing for quick results."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "She believes that *slow and steady wins the race*, so she carefully plans her projects.",
+          "zh": "她相信稳扎稳打才能赢得比赛，所以她仔细地规划她的项目。"
+        }
+      ],
+      "audio": "audio/1053.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "When learning a new skill, remember that *slow and steady wins the race*.",
+          "zh": "当学习一项新技能时，记住稳步前进胜过急于求成。"
+        }
+      ],
+      "audio": "audio/1053.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "In business, sometimes *slow and steady wins the race* when entering new markets.",
+          "zh": "在商业中，有时在进入新市场时，稳扎稳打更容易取得成功。"
+        }
+      ],
+      "audio": "audio/1053.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 1174,
+  "name": "Throw a curveball/Throw a curve",
+  "meaning": {
+    "zh": "“出其不意” 或 “制造意外”。\n\n这个短语源自棒球运动中的曲线球（curveball），这种球的轨迹难以预测，会让击球手措手不及。在日常生活中，“throw a curveball” 用来形容某人给别人出难题或制造意外的状况，使人措手不及或打乱计划。",
+    "en": "This phrase originates from baseball, where a curveball has an unpredictable trajectory that can catch the batter off guard. In everyday life, \"throw a curveball\" describes a situation where someone presents an unexpected problem or surprise that disrupts plans or catches others unprepared."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The boss threw a curveball by changing the project deadline at the last minute.",
+          "zh": "老板在最后一刻突然改变项目截止日期，让人措手不及。"
+        }
+      ],
+      "audio": "audio/1174.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Just when we thought the meeting was over, he threw a curveball with a new proposal.",
+          "zh": "就在我们以为会议结束时，他突然提出了一项新提议，让人措手不及。"
+        }
+      ],
+      "audio": "audio/1174.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Life can throw you a curveball, so it's always good to have a backup plan.",
+          "zh": "生活中总会有意外，因此最好准备一个备用计划。"
+        }
+      ],
+      "audio": "audio/1174.3.mp3"
+    }
+  ]
+}

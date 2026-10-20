@@ -1,0 +1,37 @@
+{
+  "n": 331,
+  "name": "Dollars for doughnuts",
+  "meaning": {
+    "zh": "“几率很高” 或 “几乎肯定”。\n\n这个短语源于一种打赌的表达方式，其中使用相对无价值的赌注（如甜甜圈）来押注高价值的赌注（如美元）。它暗示了某件事情基本上是确定无疑的，因为只有在非常有把握的情况下才会这样下注。",
+    "en": "This phrase originates from a betting context, where one would bet something of negligible value (like doughnuts) against something of high value (like dollars). It implies that something is almost certain, as one would only make such a bet if they were very confident."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "*Dollars to doughnuts,* they'll be late again.",
+          "zh": "我敢打赌，他们又会迟到。"
+        }
+      ],
+      "audio": "audio/331.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "*Dollars to doughnuts,* she finishes the project ahead of schedule.",
+          "zh": "我几乎敢肯定，她会提前完成这个项目。"
+        }
+      ],
+      "audio": "audio/331.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "If he says it's true, then *dollars to doughnuts,* it is true.",
+          "zh": "如果他说这是真的，那么几乎可以肯定这是真的。"
+        }
+      ],
+      "audio": "audio/331.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 745,
+  "name": "Learned my lesson",
+  "meaning": {
+    "zh": "“记住教训” 或 “吸取教训”。\n\n这个短语来源于生活中的经历或错误决定，我们通过这些经历或错误学到了宝贵的教训，并且在未来不会再重复相同的错误。当人们意识到自己的错误并且从中学到经验时，就会使用这个表达。",
+    "en": "This phrase originates from life experiences or wrong decisions where we learn valuable lessons that prevent us from making the same mistakes again in the future. It is used when people recognize their mistakes and gain wisdom from them."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "After forgetting my ID, I *learned my lesson* and always double-check my bag before leaving.",
+          "zh": "在忘记带身份证之后，我吸取了教训，每次出门前都会仔细检查我的包。"
+        }
+      ],
+      "audio": "audio/745.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She *learned her lesson* the hard way when she missed her flight because she didn't set an alarm.",
+          "zh": "她因为没有设闹钟而错过了航班，因此深刻地吸取了教训。"
+        }
+      ],
+      "audio": "audio/745.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I *learned my lesson* after getting sunburned and now always use sunscreen.",
+          "zh": "在被晒伤之后，我吸取了教训，现在总是使用防晒霜。"
+        }
+      ],
+      "audio": "audio/745.3.mp3"
+    }
+  ]
+}

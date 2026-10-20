@@ -1,0 +1,37 @@
+{
+  "n": 1277,
+  "name": "Until the cows come home",
+  "meaning": {
+    "zh": "“到了很晚” 或 “很久很久”。\n\n这个短语源于农场生活中的一个现象：牛通常在夜晚很晚的时候才回家。这个比喻用来形容某个事情会持续很长时间，有时甚至是无明确的结束时间。因此，它可以被用来表达某个事情要进行很久，或者会拖延很长时间。",
+    "en": "This phrase originates from rural agricultural life, where cows tend to come back home late in the evening. The metaphor is used to describe something that will take a very long time, sometimes indefinitely. It indicates that an activity or task may go on for an extensive period."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "We can talk about this *until the cows come home*; it won't change anything.",
+          "zh": "我们可以聊这个聊到很晚，但这不会改变任何事情。"
+        }
+      ],
+      "audio": "audio/1277.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "You can wait *until the cows come home*, but she’s not going to change her mind.",
+          "zh": "你可以等到海枯石烂，但她不会改变主意。"
+        }
+      ],
+      "audio": "audio/1277.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "They argued about politics *until the cows came home*.",
+          "zh": "他们争论政治问题一直到了很晚。"
+        }
+      ],
+      "audio": "audio/1277.3.mp3"
+    }
+  ]
+}

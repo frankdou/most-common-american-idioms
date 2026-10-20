@@ -1,0 +1,37 @@
+{
+  "n": 1102,
+  "name": "Take something in stride",
+  "meaning": {
+    "zh": "泰然处之，从容应对。\n\n“Take something in stride” 这个短语起源于马术和赛跑中从容应对各种障碍的能力。它用来形象地表达人们面对困难或挑战时保持冷静和镇定的态度。这个短语表示在困难发生时，不因其而感到沮丧或被干扰，依然能够平稳前行。",
+    "en": "This phrase originates from horsemanship and running, where it refers to the ability to handle various obstacles smoothly. It illustratively expresses people's calm and composed attitude when facing difficulties or challenges. It means not getting upset or disrupted by problems, but continuing smoothly."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "She took the bad news in stride and continued to focus on her work.",
+          "zh": "她泰然处之地接受了坏消息，继续专注于她的工作。"
+        }
+      ],
+      "audio": "audio/1102.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Even when he faced criticism, he took it all in stride.",
+          "zh": "即使面对批评，他也泰然处之。"
+        }
+      ],
+      "audio": "audio/1102.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "They took the unexpected changes in stride and adapted quickly.",
+          "zh": "他们从容应对了突如其来的变化，并迅速适应了。"
+        }
+      ],
+      "audio": "audio/1102.3.mp3"
+    }
+  ]
+}

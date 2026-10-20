@@ -1,0 +1,37 @@
+{
+  "n": 354,
+  "name": "Dragging your feet",
+  "meaning": {
+    "zh": "“拖拖拉拉” 或 “行动迟缓”。\n\n这个短语的起源可以追溯到人们形象化地描述一个人走路时脚在地上拖曳，显得步伐迟缓、延迟行动的情景。在现代语言中，“dragging your feet” 用来形容一个人故意拖延、推迟行动或不情愿地做某事的状态。这种情况通常出现在人们不想面对某些任务或做决定的时候。",
+    "en": "This phrase originates from the imagery of someone walking with their feet dragging on the ground, suggesting a slow, delayed action. In modern usage, \"dragging your feet\" describes the state of intentionally delaying, postponing action, or being reluctant to do something. This usually occurs when people don't want to confront certain tasks or make decisions."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The committee is *dragging its feet* on making a final decision.",
+          "zh": "委员会在做出最终决定时拖拖拉拉。"
+        }
+      ],
+      "audio": "audio/354.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Why are you *dragging your feet* on this project?",
+          "zh": "你为什么在这个项目上拖拖拉拉的？"
+        }
+      ],
+      "audio": "audio/354.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Stop *dragging your feet* and get the job done.",
+          "zh": "别再拖拖拉拉了，把工作完成吧。"
+        }
+      ],
+      "audio": "audio/354.3.mp3"
+    }
+  ]
+}

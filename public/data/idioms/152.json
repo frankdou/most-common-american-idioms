@@ -1,0 +1,37 @@
+{
+  "n": 152,
+  "name": "Black sheep",
+  "meaning": {
+    "zh": "“害群之马” 或 “另类”。\n\n这个短语源自牧羊，畜群中偶尔会有一只羊因为基因突变而呈现黑色，而不是常见的白色。在传统观念中，黑色被视为不祥之兆，因此这只黑色的羊被认为是不合群、不受欢迎的，后来逐渐引申为 “害群之马” 或 “与众不同的另类”。",
+    "en": "This phrase originates from sheep herding, where occasionally a sheep would be born black due to a genetic mutation, rather than the common white. In traditional views, black was considered an unlucky color, thus the black sheep was seen as different and unwelcome. Over time, it evolved to mean someone who is considered the outcast or troublemaker in a group."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He's the *black sheep* of the family because he chose to be an artist instead of a doctor.",
+          "zh": "因为选择成为艺术家而不是医生，他成了家里的害群之马。"
+        }
+      ],
+      "audio": "audio/152.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Every group has a *black sheep*, someone who doesn't quite fit in.",
+          "zh": "每个群体都会有一个害群之马，一个不太合群的人。"
+        }
+      ],
+      "audio": "audio/152.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Despite being the *black sheep*, he managed to prove everyone wrong.",
+          "zh": "尽管是害群之马，但他设法证明了大家都错了。"
+        }
+      ],
+      "audio": "audio/152.3.mp3"
+    }
+  ]
+}

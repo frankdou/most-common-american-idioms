@@ -1,0 +1,37 @@
+{
+  "n": 135,
+  "name": "Between a rock and a hard place",
+  "meaning": {
+    "zh": "“进退两难” 或 “左右为难”。\n\n这个短语来源于希腊神话中的Scylla和Charybdis，这两个无根据海峡的两侧分别是一个吞船怪物Scylla和一个巨大的漩涡Charybdis。水手不得不在避开一个怪物和另一个危险之间做出抉择，通常无论选择哪一种都意味着毁灭。",
+    "en": "This phrase originates from the Greek mythology of Scylla and Charybdis, two monsters situated on either side of a narrow strait. Sailors had to navigate between avoiding one hazard and falling into the other, typically a choice leading to disaster."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "She felt like she was *between a rock and a hard place* when deciding whether to quit her job or stay in a toxic environment.",
+          "zh": "她在决定是辞职还是继续待在有毒的环境中时，感觉自己进退两难。"
+        }
+      ],
+      "audio": "audio/135.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Being *between a rock and a hard place*, he had to choose either paying a hefty fine or facing court.",
+          "zh": "他进退两难，不得不选择是支付高额罚款还是上法庭。"
+        }
+      ],
+      "audio": "audio/135.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "When the rent increased, she was *between a rock and a hard place*, deciding to move or cut other expenses.",
+          "zh": "当房租上涨时，她进退两难，不知道是搬家还是削减其他开支。"
+        }
+      ],
+      "audio": "audio/135.3.mp3"
+    }
+  ]
+}

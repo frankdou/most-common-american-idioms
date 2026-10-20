@@ -1,0 +1,37 @@
+{
+  "n": 966,
+  "name": "Put someone on the spot",
+  "meaning": {
+    "zh": "“让某人当场回答问题” 或 “让某人难堪”。\n\n这个短语源自于一种让某人处于立即回答问题或处理某个情况的状态，通常这种情形会让人感到尴尬或措手不及。这个短语最早可以追溯到19世纪中期，描述的是一种在公开场合或当众情况下，让某人无法逃避或无法准备的情形。",
+    "en": "This phrase originates from putting someone in a position where they must answer a question or handle a situation immediately, often causing them to feel embarrassed or unprepared. The phrase can be traced back to the mid-19th century, referring to the context where someone is singled out in public and put under pressure."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He put me on the spot by asking me to explain the mistake during the meeting.",
+          "zh": "他在会议上让我当场解释那个错误，这让我很尴尬。"
+        }
+      ],
+      "audio": "audio/966.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Don't put her on the spot; she hasn't had time to review the documents yet.",
+          "zh": "别让她当场作答，她还没时间审阅那些文件。"
+        }
+      ],
+      "audio": "audio/966.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The reporter put the politician on the spot with a tough question.",
+          "zh": "记者用一个难题让那位政治家当场难堪。"
+        }
+      ],
+      "audio": "audio/966.3.mp3"
+    }
+  ]
+}

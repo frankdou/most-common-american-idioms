@@ -1,0 +1,37 @@
+{
+  "n": 414,
+  "name": "Fit as a fiddle",
+  "meaning": {
+    "zh": "“健康如牛” 或 “非常健康”。\n\n这个成语源自于古英语（14世纪），其中 “fiddle” 是指小提琴。小提琴在演奏前需要调音，使其音调准确无误，因此 “fit as a fiddle” 原本是用来形容小提琴处于最佳状态。之后，这个短语延伸其意，用来表示人的身体状况很好，非常健康。",
+    "en": "This idiom originates from Middle English (14th century), where “fiddle” refers to the violin. A violin needs to be finely tuned before playing, ensuring it is in perfect condition. Hence, \"fit as a fiddle\" originally described a violin being in optimal condition. The phrase later extended to signify that a person is in excellent health."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "After his recovery from the flu, he is now *fit as a fiddle*.",
+          "zh": "在从流感恢复后，他现在非常健康。"
+        }
+      ],
+      "audio": "audio/414.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Despite her age, my grandmother is *fit as a fiddle*.",
+          "zh": "尽管年纪大了，我的祖母仍然健康如牛。"
+        }
+      ],
+      "audio": "audio/414.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He exercises regularly, so he's always *fit as a fiddle*.",
+          "zh": "他经常锻炼，所以他总是非常健康。"
+        }
+      ],
+      "audio": "audio/414.3.mp3"
+    }
+  ]
+}

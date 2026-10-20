@@ -1,0 +1,37 @@
+{
+  "n": 362,
+  "name": "Drop in the bucket",
+  "meaning": {
+    "zh": "“九牛一毛” 或 “沧海一粟”。\n\n这个短语源自于圣经，《以赛亚书》40:15，描述上帝眼中的世界，意思是一小滴水在整个桶中微不足道，英文表达用以形容某个数量或问题在更大的整体中显得非常渺小、微不足道。",
+    "en": "This phrase originates from the Bible, Isaiah 40:15, describing the world in God's eyes, implying that a single drop of water in a bucket is insignificant. The English idiom is used to depict any amount or issue that seems very small or negligible in the context of a larger whole."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The charity event raised $500, but it's just a *drop in the bucket* compared to what's needed.",
+          "zh": "募捐活动筹集了500美元，但相比所需的金额，这只不过是九牛一毛。"
+        }
+      ],
+      "audio": "audio/362.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Fixing one pothole is a *drop in the bucket* considering how bad the roads are.",
+          "zh": "修复一个坑洼对于糟糕的道路状况来说只是沧海一粟。"
+        }
+      ],
+      "audio": "audio/362.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "His efforts were a *drop in the bucket* in solving the complex issue.",
+          "zh": "他的努力在解决这个复杂问题中只是九牛一毛。"
+        }
+      ],
+      "audio": "audio/362.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 163,
+  "name": "Blowing smoke",
+  "meaning": {
+    "zh": "“吹牛” 或 “虚张声势”。\n\n这个短语源自于19世纪，原本表示演员通过烟雾效果制造出虚假的场景或情绪。后来逐渐演变成一种比喻，用来形容某人说一些没有实际依据的话，用来误导或迷惑别人。",
+    "en": "This phrase originates from the 19th century, initially referring to actors creating fake scenes or emotions using smoke effects. Over time, it has evolved into a metaphor describing someone who says things without factual basis, intending to mislead or deceive others."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Don't take him seriously; he's just *blowing smoke*.",
+          "zh": "别当真，他只是在吹牛。"
+        }
+      ],
+      "audio": "audio/163.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I think the sales guy was *blowing smoke* about those discounts.",
+          "zh": "我觉得那销售员在折扣问题上是在虚张声势。"
+        }
+      ],
+      "audio": "audio/163.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Stop *blowing smoke* and give me the facts.",
+          "zh": "别再虚张声势了，告诉我实际情况。"
+        }
+      ],
+      "audio": "audio/163.3.mp3"
+    }
+  ]
+}

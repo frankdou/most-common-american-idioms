@@ -1,0 +1,37 @@
+{
+  "n": 878,
+  "name": "On the fly",
+  "meaning": {
+    "zh": "“临时” 或 “即兴”。\n\n这个短语源自航空领域，最初表示飞行员在飞行中进行操作或作出决定的情况。后来，这个短语逐渐扩展到其他领域，用以表示在进行某件事的过程中，未经预先计划或即兴完成的动作。",
+    "en": "This phrase originates from aviation, where it described actions or decisions made by pilots while in flight. Over time, it expanded to other fields to signify actions or decisions made in the moment, without prior planning or spontaneously."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He made the decision *on the fly* during the meeting.",
+          "zh": "他在会议中临时做出了决定。"
+        }
+      ],
+      "audio": "audio/878.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "We often have to solve problems *on the fly* at work.",
+          "zh": "我们常常需要在工作中即兴解决问题。"
+        }
+      ],
+      "audio": "audio/878.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She fixed the code *on the fly* without much testing.",
+          "zh": "她在没有进行太多测试的情况下即兴修复了代码。"
+        }
+      ],
+      "audio": "audio/878.3.mp3"
+    }
+  ]
+}

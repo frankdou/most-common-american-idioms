@@ -1,0 +1,37 @@
+{
+  "n": 893,
+  "name": "One fell swoop",
+  "meaning": {
+    "zh": "“一下子”，“一举”，“突然”。\n\n这个短语源自莎士比亚的悲剧《麦克白》。其中一个角色使用 “one fell swoop” 来描述一场突然的、毁灭性的打击。如今，这个短语被用来表示一次行动或事件中突然完成某些事情，或在一次行动中同时得到多个结果。",
+    "en": "This phrase originates from Shakespeare's tragedy \"Macbeth\". One of the characters uses \"one fell swoop\" to describe a sudden, devastating blow. Nowadays, the phrase is used to denote achieving something abruptly in one action or simultaneously obtaining multiple results with one effort."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He finished all his assignments in one fell swoop.",
+          "zh": "他一下子就完成了所有的作业。"
+        }
+      ],
+      "audio": "audio/893.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The company launched three new products in one fell swoop.",
+          "zh": "公司一下子推出了三款新产品。"
+        }
+      ],
+      "audio": "audio/893.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She cleaned the entire house in one fell swoop.",
+          "zh": "她一下子就打扫了整个房子。"
+        }
+      ],
+      "audio": "audio/893.3.mp3"
+    }
+  ]
+}

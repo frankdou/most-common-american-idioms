@@ -1,0 +1,37 @@
+{
+  "n": 1135,
+  "name": "The boys in blue",
+  "meaning": {
+    "zh": "“男孩穿着蓝色制服”，意为 “警察”。\n\n这个短语起源于美国和英国警察的传统制服，通常是蓝色的。在现代语境中，“the boys in blue” 常常用来非正式地指代警察，尤其是在谈论他们执行任务时。",
+    "en": "This phrase originates from the traditional blue uniforms worn by police officers in the United States and the United Kingdom. In modern contexts, \"the boys in blue\" is often used informally to refer to police officers, especially when talking about them while on duty."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The neighborhood is safe thanks to the *boys in blue* patrolling every night.",
+          "zh": "由于警察每晚巡逻，社区变得很安全。"
+        }
+      ],
+      "audio": "audio/1135.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "When trouble started, we called the *boys in blue* immediately.",
+          "zh": "一有麻烦发生，我们立刻叫了警察来。"
+        }
+      ],
+      "audio": "audio/1135.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He wanted to join the *boys in blue* and serve his community.",
+          "zh": "他想加入警察队伍，为社区服务。"
+        }
+      ],
+      "audio": "audio/1135.3.mp3"
+    }
+  ]
+}

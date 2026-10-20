@@ -1,0 +1,37 @@
+{
+  "n": 57,
+  "name": "Add fuel to the fire",
+  "meaning": {
+    "zh": "“火上浇油” 或 “进一步激化矛盾”。\n\n这个短语字面上的意思是往火上添加燃料，从而让火烧得更旺。在比喻的用法中，“add fuel to the fire” 意味着让已经糟糕或紧张的局势变得更严重。这通常用来形容某人的言行使冲突或问题变得更加恶化。",
+    "en": "This phrase literally means adding fuel to a fire, making it burn more intensely. In a metaphorical sense, \"add fuel to the fire\" means to make an already bad or tense situation worse. It's often used to describe someone’s actions or words that exacerbate a conflict or problem."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "His comments only *added fuel to the fire* during the argument.",
+          "zh": "他的话只是在争论中火上浇油。"
+        }
+      ],
+      "audio": "audio/057.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Don't *add fuel to the fire* by getting involved in their dispute.",
+          "zh": "不要插手他们的争执火上浇油。"
+        }
+      ],
+      "audio": "audio/057.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Her criticism *added fuel to the fire* and made the team more upset.",
+          "zh": "她的批评火上浇油，让团队更加不安。"
+        }
+      ],
+      "audio": "audio/057.3.mp3"
+    }
+  ]
+}

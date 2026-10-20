@@ -1,0 +1,37 @@
+{
+  "n": 1232,
+  "name": "To make matters worse",
+  "meaning": {
+    "zh": "“更糟的是” 或 “更进一步的是”。\n\n这个短语用于描述一种情况变得更糟的情形。在叙述事情时，如果一件已经不好的事情变得更糟，就可以用 “to make matters worse” 来加强这种不好的情绪。这种表达方式一般用于写作或说话中，用来注释某种情况由于某些因素变得更加不利。",
+    "en": "This phrase is used to describe a situation that becomes even worse. When narrating events, if something bad happens and then something else makes the situation even worse, you can use \"to make matters worse\" to emphasize this worsening condition. It is typically used in writing or speaking to annotate how certain factors make the situation more unfavorable."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He lost his wallet, and *to make matters worse*, his phone died.",
+          "zh": "他丢了钱包，更糟的是，他的手机也没电了。"
+        }
+      ],
+      "audio": "audio/1232.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "We were caught in the rain, and *to make matters worse*, the car broke down.",
+          "zh": "我们被雨困住了，更糟的是，车子还坏了。"
+        }
+      ],
+      "audio": "audio/1232.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She was late for the meeting, and *to make matters worse*, she forgot her notes.",
+          "zh": "她开会迟到了，更糟的是，她还忘了带笔记。"
+        }
+      ],
+      "audio": "audio/1232.3.mp3"
+    }
+  ]
+}

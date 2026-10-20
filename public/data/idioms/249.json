@@ -1,0 +1,37 @@
+{
+  "n": 249,
+  "name": "Close but no cigar",
+  "meaning": {
+    "zh": "“差一点点，差一点儿获得成功”。\n\n这个短语源自于20世纪初期的美国嘉年华，那里通常会有一些目标游戏，人们需要通过投掷或射击来赢得奖品。当时，最常见的奖品是雪茄。因此，当有人非常接近目标但仍未命中时，主持人会说 “Close but no cigar”，表示他们几乎成功，但并未赢得奖品。",
+    "en": "This phrase originates from early 20th-century American carnivals, where target games were common. Participants would win cigars as prizes for hitting targets. When someone came very close but still missed, the phrase “Close but no cigar” was used, indicating they were nearly successful but did not win the prize."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He almost won the race, but close but no cigar.",
+          "zh": "他差点就赢了比赛，但还是差了一点。"
+        }
+      ],
+      "audio": "audio/249.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She nearly guessed the right number, close but no cigar.",
+          "zh": "她差一点就猜对了数字，但还是没有。"
+        }
+      ],
+      "audio": "audio/249.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "They were close to solving the puzzle, close but no cigar.",
+          "zh": "他们差一点就解开了这个谜题，但还是差了一点。"
+        }
+      ],
+      "audio": "audio/249.3.mp3"
+    }
+  ]
+}

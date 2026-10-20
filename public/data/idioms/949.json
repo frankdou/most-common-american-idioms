@@ -1,0 +1,37 @@
+{
+  "n": 949,
+  "name": "Pull strings",
+  "meaning": {
+    "zh": "“利用关系” 或 “走后门”。\n\n这个短语起源于木偶戏中，操纵木偶的线由木偶师通过拉线来控制木偶的动作。在现代，这个短语被用来指通过非正式的方法或利用特定关系来达到某个目的，通常是在工作、生活上取得某种优势。",
+    "en": "This phrase originates from puppet shows where puppeteers control the actions of puppets by pulling strings. In modern usage, the idiom is used to describe the act of using informal methods or connections to achieve a goal, often to gain some advantage in work or life."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He was able to *pull some strings* and get the tickets sold out in advance.",
+          "zh": "他能够利用一些关系，提前拿到售罄的票。"
+        }
+      ],
+      "audio": "audio/949.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She managed to *pull strings* and get her son into that prestigious school.",
+          "zh": "她设法通过关系让她的儿子进入那所名校。"
+        }
+      ],
+      "audio": "audio/949.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "It's unfair that he got the promotion just by *pulling strings*.",
+          "zh": "他仅仅靠走后门就得到了晋升，这不公平。"
+        }
+      ],
+      "audio": "audio/949.3.mp3"
+    }
+  ]
+}

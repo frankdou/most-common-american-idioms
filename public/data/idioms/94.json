@@ -1,0 +1,37 @@
+{
+  "n": 94,
+  "name": "At least",
+  "meaning": {
+    "zh": "“至少”。\n\n这个短语用于表示某事物或情况的最低限度。它强调即使在最坏的情况下，也会有某个最低限度的结果或情况。“At least” 是一种保证性的话术，用来指出最低的标准或结果。",
+    "en": "This phrase is used to indicate the minimum amount or level of something. It emphasizes that even in the worst scenario, there will be a minimum outcome or situation. \"At least\" is a reassuring phrase used to point out the lowest standard or result."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "We were late, but *at least* we got to see the end of the movie.",
+          "zh": "我们迟到了，但至少看到了电影的结尾。"
+        }
+      ],
+      "audio": "audio/094.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "*At least* try to finish your homework before going out.",
+          "zh": "至少在出门之前试着完成作业。"
+        }
+      ],
+      "audio": "audio/094.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "It's cold, but *at least* it’s not raining.",
+          "zh": "天气冷，但至少没下雨。"
+        }
+      ],
+      "audio": "audio/094.3.mp3"
+    }
+  ]
+}

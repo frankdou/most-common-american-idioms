@@ -1,0 +1,37 @@
+{
+  "n": 73,
+  "name": "An albatross around my neck",
+  "meaning": {
+    "zh": "“肩上的负担” 或 “沉重的负担”。\n\n这个短语源自英国浪漫主义诗人塞缪尔·泰勒·柯勒律治（Samuel Taylor Coleridge）的叙事诗《古舟子咏》（The Rime of the Ancient Mariner）。在诗中，一位水手杀死了一只信天翁（albatross），结果他的船员们将那只死鸟挂在他的脖子上作为惩罚。这个故事象征着背负着沉重的负担或责任的形象，从而演化为这个成语，用来描述让人感到困扰、难以摆脱的负担。",
+    "en": "This phrase originates from the narrative poem \"The Rime of the Ancient Mariner\" by English Romantic poet Samuel Taylor Coleridge. In the poem, a sailor kills an albatross, and his crewmates punish him by hanging the dead bird around his neck. This story symbolizes carrying a heavy burden or responsibility, thus evolving into the idiom for describing something that causes significant distress and is hard to get rid of."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "That old debt is an *albatross around my neck*.",
+          "zh": "那笔旧债是我肩上的一个负担。"
+        }
+      ],
+      "audio": "audio/073.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "His criminal record is an *albatross around his neck*, stopping him from getting a job.",
+          "zh": "他的犯罪记录是他肩上的一个负担，让他找不到工作。"
+        }
+      ],
+      "audio": "audio/073.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The ongoing lawsuit has become an *albatross around her neck*.",
+          "zh": "那起未了的诉讼案件成了她肩上的负担。"
+        }
+      ],
+      "audio": "audio/073.3.mp3"
+    }
+  ]
+}

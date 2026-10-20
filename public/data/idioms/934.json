@@ -1,0 +1,37 @@
+{
+  "n": 934,
+  "name": "Play by ear",
+  "meaning": {
+    "zh": "随机应变；见机行事。\n\n这个短语最初源于音乐，意指不用乐谱而凭听觉演奏音乐。这种灵活性和即兴创作的能力延伸到日常生活中，表示一种在实际情况中不预先计划，而是根据当下情况随机应变的做法。",
+    "en": "The phrase originally comes from music, meaning to play a piece of music by listening and without using sheet music. This flexibility and improvisation skill has translated into everyday situations, indicating an approach where one does not plan in advance but adapts to the circumstances as they unfold."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "We don't have a strict itinerary for the trip; we'll just *play it by ear*.",
+          "zh": "我们这次旅行没有严格的计划，我们就会随机应变。"
+        }
+      ],
+      "audio": "audio/934.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I'm not sure what the boss wants, so I'll *play it by ear* during the meeting.",
+          "zh": "我不知道老板想要什么，所以我会在会议期间见机行事。"
+        }
+      ],
+      "audio": "audio/934.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Let's *play it by ear* and decide where to eat after the movie.",
+          "zh": "我们看完电影之后再决定去哪吃饭吧，见机行事。"
+        }
+      ],
+      "audio": "audio/934.3.mp3"
+    }
+  ]
+}

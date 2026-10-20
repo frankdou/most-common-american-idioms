@@ -1,0 +1,37 @@
+{
+  "n": 957,
+  "name": "Pulling my leg",
+  "meaning": {
+    "zh": "“开玩笑” 或 “捉弄某人”。\n\n这个短语有几种可能的起源，但最广为人知的解释是来源于19世纪的英国。当时，街头小偷会假装摔倒，以便使他们的同伙能够捉住受害者的腿，然后偷走他们的财物。随着时间的推移，这个短语演变成一种无伤大雅的玩笑，表示开玩笑或捉弄某人。",
+    "en": "This idiom has several possible origins, but the most popular explanation traces it back to 19th-century Britain. During that time, street thieves would pretend to fall so that their accomplices could grab the victim's leg and steal their belongings. Over time, the phrase evolved into a harmless joke, meaning to tease or trick someone playfully."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Are you serious or just *pulling my leg*?",
+          "zh": "你是认真的，还是只是在开玩笑?"
+        }
+      ],
+      "audio": "audio/957.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He said there was a ghost in the attic, but I think he's just *pulling my leg*.",
+          "zh": "他说阁楼里有鬼，但我觉得他只是在捉弄我。"
+        }
+      ],
+      "audio": "audio/957.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I can't believe you fell for that! I was just *pulling your leg*.",
+          "zh": "我不能相信你居然信了！我只是在跟你开玩笑。"
+        }
+      ],
+      "audio": "audio/957.3.mp3"
+    }
+  ]
+}

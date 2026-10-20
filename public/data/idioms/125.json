@@ -1,0 +1,37 @@
+{
+  "n": 125,
+  "name": "Behind someone's back",
+  "meaning": {
+    "zh": "“背着某人” 或 “在某人背后做某事”。\n\n这个短语意味着在某人不知情或不在场的情况下做某事，往往带有贬义，尤其是指涉及到某些不好的行为，比如说坏话、做决定等。这个表达起源于人们在人际交往中的复杂互动，往往用以描述缺乏透明度和信任的行为。",
+    "en": "This phrase means doing something without someone's knowledge or presence, often carrying a negative connotation, especially involving some kind of undesirable action like speaking ill or making decisions. The expression stems from the complexities of interpersonal interactions, often used to describe actions lacking transparency and trust."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "She talked about her friend *behind her back*, which caused a lot of tension.",
+          "zh": "她在背后说她朋友的坏话，这引起了不少紧张。"
+        }
+      ],
+      "audio": "audio/125.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "They made changes to the project *behind his back* and now he's upset.",
+          "zh": "他们在背着他的情况下对项目做了改动，现在他很生气。"
+        }
+      ],
+      "audio": "audio/125.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I don't appreciate it when you make decisions *behind my back*.",
+          "zh": "我不喜欢你在背着我做决定。"
+        }
+      ],
+      "audio": "audio/125.3.mp3"
+    }
+  ]
+}

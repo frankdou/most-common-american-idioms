@@ -1,0 +1,37 @@
+{
+  "n": 403,
+  "name": "Fender bender",
+  "meaning": {
+    "zh": "“小刮擦” 或 “小车祸”。\n\n这个短语指的是车辆之间的轻微碰撞，通常来说这种碰撞不会导致严重的损伤或人身伤害。\"Fender\" 指的是汽车的挡泥板，\"bender\" 则意味着弯曲或变形。这个表达形象地描述了轻微的碰撞导致车辆外观上小的损伤。",
+    "en": "This phrase refers to a minor car accident, typically causing little damage or injury. The term \"fender\" denotes the part of a car that covers the wheel, and \"bender\" means something that gets bent or damaged. Thus, \"fender bender\" vividly describes a small collision leading to minor damage to the vehicle's outer body."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I got into a *fender bender* on my way to work.",
+          "zh": "我在去上班的路上发生了一次小刮擦。"
+        }
+      ],
+      "audio": "audio/403.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Luckily, it was just a *fender bender* and no one was hurt.",
+          "zh": "幸运的是，这只是一场小车祸，没有人受伤。"
+        }
+      ],
+      "audio": "audio/403.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He was late because of a *fender bender* on the highway.",
+          "zh": "他因为在高速公路上发生了一起小刮擦而迟到了。"
+        }
+      ],
+      "audio": "audio/403.3.mp3"
+    }
+  ]
+}

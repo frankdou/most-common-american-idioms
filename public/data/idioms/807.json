@@ -1,0 +1,37 @@
+{
+  "n": 807,
+  "name": "Make hay while the sun shines",
+  "meaning": {
+    "zh": "“打铁趁热” 或 “抓紧时机”。\n\n这个短语源自农业社会，当阳光充足时，农民需要抓紧时间晒干干草，以便冬天时能够饲养牲畜。如果不抓住时机，草可能会被雨浇湿，无法保存。这个成语现泛用于提醒人们在条件合适时抓紧行动，而不是拖延。",
+    "en": "This idiom originates from agricultural societies where farmers needed to take advantage of sunny days to dry hay so that they could store it for winter. If they didn’t seize the opportunity, the hay could get wet from rain and spoil. Today, it's used more broadly to encourage people to act promptly when conditions are favorable, rather than delaying."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "You should apply for the job now before the position gets filled. *Make hay while the sun shines*.",
+          "zh": "你应该赶紧申请这份工作，在职位被填满之前打铁趁热。"
+        }
+      ],
+      "audio": "audio/807.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Let's finish the project while we have extra time. *Make hay while the sun shines*.",
+          "zh": "趁我们现在有空，把这项目完成吧。打铁趁热。"
+        }
+      ],
+      "audio": "audio/807.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "*Make hay while the sun shines* and invest in the market before prices go up.",
+          "zh": "趁市价上升之前，抓紧时机投资市场。打铁趁热。"
+        }
+      ],
+      "audio": "audio/807.3.mp3"
+    }
+  ]
+}

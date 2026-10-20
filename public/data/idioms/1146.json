@@ -1,0 +1,37 @@
+{
+  "n": 1146,
+  "name": "The long and short of it",
+  "meaning": {
+    "zh": "“总之” 或 “长话短说”。\n\n这个短语起源于莎士比亚的戏剧《温莎的风流娘们》中，原文是 \"this is the long and short of it\"，意在将事情的详细和概要都涵盖进来。如今，这个短语主要用来总结之前所说的话或是解释事件的关键点，起到概括长篇叙述的作用。",
+    "en": "This phrase originated from Shakespeare's play *The Merry Wives of Windsor*, where the original line is \"this is the long and short of it\", intending to cover both details and summary. Nowadays, this phrase is commonly used to sum up what has been said or to explain the main point of an event, serving as a succinct version of a longer explanation."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The long and short of it is that we missed the deadline.",
+          "zh": "总之，我们错过了截止日期。"
+        }
+      ],
+      "audio": "audio/1146.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She gave a long explanation, but the long and short of it is that she can't come to the party.",
+          "zh": "她做了很多解释，但总之她不能来参加聚会。"
+        }
+      ],
+      "audio": "audio/1146.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The long and short of it is that we need more time to complete the project.",
+          "zh": "长话短说，我们需要更多时间来完成这个项目。"
+        }
+      ],
+      "audio": "audio/1146.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 1222,
+  "name": "To have one's back to the wall",
+  "meaning": {
+    "zh": "“背靠墙” 或 “走投无路”。\n\n这个短语起源于一种防御和战斗中常见的情境，当你背靠墙时，无退路可走，只能面对眼前的挑战。这意味着处于一个非常困难或危险的境地，似乎没有任何选择或逃脱的可能。通常用于形容处在困境中的人不得不孤注一掷。",
+    "en": "This phrase originates from a common defensive and combat situation where, when one's back is against the wall, there is no retreat and one must face the challenge head-on. It implies being in a very difficult or dangerous situation with seemingly no other options or escape routes. It is often used to describe someone who has no choice but to put up a strong defense or make a last-ditch effort."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "With no other options, he felt like he had his *back to the wall* and had to fight.",
+          "zh": "没有其他选择，他感觉自己走投无路，不得不奋力一搏。"
+        }
+      ],
+      "audio": "audio/1222.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She's got her *back to the wall* with all these debts.",
+          "zh": "她因为这些债务，真的是走投无路了。"
+        }
+      ],
+      "audio": "audio/1222.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "When his *back is to the wall*, he always finds a way to succeed.",
+          "zh": "当他走投无路时，总能找到成功的办法。"
+        }
+      ],
+      "audio": "audio/1222.3.mp3"
+    }
+  ]
+}

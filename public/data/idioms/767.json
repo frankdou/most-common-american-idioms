@@ -1,0 +1,37 @@
+{
+  "n": 767,
+  "name": "Like clockwork",
+  "meaning": {
+    "zh": "“像机械时钟一样准时”，或是描述某事进行的非常顺利、毫不费力。\n\n这个习语起源于钟表的可靠性和规律性，因为机械时钟通常以非常精确的方式运作。当我们说某件事 \"like clockwork\"，意思是它进行得非常顺利，毫无偏差，就像一个被精密校准过的时钟一样。",
+    "en": "This idiom originates from the reliability and regularity of clocks, as mechanical clocks usually operate in a highly precise manner. When we say something happens \"like clockwork,\" we mean it goes very smoothly and without any issues, much like a finely tuned clock."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The train arrives at the station *like clockwork* every morning.",
+          "zh": "火车每天早上都会像钟表一样准时到达车站。"
+        }
+      ],
+      "audio": "audio/767.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The event was organized so well that everything went off *like clockwork*.",
+          "zh": "这次活动的组织非常得当，一切都进行得井然有序。"
+        }
+      ],
+      "audio": "audio/767.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She follows her daily routine *like clockwork*.",
+          "zh": "她每天都像钟表一样按时遵循自己的日常作息。"
+        }
+      ],
+      "audio": "audio/767.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 1331,
+  "name": "Work against the clock",
+  "meaning": {
+    "zh": "“争分夺秒” 或 “争取时间”。\n\n这个短语起源于需要在规定的时间内完成某项任务或工作，以免超过最后期限。它形象地表示一个人与时间赛跑，尽可能迅速地完成任务。用于描述时间紧迫，必须高效工作以完成目标的情境。",
+    "en": "This phrase originates from situations where tasks or work need to be completed within a given timeframe to avoid missing a deadline. It vividly illustrates the concept of racing against time to get things done as quickly as possible. It is used to describe scenarios where time is limited and one must work efficiently to meet objectives."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "We're *working against the clock* to complete the project before the deadline.",
+          "zh": "我们正在争分夺秒地完成项目以赶在最后期限之前。"
+        }
+      ],
+      "audio": "audio/1331.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The doctors had to *work against the clock* to save the patient's life.",
+          "zh": "医生们不得不争分夺秒地抢救病人的生命。"
+        }
+      ],
+      "audio": "audio/1331.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "With the test approaching, students are *working against the clock* to study all the material.",
+          "zh": "考试临近，学生们正争分夺秒地学习所有资料。"
+        }
+      ],
+      "audio": "audio/1331.3.mp3"
+    }
+  ]
+}

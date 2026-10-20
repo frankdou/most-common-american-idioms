@@ -1,0 +1,37 @@
+{
+  "n": 137,
+  "name": "Beyond the pale",
+  "meaning": {
+    "zh": "“超出了常规” 或 “行为不可接受”。\n\n这个短语起源于15世纪的爱尔兰。当时英国在爱尔兰都柏林周边划定了一个 “栅栏区”（the Pale），以保证该区域内的安全和法制。超越这个区域，就意味着进入了无法律和秩序保障的地方。因此，“Beyond the pale” 就成了表示某事超出了常规、不可接受的行为的固定表达。",
+    "en": "This phrase originates from 15th-century Ireland. The English established a \"pale\" (a boundary) around Dublin to ensure the area was safe and governed. Going beyond this boundary meant entering areas where law and order were not guaranteed. Hence, \"Beyond the pale\" became a fixed expression to describe something that is beyond acceptable behavior or norms."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "His comments during the meeting were *beyond the pale*.",
+          "zh": "他在会议上的评论超出了常规。"
+        }
+      ],
+      "audio": "audio/137.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The way he treated his colleagues is definitely *beyond the pale*.",
+          "zh": "他对待同事的方式绝对是不可接受的。"
+        }
+      ],
+      "audio": "audio/137.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Cheating in the exam is totally *beyond the pale*.",
+          "zh": "考试作弊完全是不可接受的行为。"
+        }
+      ],
+      "audio": "audio/137.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 1052,
+  "name": "Slip of the tongue",
+  "meaning": {
+    "zh": "“口误” 或 “说漏嘴”。\n\n这个短语源自于 19 世纪初，其本意是指说话时由于不经意间口误，导致说出了错误或者无意中泄露了不该说的话。这个短语常常用在描述因为一时疏忽、紧张、或兴奋而在公开场合或者非正式场合说错了话的情况。",
+    "en": "This phrase originated in the early 19th century. It originally meant an unintentional verbal mistake made while speaking, leading to an incorrect statement or inadvertently revealing something that shouldn't have been revealed. This idiom is often used to describe situations where someone misspeaks due to a lapse, nervousness, or excitement, either in public or informal settings."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "It was just a *slip of the tongue*; I didn't mean to say that.",
+          "zh": "那只是一个口误；我并不是故意那么说的。"
+        }
+      ],
+      "audio": "audio/1052.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He made a *slip of the tongue* and revealed the surprise party.",
+          "zh": "他口误了，说漏嘴透露了惊喜派对的消息。"
+        }
+      ],
+      "audio": "audio/1052.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Don't worry about it; everyone has a *slip of the tongue* sometimes.",
+          "zh": "别担心，每个人有时候都会口误。"
+        }
+      ],
+      "audio": "audio/1052.3.mp3"
+    }
+  ]
+}

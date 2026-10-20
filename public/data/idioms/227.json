@@ -1,0 +1,37 @@
+{
+  "n": 227,
+  "name": "Catch-22",
+  "meaning": {
+    "zh": "“进退两难” 或 “左右为难的局面”。\n\n这个短语来源于约瑟夫·海勒（Joseph Heller）的小说《第二十二条军规》（Catch-22）。在小说中，\"Catch-22\" 描述的是一条荒谬的军规：飞行员如果申请停止执行飞行任务，是因为他们有深谋远虑，知道这是危险的，那么他们并不疯狂，因而不符合停止飞行任务的条件；但如果他们继续执行任务，则说明他们真的疯狂，可以申请停止飞行任务。因此，这形成了一个无解的悖论。在现代用法中，\"Catch-22\" 常用来描述任何一个看似无法解决的困境或自相矛盾的情况。",
+    "en": "This phrase originates from Joseph Heller's novel \"Catch-22\". In the novel, \"Catch-22\" describes an absurd military rule: a pilot could request to be excused from flying dangerous missions if they are sane enough to recognize the danger, but if they make such a request, they are considered sane and therefore ineligible to be excused. But if they continue to fly, it proves they are insane and eligible to be excused. This creates a paradoxical situation. In modern usage, \"Catch-22\" refers to any no-win situation or a self-contradictory predicament."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Finding a job without experience is a classic *Catch-22* situation.",
+          "zh": "没有经验找工作是一种典型的进退两难的情况。"
+        }
+      ],
+      "audio": "audio/227.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "It's a *Catch-22*: you need a credit history to get a credit card, but you need a credit card to build a credit history.",
+          "zh": "这是一个进退两难的局面：你需要信用记录才能申请信用卡，但你需要信用卡来建立信用记录。"
+        }
+      ],
+      "audio": "audio/227.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He found himself in a *Catch-22* trying to get a loan without any collateral.",
+          "zh": "他在试图在没有抵押品的情况下贷款时，发现自己陷入了一个进退两难的局面。"
+        }
+      ],
+      "audio": "audio/227.3.mp3"
+    }
+  ]
+}

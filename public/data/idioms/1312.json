@@ -1,0 +1,37 @@
+{
+  "n": 1312,
+  "name": "When pigs fly",
+  "meaning": {
+    "zh": "“除非太阳打西边出来” 或 “根本不可能发生的事”。\n\n这个短语起源于一种荒谬的形象，即猪飞上天，这在现实生活中是不可能的事。因此，这个短语用来形容那些不大可能或永远不会发生的事情。它常用于表达对某个事件发生可能性的极度怀疑。",
+    "en": "This phrase originates from the absurd image of pigs flying, which is an impossibility in real life. Therefore, this phrase is used to describe things that are highly unlikely or will never happen. It is often used to express extreme skepticism about the likelihood of an event occurring."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He said he’d tidy his room, but that will happen *when pigs fly*.",
+          "zh": "他说他会整理他的房间，但那根本是不可能的事。"
+        }
+      ],
+      "audio": "audio/1312.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She'll forgive him *when pigs fly*.",
+          "zh": "她会原谅他，除非太阳打西边出来。"
+        }
+      ],
+      "audio": "audio/1312.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Expect him to arrive on time? Yeah, right, *when pigs fly*.",
+          "zh": "指望他准时到达？对啊，除非太阳打西边出来。"
+        }
+      ],
+      "audio": "audio/1312.3.mp3"
+    }
+  ]
+}

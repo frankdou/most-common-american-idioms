@@ -1,0 +1,37 @@
+{
+  "n": 679,
+  "name": "It's not rocket science",
+  "meaning": {
+    "zh": "“这并不复杂” 或 “这并不是难事”。\n\n这个短语通常用来表示某件事并不难理解或完成，不需要很高的技术或智力水平。其起源可以追溯到20世纪中期，当时 “火箭科学” 被认为是高度复杂和技术含量很高的领域。因此，用 “这不是火箭科学” 来形容某事容易理解或简单 to be 实践。\n\n**来自**",
+    "en": "The phrase \"It's not rocket science\" is used to convey that something is not difficult to understand or do, and does not require high technical skill or intelligence. The origin goes back to the mid-20th century when rocket science was considered an extremely complex and high-tech field. Therefore, saying \"it's not rocket science\" implies that something is straightforward or simple in comparison."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "You can definitely fix the sink yourself; *it's not rocket science*.",
+          "zh": "你完全可以自己修理水槽，这并不复杂。"
+        }
+      ],
+      "audio": "audio/679.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I don't understand why you're so confused; filing taxes *isn't rocket science*.",
+          "zh": "我不明白你为什么这么困惑，报税并不是难事。"
+        }
+      ],
+      "audio": "audio/679.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Managing a simple budget *isn't rocket science*.",
+          "zh": "管理一个简单的预算并不复杂。"
+        }
+      ],
+      "audio": "audio/679.3.mp3"
+    }
+  ]
+}

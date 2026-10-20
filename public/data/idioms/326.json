@@ -1,0 +1,37 @@
+{
+  "n": 326,
+  "name": "Doesn't hold water",
+  "meaning": {
+    "zh": "“站不住脚” 或 “不可信”。 这个短语用来形容某个论点、解释或说法缺乏逻辑或证据，从而无法成立。\n\n这个短语的源头可以追溯到古代，当人们检查容器是否漏水时，如果容器漏水就说明它有问题。同样地，如果一个论点无法经受住仔细考量，就像一个漏水的容器一样，是不能被信任的。",
+    "en": "The origin of this idiom can be traced back to ancient times, when people would check if a container leaked water to determine if it had flaws. Similarly, if an argument cannot hold up to scrutiny, it's like a container that leaks, indicating it can't be trusted."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "His explanation for being late just doesn’t hold water.",
+          "zh": "他关于迟到的解释完全站不住脚。"
+        }
+      ],
+      "audio": "audio/326.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The theory sounds interesting, but it doesn’t hold water.",
+          "zh": "这个理论听起来很有趣，但站不住脚。"
+        }
+      ],
+      "audio": "audio/326.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Your argument doesn’t hold water; there are too many holes in it.",
+          "zh": "你的论点站不住脚，有太多漏洞。"
+        }
+      ],
+      "audio": "audio/326.3.mp3"
+    }
+  ]
+}

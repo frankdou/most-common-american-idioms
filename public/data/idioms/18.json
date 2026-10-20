@@ -1,0 +1,37 @@
+{
+  "n": 18,
+  "name": "A flash in the pan",
+  "meaning": {
+    "zh": "“昙花一现”，形容某事物或人曾经一度辉煌或成功，然而很快就消失了，并没有持久的影响力。\n\n这个短语来源于18世纪的火枪技术。当时的火枪用火药射击，有时候点火却未能成功发射，这就称为 \"a flash in the pan\"。后来，这个短语被用来描述任何短暂现象或昙花一现的成功。",
+    "en": "This phrase originates from 18th-century flintlock muskets. These firearms would sometimes have the gunpowder ignite (\"flash\") without the bullet actually being fired (\"in the pan\" mechanism). Over time, the phrase came to describe any brief, fleeting success or occurrence."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "His performance was impressive, but it turned out to be just *a flash in the pan*.",
+          "zh": "他的表演令人印象深刻，但结果只是昙花一现。"
+        }
+      ],
+      "audio": "audio/018.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The new product was selling well initially, but it proved to be *a flash in the pan*.",
+          "zh": "新产品一开始卖得很好，但证明只是昙花一现。"
+        }
+      ],
+      "audio": "audio/018.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Many startups turn out to be *a flash in the pan*.",
+          "zh": "许多创业公司最终都成了昙花一现。"
+        }
+      ],
+      "audio": "audio/018.3.mp3"
+    }
+  ]
+}

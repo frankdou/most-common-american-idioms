@@ -1,0 +1,37 @@
+{
+  "n": 519,
+  "name": "Go it alone",
+  "meaning": {
+    "zh": "“单独行动” 或 “独自做某事”。\n\n这个短语的意思是一个人独自采取行动或独自完成某事，而不寻求他人的帮助。这种表达通常用来强调个人的独立性和自主能力。它最早出现在20世纪初，通常用在描述一个人在商业、工作或个人项目中决定不借助团队，独自承担所有责任和任务的场景中。",
+    "en": "This phrase means to take action alone or to accomplish something independently, without seeking help from others. It is often used to emphasize a person's independence and self-reliance. The expression first appeared in the early 20th century and is commonly used in contexts where someone decides to take full responsibility for a business, work, or personal project without relying on a team."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He decided to *go it alone* and start his own business.",
+          "zh": "他决定单干，开自己的公司。"
+        }
+      ],
+      "audio": "audio/519.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Sometimes you have to *go it alone* to achieve your goals.",
+          "zh": "有时候，你必须独自行动才能实现自己的目标。"
+        }
+      ],
+      "audio": "audio/519.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She prefers to *go it alone* rather than work in a group.",
+          "zh": "她宁愿单独行动，而不是在团队中工作。"
+        }
+      ],
+      "audio": "audio/519.3.mp3"
+    }
+  ]
+}

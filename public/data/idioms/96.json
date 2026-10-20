@@ -1,0 +1,37 @@
+{
+  "n": 96,
+  "name": "At my wits' end",
+  "meaning": {
+    "zh": "“束手无策” 或 “智穷技尽”。\n\n这个短语起源于古英语，\"wits\" 指的是一个人的智力或判断能力。\"At my wits' end\" 意味着一个人已经用尽所有的智慧和方法，仍然不知道该怎么办。通常用来描述在面对复杂问题或困境时感觉无法继续下去的一种状态。",
+    "en": "This phrase originates from Old English, where \"wits\" referred to someone's intellect or judgment. \"At my wits' end\" means that a person has exhausted all their intelligence and methods and still doesn't know what to do. It is often used to describe a state of feeling unable to continue when faced with a complex problem or predicament."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "After trying everything to get the project back on track, I'm at my wits' end.",
+          "zh": "在尝试了所有方法让项目回归正轨后，我已经束手无策了。"
+        }
+      ],
+      "audio": "audio/096.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "With the kids screaming and the dog barking, I was at my wits' end.",
+          "zh": "孩子们尖叫，狗也在叫，我真的是智穷技尽了。"
+        }
+      ],
+      "audio": "audio/096.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She was at her wits' end trying to solve the puzzle.",
+          "zh": "她在解这个谜题时已经无计可施了。"
+        }
+      ],
+      "audio": "audio/096.3.mp3"
+    }
+  ]
+}

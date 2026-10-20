@@ -1,0 +1,37 @@
+{
+  "n": 246,
+  "name": "Clear as mud",
+  "meaning": {
+    "zh": "“模糊不清” 或 “难以理解”。\n\n这个短语具有讽刺意味，字面意思是 “像泥一样清晰”。显然，泥是浑浊的，不可能很清晰。这是用来形容某事根本不清晰、难以理解甚至令人困惑的说法。",
+    "en": "This phrase is ironic, literally meaning \"as clear as mud\". Obviously, mud is murky and not clear at all. It is used to describe something that is not clear, difficult to understand, or even confusing."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "His explanations were *clear as mud*; no one could understand them.",
+          "zh": "他的解释模糊不清，没有人能理解。"
+        }
+      ],
+      "audio": "audio/246.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The instructions for the new software are *clear as mud*.",
+          "zh": "新软件的使用说明模糊不清。"
+        }
+      ],
+      "audio": "audio/246.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "After the meeting, everything was *clear as mud*; I'm still confused about the project.",
+          "zh": "开会后，一切依然模糊不清，我还是对这个项目感到困惑。"
+        }
+      ],
+      "audio": "audio/246.3.mp3"
+    }
+  ]
+}

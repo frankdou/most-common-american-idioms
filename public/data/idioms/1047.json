@@ -1,0 +1,37 @@
+{
+  "n": 1047,
+  "name": "Skeleton crew",
+  "meaning": {
+    "zh": "“基础工作人员” 或 “最低限度的人员配置”。\n\n这个短语源自船只航行的术语，在船只上航行时，虽然有时可能需要大量的船员操作和维护船只，但在一些情况下，只需要最小限度的人员数量——即所谓的 “Skeleton crew”。这个短语后来被引申到不同领域，用于描述维持最低操作所需的基本人员配置。",
+    "en": "This phrase originates from nautical terminology where, while a ship might normally require a full crew to operate, there are situations where it can function minimally with a reduced number of essential personnel, described as a \"skeleton crew.\" This term has been extended to various fields to describe the minimum number of staff required to maintain basic operations."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "During the holidays, the office is run by a *skeleton crew*.",
+          "zh": "假期期间，办公室由基础工作人员来运作。"
+        }
+      ],
+      "audio": "audio/1047.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The restaurant was only able to stay open with a *skeleton crew* during the snowstorm.",
+          "zh": "暴风雪期间，这家餐馆只能靠基础工作人员继续营业。"
+        }
+      ],
+      "audio": "audio/1047.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "After the budget cuts, the department is just a *skeleton crew*.",
+          "zh": "预算削减后，这个部门现在仅剩下基础工作人员。"
+        }
+      ],
+      "audio": "audio/1047.3.mp3"
+    }
+  ]
+}

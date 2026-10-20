@@ -1,0 +1,37 @@
+{
+  "n": 67,
+  "name": "All over the map",
+  "meaning": {
+    "zh": "“到处都是” 或 “杂乱无章”。\n\n这个短语字面上的意思是 “地图上的各处”。它常用来表示某事或某人十分分散、不集中或者没有清晰的方向。通常用于描述人的思维、谈话或计划混乱、没有条理。",
+    "en": "This phrase literally means \"all over the places on the map.\" It's often used to indicate that something or someone is very scattered, unfocused, or lacking clear direction. It's commonly used to describe thoughts, conversations, or plans that are disorganized or lack structure."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "His ideas during the meeting were *all over the map*.",
+          "zh": "他在会议上的想法杂乱无章。"
+        }
+      ],
+      "audio": "audio/067.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Her speech was *all over the map*, covering too many unrelated topics.",
+          "zh": "她的演讲杂乱无章，涵盖了太多无关的主题。"
+        }
+      ],
+      "audio": "audio/067.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Our discussion was *all over the map*, and we couldn't reach a conclusion.",
+          "zh": "我们的讨论杂乱无章，不能得出任何结论。"
+        }
+      ],
+      "audio": "audio/067.3.mp3"
+    }
+  ]
+}

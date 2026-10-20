@@ -1,0 +1,37 @@
+{
+  "n": 29,
+  "name": "A memory like a sieve",
+  "meaning": {
+    "zh": "“像筛子一样的记忆” 或 “记性差”。\n\n这个短语比喻一个人记性很差，就像筛子无法保存细小的东西一样，信息也总是 “漏掉”。这来自于筛子的特性，筛子会让大部分东西通过，仅留下很少部分。在日常生活中，这个短语常用于形容那些容易忘事的人。",
+    "en": "This idiom compares someone's memory to a sieve, implying that they have a poor memory. Just as a sieve cannot retain small particles and lets most things fall through, a person with a \"memory like a sieve\" tends to forget information easily. This idiom is commonly used to describe people who are forgetful."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "My mom has a *memory like a sieve* and keeps forgetting where she put her keys.",
+          "zh": "我妈妈记性很差，总是忘记她把钥匙放在哪里。"
+        }
+      ],
+      "audio": "audio/029.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "If you have a *memory like a sieve*, you might need to write things down more often.",
+          "zh": "如果你记性不好，可能需要更频繁地把事情写下来。"
+        }
+      ],
+      "audio": "audio/029.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I've got a *memory like a sieve* these days; I can't even remember my own phone number.",
+          "zh": "我最近记性很差，连自己的电话号码都记不住。"
+        }
+      ],
+      "audio": "audio/029.3.mp3"
+    }
+  ]
+}

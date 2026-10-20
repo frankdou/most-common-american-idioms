@@ -1,0 +1,37 @@
+{
+  "n": 1033,
+  "name": "Shoestring budget",
+  "meaning": {
+    "zh": "“极其有限的预算” 或 “微薄的预算”。\n\n这个短语的来源可以追溯到19世纪末20世纪初，字面意思是用鞋带来做预算，就像用最基本、最简单的工具来管理财务一样。它常用于描述需要非常谨慎地花费每一分钱的情况。",
+    "en": "This phrase traces back to the late 19th and early 20th century. Literally, it means using a shoestring to manage a budget, akin to managing finances with the most basic and simple tools. It is often used to describe situations where every penny must be spent very carefully."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "We traveled across the country on a *shoestring budget*.",
+          "zh": "我们在极其有限的预算下穿越了整个国家。"
+        }
+      ],
+      "audio": "audio/1033.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The project was completed on a *shoestring budget* but still turned out great.",
+          "zh": "尽管项目是在微薄的预算下完成的，但结果仍然很好。"
+        }
+      ],
+      "audio": "audio/1033.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Many startups operate on a *shoestring budget* in their early days.",
+          "zh": "许多创业公司在初期都靠有限的预算运作。"
+        }
+      ],
+      "audio": "audio/1033.3.mp3"
+    }
+  ]
+}

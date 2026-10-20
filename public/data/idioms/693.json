@@ -1,0 +1,37 @@
+{
+  "n": 693,
+  "name": "Just a moment",
+  "meaning": {
+    "zh": "“稍等片刻” 或 “请稍等一下”。\n\n这个短语的字面意思是\"仅仅一会儿\"，通常用来请求别人稍等片刻。它常用于日常对话中，当我们需要暂时处理某些事情或需要短暂的时间来准备时。",
+    "en": "The phrase literally means \"just a short while\" and is often used to request someone to wait for a brief period. It is commonly used in everyday conversations when we need to momentarily attend to something or need a moment to prepare."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "*Just a moment* while I grab my keys.",
+          "zh": "稍等片刻，我去拿一下钥匙。"
+        }
+      ],
+      "audio": "audio/693.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Could you *just a moment* before I finish this call?",
+          "zh": "请稍等一下，我先结束这个电话。"
+        }
+      ],
+      "audio": "audio/693.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "*Just a moment*, I'll be right with you.",
+          "zh": "稍等片刻，我马上就来。"
+        }
+      ],
+      "audio": "audio/693.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "n": 306,
+  "name": "Dark horse",
+  "meaning": {
+    "zh": "“黑马”，指的是一位在比赛或竞争中出人意料取得佳绩的选手或团体。\n\n这个短语起源于赛马比赛。当一匹不被看好的马（即黑马）在比赛中出人意料地胜出时，人们便用 “黑马” 来形容其表现。如今，这个短语被广泛运用于各种竞赛、体育比赛及政治选举中，用来形容那些不被看好但最终脱颖而出的选手或团体。",
+    "en": "This phrase originates from horse racing. When a less favored horse (a dark horse) unexpectedly wins the race, people use the term \"dark horse\" to describe its performance. Nowadays, this phrase is widely used in various competitions, sports games, and political elections to describe those who were not favored but end up standing out."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Nobody expected him to win the election; he was a true *dark horse*.",
+          "zh": "没人预料到他会赢得选举，他真是一匹黑马。"
+        }
+      ],
+      "audio": "audio/306.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The new player turned out to be the *dark horse* of the tournament.",
+          "zh": "那位新选手成了锦标赛的黑马。"
+        }
+      ],
+      "audio": "audio/306.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She was the *dark horse* in the competition, surprising everyone with her talent.",
+          "zh": "她是比赛中的黑马，用她的才华让所有人惊艳。"
+        },
+        {
+          "en": "```",
+          "zh": ""
+        }
+      ],
+      "audio": "audio/306.3.mp3"
+    }
+  ]
+}

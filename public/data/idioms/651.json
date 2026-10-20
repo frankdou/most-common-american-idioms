@@ -1,0 +1,37 @@
+{
+  "n": 651,
+  "name": "In my element",
+  "meaning": {
+    "zh": "“如鱼得水” 或 “得心应手”。\n\n这个短语源自古希腊哲学中的基本元素观念，认为每个人、每件事都适合于某种特定的环境。现代用法表示某人处在自己擅长的领域或环境中，并能够表现得非常自如和出色。",
+    "en": "This phrase originates from the ancient Greek philosophy of basic elements, which believed that everything and everyone has a natural environment or domain where they function best. In modern usage, it indicates that someone is in a situation where they thrive and perform excellently."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "When she's baking in the kitchen, she's truly *in her element*.",
+          "zh": "她在厨房里烘焙时，真的是如鱼得水。"
+        }
+      ],
+      "audio": "audio/651.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He's always *in his element* on the basketball court.",
+          "zh": "他在篮球场上总是得心应手。"
+        }
+      ],
+      "audio": "audio/651.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "At the art exhibit, she felt completely *in her element* surrounded by creative minds.",
+          "zh": "在艺术展上，她被多位创意人士环绕中感到完全得心应手。"
+        }
+      ],
+      "audio": "audio/651.3.mp3"
+    }
+  ]
+}

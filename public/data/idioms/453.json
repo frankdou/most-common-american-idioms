@@ -1,0 +1,37 @@
+{
+  "n": 453,
+  "name": "Gain ground",
+  "meaning": {
+    "zh": "“取得进展” 或 “逐渐占据优势”。\n\n这个短语起源于军事术语，表示在战斗中逐步向前推进，占领更多的敌方领地。随着时间的推移，这个短语逐渐被用于各种情境，表示在某个领域或活动中取得进步或优势。",
+    "en": "This phrase originates from military terminology, indicating the gradual forward advancement in a battle to occupy more of the enemy's territory. Over time, it has been adopted to describe making progress or gaining an advantage in various contexts."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The company's new product is starting to *gain ground* in the market.",
+          "zh": "该公司的新产品开始在市场上取得进展。"
+        }
+      ],
+      "audio": "audio/453.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Environmental concerns are *gaining ground* among the public.",
+          "zh": "环保问题在公众中逐渐占据优势。"
+        }
+      ],
+      "audio": "audio/453.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The political party is *gaining ground* as more people support their policies.",
+          "zh": "随着越来越多的人支持该党的政策， 这个政党逐渐占据了优势。"
+        }
+      ],
+      "audio": "audio/453.3.mp3"
+    }
+  ]
+}

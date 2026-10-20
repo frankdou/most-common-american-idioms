@@ -1,0 +1,37 @@
+{
+  "n": 505,
+  "name": "Give someone the benefit of the doubt",
+  "meaning": {
+    "zh": "“把好处归于未知的一方” 或 “姑且相信某人”。\n\n这个短语起源于司法系统中的无罪推定原则。在没有足够证据证明某人有罪的情况下，司法系统通常会选择相信被告是无辜的。这个短语已经被广泛使用，表示在没有明确证据的情况下，选择相信某人的好意或诚信。",
+    "en": "This phrase originates from the legal principle of presumption of innocence, where if there isn't enough evidence to prove someone's guilt, the judicial system will choose to believe the person is innocent. This expression has been widely used to indicate that, in the absence of definitive evidence, one chooses to believe someone's good intentions or honesty."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I didn't see who took the money, so I'll *give him the benefit of the doubt*.",
+          "zh": "我没有看到是谁拿了钱，所以我姑且相信是他。"
+        }
+      ],
+      "audio": "audio/505.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She might be late, but I'll *give her the benefit of the doubt* this time.",
+          "zh": "她可能会迟到，但这次我会姑且相信她。"
+        }
+      ],
+      "audio": "audio/505.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Even though the explanation seems odd, I'll *give you the benefit of the doubt*.",
+          "zh": "尽管这个解释听起来很奇怪，但我姑且相信你。"
+        }
+      ],
+      "audio": "audio/505.3.mp3"
+    }
+  ]
+}

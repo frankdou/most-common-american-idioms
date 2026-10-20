@@ -1,0 +1,37 @@
+{
+  "n": 279,
+  "name": "Costs an arm and a leg",
+  "meaning": {
+    "zh": "“昂贵得离谱” 或 “花费巨大”。\n\n这个短语的起源可以追溯到 18 世纪，可能与一战或二战时期士兵的经历有关。失去手臂和腿代表了非常惨重的代价，于是这个表达逐渐演变为指某物极其昂贵或代价高昂。在现代英语中，这个短语常用来形容价格高得让人难以承受的商品或服务。",
+    "en": "This phrase originates from the 18th century and may be associated with the experiences of soldiers during World War I or II. Losing an arm and a leg signified a very heavy price. Hence, the expression evolved to mean something extremely expensive or costly. In modern English, this phrase is commonly used to describe items or services that are prohibitively expensive."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "That luxury car *costs an arm and a leg*.",
+          "zh": "那辆豪车的价格简直昂贵得离谱。"
+        }
+      ],
+      "audio": "audio/279.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "My college tuition *costs an arm and a leg*.",
+          "zh": "我的大学学费花费巨大。"
+        }
+      ],
+      "audio": "audio/279.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The new smartphone *costs an arm and a leg*, but it's totally worth it.",
+          "zh": "这款新智能手机价格昂贵，但完全值得。"
+        }
+      ],
+      "audio": "audio/279.3.mp3"
+    }
+  ]
+}

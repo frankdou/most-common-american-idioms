@@ -1,0 +1,37 @@
+{
+  "n": 1166,
+  "name": "They were thrown together",
+  "meaning": {
+    "zh": "“他们被匆忙地凑到一起” 或 “他们被仓促地安排在一起”。\n\n这个短语起源于突发事件或紧急情况，需要快速组成一个团队或将一群人安排在一起。通常，这种情况下的人们并不熟悉对方，可能来自不同的背景或有不同的技能，但因为特定的任务或环境，他们不得不一起合作。",
+    "en": "This phrase originates from situations where, due to sudden events or emergencies, people are rapidly assembled into a team or placed together. In these scenarios, individuals usually do not know each other well, and might come from different backgrounds or possess different skills, but they must collaborate because of a specific task or environment."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "During the emergency, they were thrown together to handle the crisis.",
+          "zh": "在紧急情况下，他们被匆忙地凑到一起处理危机。"
+        }
+      ],
+      "audio": "audio/1166.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The new project required people from different departments, so they were thrown together.",
+          "zh": "新项目需要来自不同部门的人，因此他们被仓促地安排在一起。"
+        }
+      ],
+      "audio": "audio/1166.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "They were thrown together on the group project but ended up becoming good friends.",
+          "zh": "他们被匆忙地凑到一起做小组项目，但最终成了好朋友。"
+        }
+      ],
+      "audio": "audio/1166.3.mp3"
+    }
+  ]
+}

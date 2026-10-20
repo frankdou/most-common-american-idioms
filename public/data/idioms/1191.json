@@ -1,0 +1,37 @@
+{
+  "n": 1191,
+  "name": "To beat the band",
+  "meaning": {
+    "zh": "“非常响亮” 或 “非常强调地”。\n\n这个短语起源于早期的美国俚语，意思是做某事非常激烈、极端或出色，以至于几乎要盖过乐队的声音。这个短语最常用在描述声音、动作或活动非常激烈的场合。",
+    "en": "The phrase originates from early American slang, meaning to do something very intensely, exceedingly, or exceptionally, almost to the extent of overshadowing a band's noise. It is most often used to describe very loud sounds, vigorous actions, or extremely intensive activities."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The kids were shouting and laughing *to beat the band*.",
+          "zh": "孩子们又叫又笑，非常响亮。"
+        }
+      ],
+      "audio": "audio/1191.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He was running *to beat the band*, trying to catch the bus.",
+          "zh": "他拼命地跑，试图赶上公交车。"
+        }
+      ],
+      "audio": "audio/1191.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "They celebrated *to beat the band* when their team won the championship.",
+          "zh": "当他们的球队夺冠时，他们庆祝得非常热烈。"
+        }
+      ],
+      "audio": "audio/1191.3.mp3"
+    }
+  ]
+}

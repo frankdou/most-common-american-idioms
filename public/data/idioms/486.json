@@ -1,0 +1,37 @@
+{
+  "n": 486,
+  "name": "Get to the bottom of something",
+  "meaning": {
+    "zh": "“彻底查清某事” 或 “弄清事情的真相”。\n\n这个短语最初用来形容矿工逐渐挖到矿井的底部，旨在寻找地下的矿脉。比喻为，在当前情境中，指通过细致调查或分析，找到问题的根源或揭示事件的真相。",
+    "en": "The phrase originally described miners gradually digging to the bottom of a mine shaft to find veins of valuable minerals. Metaphorically, it means making a thorough investigation or analysis to uncover the root cause of a problem or to reveal the true nature of an event."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The detective will not rest until he gets to the bottom of the mystery.",
+          "zh": "这位侦探不会休息，直到彻底查清这个谜案为止。"
+        }
+      ],
+      "audio": "audio/486.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "We need to get to the bottom of why the project failed.",
+          "zh": "我们需要弄清楚项目失败的真正原因。"
+        }
+      ],
+      "audio": "audio/486.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He is determined to get to the bottom of the issue and find a solution.",
+          "zh": "他决心彻查这个问题并找到解决办法。"
+        }
+      ],
+      "audio": "audio/486.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 795,
+  "name": "Lucky dog",
+  "meaning": {
+    "zh": "“幸运儿” 或 “走运的人”。\n\n“Lucky dog” 这个短语最早出现在 1800 年代，最初使用狗来表示 “家伙” 或 “人” 的含义，加上 “幸运” 一词，就用来形容那些特别走运或幸运的人。在这个短语中，狗并没有贬义，而是配合 “幸运” 的含义，表示某人非常幸运或得到了特别的好处。",
+    "en": "This idiom originated in the early 1800s. The word \"dog\" was used colloquially to refer to a \"fellow\" or \"person\" and, coupled with \"lucky,\" it highlights someone who is especially fortunate. In this context, \"dog\" does not carry a negative connotation; rather, it complements the idea of \"lucky\" to describe someone who is very fortunate or has received a special benefit."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He won the lottery again! What a *lucky dog*!",
+          "zh": "他又中彩票了！真是个幸运儿！"
+        }
+      ],
+      "audio": "audio/795.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "You got an extra day off work? You *lucky dog*!",
+          "zh": "你额外多了一天假？你这幸运儿！"
+        }
+      ],
+      "audio": "audio/795.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She managed to get the last ticket to the concert, talk about a *lucky dog*!",
+          "zh": "她竟然买到了最后一张演唱会门票，真是个幸运儿！"
+        }
+      ],
+      "audio": "audio/795.3.mp3"
+    }
+  ]
+}

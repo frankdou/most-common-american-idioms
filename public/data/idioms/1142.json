@@ -1,0 +1,37 @@
+{
+  "n": 1142,
+  "name": "The eleventh hour",
+  "meaning": {
+    "zh": "“在最后一刻” 或 “在最后关头”。\n\n这个短语源自《圣经》中的《马太福音》章节，其中提到一个主人在第十一小时雇用了一些工人。由此产生了 “the eleventh hour” 这个短语，用以描述到一个事情即将截止或结束的最后时刻做某事的情景。",
+    "en": "This phrase originates from the Bible, specifically the book of Matthew, where a landowner hires workers at the eleventh hour. Hence, \"the eleventh hour\" evolved to describe a situation where something is done at the very last moment before a deadline or end."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "They presented their project at the *eleventh hour*.",
+          "zh": "他们在最后一刻提交了他们的项目。"
+        }
+      ],
+      "audio": "audio/1142.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I bought my plane ticket at the *eleventh hour*.",
+          "zh": "我在最后关头买到了我的机票。"
+        }
+      ],
+      "audio": "audio/1142.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The team managed to score a goal at the *eleventh hour*.",
+          "zh": "球队在最后一刻设法进球了。"
+        }
+      ],
+      "audio": "audio/1142.3.mp3"
+    }
+  ]
+}

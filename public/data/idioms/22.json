@@ -1,0 +1,37 @@
+{
+  "n": 22,
+  "name": "A good Samaritan",
+  "meaning": {
+    "zh": "“乐善好施者” 或 “好撒玛利亚人”。\n\n这个短语源于《圣经》中的《路加福音》一则故事。在故事中，一位撒玛利亚人帮助了被强盗袭击的犹太人，尽管撒玛利亚人和犹太人之间存在历史上的敌对关系。这个短语现在用来指那些不求回报地帮助他人的善良人。",
+    "en": "This phrase originates from a story in the Bible, specifically in the Gospel of Luke. In the story, a Samaritan helps a Jewish man who was attacked by robbers, despite historical animosity between Samaritans and Jews. Nowadays, it refers to people who selflessly help others."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "A good Samaritan reached out to help the elderly man who had fallen on the sidewalk.",
+          "zh": "一位乐善好施者伸出援手，帮助了在人行道上摔倒的老人。"
+        }
+      ],
+      "audio": "audio/022.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She was a good Samaritan when she took the lost child to the police station.",
+          "zh": "她把迷路的孩子带到警察局时，表现得像一位好撒玛利亚人。"
+        }
+      ],
+      "audio": "audio/022.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The anonymous good Samaritan donated money to help rebuild the community center.",
+          "zh": "这位匿名的乐善好施者捐款帮助重建社区中心。"
+        }
+      ],
+      "audio": "audio/022.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 640,
+  "name": "Ignorance is bliss",
+  "meaning": {
+    "zh": "“不知者无忧” 或 “无知是福”。\n\n这个短语起源于18世纪英国诗人托马斯·格雷（Thomas Gray）的诗《田园墓志铭》（\"Ode on a Distant Prospect of Eton College\"）。在这首诗中，格雷通过描述年轻学生的天真和无忧无虑，表达了对成年后生活压力和烦恼的感叹。这个短语用于表达在某些情况下，不知道某些事情反而可以避免焦虑和烦恼。",
+    "en": "This phrase originates from the 18th-century English poet Thomas Gray's poem \"Ode on a Distant Prospect of Eton College.\" In the poem, Gray describes the innocence and carefree lives of schoolboys, contrasting it with the pressures and worries of adulthood. The phrase is used to suggest that in certain situations, not knowing certain things can actually help one avoid anxiety and distress."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He decided not to tell her about the bad news; after all, *ignorance is bliss*.",
+          "zh": "他决定不告诉她坏消息，毕竟，不知者无忧。"
+        }
+      ],
+      "audio": "audio/640.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Sometimes I think *ignorance is bliss* when it comes to knowing too many details about work.",
+          "zh": "有时候，我觉得对于工作中太多的细节，还是无知是福。"
+        }
+      ],
+      "audio": "audio/640.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "*Ignorance is bliss*; knowing the truth might just make you more stressed.",
+          "zh": "无知是福；知道真相可能只会让你更有压力。"
+        }
+      ],
+      "audio": "audio/640.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 535,
+  "name": "Go up in smoke",
+  "meaning": {
+    "zh": "“化为乌有” 或 “化为烟雾”。这个短语用来形容计划、希望、努力等突然间失败，或者一切都白费，一切变得徒劳无功。\n\n这个短语的起源与火焰有关。物体着火，会变成烟雾消失殆尽，象征着某种实际存在的东西彻底消失。因此, “go up in smoke” 就表示某种期望或者计划突然完全消失，就像烟雾一样。",
+    "en": "This phrase has its origins in fire. When an object catches fire, it turns into smoke and vanishes completely, symbolizing something that was tangible but has now disappeared. Thus, \"go up in smoke\" signifies that a hope, plan, or effort has suddenly and completely vanished, just like smoke."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "All of our hard work *went up in smoke* after the company decided to cancel the project.",
+          "zh": "在公司决定取消项目后，我们的所有努力都化为乌有了。"
+        }
+      ],
+      "audio": "audio/535.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "His dreams of traveling the world *went up in smoke* when he lost all his savings.",
+          "zh": "当他丢了所有的积蓄后，他环游世界的梦想也化为乌有了。"
+        }
+      ],
+      "audio": "audio/535.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The celebration plans *went up in smoke* due to the sudden storm.",
+          "zh": "由于突如其来的暴风雨，庆祝计划都化为乌有了。"
+        }
+      ],
+      "audio": "audio/535.3.mp3"
+    }
+  ]
+}

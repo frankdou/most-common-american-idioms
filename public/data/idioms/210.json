@@ -1,0 +1,37 @@
+{
+  "n": 210,
+  "name": "Calm someone down",
+  "meaning": {
+    "zh": "“使某人平静下来” 或 “安抚某人”。\n\n这个短语用来指通过言语或行动让某人从焦虑或愤怒的情绪中平静下来。它起源于我们日常生活中安慰或劝导他人的行为，这可以包括与某人对话、拥抱他们或者提供支持。",
+    "en": "This phrase is used to describe the act of helping someone to stop feeling anxious, angry, or upset, typically through words or actions. It originates from our everyday efforts to comfort or reassure others, which might include talking to them, giving them a hug, or providing support."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "She tried to *calm him down* before the big presentation.",
+          "zh": "她在重要的演讲前试图使他平静下来。"
+        }
+      ],
+      "audio": "audio/210.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "After the argument, they needed to take a walk to *calm down*.",
+          "zh": "争论过后，他们需要散散步使自己平静下来。"
+        }
+      ],
+      "audio": "audio/210.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He listened to soothing music to *calm himself down*.",
+          "zh": "他听舒缓的音乐来使自己冷静下来。"
+        }
+      ],
+      "audio": "audio/210.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 727,
+  "name": "Know the ins and outs",
+  "meaning": {
+    "zh": "“了解内情” 或 “熟悉详情”。\n\n这个短语表达了对某事物非常熟悉、了解所有的细节和流程的意思。它由两个部分组成：“ins” 指内部情况，和 “outs” 指外部情况，合起来表示对所有方面都了如指掌。",
+    "en": "The phrase expresses familiarity with all details and procedures of something. It is composed of two parts: \"ins\" refers to internal details, and \"outs\" refers to external details, together indicating a thorough understanding of all aspects."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "She knows the ins and outs of the company's policy.",
+          "zh": "她了解公司的政策内情。"
+        }
+      ],
+      "audio": "audio/727.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "To perform well in this task, you need to know the ins and outs of the software.",
+          "zh": "要在这项任务中表现出色，你需要熟悉软件的每一个细节。"
+        }
+      ],
+      "audio": "audio/727.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He knows the ins and outs of the legal process like nobody else.",
+          "zh": "他对法律程序了如指掌，无人能及。"
+        }
+      ],
+      "audio": "audio/727.3.mp3"
+    }
+  ]
+}

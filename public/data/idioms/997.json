@@ -1,0 +1,37 @@
+{
+  "n": 997,
+  "name": "Run its course",
+  "meaning": {
+    "zh": "“顺其自然” 或 “自然而然地结束”。\n\n这个短语指的是某事按其自然进程发展直至结束，不需要人为干预。它的起源可以追溯到自然界中一些过程，比如河流流向大海，或者疾病自己消退。在现代用法中，它用于表示在某些情况下，只需静待事物发展到尽头，而无需过多干涉。",
+    "en": "This phrase refers to something developing and coming to an end naturally, without human intervention. Its origin can be traced to natural processes, such as a river flowing to the sea or a disease dissipating on its own. In modern usage, it is used to indicate that sometimes one should wait for things to reach their natural conclusion without unnecessary interference."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The doctors decided to let the fever *run its course*.",
+          "zh": "医生们决定让发烧顺其自然地结束。"
+        }
+      ],
+      "audio": "audio/997.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Sometimes it's best to let a relationship *run its course*.",
+          "zh": "有时候最好让一段关系顺其自然地发展。"
+        }
+      ],
+      "audio": "audio/997.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "They chose to let nature *run its course* with the old tree.",
+          "zh": "他们选择让这棵老树顺其自然地成长。"
+        }
+      ],
+      "audio": "audio/997.3.mp3"
+    }
+  ]
+}

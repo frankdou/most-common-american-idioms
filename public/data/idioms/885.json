@@ -1,0 +1,37 @@
+{
+  "n": 885,
+  "name": "On the spur of the moment",
+  "meaning": {
+    "zh": "“心血来潮” 或 “一时冲动”。\n\n这个短语源自于骑马时用马刺轻轻刺马，使马马上作出反应的动作，比喻当人们在没有提前计划或仔细考虑的情况下，突然做出决定或行动的情景。它强调了行为的即兴性和突然性。",
+    "en": "This phrase originates from an action where a rider uses spurs gently against a horse to provoke an instant response. It metaphorically describes situations where people make decisions or take actions spontaneously, without prior planning or thorough consideration. It emphasizes the impromptu and sudden nature of the action."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "We decided to go on a trip *on the spur of the moment*.",
+          "zh": "我们一时心血来潮决定去旅行。"
+        }
+      ],
+      "audio": "audio/885.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He bought a new car *on the spur of the moment*.",
+          "zh": "他一时冲动买了辆新车。"
+        }
+      ],
+      "audio": "audio/885.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "*On the spur of the moment*, she decided to join the dance competition.",
+          "zh": "她心血来潮决定参加舞蹈比赛。"
+        }
+      ],
+      "audio": "audio/885.3.mp3"
+    }
+  ]
+}

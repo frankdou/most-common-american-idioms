@@ -1,0 +1,37 @@
+{
+  "n": 1020,
+  "name": "Security blanket",
+  "meaning": {
+    "zh": "“安全毯” 或 “给予心理安慰的物品或惯例”。\n\n这个短语源自婴儿或幼儿通常会依赖于某些特别的毯子或玩具，这些物品能够让他们感到安全和安慰。随着时间的推移，这个表达法被延伸到指代任何让人感觉安心的事物或惯例，不仅限于儿童。例如，一个成年人可能将某个习惯、物品或仪式视为他们的 “安全毯”。",
+    "en": "This phrase originates from the common behavior of infants or young children who rely on certain blankets or toys to feel safe and comforted. Over time, this expression has been extended to refer to anything that provides a sense of security to anyone, not just children. For example, an adult might consider a habit, object, or ritual as their \"security blanket.\""
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "She always carries her favorite book as a *security blanket* during stressful times.",
+          "zh": "在压力大的时候，她总是带着自己最喜欢的书作为心理安慰。"
+        }
+      ],
+      "audio": "audio/1020.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "For him, having a cup of coffee in the morning is like a *security blanket*.",
+          "zh": "对他来说，早上喝一杯咖啡就像是一种心理安慰。"
+        }
+      ],
+      "audio": "audio/1020.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Traveling with his old backpack gives him a sense of *security blanket*.",
+          "zh": "携带他的旧背包旅行给了他一种安全感。"
+        }
+      ],
+      "audio": "audio/1020.3.mp3"
+    }
+  ]
+}

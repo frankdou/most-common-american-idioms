@@ -1,0 +1,37 @@
+{
+  "n": 1121,
+  "name": "That hit the spot",
+  "meaning": {
+    "zh": "“正合我意” 或 “正是我想要的”。\n\n这个短语起源于人们吃东西或喝饮料时，如果某种味道或感觉特别满足他们的需求或想法，会用 “hit the spot” 来描述那种刚好合适的开心和满足感。在现代社会，这个短语通常用来形容某个东西（尤其是食物和饮料）正好满足了某人的期待和需求。",
+    "en": "This phrase originates from the feeling when something you eat or drink particularly satisfies your needs or cravings. Modernly, this idiom is commonly used to describe something (especially food or drink) that exactly meets someone's expectations and needs, providing a sense of satisfaction."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "That pizza *really hit the spot*.",
+          "zh": "那块披萨真正合我意。"
+        }
+      ],
+      "audio": "audio/1121.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "After a long hike, a cold lemonade *hit the spot*.",
+          "zh": "在长距离徒步后，一杯冰柠檬水正是我需要的。"
+        }
+      ],
+      "audio": "audio/1121.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The spicy noodles *hit the spot* on a cold day.",
+          "zh": "在寒冷的日子里，辣面条真是正合我意。"
+        }
+      ],
+      "audio": "audio/1121.3.mp3"
+    }
+  ]
+}

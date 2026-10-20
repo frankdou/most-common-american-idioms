@@ -1,0 +1,37 @@
+{
+  "n": 842,
+  "name": "New York minute",
+  "meaning": {
+    "zh": "“纽约分钟”，表示时间非常短暂的意思。在快节奏的环境中，事情发生得极快，几乎没有任何拖延。用来形容某些在瞬间完成或者发生的事情，非常迅速。\n\n这个短语来源于美国纽约市，以其快节奏的生活方式著称。当地居民和游客都会感受到一种紧张、快速的生活步调。正因为纽约的生活节奏快，所以 “纽约分钟” 被用来形容在极短时间内发生的事件或情况。",
+    "en": "This phrase originates from New York City in the United States, which is well-known for its fast-paced lifestyle. Both residents and tourists often experience a sense of urgency and rapid movement in the city. Because of this fast pace, a \"New York minute\" is used to describe events or situations that occur in a very short amount of time."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "In a *New York minute*, the deal was closed and they were out the door.",
+          "zh": "在短短的 “纽约分钟” 内，交易就完成了，他们走了出去。"
+        }
+      ],
+      "audio": "audio/842.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Traffic can change in a *New York minute*, so always stay alert.",
+          "zh": "交通状况可能在 “纽约分钟” 内发生变化，所以要时刻保持警惕。"
+        }
+      ],
+      "audio": "audio/842.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Her mood can switch in a *New York minute*, so be careful what you say.",
+          "zh": "她的情绪可能在 “纽约分钟” 内变化，所以说话要小心。"
+        }
+      ],
+      "audio": "audio/842.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 15,
+  "name": "A doubting Thomas",
+  "meaning": {
+    "zh": "“多疑的托马斯” 或 “怀疑一切的人”。\n\n该短语来源于《圣经·约翰福音》中的故事。门徒托马斯对耶稣复活表示怀疑，直到亲眼见到并触摸到耶稣的伤痕才相信。因此，“a doubting Thomas” 被用来形容那些总是怀疑或不轻易相信他人或事情的人。",
+    "en": "This phrase originates from the story in the Bible (John 20:24-29), where the disciple Thomas doubted Jesus' resurrection until he saw and touched Jesus' wounds himself. Hence, \"a doubting Thomas\" is used to describe someone who is skeptical and does not easily believe others or things."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He's such a *doubting Thomas*, always needing proof before he believes anything we say.",
+          "zh": "他真是一个多疑的托马斯，总是需要证据才能相信我们说的任何话。"
+        }
+      ],
+      "audio": "audio/015.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Don't be a *doubting Thomas*, trust me on this plan. It's going to work.",
+          "zh": "不要做一个多疑的托马斯，相信我这个计划，它会成功的。"
+        }
+      ],
+      "audio": "audio/015.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "My brother is a real *doubting Thomas* – he never takes anything at face value.",
+          "zh": "我哥哥真是个多疑的托马斯，他从不轻信任何事情。"
+        }
+      ],
+      "audio": "audio/015.3.mp3"
+    }
+  ]
+}

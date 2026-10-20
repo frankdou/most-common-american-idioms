@@ -1,0 +1,37 @@
+{
+  "n": 1255,
+  "name": "Track record",
+  "meaning": {
+    "zh": "“记录” 或 “业绩”。\n\n“Track record” 起源于赛马或田径比赛中的 “赛道记录”。它用来描述某个人、公司或组织在某领域内的表现历史和成就。通常用来表示一个人的过往表现和成就的综合记录，这样一来可以帮助其他人评估他的信任度和能力。",
+    "en": "The term \"track record\" originates from horse racing or track and field competitions where it referred to the recorded times on a track. It is used to describe the historical performance and achievements of a person, company, or organization in a specific field. This helps others evaluate someone's credibility and capabilities based on their past achievements."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "She has an impressive *track record* in sales.",
+          "zh": "她在销售方面有着令人印象深刻的业绩。"
+        }
+      ],
+      "audio": "audio/1255.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The company needs a CEO with a strong *track record* of leadership.",
+          "zh": "这家公司需要一位有着优秀领导业绩的 CEO。"
+        }
+      ],
+      "audio": "audio/1255.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Before hiring, we should check his *track record* in previous jobs.",
+          "zh": "在雇用之前，我们应该查看他以前工作的记录。"
+        }
+      ],
+      "audio": "audio/1255.3.mp3"
+    }
+  ]
+}

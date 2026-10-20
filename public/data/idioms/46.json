@@ -1,0 +1,37 @@
+{
+  "n": 46,
+  "name": "A storm is brewing",
+  "meaning": {
+    "zh": "“风暴正在酝酿” 或 “即将爆发的危机”。\n\n这个短语的起源可以追溯到观察天气的经验，当风暴即将来临时，天边会出现乌云密布的景象。同样，在比喻意义上，“a storm is brewing” 用来形容即将出现的问题或危机，通常是指紧张的气氛或局势变得越来越紧张的情况。",
+    "en": "This phrase originates from the observation of weather patterns; when a storm is approaching, dark clouds gather in the sky. Similarly, metaphorically, \"a storm is brewing\" is used to describe impending trouble or a crisis, often indicating that a tense atmosphere or situation is becoming increasingly uneasy."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "You could tell from their argument that *a storm is brewing*.",
+          "zh": "从他们的争吵中你可以看出风暴正在酝酿。"
+        }
+      ],
+      "audio": "audio/046.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "With the new policy changes, *a storm is brewing* among the employees.",
+          "zh": "随着新政策的改变，员工中风暴正在酝酿。"
+        }
+      ],
+      "audio": "audio/046.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I have a bad feeling about this meeting; *a storm is brewing*.",
+          "zh": "我对这次会议有种不祥的预感，风暴正在酝酿。"
+        }
+      ],
+      "audio": "audio/046.3.mp3"
+    }
+  ]
+}

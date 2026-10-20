@@ -1,0 +1,37 @@
+{
+  "n": 565,
+  "name": "Hair of the dog",
+  "meaning": {
+    "zh": "“以毒攻毒” 或 “用少量酒解宿醉”。\n\n这个短语的完整形式是 \"hair of the dog that bit you\"，起源于古老的医学实践，人们相信用咬过人的狗的毛来治疗狗咬伤的部位。同样地，现代社会中，人们用该短语来描述用少量的酒来减轻或治愈因饮酒过度引起的宿醉症状。",
+    "en": "The full phrase \"hair of the dog that bit you\" originates from an old medical practice where people believed using the hair of the dog that bit them could cure the bite wound. Similarly, in modern society, it is used to describe the practice of drinking a small amount of alcohol to alleviate or cure a hangover caused by excessive drinking."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He had a bad hangover, so he decided to have a hair of the dog in the morning.",
+          "zh": "他宿醉很严重，所以他决定早上喝一点酒以毒攻毒。"
+        }
+      ],
+      "audio": "audio/565.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She claims that a hair of the dog helps her recover after a long night of drinking.",
+          "zh": "她声称少量酒能帮助她在一夜痛饮后恢复过来。"
+        }
+      ],
+      "audio": "audio/565.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Many people swear by a hair of the dog as a hangover cure.",
+          "zh": "很多人发誓用少量酒作为治宿醉的疗法很有效。"
+        }
+      ],
+      "audio": "audio/565.3.mp3"
+    }
+  ]
+}

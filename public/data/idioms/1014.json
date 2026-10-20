@@ -1,0 +1,37 @@
+{
+  "n": 1014,
+  "name": "School of thought",
+  "meaning": {
+    "zh": "“学派” 或者 “思想流派”。\n\n这个短语来源于哲学和学术，最早用于描述有相同或相似信仰、见解或研究方法的一群人。在某一特定领域中，不同的学派会以其独特的理论和方法对事物进行解释和研究。这个短语现广泛用于表示任何领域中持有特殊见解或方法的一组人或群体。",
+    "en": "This term originates from philosophy and academia, initially used to describe a group of people with the same or similar beliefs, views, or methods of study. In a specific field, different schools of thought offer unique theories and approaches to explain and investigate subjects. It is now widely used to denote any group or community holding particular views or methodologies in any domain."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "There are different *schools of thought* concerning the best way to educate children.",
+          "zh": "关于如何最好地教育孩子，有不同的思想流派。"
+        }
+      ],
+      "audio": "audio/1014.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "In economics, each *school of thought* has its own perspective on market mechanisms.",
+          "zh": "在经济学中，每个学派都有其对市场机制的独特见解。"
+        }
+      ],
+      "audio": "audio/1014.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The *school of thought* that promotes a holistic approach to medicine is gaining popularity.",
+          "zh": "提倡整体医学方法的思想流派正在获得更多支持。"
+        }
+      ],
+      "audio": "audio/1014.3.mp3"
+    }
+  ]
+}

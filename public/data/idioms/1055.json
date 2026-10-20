@@ -1,0 +1,37 @@
+{
+  "n": 1055,
+  "name": "Smell a rat",
+  "meaning": {
+    "zh": "感觉有猫腻，觉得事情有蹊跷。\n\n这个成语可以追溯到中世纪欧洲。当时的房子里经常有老鼠，人们依靠猫来捕捉这些害鼠。如果猫闻到老鼠的存在，它们会表现得异常警觉。因此，“smell a rat” 表示一种预感到可能有问题或不轨的行为，类似于人们在怀疑某事不对劲时的感觉。",
+    "en": "This idiom can be traced back to medieval Europe. Houses often had mice, and people relied on cats to catch these pests. If a cat smelled a rat, it would become extraordinarily alert. Therefore, \"smell a rat\" signifies having a suspicion that something is wrong or underhanded, much like the feeling when one suspects something fishy is going on."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "When she saw the strange email, she immediately *smelled a rat*.",
+          "zh": "当她看到那封奇怪的电子邮件时，她立刻觉得有猫腻。"
+        }
+      ],
+      "audio": "audio/1055.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He *smelled a rat* when his colleague offered help without any reason.",
+          "zh": "当同事无缘无故提供帮助时，他觉得事情有蹊跷。"
+        }
+      ],
+      "audio": "audio/1055.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I *smelled a rat* when I heard about the unbelievable deal.",
+          "zh": "听到那个难以置信的交易时，我觉得事情有猫腻。"
+        }
+      ],
+      "audio": "audio/1055.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 123,
+  "name": "Bed of roses",
+  "meaning": {
+    "zh": "“轻松舒适的境地” 或 “安逸的生活”。\n\n这个短语源自于玫瑰花床的优雅和舒适感，描述一种理想化的、幸福舒适的生活状态。最早见于莎士比亚的诗句中，即指生活如同玫瑰花床般轻松舒适。在现代英语中，它常用来表示一种没有困难、非常愉快的生活情况。",
+    "en": "This phrase originates from the elegance and comfort associated with a bed made of roses, describing an idealized, comfortable, and happy life. It first appeared in the poems of Shakespeare, referring to life as easy and comfortable as a bed of roses. In modern English, it's often used to denote an easy, pleasant situation without difficulties."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Life is not always a *bed of roses*; sometimes, you have to face challenges.",
+          "zh": "生活并不总是轻松舒适的；有时，你必须面对挑战。"
+        }
+      ],
+      "audio": "audio/123.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She makes everything seem like a *bed of roses*, but she works hard behind the scenes.",
+          "zh": "她让一切看起来很安逸，但她在背后非常努力。"
+        }
+      ],
+      "audio": "audio/123.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Moving to a new city isn't a *bed of roses*, but it can be very rewarding.",
+          "zh": "搬到一个新城市并不轻松，但这可能非常值得。"
+        }
+      ],
+      "audio": "audio/123.3.mp3"
+    }
+  ]
+}

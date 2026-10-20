@@ -1,0 +1,37 @@
+{
+  "n": 564,
+  "name": "Gut feeling",
+  "meaning": {
+    "zh": "“直觉” 或 “本能的感觉”。\n\n这个短语来源于人们对事物的本能反应，与逻辑思考无关。“Gut”（肠胃）指的是一种内脏的感觉，在压力或紧张时，人们常常会感受到腹部的不适。这种感觉被认为是一种原始的、快速的反应机制，它帮助我们在没有足够时间进行逻辑分析时做出决定。",
+    "en": "This phrase originates from the instinctive response people have towards situations, unrelated to logical thinking. The \"gut\" refers to an internal sensation often felt in the abdomen during stress or anxiety. This sensation is considered a primitive and quick reaction mechanism, helping us make decisions when there isn't enough time for logical analysis."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I had a *gut feeling* that something was wrong.",
+          "zh": "我有一种直觉，感觉有些不对劲。"
+        }
+      ],
+      "audio": "audio/564.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She trusted her *gut feeling* and avoided the deal.",
+          "zh": "她相信她的直觉，避开了这笔交易。"
+        }
+      ],
+      "audio": "audio/564.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Sometimes, you just have to go with your *gut feeling*.",
+          "zh": "有时候，你只能跟随你的直觉。"
+        }
+      ],
+      "audio": "audio/564.3.mp3"
+    }
+  ]
+}

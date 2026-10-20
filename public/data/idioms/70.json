@@ -1,0 +1,37 @@
+{
+  "n": 70,
+  "name": "All wet",
+  "meaning": {
+    "zh": "“全错的” 或 “大错特错”。\n\n这个短语源于20世纪20年代的美国俚语，当时 “all wet” 用于形容某人或者某事完全错误或者误会。最早的用法可能与当时流行的某些幽默剧以及喜剧场景有关，这些情景通常表现某人失败或误解，像落汤鸡一样（浑身湿透）。",
+    "en": "This idiom originates from the 1920s American slang, where \"all wet\" was used to describe someone or something completely wrong or mistaken. The earliest uses might be related to popular humor and comedy scenes of the time, often portraying someone failing or being misunderstood, similar to being soaking wet."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Your idea about skipping work to get ahead is *all wet*.",
+          "zh": "你认为为了提前完成工作而翘班的想法是大错特错的。"
+        }
+      ],
+      "audio": "audio/070.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He's *all wet* if he thinks the boss will approve that plan.",
+          "zh": "如果他认为老板会批准那个计划，那他就大错特错了。"
+        }
+      ],
+      "audio": "audio/070.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The theory that the Earth is flat is completely *all wet*.",
+          "zh": "地球是平的这个理论完全是错的。"
+        }
+      ],
+      "audio": "audio/070.3.mp3"
+    }
+  ]
+}

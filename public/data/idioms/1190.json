@@ -1,0 +1,37 @@
+{
+  "n": 1190,
+  "name": "To be up to something",
+  "meaning": {
+    "zh": "“正在忙某事” 或 “在策划什么事情（通常指不太好的事情）”。\n\n这个短语常常用来形容某人正在忙于某些事情，特别是当被认为可能在计划或进行一些秘密或不太好的行为时。这个短语的确切起源不明，但在日常交流中，它常用来表达对某人行为的怀疑或好奇。",
+    "en": "This idiom is often used to describe someone who is engaged in some activity, especially when suspected of planning or doing something secretive or not entirely good. The exact origin of this phrase is unclear, but in everyday communication, it's commonly used to express suspicion or curiosity about someone's actions."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I think the kids are *up to something* in the backyard.",
+          "zh": "我觉得孩子们在后院忙着什么。"
+        }
+      ],
+      "audio": "audio/1190.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He’s been acting strange lately; I wonder if he’s *up to something*.",
+          "zh": "他最近行为古怪，我怀疑他在策划什么。"
+        }
+      ],
+      "audio": "audio/1190.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Whenever John is quiet, you know he is *up to something*.",
+          "zh": "每当约翰安静的时候，你就知道他在偷偷做什么事情。"
+        }
+      ],
+      "audio": "audio/1190.3.mp3"
+    }
+  ]
+}

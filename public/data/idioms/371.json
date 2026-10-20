@@ -1,0 +1,37 @@
+{
+  "n": 371,
+  "name": "Eat crow",
+  "meaning": {
+    "zh": "“忍辱吞声” 或 “被迫承认错误后感到羞愧”。\n\n这个短语可能起源于19世纪美国，指被迫进食一种不受欢迎甚至令人厌恶的东西，象征着做了令人尴尬的事情或者不得不承认自己错了。通常用于描述某人因其之前的言行表现出错后，必须诚恳地道歉或承认错误的情景。",
+    "en": "This phrase may originate from 19th-century America, referring to being forced to eat something unappealing or even revolting, symbolizing doing something embarrassing or having to acknowledge one's mistake. It is commonly used to describe a situation where someone must humbly apologize or admit they were wrong following their previous actions or statements."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "After insisting that he was right, John had to *eat crow* when the true facts came out.",
+          "zh": "约翰一再坚持自己是对的，但事实一出来，他不得不忍辱吞声。"
+        }
+      ],
+      "audio": "audio/371.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She had to *eat crow* after falsely accusing her colleague of stealing.",
+          "zh": "她错误地指责同事偷窃后，不得不承认自己的错误。"
+        }
+      ],
+      "audio": "audio/371.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "If the plan fails, the manager will have to *eat crow* in front of the entire team.",
+          "zh": "如果计划失败了，经理将不得不在整个团队面前承认错误。"
+        }
+      ],
+      "audio": "audio/371.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 604,
+  "name": "Hit it on the nose",
+  "meaning": {
+    "zh": "“正中要害” 或 “完全正确”。\n\n这个短语最早起源于美国口语，用以描述一个人说话或做事非常准确，毫无差错，通常是因为提议、猜测或评论完全正确。这里的 “nose”（鼻子）是用来表现一个特定的、没有偏差的位置。",
+    "en": "This phrase originates from American colloquial language. It is used to describe something someone says or does that is very accurate and free from error, typically because the suggestion, guess, or comment is completely correct. The \"nose\" is used to represent a specific and unerring spot."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Your analysis of the sales trends was right; you *hit it on the nose*.",
+          "zh": "你对销售趋势的分析是正确的；你正中要害。"
+        }
+      ],
+      "audio": "audio/604.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "When she guessed his age, she *hit it on the nose*.",
+          "zh": "当她猜测他的年龄时，她正中要害。"
+        }
+      ],
+      "audio": "audio/604.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The forecast was exactly what happened; they *hit it on the nose*.",
+          "zh": "预报的事情完全发生了；他们完全正确。"
+        }
+      ],
+      "audio": "audio/604.3.mp3"
+    }
+  ]
+}

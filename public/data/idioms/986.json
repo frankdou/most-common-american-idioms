@@ -1,0 +1,37 @@
+{
+  "n": 986,
+  "name": "Ring a bell",
+  "meaning": {
+    "zh": "“听起来很熟” 或 “想起某事”。\n\n这个短语起源于钟声作为提醒或警示的作用。在过去，钟声常用于提醒人们重要的事件或时间。因此，当某个事物 “ring a bell”，就意味着它唤起了某人的记忆或提醒了某人某件事情。",
+    "en": "This phrase originates from the use of bells to remind or alert people. In the past, bells were often used to notify people of important events or times. Therefore, when something “rings a bell”, it means it has triggered someone's memory or reminded them of something."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Her name *rings a bell*, but I can't place where I know her from.",
+          "zh": "她的名字听起来很熟，但我想不起来在哪里见过她。"
+        }
+      ],
+      "audio": "audio/986.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Does this old photo *ring a bell*?",
+          "zh": "这张老照片让你想起什么了吗？"
+        }
+      ],
+      "audio": "audio/986.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The song *rings a bell*, but I don't remember the lyrics.",
+          "zh": "这首歌听起来很熟，但我不记得歌词。"
+        }
+      ],
+      "audio": "audio/986.3.mp3"
+    }
+  ]
+}

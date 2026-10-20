@@ -1,0 +1,37 @@
+{
+  "n": 1329,
+  "name": "With flying colors",
+  "meaning": {
+    "zh": "“取得优异成绩”、“出色完成任务” 或 “凯旋而归”。\n\n这个短语源自于航海传统。在航海历史中，当一艘船成功完成任务并顺利返回港口时，会高高悬挂着旗帜，展示其卓越的成就和荣誉。这个短语后来被引申到其他场合，表示某人出色地完成了某个任务或取得了优异成绩。",
+    "en": "This phrase originates from nautical traditions. In maritime history, when a ship successfully completed a mission and returned to port, it would fly its flags high, showcasing its excellent achievements and honor. This phrase was later extended to other contexts to mean someone has accomplished a task with great success or achieved outstanding results."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "She passed the exam with flying colors.",
+          "zh": "她以优异的成绩通过了考试。"
+        }
+      ],
+      "audio": "audio/1329.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The team completed the project with flying colors.",
+          "zh": "团队出色地完成了这个项目。"
+        }
+      ],
+      "audio": "audio/1329.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He graduated from college with flying colors.",
+          "zh": "他以优异的成绩从大学毕业。"
+        }
+      ],
+      "audio": "audio/1329.3.mp3"
+    }
+  ]
+}

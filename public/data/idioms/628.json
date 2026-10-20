@@ -1,0 +1,37 @@
+{
+  "n": 628,
+  "name": "I can't imagine",
+  "meaning": {
+    "zh": "“我无法想象” 或 “我很难想象”。\n\n这个短语用来表示对于某个情况，情景或想法感到不可思议或者超出了自己的想象范围。它可以用来表达震惊、疑惑或难以置信的情感。",
+    "en": "This phrase is used to express disbelief or astonishment toward a particular situation, scenario, or idea. It's commonly used to convey a sense of something being beyond imaginable limits."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I can't imagine living without the internet these days.",
+          "zh": "我无法想象如今没有网络会是什么样。"
+        }
+      ],
+      "audio": "audio/628.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "After hearing the news, I can't imagine how the family must feel.",
+          "zh": "在听到消息后，我无法想象那个家庭会是什么感觉。"
+        }
+      ],
+      "audio": "audio/628.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I can't imagine working in such a stressful environment every day.",
+          "zh": "我很难想象每天在这么有压力的环境中工作。"
+        }
+      ],
+      "audio": "audio/628.3.mp3"
+    }
+  ]
+}

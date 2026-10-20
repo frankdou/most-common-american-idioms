@@ -1,0 +1,37 @@
+{
+  "n": 1321,
+  "name": "Who do you think you are?",
+  "meaning": {
+    "zh": "“你以为你是谁？” 或 “你觉得你算老几？”\n\n这个短语常用于表达对对方自大或傲慢态度的不满质疑，询问对方是否自视过高。它通常在感到对方行为或言论超出了某种界限时使用，是一种直接且具有挑衅意味的问句。",
+    "en": "This phrase is often used to express dissatisfaction with someone's arrogance or self-importance, questioning whether the person overestimates themselves. It's typically used when feeling that someone's behavior or speech has crossed some boundary, and it is a direct and provocative way to question them."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "\"You can't just barge in here and give orders. *Who do you think you are?*\"",
+          "zh": "“你不能就这么闯进来发号施令。你以为你是谁？”"
+        }
+      ],
+      "audio": "audio/1321.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "\"*Who do you think you are?* You have no right to criticize me like that.\"",
+          "zh": "“你觉得你算老几？你没有权利这样批评我。”"
+        }
+      ],
+      "audio": "audio/1321.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "\"She looked at him and said, *Who do you think you are?* You're not my boss.\"",
+          "zh": "“她看着他说，你觉得你是谁？你不是我的老板。”"
+        }
+      ],
+      "audio": "audio/1321.3.mp3"
+    }
+  ]
+}

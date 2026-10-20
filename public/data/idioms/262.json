@@ -1,0 +1,37 @@
+{
+  "n": 262,
+  "name": "Come clean",
+  "meaning": {
+    "zh": "坦白或承认错误。\n\n这个短语起源于19世纪末，最早用来描述人们从困境中 “洁净” 或 清白出来的状态。后来逐渐发展成为坦白或承认错误的意思，尤其是在涉及到不诚实行为或者误导行为时。",
+    "en": "This phrase originated in the late 19th century, initially used to describe someone coming out \"clean\" or innocent from a predicament. Over time, it has evolved to mean confessing or admitting to wrongdoing, especially when it involves dishonest or misleading behavior."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "After months of lying, he decided to *come clean* about his mistakes.",
+          "zh": "在撒谎了几个月后，他决定坦白他的错误。"
+        }
+      ],
+      "audio": "audio/262.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "It's always better to *come clean* than to keep hiding the truth.",
+          "zh": "比起一直隐瞒真相，坦白总是更好。"
+        }
+      ],
+      "audio": "audio/262.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She finally *came clean* about the accident to her parents.",
+          "zh": "她最终向父母坦白了事故的事情。"
+        }
+      ],
+      "audio": "audio/262.3.mp3"
+    }
+  ]
+}

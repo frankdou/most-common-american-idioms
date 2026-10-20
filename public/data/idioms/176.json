@@ -1,0 +1,37 @@
+{
+  "n": 176,
+  "name": "Break even",
+  "meaning": {
+    "zh": "“收支平衡” 或 “不亏不赚”。\n\n这个短语最早用于会计领域，描述一个企业或个人在特定时期内的收入刚好能覆盖其成本和支出，因此其利润或亏损为零。在现代日常用语中，“break even” 经常用来描述一个项目或任务的经济效益，表示该项目至少没有亏损。",
+    "en": "This idiom originates from accounting, describing a situation where a business or individual’s income exactly covers their costs and expenses over a given period, resulting in zero profit or loss. In modern usage, “break even” is often used to evaluate the economic performance of a project or task, indicating that at least no loss has been incurred."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "After all the expenses, we finally managed to *break even* with the event.",
+          "zh": "在扣除所有开支后，这次活动我们终于做到收支平衡。"
+        }
+      ],
+      "audio": "audio/176.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "It took us a year, but the business is now starting to *break even*.",
+          "zh": "我们花了一年的时间，但现在这个生意终于开始收支平衡了。"
+        }
+      ],
+      "audio": "audio/176.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Their goal is to *break even* by the end of the second quarter.",
+          "zh": "他们的目标是在第二季度末实现收支平衡。"
+        }
+      ],
+      "audio": "audio/176.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 622,
+  "name": "Horse of a different color",
+  "meaning": {
+    "zh": "“完全不同的事物” 或 “另一种情况”。\n\n这个成语起源于戏剧作家威廉·莎士比亚（William Shakespeare）的《第十二夜》（Twelfth Night）。剧中人物用 “变色马” 来比喻与先前谈论的不同事物。这一表达逐渐演变为形容某件完全不同的事情或情况。",
+    "en": "This idiom originates from playwright William Shakespeare's \"Twelfth Night.\" Characters in the play used \"a horse of that color\" to refer to a different matter than what was previously discussed. Over time, this expression evolved to describe something entirely different or another situation."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I thought the meeting was about budget cuts, but it turned out to be a *horse of a different color*.",
+          "zh": "我以为会议是关于削减预算的，但结果却是完全不同的事。"
+        }
+      ],
+      "audio": "audio/622.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "We were talking about job benefits, but his complaint is a *horse of a different color*.",
+          "zh": "我们在谈论工作福利，但他的抱怨是完全不同的事情。"
+        }
+      ],
+      "audio": "audio/622.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Solving this new issue is a *horse of a different color* compared to the usual problems we face.",
+          "zh": "解决这个新问题与我们通常面临的问题完全不同。"
+        }
+      ],
+      "audio": "audio/622.3.mp3"
+    }
+  ]
+}

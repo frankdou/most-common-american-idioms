@@ -1,0 +1,37 @@
+{
+  "n": 416,
+  "name": "Fits and starts",
+  "meaning": {
+    "zh": "“间歇性地” 或 “断断续续地”。\n\n这个短语来源于 “fit” 的一种含义，即突发性的活动或动作，和 “start” 即开始。结合在一起，它形容某种活动并非连续进行，而是时断时续、不规则地进行的状态。它常用于描述某人做事不连贯或事情进展不顺利而时停时续。",
+    "en": "This idiom stems from \"fit,\" which implies a sudden burst of activity, and \"start,\" which means to begin. Together, they depict an activity that is not continuous but happens irregularly, starting and stopping intermittently. It is commonly used to describe someone working in a non-continuous manner or the progress of something that proceeds unsteadily."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He worked on his novel in *fits and starts*.",
+          "zh": "他断断续续地在写他的小说。"
+        }
+      ],
+      "audio": "audio/416.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Their progress on the project was made in *fits and starts*.",
+          "zh": "他们项目的进展是断断续续的。"
+        }
+      ],
+      "audio": "audio/416.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Learning a new language often happens in *fits and starts*.",
+          "zh": "学习一门新语言通常是间歇性地进行。"
+        }
+      ],
+      "audio": "audio/416.3.mp3"
+    }
+  ]
+}

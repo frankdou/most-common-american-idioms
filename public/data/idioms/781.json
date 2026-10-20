@@ -1,0 +1,37 @@
+{
+  "n": 781,
+  "name": "Long time no see!",
+  "meaning": {
+    "zh": "“好久不见！”\n\n这个短语来源于对英语不熟悉的人最早用英语说话时的字面翻译，尤其是亚洲移民们在 19 世纪使用的带有其母语语法结构的英语表达方式。如今，它已成为见到长期未见的朋友或熟人时常用的表达方式。",
+    "en": "This phrase originates from the literal translation used by people not fluent in English, especially Asian immigrants, in the 19th century who spoke English with the grammar structure of their native languages. Nowadays, it is commonly used as a greeting when encountering friends or acquaintances after a long time."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "*Long time no see!* How have you been?",
+          "zh": "好久不见了！你最近怎么样？"
+        }
+      ],
+      "audio": "audio/781.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "When I met him at the reunion, I said, \"*Long time no see!*\"",
+          "zh": "在聚会上见到他时，我说：“好久不见！”"
+        }
+      ],
+      "audio": "audio/781.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "*Long time no see!* Let's catch up soon.",
+          "zh": "好久不见了！我们找时间叙叙旧吧。"
+        }
+      ],
+      "audio": "audio/781.3.mp3"
+    }
+  ]
+}

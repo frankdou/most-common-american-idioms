@@ -1,0 +1,37 @@
+{
+  "n": 374,
+  "name": "Eat my hat",
+  "meaning": {
+    "zh": "“我这顶帽子吃了！” 或 “打赌” 及表示自信。\n\n这个短语源自19世纪，最早见于英国作家查尔斯·狄更斯的作品《匹克威克外传》（The Pickwick Papers）。类似表达也见于更早的文献中，通常是表示扬言或赌注，如果某件事情未按照预期发生，那么说出此话的人愿意采取极端行为，如吃掉帽子。在现代，\"eat my hat\" 仍然用来夸张地表达对某事的极度信心，即某事若不发生，他愿意做某种极其不可能或荒谬的事。",
+    "en": "This idiom originates from the 19th century, first appearing in the works of British author Charles Dickens, particularly in \"The Pickwick Papers\". Similar expressions have also appeared in earlier literature, usually as a boast or bet, indicating that if something does not happen as predicted, the person uttering the phrase would commit to an extreme action, like eating their hat. In modern times, \"eat my hat\" is still used to dramatically express extreme confidence in something happening."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "If he wins the lottery, I'll eat my hat.",
+          "zh": "如果他中彩票，我这顶帽子吃了。"
+        }
+      ],
+      "audio": "audio/374.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "There's no way she'll leave her job. If she does, I'll eat my hat.",
+          "zh": "她不可能离职。如果她真的离职了，我这顶帽子吃了。"
+        }
+      ],
+      "audio": "audio/374.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "If it snows tomorrow, I'll eat my hat!",
+          "zh": "如果明天下雪，我这顶帽子吃了！"
+        }
+      ],
+      "audio": "audio/374.3.mp3"
+    }
+  ]
+}

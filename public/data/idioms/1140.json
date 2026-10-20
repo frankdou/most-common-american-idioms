@@ -1,0 +1,37 @@
+{
+  "n": 1140,
+  "name": "The early bird gets the worm",
+  "meaning": {
+    "zh": "“早起的鸟儿有虫吃”。\n\n这个谚语源自鸟类的早晨觅食习惯。早上早起的鸟儿会最先找到食物。因此，这句话用来比喻早早行动的人会获得成功或利益，常用来鼓励人们抓住机会，早些开始行动。",
+    "en": "This proverb originates from the feeding habits of birds. Birds that wake up early are able to find food first. Therefore, this saying is used to imply that those who start early will have success or advantages, often used to encourage people to take action early and seize opportunities."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "She always arrives at the office before anyone else; the *early bird gets the worm*.",
+          "zh": "她总是在其他人之前到达办公室，早起的鸟儿有虫吃。"
+        }
+      ],
+      "audio": "audio/1140.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "If you want the best deals, remember that the *early bird gets the worm*.",
+          "zh": "如果你想要最好的交易，记得早起的鸟儿有虫吃。"
+        }
+      ],
+      "audio": "audio/1140.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The *early bird gets the worm*, so I try to wake up at 5 AM every day.",
+          "zh": "早起的鸟儿有虫吃，所以我每天都试图五点起床。"
+        }
+      ],
+      "audio": "audio/1140.3.mp3"
+    }
+  ]
+}

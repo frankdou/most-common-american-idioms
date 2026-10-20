@@ -1,0 +1,37 @@
+{
+  "n": 1211,
+  "name": "To follow up on something",
+  "meaning": {
+    "zh": "“跟进某事” 或 “追查某事”。\n\n这个短语起源于工作和沟通中的一种常见行为，即在初次交流或初步行动之后，进一步进行调查、确认或完成相关步骤。在许多情况下，跟进对于确保事情的顺利推进和任务的达到是至关重要的。",
+    "en": "This phrase originates from a common behavior in work and communication, which involves taking further steps to investigate, confirm, or complete tasks after initial communication or action. In many cases, following up is crucial to ensure the smooth progress and completion of tasks."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I'll *follow up on* the email I sent yesterday.",
+          "zh": "我要跟进一下我昨天发的邮件。"
+        }
+      ],
+      "audio": "audio/1211.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Can you *follow up on* the project status with the team?",
+          "zh": "你能不能跟团队追查一下项目的进度？"
+        }
+      ],
+      "audio": "audio/1211.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She needs to *follow up on* her doctor's appointment.",
+          "zh": "她需要跟进她的医生预约。"
+        }
+      ],
+      "audio": "audio/1211.3.mp3"
+    }
+  ]
+}

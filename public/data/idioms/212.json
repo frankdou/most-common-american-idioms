@@ -1,0 +1,37 @@
+{
+  "n": 212,
+  "name": "Can't judge a book by its cover",
+  "meaning": {
+    "zh": "“不能以貌取人” 或 “不要以表面来判断事物”。\n\n这个成语来源于书籍的封面设计，它强调外观不能准确代表内容质量。同样地，这一理念也被应用于人或事物，提醒人们不要仅凭外貌或第一印象来做出判断。",
+    "en": "This idiom originates from the idea that a book's cover design does not necessarily reflect the quality or content of the book. Similarly, this concept is applied to people or things, reminding us not to make judgments based solely on appearance or initial impressions."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "You *can't judge a book by its cover*; she might seem quiet, but she's really talented.",
+          "zh": "你不能以貌取人，她看起来很安静，但其实她非常有才华。"
+        }
+      ],
+      "audio": "audio/212.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "My initial impression was wrong; you really *can't judge a book by its cover*.",
+          "zh": "我一开始的印象是错的；你真的不能以表面来判断事物。"
+        }
+      ],
+      "audio": "audio/212.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Just because the restaurant looks small doesn’t mean the food isn't excellent. Remember, you *can't judge a book by its cover*.",
+          "zh": "只是因为这家餐馆看起来很小，并不意味着食物不好。记住，你不能以貌取人。"
+        }
+      ],
+      "audio": "audio/212.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 211,
+  "name": "Can't hold a candle to something or someone",
+  "meaning": {
+    "zh": "“不能与...相比” 或 “远不及...”。\n\n这个短语源自于过去，当常用蜡烛照明时，学徒通常会为大师手持蜡烛以便他们工作。如果某人 “不能持蜡烛”，就意味着他们的技能甚至连手持蜡烛帮助的水平都达不到。因此，这个短语用来表示某人或某物远不能与另一个人或东西相比。",
+    "en": "This phrase originated from the past when candles were commonly used for lighting. Apprentices would hold a candle for masters to work. If someone \"can’t hold a candle,\" it means their skills aren’t even good enough to hold the candle for someone else. Therefore, the phrase is used to indicate that someone or something is far inferior in comparison to another person or thing."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "No other singer today can *hold a candle* to her soulful voice.",
+          "zh": "当今没有其他歌手的嗓音能与她的富含感情的声音相比。"
+        }
+      ],
+      "audio": "audio/211.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "My cooking can’t *hold a candle* to my grandmother’s recipes.",
+          "zh": "我的烹饪技巧远不及我奶奶的食谱。"
+        }
+      ],
+      "audio": "audio/211.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "This new movie can't *hold a candle* to the original.",
+          "zh": "这部新电影远不及原版。"
+        }
+      ],
+      "audio": "audio/211.3.mp3"
+    }
+  ]
+}

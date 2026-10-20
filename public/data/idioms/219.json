@@ -1,0 +1,37 @@
+{
+  "n": 219,
+  "name": "Cast-iron stomach",
+  "meaning": {
+    "zh": "“铁胃” 或 “不易生病的胃”。\n\n这个短语源于对铸铁（cast iron）的耐久性和坚固性的类比。拥有 “铁胃” 的人可以吃非常辛辣、油腻或不寻常的食物而不会感到不适或生病。这个表述往往用于赞扬或描述那些在进食各种食物时不会轻易感到胃部不适的人。",
+    "en": "The phrase originates from the durability and strength of cast iron. A person with a \"cast-iron stomach\" can consume very spicy, greasy, or unusual foods without feeling discomfort or getting sick. It is often used to praise or describe those who can eat a variety of foods without experiencing stomach issues."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He must have a *cast-iron stomach* to eat all that spicy food without any problems.",
+          "zh": "他一定有一个铁胃，才能吃那么多辣的东西都没事。"
+        }
+      ],
+      "audio": "audio/219.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "My grandmother has a *cast-iron stomach*; she can eat anything and never gets sick.",
+          "zh": "我祖母有一个铁胃，她可以吃任何东西，从不生病。"
+        }
+      ],
+      "audio": "audio/219.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "You need a *cast-iron stomach* to enjoy the food at that street market.",
+          "zh": "你需要一个铁胃才能享受那个街头市场的食物。"
+        }
+      ],
+      "audio": "audio/219.3.mp3"
+    }
+  ]
+}

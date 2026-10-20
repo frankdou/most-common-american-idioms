@@ -1,0 +1,37 @@
+{
+  "n": 1301,
+  "name": "Wear your heart on your sleeve",
+  "meaning": {
+    "zh": "“感情外露” 或 “喜怒形于色”。\n\n这个短语源自中世纪的骑士传统，即在参加宫廷比赛时，骑士会把心爱的女士的名字写在他衣袖上，表示他的爱意和忠诚。现如今，这个短语用来形容一个人不掩饰自己的感情，非常直率地表达自己的情感。",
+    "en": "This phrase originates from the medieval tradition where knights would wear the colors or insignia of their chosen lady on their sleeves to show their love and loyalty during jousting tournaments. Today, it means someone who openly displays their emotions and does not try to hide their feelings."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "John always *wears his heart on his sleeve*, you can tell when he's upset.",
+          "zh": "约翰总是感情外露，你能看出来他什么时候不高兴。"
+        }
+      ],
+      "audio": "audio/1301.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She *wears her heart on her sleeve*, so it's easy to see when she's in love.",
+          "zh": "她喜怒形于色，所以很容易看出她什么时候陷入爱河。"
+        }
+      ],
+      "audio": "audio/1301.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "If you always *wear your heart on your sleeve*, you may be easily hurt.",
+          "zh": "如果你总是感情外露，你可能会很容易受伤。"
+        }
+      ],
+      "audio": "audio/1301.3.mp3"
+    }
+  ]
+}

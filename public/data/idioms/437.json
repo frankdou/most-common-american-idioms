@@ -1,0 +1,37 @@
+{
+  "n": 437,
+  "name": "For goodness' sake",
+  "meaning": {
+    "zh": "“看在老天的份上” 或 “为了上帝的缘故”。\n\n这个短语起源于古老的表达方式，其中 “goodness” 是 “God” 的委婉代替，用以避免直接使用上帝的名字，从而显得更为恭敬和具有礼貌。在日常生活中，这个短语通常被用来表达惊讶、愤怒、恼怒或者请求别人的理解。",
+    "en": "This phrase originates from older expressions, with \"goodness\" serving as a euphemism for \"God\" to avoid directly mentioning God’s name, thereby showing more respect and politeness. In everyday life, this idiom is typically used to express surprise, anger, annoyance, or to make a plea for understanding."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "For goodness' sake, turn the music down!",
+          "zh": "看在老天的份上，把音乐声音调低点！"
+        }
+      ],
+      "audio": "audio/437.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "For goodness' sake, can't you be a bit more careful?",
+          "zh": "为了上帝的缘故，你能不能小心一点？"
+        }
+      ],
+      "audio": "audio/437.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Oh, for goodness' sake, don't be so dramatic.",
+          "zh": "哦，看在老天的份上，别这么夸张。"
+        }
+      ],
+      "audio": "audio/437.3.mp3"
+    }
+  ]
+}

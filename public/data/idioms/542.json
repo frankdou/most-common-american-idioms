@@ -1,0 +1,37 @@
+{
+  "n": 542,
+  "name": "Good for you!",
+  "meaning": {
+    "zh": "“对你有好处” 或 “真替你高兴”。\n\n这个短语常用于表达对他人表现、成就或决定的认可和鼓励。在北美，\"Good for you!\" 是一种表示祝贺、赞许或鼓励的话语，通常用于对方取得成就或做出积极决定时。",
+    "en": "This phrase is often used to express approval and encouragement towards someone else's actions, achievements, or decisions. In North America, \"Good for you!\" is a way to congratulate, commend, or encourage someone, usually employed when the person has achieved something or made a positive choice."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "You got the promotion? *Good for you!*",
+          "zh": "你升职了？真替你高兴！"
+        }
+      ],
+      "audio": "audio/542.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "You finally finished your degree? *Good for you!*",
+          "zh": "你终于完成学业了？真替你开心！"
+        }
+      ],
+      "audio": "audio/542.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "You quit smoking? *Good for you!*",
+          "zh": "你戒烟了？对你有好处！"
+        }
+      ],
+      "audio": "audio/542.3.mp3"
+    }
+  ]
+}

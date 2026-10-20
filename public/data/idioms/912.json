@@ -1,0 +1,37 @@
+{
+  "n": 912,
+  "name": "Pandora's box",
+  "meaning": {
+    "zh": "“潘多拉的盒子” 或 “灾难的根源”。\n\n这个短语源自希腊神话中的潘多拉，由于好奇心她打开了一个盒子，释放出世间所有的灾难和恶，但同时也留住了希望。这个表达用来描述引发一系列不幸或问题的行为，尤其是那些看似无害但实际上有潜在重大影响的行为或决定。",
+    "en": "This phrase originates from Greek mythology where Pandora, driven by curiosity, opened a box (actually a jar in the original myth), unleashing all the world's evils and hardships while only hope remained inside. This expression is used to describe an action that triggers a series of unfortunate events or problems, particularly those actions that seem harmless but have far-reaching consequences."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Opening that old argument is like opening *Pandora's box*; it will only lead to more trouble.",
+          "zh": "重提那个老旧的争论就像打开潘多拉的盒子，只会带来更多的麻烦。"
+        }
+      ],
+      "audio": "audio/912.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "By getting involved, you might be opening *Pandora's box*.",
+          "zh": "插手这件事可能就像打开了潘多拉的盒子。"
+        }
+      ],
+      "audio": "audio/912.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Be careful what you wish for, as it might just open *Pandora's box*.",
+          "zh": "小心你的愿望，因为它可能会打开潘多拉的盒子。"
+        }
+      ],
+      "audio": "audio/912.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 113,
+  "name": "Be my guest",
+  "meaning": {
+    "zh": "“请便” 或 “随意”。\n\n这个短语的字面意思是邀请某人成为你的客人，所以在使用的时候带有一种礼貌和热情的邀请语气。它通常用于对某人允许或许可其做某事，同时表示毫不介意或欢迎对方的行为。",
+    "en": "This phrase literally means to invite someone to be your guest, so it carries a polite and welcoming tone when used. It is commonly used to permit someone to do something, indicating that you don’t mind or you welcome their action."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "If you need to use my phone, *be my guest*.",
+          "zh": "如果你需要用我的手机，请便。"
+        }
+      ],
+      "audio": "audio/113.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Would you like some of these cookies? *Be my guest*.",
+          "zh": "你想吃些这些饼干吗？随意。"
+        }
+      ],
+      "audio": "audio/113.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Can I borrow your book? *Be my guest*.",
+          "zh": "我可以借一下你的书吗？请便。"
+        }
+      ],
+      "audio": "audio/113.3.mp3"
+    }
+  ]
+}

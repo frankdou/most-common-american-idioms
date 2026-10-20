@@ -1,0 +1,37 @@
+{
+  "n": 467,
+  "name": "Get from A to B",
+  "meaning": {
+    "zh": "“从A点到达B点” 或 “到达某个目的地”。\n\n这个短语源自日常生活中描述从一个地方到另一个地方的过程或者行动。它常用来表示达到目的地的过程，不仅仅限于地理位置迁移，也可以用于比喻某种目标的实现。",
+    "en": "This phrase comes from the everyday description of the process or action of moving from one place to another. It's often used to describe the process of reaching a destination and can also be used metaphorically to describe the achievement of a certain goal."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "All I need is a car that can reliably get me *from A to B*.",
+          "zh": "我只需要一辆能可靠地从 A 地到达 B 地的车。"
+        }
+      ],
+      "audio": "audio/467.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He just wants to get *from A to B* as quickly as possible.",
+          "zh": "他只想尽快地从 A 地到达 B 地。"
+        }
+      ],
+      "audio": "audio/467.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "In life, we sometimes struggle to figure out how to get *from A to B*.",
+          "zh": "在生活中，我们有时会为如何从 A 点到达 B 点而苦恼。"
+        }
+      ],
+      "audio": "audio/467.3.mp3"
+    }
+  ]
+}

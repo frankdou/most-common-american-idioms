@@ -1,0 +1,37 @@
+{
+  "n": 999,
+  "name": "Run one's mouth off",
+  "meaning": {
+    "zh": "“口无遮拦” 或 “信口开河”。\n\n这个短语用来形容一个人说话过多且鲁莽，无论场合或听众，经常会因为说了一些不该说的话而惹麻烦。它利用了 “mouth”（嘴）的隐喻，暗示通过过多或不谨慎地说话造成不可取的后果。",
+    "en": "This phrase is used to describe someone who talks too much and recklessly, regardless of the situation or audience, often causing trouble by saying things that shouldn't be said. It uses the metaphor of the \"mouth,\" suggesting negative consequences due to excessive or imprudent speaking."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He always *runs his mouth off* at meetings, causing unnecessary conflicts.",
+          "zh": "他在会议上总是口无遮拦，导致不必要的冲突。"
+        }
+      ],
+      "audio": "audio/999.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She got into trouble for *running her mouth off* about company secrets.",
+          "zh": "她因为信口开河泄露公司机密而惹上麻烦。"
+        }
+      ],
+      "audio": "audio/999.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "If you keep *running your mouth off*, you'll alienate your friends.",
+          "zh": "如果你继续口无遮拦，你会疏远你的朋友。"
+        }
+      ],
+      "audio": "audio/999.3.mp3"
+    }
+  ]
+}

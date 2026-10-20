@@ -1,0 +1,37 @@
+{
+  "n": 1345,
+  "name": "You can't make an omelet without breaking some eggs",
+  "meaning": {
+    "zh": "“做大事必有牺牲” 或 “想要有所成，就必须付出代价”。\n\n这个短语出自俗语，隐喻了在实现目标的过程中，可能会有一些不可避免的损失或牺牲。它通常被用来指出，为了取得成功，有时必须接受一些负面的结果或不便。",
+    "en": "This saying originates from a proverb, metaphorically implying that achieving a goal may involve some unavoidable losses or sacrifices. It's commonly used to underline that, to succeed, one sometimes has to accept some negative consequences or inconveniences."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "To build the new road, several houses had to be demolished. *You can't make an omelet without breaking some eggs*.",
+          "zh": "为了修建新的道路，几栋房子不得不被拆除。做大事必有牺牲。"
+        }
+      ],
+      "audio": "audio/1345.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Starting your own business might mean working long hours initially, but *you can't make an omelet without breaking some eggs*.",
+          "zh": "创业初期可能意味着要长时间工作，但想要有所成，就必须付出代价。"
+        }
+      ],
+      "audio": "audio/1345.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Implementing new policies will face some resistance, but *you can't make an omelet without breaking some eggs*.",
+          "zh": "在推行新政策时会遇到一些阻力，但想要有所成，就必须付出代价。"
+        }
+      ],
+      "audio": "audio/1345.3.mp3"
+    }
+  ]
+}

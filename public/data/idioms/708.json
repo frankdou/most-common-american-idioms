@@ -1,0 +1,37 @@
+{
+  "n": 708,
+  "name": "Keep you posted",
+  "meaning": {
+    "zh": "“随时向你通报” 或 “保持你更新”。\n\n这个短语源于 \"post\" 一词的古老用法，在以前 “post” 是指发送信件或信息的过程。现代社会中，\"keep you posted\" 常用于指没有消息遗漏、持续提供新信息或更新。",
+    "en": "This idiom stems from the old usage of the word \"post,\" which referred to the process of sending letters or information. In modern society, \"keep you posted\" is often used to indicate keeping someone informed with continuous updates."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I'll *keep you posted* on any new developments.",
+          "zh": "我会把任何新的进展随时向你通报。"
+        }
+      ],
+      "audio": "audio/708.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "*Keep us posted* about your trip.",
+          "zh": "请随时通知我们你旅途的情况。"
+        }
+      ],
+      "audio": "audio/708.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "They promised to *keep me posted* as the situation progresses.",
+          "zh": "他们承诺随着情况的进展随时向我通报。"
+        }
+      ],
+      "audio": "audio/708.3.mp3"
+    }
+  ]
+}

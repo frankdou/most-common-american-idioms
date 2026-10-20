@@ -1,0 +1,37 @@
+{
+  "n": 731,
+  "name": "Know zip",
+  "meaning": {
+    "zh": "“知道零” 或 “一无所知”。\n\n这个短语中的 \"zip\" 是一个俚语，意思是 “零” 或 “没有”，由此引申出 “know zip” 表示完全不知道某事。这个说法源自于 “零分” 在考试或比赛中的用法，通过表示数量的 “零” 来隐喻知识的缺乏。",
+    "en": "This phrase comes from the slang usage of \"zip\" to mean \"zero\" or \"nothing,\" hence \"know zip\" implies knowing nothing about something. The analogy is drawn from the concept of getting \"zero\" in a test or competition, symbolizing a lack of knowledge."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I know zip about repairing cars.",
+          "zh": "我对修车一无所知。"
+        }
+      ],
+      "audio": "audio/731.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She knows zip about cooking but wants to learn.",
+          "zh": "她对做饭一无所知，但是想要学习。"
+        }
+      ],
+      "audio": "audio/731.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "They asked him about the subject, but he knew zip.",
+          "zh": "他们问他关于这个话题的事，但他什么都不知道。"
+        }
+      ],
+      "audio": "audio/731.3.mp3"
+    }
+  ]
+}

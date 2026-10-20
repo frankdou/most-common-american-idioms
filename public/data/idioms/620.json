@@ -1,0 +1,37 @@
+{
+  "n": 620,
+  "name": "Hopping mad",
+  "meaning": {
+    "zh": "“怒火中烧” 或 “非常生气”。\n\n这个短语可以追溯到19世纪。字面上的翻译是 “跳怒”，用来描述因愤怒而几乎控制不了自己情绪的状态，就好像人气得跳来跳去一样。这种表达形象地显示出极度愤怒的情绪，使人可以直观地感受到对方的愤怒程度。",
+    "en": "This phrase dates back to the 19th century. Literally, it translates to \"hopping anger,\" used to describe a state of being so angry that one can hardly control their emotions, as if they are hopping around in anger. This expression vividly illustrates the intense emotion of anger, allowing others to clearly perceive the extent of the person's anger."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "When she found out about the broken vase, she was *hopping mad*.",
+          "zh": "当她发现花瓶被打碎时，她怒火中烧。"
+        }
+      ],
+      "audio": "audio/620.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He gets *hopping mad* whenever someone touches his desk without permission.",
+          "zh": "每当有人未经允许碰他的桌子时，他都会非常生气。"
+        }
+      ],
+      "audio": "audio/620.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "My dad was *hopping mad* when I came home past midnight.",
+          "zh": "我在午夜过后才回家，我爸爸火冒三丈。"
+        }
+      ],
+      "audio": "audio/620.3.mp3"
+    }
+  ]
+}

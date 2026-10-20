@@ -1,0 +1,37 @@
+{
+  "n": 1086,
+  "name": "Sticky fingers",
+  "meaning": {
+    "zh": "“顺手牵羊” 或 “小偷小摸”。\n\n这个短语的起源可以追溯到小偷在犯罪时会用手指粘住或拿走一些值钱的物品。因此，“sticky fingers” 形象地描述那些习惯偷取他人物品的人。这个短语通常用来表示有人有偷窃的倾向或习惯，也可以轻松地用于指责别人偷了某样东西。",
+    "en": "This phrase originates from the idea that a thief's fingers become \"sticky\" when they commit a theft and grab valuable items. Hence, \"sticky fingers\" vividly describes those who are in the habit of taking things that do not belong to them. It is often used to imply someone has the tendency to steal or to light-heartedly accuse someone of taking something."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The manager noticed that inventory was missing and suspected someone had *sticky fingers*.",
+          "zh": "经理注意到库存有缺失，怀疑有人顺手牵羊。"
+        }
+      ],
+      "audio": "audio/1086.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "You'd better keep an eye on your wallet around Jimmy; he's known to have *sticky fingers*.",
+          "zh": "你最好看紧你的钱包，吉米可是出了名的会顺手牵羊。"
+        }
+      ],
+      "audio": "audio/1086.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "After the party, several items were missing, and we suspect someone with *sticky fingers* was among the guests.",
+          "zh": "聚会结束后，几件物品不见了，我们怀疑是有客人顺手牵羊。"
+        }
+      ],
+      "audio": "audio/1086.3.mp3"
+    }
+  ]
+}

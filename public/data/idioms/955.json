@@ -1,0 +1,37 @@
+{
+  "n": 955,
+  "name": "Pulled a rabbit out of one's hat",
+  "meaning": {
+    "zh": "“让人大吃一惊” 或 “出奇制胜”。\n\n这个短语来源于魔术表演，魔术师常常会故作神秘地让观众看到他从空帽子中突然变出一只兔子，让观众感到惊奇不已。因此，这个短语常常用于描述某个人在困境中突然拿出一个意料之外的解决方案或成功的手段，出乎所有人的预料。",
+    "en": "This phrase originates from magic shows, where magicians often create amazement by seemingly pulling a rabbit out of an empty hat, astonishing the audience. Consequently, this idiom is frequently used to describe a situation where someone suddenly comes up with an unexpected solution or a successful strategy, surprising everyone."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "When the company was on the verge of bankruptcy, the CEO *pulled a rabbit out of his hat* and secured a major investor.",
+          "zh": "就在公司濒临破产的时候，CEO 出奇制胜，成功找到了一个大的投资者。"
+        }
+      ],
+      "audio": "audio/955.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I thought we were going to lose the game, but our star player *pulled a rabbit out of her hat* and scored the winning goal.",
+          "zh": "我以为我们会输掉比赛，但我们的明星球员出奇制胜，打入了制胜的一球。"
+        }
+      ],
+      "audio": "audio/955.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Just when we thought we had no options left, our lawyer *pulled a rabbit out of his hat* and found a loophole in the contract.",
+          "zh": "就在我们认为已经没有任何选择的时候，我们的律师出奇制胜，找到了合同中的一个漏洞。"
+        }
+      ],
+      "audio": "audio/955.3.mp3"
+    }
+  ]
+}

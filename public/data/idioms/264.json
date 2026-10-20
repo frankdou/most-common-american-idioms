@@ -1,0 +1,37 @@
+{
+  "n": 264,
+  "name": "Come hell or high water",
+  "meaning": {
+    "zh": "“不管发生什么事” 或 “无论如何”。\n\n这个短语的起源可以追溯到19世纪，其字面意思涉及到地狱（hell）和洪水（high water），象征着极端的逆境或困难。在现代英语中，\"Come hell or high water\" 通常被用来表示不管遇到多大的困难或障碍，也要坚决完成某事或实现某个目标。",
+    "en": "This idiom can be traced back to the 19th century and its literal meaning involves \"hell\" and \"high water,\" symbolizing extreme adversities or difficulties. In modern English, \"Come hell or high water\" is commonly used to denote a strong determination to achieve something or fulfill a commitment despite any obstacles or challenges that might arise."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I'll be at your wedding, *come hell or high water*.",
+          "zh": "无论发生什么事，我都会去参加你的婚礼。"
+        }
+      ],
+      "audio": "audio/264.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "They promised to deliver the project on time, *come hell or high water*.",
+          "zh": "他们承诺，无论如何都要按时交付项目。"
+        }
+      ],
+      "audio": "audio/264.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She's determined to finish this marathon, *come hell or high water*.",
+          "zh": "无论如何，她都决心完成这场马拉松。"
+        }
+      ],
+      "audio": "audio/264.3.mp3"
+    }
+  ]
+}

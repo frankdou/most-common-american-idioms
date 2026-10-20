@@ -1,0 +1,37 @@
+{
+  "n": 1225,
+  "name": "To keep an eye on",
+  "meaning": {
+    "zh": "“留意” 或 “密切关注”。\n\n这个短语起源于人们对某事物或某人保持警惕和密切注视的需求，比如保护财产或监视小孩。它表示持续的注意力和警觉，用以确保某事物始终在视线或控制范围内。",
+    "en": "This phrase originates from the need to stay vigilant and keep a close watch on something or someone, such as protecting property or supervising children. It denotes continuous attention and vigilance to ensure something remains in sight or under control."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Can you *keep an eye on* the baby while I cook dinner?",
+          "zh": "你能在我做晚饭时留意一下宝宝吗？"
+        }
+      ],
+      "audio": "audio/1225.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I'll *keep an eye on* your bag while you go to the restroom.",
+          "zh": "你去洗手间的时候，我会帮你留意一下包。"
+        }
+      ],
+      "audio": "audio/1225.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "We need to *keep an eye on* the weather forecast for our picnic plans.",
+          "zh": "我们需要密切关注天气预报，以便安排野餐计划。"
+        }
+      ],
+      "audio": "audio/1225.3.mp3"
+    }
+  ]
+}

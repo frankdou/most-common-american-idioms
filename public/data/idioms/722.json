@@ -1,0 +1,37 @@
+{
+  "n": 722,
+  "name": "Knee-jerk reaction",
+  "meaning": {
+    "zh": "“膝跳反应” 或 “条件反射”。\n\n这个短语起源于医生在检查膝反射时，膝盖会不由自主地跳动，这个反应不需要大脑思考就发生了。因此，“knee-jerk reaction” 用来形容一种未经深思熟虑的、自动化的反应，通常是对某个刺激或情况的立即反应。",
+    "en": "This phrase originates from the medical knee reflex test, where the knee involuntarily jerks upon being tapped. This reaction happens without the need for conscious thought. Therefore, \"knee-jerk reaction\" is used to describe an automatic, often unconsidered response to a stimulus or situation."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Her *knee-jerk reaction* was to say no to the unexpected proposal.",
+          "zh": "她的条件反射是拒绝那个出乎意料的提议。"
+        }
+      ],
+      "audio": "audio/722.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Instead of having a *knee-jerk reaction*, take a moment to think it through.",
+          "zh": "不要有条件反射般的反应，花点时间好好想一想。"
+        }
+      ],
+      "audio": "audio/722.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He regretted his *knee-jerk reaction* of anger later.",
+          "zh": "他后来后悔了自己当时条件反射般的愤怒反应。"
+        }
+      ],
+      "audio": "audio/722.3.mp3"
+    }
+  ]
+}

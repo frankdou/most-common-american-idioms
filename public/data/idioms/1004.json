@@ -1,0 +1,37 @@
+{
+  "n": 1004,
+  "name": "Sail close to the wind",
+  "meaning": {
+    "zh": "“冒险行事” 或 “接近危险”。\n\n这个习语源于航海术语，它指的是船只在尽可能接近风向行驶而不失去动力的行为，这种做法虽然可以快速前进，但同时也充满风险。在日常用语中，“sail close to the wind” 比喻做事冒险，几乎踏上法律或道德的红线。",
+    "en": "This idiom originates from nautical terminology, where it refers to a ship sailing as close as possible to the wind direction without losing propulsion. While this method allows the ship to move forward quickly, it also carries a lot of risk. In everyday language, \"sail close to the wind\" metaphorically means taking risks and getting close to legal or moral boundaries."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He's *sailing close to the wind* with those tax deductions.",
+          "zh": "他在那些税收扣除上冒着极大的风险。"
+        }
+      ],
+      "audio": "audio/1004.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The reporter is *sailing close to the wind* by revealing those secrets.",
+          "zh": "那位记者通过揭露那些秘密来冒险行事。"
+        }
+      ],
+      "audio": "audio/1004.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "You are *sailing close to the wind* by ignoring the safety protocols.",
+          "zh": "你无视安全规定是在冒险行事。"
+        }
+      ],
+      "audio": "audio/1004.3.mp3"
+    }
+  ]
+}

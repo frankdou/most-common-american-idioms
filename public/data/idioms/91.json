@@ -1,0 +1,37 @@
+{
+  "n": 91,
+  "name": "As the crow flies",
+  "meaning": {
+    "zh": "“直线距离” 或 “两点之间的最短距离”。\n\n这个短语的起源据说与乌鸦会沿直线飞行有关。乌鸦在飞行时会选择直线路线，因为这是最省力的方式。因此，这个成语用来形容两点之间的最短距离，不考虑道路或地形的曲折。",
+    "en": "This phrase is believed to originate from the observation that crows fly in a straight line. When crows fly, they often take the most direct path because it is the least strenuous. Therefore, this idiom is used to describe the shortest distance between two points, disregarding any twists and turns of roads or terrain."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The village is about 10 miles away *as the crow flies*.",
+          "zh": "村庄距离这里大约 10 英里（直线距离）。"
+        }
+      ],
+      "audio": "audio/091.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "It's only a few blocks *as the crow flies*, but a much longer walk due to the winding streets.",
+          "zh": "按照直线距离只有几个街区，但由于道路曲折，步行要长很多。"
+        }
+      ],
+      "audio": "audio/091.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "*As the crow flies*, the airport is quite close, but it takes an hour to get there by car.",
+          "zh": "按照直线距离，机场很近，但开车则要一个小时。"
+        }
+      ],
+      "audio": "audio/091.3.mp3"
+    }
+  ]
+}

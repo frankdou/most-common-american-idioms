@@ -1,0 +1,37 @@
+{
+  "n": 603,
+  "name": "Hissy fit",
+  "meaning": {
+    "zh": "“小题大做” 或 “大发脾气”。\n\n这个短语起源于19世纪的美国南部，“hissy” 是 “hysterical（歇斯底里的）” 的缩写，表现出一种夸张和不合情理的情绪。它通常用来描述某人因为小事或无关紧要的事情而大发脾气的情景。这个表达通常带有一些戏谑的意味。",
+    "en": "This phrase originated in the Southern United States in the 19th century. \"Hissy\" is a shortened form of \"hysterical,\" illustrating exaggerated and unreasonable emotional reactions. It is commonly used to describe someone throwing a tantrum over trivial or insignificant matters. The expression generally carries a humorous connotation."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "She threw a *hissy fit* just because her coffee was cold.",
+          "zh": "她的咖啡凉了，她就大发脾气了。"
+        }
+      ],
+      "audio": "audio/603.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "My boss had a *hissy fit* when he found out the report was late.",
+          "zh": "老板发现报告晚了之后大发了一通脾气。"
+        }
+      ],
+      "audio": "audio/603.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He always has a *hissy fit* over the smallest things.",
+          "zh": "他总是为了一些鸡毛蒜皮的小事大发脾气。"
+        }
+      ],
+      "audio": "audio/603.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 683,
+  "name": "Jaywalking",
+  "meaning": {
+    "zh": "“乱过马路” 或 “不遵守交通规则横穿马路”。\n\n这个短语 “Jaywalking” 起源于20世纪初，最初 “Jay” 是一个俚语，指的是乡下人，不懂城市规则的人。汽车普及后，行人不遵守交通规则在马路上乱穿，常常会引起交通事故，因此，这个词就被用来描述行人不遵守交通规则横穿马路的行为。",
+    "en": "The phrase \"Jaywalking\" originated in the early 20th century. Originally, \"Jay\" was a slang term for a country person who was unfamiliar with city ways. With the advent of automobiles, when pedestrians crossed streets carelessly, it frequently led to traffic accidents, hence the term started being used to describe pedestrians' non-compliance with traffic rules."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He got a ticket for *jaywalking* across the busy street.",
+          "zh": "他因在繁忙的街道上乱过马路而被开了罚单。"
+        }
+      ],
+      "audio": "audio/683.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "*Jaywalking* is not only illegal, but also extremely dangerous.",
+          "zh": "乱过马路不仅违法，而且非常危险。"
+        }
+      ],
+      "audio": "audio/683.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The city has installed barriers to reduce *jaywalking*.",
+          "zh": "这个城市已经安装了隔离栏，以减少乱过马路的现象。"
+        }
+      ],
+      "audio": "audio/683.3.mp3"
+    }
+  ]
+}

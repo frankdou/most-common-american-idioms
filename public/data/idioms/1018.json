@@ -1,0 +1,37 @@
+{
+  "n": 1018,
+  "name": "Sea legs",
+  "meaning": {
+    "zh": "“适应海上生活” 或 “海船上站稳的本领”。\n\n“Sea legs” 这个短语最早指的是人在海船上行走时能够站稳，并不容易因为船的摇晃而失去平衡的本领。随着时间推移，这个表达泛指人们适应海上生活的能力。",
+    "en": "The phrase \"sea legs\" originally referred to a person's ability to walk steadily on the deck of a ship, despite the vessel's rocking motion. Over time, it has come to generally describe the ability to get accustomed to life at sea."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "It took me a few days to get my *sea legs*, but now I'm fine.",
+          "zh": "花了我几天时间才适应海上生活，但现在我已经没问题了。"
+        }
+      ],
+      "audio": "audio/1018.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The new sailors struggled to find their *sea legs* on their first voyage.",
+          "zh": "新水手们在第一次航行时很难站稳脚跟。"
+        }
+      ],
+      "audio": "audio/1018.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "After a week, everyone on the boat had their *sea legs*.",
+          "zh": "一星期后，船上的每个人都适应了海上生活。"
+        }
+      ],
+      "audio": "audio/1018.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 26,
+  "name": "A kickback",
+  "meaning": {
+    "zh": "“回扣” 或 “非法佣金”。\n\n这个短语起源于商业或政治领域。在这些领域中，“kickback” 常用来表示一种非法或不道德的资金回报，其形式通常是给予承包合同、采购订单或其他商业交易中的回扣。这种回扣涉及利益输送，破坏了公平竞争的原则。",
+    "en": "This phrase originates from the business or political realm. In these fields, \"kickback\" is often used to denote an illegal or unethical payment, usually given in return for awarding a contract, a purchase order, or other business transactions. Such kickbacks involve a transfer of benefits that undermines fair competition principles."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The contractor was arrested for offering a *kickback* to secure the project.",
+          "zh": "那位承包商因提供回扣来获取项目而被逮捕。"
+        }
+      ],
+      "audio": "audio/026.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He received a *kickback* from the supplier to ensure the deal went through.",
+          "zh": "他从供应商那里收到了回扣，以确保交易顺利完成。"
+        }
+      ],
+      "audio": "audio/026.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "They uncovered a series of *kickback* schemes within the company.",
+          "zh": "他们揭露了公司内部一系列的回扣计划。"
+        }
+      ],
+      "audio": "audio/026.3.mp3"
+    }
+  ]
+}

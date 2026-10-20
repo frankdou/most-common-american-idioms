@@ -1,0 +1,37 @@
+{
+  "n": 611,
+  "name": "Hit the jackpot",
+  "meaning": {
+    "zh": "“中了大奖” 或 “取得巨大成功”。\n\n这个短语源自赌博，尤其是老虎机，当玩家赢得最大奖励时，称为 “hit the jackpot”。在现代用法中，这个短语不仅限于赌博，常用来表示在某个方面获得了极大的成功或意外的好运。",
+    "en": "This phrase originates from gambling, especially slot machines, where winning the biggest payout is referred to as \"hit the jackpot\". In modern usage, this idiom is not limited to gambling but is commonly used to describe achieving great success or an unexpected stroke of good luck in any context."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He *hit the jackpot* when he got the promotion at work.",
+          "zh": "他在工作中升职时，真是中了大奖。"
+        }
+      ],
+      "audio": "audio/611.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "They *hit the jackpot* with their new product; it sold out in a week.",
+          "zh": "他们的新产品大获成功，一周内就卖光了。"
+        }
+      ],
+      "audio": "audio/611.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Winning the lottery would be like *hitting the jackpot*.",
+          "zh": "中彩票就像中了大奖一样。"
+        }
+      ],
+      "audio": "audio/611.3.mp3"
+    }
+  ]
+}

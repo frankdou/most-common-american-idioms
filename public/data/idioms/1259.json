@@ -1,0 +1,37 @@
+{
+  "n": 1259,
+  "name": "Treat someone to something",
+  "meaning": {
+    "zh": "“请某人某物” 或 “款待某人”。\n\n这个短语源自英语中的 “treat”，意思是给予某人特别的享受，通常是通过支付某人的消费来表示的。在不同场合，这个短语可以表示不同的形式，例如请客吃饭、赠送礼物或是提供某种体验。",
+    "en": "This idiom originates from the word \"treat,\" which means to give someone special enjoyment, usually by paying for them. It can be used in various contexts, such as treating someone to a meal, giving a gift, or providing an experience."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I'll treat you to dinner tonight.",
+          "zh": "今晚我请你吃晚饭。"
+        }
+      ],
+      "audio": "audio/1259.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She treated her friends to a movie.",
+          "zh": "她请她的朋友们看电影。"
+        }
+      ],
+      "audio": "audio/1259.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "They treated us to a wonderful vacation at the seaside.",
+          "zh": "他们请我们去海边度过了一个美好的假期。"
+        }
+      ],
+      "audio": "audio/1259.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 1243,
+  "name": "To stonewall",
+  "meaning": {
+    "zh": "“阻挠” 或 “故意拖延”。\n\n这个短语起源于 “墙” 的概念，意指像一堵坚固的墙一样阻挡或拖延进展。最初是在美国南北战争时，邦联将军托马斯·“石墙”·杰克逊因在战斗中坚决防守而得名\"Stonewall Jackson\"，之后演变为指故意拖延或阻挠某事进展，特别是在讨论或谈判中。",
+    "en": "The phrase originates from the concept of a \"wall,\" meaning to block or delay progress as firmly as a wall would. It first became popular during the American Civil War when Confederate General Thomas \"Stonewall\" Jackson earned his nickname for his firm defensive stance in battle. Over time, it evolved to describe the act of deliberately delaying or obstructing progress, especially in discussions or negotiations."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The committee was accused of *stonewalling* the investigation.",
+          "zh": "委员会被指控在调查中故意拖延。"
+        }
+      ],
+      "audio": "audio/1243.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Whenever we ask for details, they just *stonewall* us.",
+          "zh": "每当我们要求细节时，他们总是故意拖延。"
+        }
+      ],
+      "audio": "audio/1243.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She tried to *stonewall* the press conference by not answering questions directly.",
+          "zh": "她试图通过不直接回答问题来拖延新闻发布会。"
+        }
+      ],
+      "audio": "audio/1243.3.mp3"
+    }
+  ]
+}

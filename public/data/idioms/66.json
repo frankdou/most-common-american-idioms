@@ -1,0 +1,37 @@
+{
+  "n": 66,
+  "name": "All kidding aside",
+  "meaning": {
+    "zh": "“不开玩笑/言归正传”。\n\n这个短语常用于强调接下来的内容是认真的或重要的。虽然前面可能是在开玩笑、幽默轻松，但说这句话表示要撇开玩笑，开始严肃认真起来。",
+    "en": "This phrase is often used to emphasize that the following statement is serious or important. Even though the previous conversation may have been joking or light-hearted, saying this signals that the mood should now shift to a more serious tone."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "*All kidding aside*, we really need to focus and finish this project by Friday.",
+          "zh": "不开玩笑，我们真的需要专注，争取在周五前完成这个项目。"
+        }
+      ],
+      "audio": "audio/066.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "*All kidding aside*, I think you did an amazing job.",
+          "zh": "言归正传，我认为你做得非常出色。"
+        }
+      ],
+      "audio": "audio/066.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "*All kidding aside*, it's important to maintain a healthy lifestyle.",
+          "zh": "不开玩笑，保持健康的生活方式是很重要的。"
+        }
+      ],
+      "audio": "audio/066.3.mp3"
+    }
+  ]
+}

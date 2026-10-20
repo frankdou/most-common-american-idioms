@@ -1,0 +1,37 @@
+{
+  "n": 830,
+  "name": "More than meets the eye",
+  "meaning": {
+    "zh": "“表面不单如此” 或 “有深层意义”。\n\n这个成语起源于观察到某些东西或情形时，往往第一眼看到的只是表面现象，而实际上却隐藏着更多的信息或复杂性。它用于表示某些事情看起来简单，但背后可能有更复杂的细节或意图。",
+    "en": "This idiom originates from the observation that sometimes when you see something, what you perceive at first glance may only be a superficial impression, and there can be more information or complexity hidden beneath the surface. It's used to suggest that things are more complicated or significant than they initially appear."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The case seems simple, but there's *more than meets the eye*.",
+          "zh": "这个案子看起来很简单，但表面不单如此。"
+        }
+      ],
+      "audio": "audio/830.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "There is *more than meets the eye* with Jen's sudden resignation.",
+          "zh": "詹恩突然辞职的事情，有深层意义。"
+        }
+      ],
+      "audio": "audio/830.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "This old building has *more than meets the eye*, it's full of history.",
+          "zh": "这栋旧建筑物有深层的故事，充满了历史。"
+        }
+      ],
+      "audio": "audio/830.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 325,
+  "name": "Do something by the seat of your pants",
+  "meaning": {
+    "zh": "“凭直觉做事” 或 “随意行事”。\n\n这个短语起源于早期的飞行员，他们没有仪表参照，只能凭借对飞机的感觉和自己的判断来操控，这种情况下他们就 “用裤子的座位来飞”，即凭感觉和经验来做事。现在，这个短语通常用来形容做某事没有预先的计划和准备，完全凭借直觉和临时的判断。",
+    "en": "This phrase comes from early aviators who flew without instruments, relying only on their sense of the plane's feel through the seat of their pants. Nowadays, it is used to describe doing something without planning or preparation, relying entirely on instinct and improvisation."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He decided to fix the bike by the seat of his pants, even though he had no experience.",
+          "zh": "虽然他没有经验，但他决定凭直觉修理自行车。"
+        }
+      ],
+      "audio": "audio/325.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "When the power went out, we had to run the event by the seat of our pants.",
+          "zh": "停电时，我们只能凭直觉来进行活动。"
+        }
+      ],
+      "audio": "audio/325.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She's known for doing presentations by the seat of her pants and still impressing everyone.",
+          "zh": "她以即兴演讲而闻名，即便如此还是能给人留下深刻印象。"
+        }
+      ],
+      "audio": "audio/325.3.mp3"
+    }
+  ]
+}

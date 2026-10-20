@@ -1,0 +1,37 @@
+{
+  "n": 180,
+  "name": "Break the news",
+  "meaning": {
+    "zh": "透露消息、通报消息（通常指坏消息）。\n\n“Break the news” 这个短语起源于新闻报道中的用法，其中 “break” 表示突然或第一次公开发布某个重要消息。通常，这个短语用于传达某种重要的信息，尤其是那些可能让人感到震惊、悲伤或不安的消息。",
+    "en": "The phrase \"break the news\" originates from the context of news reporting, wherein \"break\" signifies the sudden or first-time disclosure of significant information. Generally, this phrase is used to convey some important information, especially those that may shock, sadden, or unsettle people."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "She was distraught after he broke the news of the accident.",
+          "zh": "他通报事故的消息后，她很难过。"
+        }
+      ],
+      "audio": "audio/180.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "How do we break the news to them about the layoffs?",
+          "zh": "我们该怎么把裁员的消息告诉他们呢？"
+        }
+      ],
+      "audio": "audio/180.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He had to break the news to his family about his illness.",
+          "zh": "他不得不把他的病情告诉家人。"
+        }
+      ],
+      "audio": "audio/180.3.mp3"
+    }
+  ]
+}

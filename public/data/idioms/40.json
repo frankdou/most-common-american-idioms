@@ -1,0 +1,37 @@
+{
+  "n": 40,
+  "name": "A smart cookie",
+  "meaning": {
+    "zh": "“聪明的人” 或 “机灵的人”。\n\n这个短语用来形容一个非常聪明、有头脑或者非常机敏的人。这个表达有点非正式，但却充满了赞赏。短语中的 “cookie” 并非指实际的饼干，而是作为对人的一种称呼，表达机智和聪慧。",
+    "en": "This phrase is used to describe someone who is very intelligent, quick-witted, or astute. It is somewhat informal but very complimentary. The term \"cookie\" here does not refer to an actual cookie but is used as a colloquial term for a person, indicating cleverness and smartness."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "She's a real *smart cookie* and always finds a way to solve problems.",
+          "zh": "她真是个非常聪明的人，总能找到解决问题的方法。"
+        }
+      ],
+      "audio": "audio/040.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "You can't fool him; he's a *smart cookie*.",
+          "zh": "你骗不了他，他可是个聪明的人。"
+        }
+      ],
+      "audio": "audio/040.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "My daughter is such a *smart cookie*, she learned to read before she turned four.",
+          "zh": "我女儿特别聪明，在四岁之前就学会了阅读。"
+        }
+      ],
+      "audio": "audio/040.3.mp3"
+    }
+  ]
+}

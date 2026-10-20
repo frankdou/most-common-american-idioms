@@ -1,0 +1,37 @@
+{
+  "n": 1109,
+  "name": "Talk of the town",
+  "meaning": {
+    "zh": "“谈论的热点” 或 “城中话题”。\n\n这个短语起源于古老的城镇环境，在那里，新闻和有趣的事情会迅速传播并成为人们茶余饭后的谈资。“Talk of the town” 用来形容某事或某人引起了广泛关注和讨论，成为当前的热门话题。",
+    "en": "This phrase originates from old town settings where news and interesting events would quickly spread and become the subject of everyone's conversations. \"Talk of the town\" is used to describe something or someone that has attracted a lot of attention and is the current popular topic."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The new restaurant in town is the *talk of the town*.",
+          "zh": "城里那家新开的餐馆成了大家谈论的热点。"
+        }
+      ],
+      "audio": "audio/1109.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Her amazing performance made her the *talk of the town*.",
+          "zh": "她的精彩表演使她成了城中的话题。"
+        }
+      ],
+      "audio": "audio/1109.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The scandal quickly became the *talk of the town*.",
+          "zh": "那个丑闻很快就成了大家议论的话题。"
+        }
+      ],
+      "audio": "audio/1109.3.mp3"
+    }
+  ]
+}

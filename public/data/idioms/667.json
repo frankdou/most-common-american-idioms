@@ -1,0 +1,37 @@
+{
+  "n": 667,
+  "name": "In the sticks",
+  "meaning": {
+    "zh": "“乡下” 或 “偏远的地方”。\n\n这个短语来源于描述人烟稀少、远离城市的乡村或森林地区。通常带有 “偏远” 的意味，指那些离城市中心很远的地方，可能交通不便，设施相对落后。这个表达有时也带有一些幽默或调侃的色彩。",
+    "en": "This phrase originates from describing sparsely populated, rural, or forested areas far from city centers. It typically carries the connotation of being \"remote,\" indicating places far from urban conveniences and development. Sometimes, this expression is also used with a touch of humor or playful exaggeration."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "She moved to a small house *in the sticks* to get away from the city noise.",
+          "zh": "她搬到乡下的一座小房子里，以远离城市的喧嚣。"
+        }
+      ],
+      "audio": "audio/667.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He always complains about living *in the sticks* as it's hard to get good internet.",
+          "zh": "他总是抱怨住在乡下，因为很难有好的网络。"
+        }
+      ],
+      "audio": "audio/667.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "They decided to have their wedding *in the sticks* for a more rustic feel.",
+          "zh": "他们决定在乡下举办婚礼，以获得更质朴的氛围。"
+        }
+      ],
+      "audio": "audio/667.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 884,
+  "name": "On the spot",
+  "meaning": {
+    "zh": "“当场” 或 “立即”。\n\n这个短语源自讲述某人或某事在某个特定地点和时间被要求做出决定或处理情况时的情形。它常用来描述需要马上做出决定或者立即采取行动的情况。",
+    "en": "This phrase originates from describing a person or situation where immediate decision or action is required at a certain place and time. It is often used to indicate that someone needs to make a decision or take action immediately."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "When asked about the policy, she had to answer *on the spot*.",
+          "zh": "当被问到这项政策时，她不得不当场作答。"
+        }
+      ],
+      "audio": "audio/884.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He solved the problem *on the spot* without any help.",
+          "zh": "他在没有任何帮助的情况下立即解决了这个问题。"
+        }
+      ],
+      "audio": "audio/884.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I was put *on the spot* when my boss asked me for the report earlier than expected.",
+          "zh": "当我的老板比预期更早地要求我提交报告时，我被迫立即应对。"
+        }
+      ],
+      "audio": "audio/884.3.mp3"
+    }
+  ]
+}

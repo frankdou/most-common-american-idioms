@@ -1,0 +1,37 @@
+{
+  "n": 746,
+  "name": "Leave me alone",
+  "meaning": {
+    "zh": "“别烦我” 或 “让我一个人待着”。\n\n这个短语通常用于表达一种希望独处或不想被打扰的情绪。起源于日常的社交情境中，当人们需要时间冷静或者想要独享空间时，会使用这句话，表明他们不希望与他人互动或者被他人打扰。",
+    "en": "This phrase is commonly used to express a desire to be alone or not to be disturbed. It originates from everyday social interactions when people need time to calm down or want to enjoy personal space. It indicates they do not want to interact with others or be interrupted."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I need some time to think, so please *leave me alone*.",
+          "zh": "我需要一些时间思考，所以请别烦我。"
+        }
+      ],
+      "audio": "audio/746.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She asked everyone to *leave her alone* after the meeting.",
+          "zh": "会议结束后，她让大家都不要打扰她。"
+        }
+      ],
+      "audio": "audio/746.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Sometimes, you just want people to *leave you alone*.",
+          "zh": "有时候，你只是想要别人别烦你。"
+        }
+      ],
+      "audio": "audio/746.3.mp3"
+    }
+  ]
+}

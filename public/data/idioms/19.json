@@ -1,0 +1,37 @@
+{
+  "n": 19,
+  "name": "A fool and his money are easily parted",
+  "meaning": {
+    "zh": "“傻瓜和他的钱财很容易分离” 或 “愚人财难留”。\n\n这个短语出自《圣经》中的《旧约‧箴言》。自从其出现以来，这个谚语一直用来形容那些缺乏理财能力或不明智地花钱的人，他们的钱很快就会被耗光。实际上，它经常被用来警告某人要明智地管理他们的钱财，否则他们很可能会失去它。",
+    "en": "This phrase originates from the Bible, specifically the Book of Proverbs in the Old Testament. Since its inception, this proverb has been used to describe people who lack the ability to manage their finances or spend their money unwisely, resulting in their money quickly being depleted. In practice, it's often used to caution someone to manage their money wisely, or they risk losing it."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He spent all his savings on lottery tickets. A *fool and his money are easily parted*.",
+          "zh": "他把所有的积蓄都花在买彩票上了。愚人财难留。"
+        }
+      ],
+      "audio": "audio/019.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Buying unnecessary gadgets can drain your funds quickly. After all, *a fool and his money are easily parted*.",
+          "zh": "购买不必要的小玩意儿会迅速耗尽你的资金。毕竟，愚人财难留。"
+        }
+      ],
+      "audio": "audio/019.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He invested in a dubious scheme and lost it all. True to the saying, *a fool and his money are easily parted*.",
+          "zh": "他投资了一个可疑的计划，结果全都亏了。真如那句老话说的，愚人财难留。"
+        }
+      ],
+      "audio": "audio/019.3.mp3"
+    }
+  ]
+}

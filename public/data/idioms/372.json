@@ -1,0 +1,37 @@
+{
+  "n": 372,
+  "name": "Eat like a bird",
+  "meaning": {
+    "zh": "“吃得很少” 或 “吃得像鸟一样少”。\n\n这个短语的起源可以追溯到人们观察到鸟类吃饭时，尽管它们频繁地进食，但是每次吃的量都很少。因而，“eat like a bird” 这个短语被用来形容那些吃得很少的人，像鸟一样，他们的进食量也很小。",
+    "en": "This phrase originates from observations that while birds may eat frequently, they only consume a small amount each time. Therefore, \"eat like a bird\" is used to describe people who eat very little, similar to birds who also eat in small quantities."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "She always *eats like a bird*, barely finishing her plate.",
+          "zh": "她总是吃得很少，很少能吃完她的盘子里的食物。"
+        }
+      ],
+      "audio": "audio/372.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Despite ordering a big meal, he *eats like a bird*.",
+          "zh": "尽管点了一顿大餐，但他仍然吃得像鸟一样少。"
+        }
+      ],
+      "audio": "audio/372.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "My daughter is so picky, she *eats like a bird*.",
+          "zh": "我女儿非常挑食，她吃得像鸟一样少。"
+        }
+      ],
+      "audio": "audio/372.3.mp3"
+    }
+  ]
+}

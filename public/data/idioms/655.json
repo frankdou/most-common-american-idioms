@@ -1,0 +1,37 @@
+{
+  "n": 655,
+  "name": "In the bag",
+  "meaning": {
+    "zh": "“十拿九稳” 或 “胜券在握”。\n\n这个短语的起源并不十分清晰，但有一种说法认为，它源自早期牛津大学学生使用的行话。他们用 \"in the bag\" 来指代已经安全通过考试或任务的意思。现代社会中，这个短语被用来表示某事几乎已经确定完成，结果已成定局。",
+    "en": "Though the exact origin of this phrase is unclear, one theory suggests it comes from slang used by early Oxford University students. They would say something was \"in the bag\" to mean a task or exam was securely passed. In contemporary usage, the phrase indicates that something is almost certainly accomplished or a result is a foregone conclusion."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "With the way they are playing, the championship is *in the bag*.",
+          "zh": "照他们的表现来看，赢得冠军是十拿九稳的事。"
+        }
+      ],
+      "audio": "audio/655.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "After getting the final approval, the project is finally *in the bag*.",
+          "zh": "拿到最终批准后，这个项目终于胜券在握。"
+        }
+      ],
+      "audio": "audio/655.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Don't worry about the negotiation; it's all *in the bag*.",
+          "zh": "不用担心谈判，我们已经十拿九稳了。"
+        }
+      ],
+      "audio": "audio/655.3.mp3"
+    }
+  ]
+}

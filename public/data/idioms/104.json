@@ -1,0 +1,37 @@
+{
+  "n": 104,
+  "name": "Back to square one",
+  "meaning": {
+    "zh": "“回到起点” 或 “重新开始”。\n\n这个短语源于一项古老的游戏或活动的递归性质，当参与者出错时需要回到起点重新开始。在现代社会，这个成语常用以指某个项目或任务中的尝试失败之后，不得不从头再来。",
+    "en": "The idiom originates from the recursive nature of an old game or activity, where participants have to go back to the beginning whenever they make a mistake. In modern society, this saying is often used to indicate that after a failed attempt in a project or task, one has to start over again."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "We took the wrong approach with this project, so it's back to square one.",
+          "zh": "我们在这个项目上采取了错误的方法，所以不得不重新开始。"
+        }
+      ],
+      "audio": "audio/104.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "After the meeting, it seemed like we were back to square one with our plan.",
+          "zh": "会议结束后，我们的计划似乎又回到了原点。"
+        }
+      ],
+      "audio": "audio/104.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Every time we think we've solved the problem, something else goes wrong and we are back to square one.",
+          "zh": "每次我们以为解决了问题，都会再出些状况让我们回到原点。"
+        }
+      ],
+      "audio": "audio/104.3.mp3"
+    }
+  ]
+}

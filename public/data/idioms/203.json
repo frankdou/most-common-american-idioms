@@ -1,0 +1,37 @@
+{
+  "n": 203,
+  "name": "By the skin of my teeth",
+  "meaning": {
+    "zh": "“勉强” 或 “险些” 。\n\n这个短语来源于《圣经》的《约伯记》（Job），其中约伯描述自己的困境说：“我仅以牙皮逃脱。”（I am escaped with the skin of my teeth）。在现代英语中，\"by the skin of my teeth\" 意味着极其勉强地避免了某种负面结果或勉强完成了某件事。",
+    "en": "This phrase originates from the Bible, specifically the Book of Job, where Job describes his plight by saying \"I am escaped with the skin of my teeth.\" In modern English, \"by the skin of my teeth\" means narrowly avoiding a negative outcome or barely achieving something."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I passed the exam by the skin of my teeth.",
+          "zh": "我勉强通过了考试。"
+        }
+      ],
+      "audio": "audio/203.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He caught the last train by the skin of his teeth.",
+          "zh": "他险些赶上了最后一班火车。"
+        }
+      ],
+      "audio": "audio/203.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She finished the race by the skin of her teeth, just seconds before it ended.",
+          "zh": "她在比赛结束前几秒钟勉强完成了比赛。"
+        }
+      ],
+      "audio": "audio/203.3.mp3"
+    }
+  ]
+}

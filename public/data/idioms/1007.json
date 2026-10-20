@@ -1,0 +1,37 @@
+{
+  "n": 1007,
+  "name": "Saved by the bell",
+  "meaning": {
+    "zh": "“千钧一发时刻得救” 或 “险险脱身”。\n\n这个短语源自拳击比赛，当一个拳击手被对手逼得几乎无法支撑时，恰好响起了回合结束的铃声，使得拳击手得以暂时逃脱困境。在现代英语中，这个短语广泛用于各种情况下，指在危急时刻因某种外部因素而得救。",
+    "en": "This phrase originates from boxing matches. When a boxer is on the verge of being knocked out by the opponent, the end-of-round bell rings, allowing the boxer to temporarily escape the dire situation. In contemporary English, the phrase is widely used in various contexts to denote being saved from a critical situation by some external factor."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I was about to be called to present my project, but I was *saved by the bell* when the fire alarm went off.",
+          "zh": "我马上要被叫去展示我的项目时，火警铃响了，让我险险脱身。"
+        }
+      ],
+      "audio": "audio/1007.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Just before the teacher could collect our homework, the bell rang—we were *saved by the bell*!",
+          "zh": "就在老师要收作业前，铃声响了——我们险险脱身。"
+        }
+      ],
+      "audio": "audio/1007.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He was struggling to answer the tough question, but luckily, the meeting was adjourned. He was *saved by the bell*.",
+          "zh": "他努力回答那个难题，但幸运的是，会议结束了。他险险脱身。"
+        }
+      ],
+      "audio": "audio/1007.3.mp3"
+    }
+  ]
+}

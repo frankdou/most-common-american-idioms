@@ -1,0 +1,37 @@
+{
+  "n": 691,
+  "name": "Junk food",
+  "meaning": {
+    "zh": "“垃圾食品”。\n\n这个短语来源于英文单词 “junk”，意为 “无价值的东西”，和 “food”，即 “食品”。“Junk food” 用于描述那些营养价值较低、高脂肪、高糖、高盐，经常包含添加剂和防腐剂的食物，如薯片、糖果、快餐等。此短语在20世纪中期变得流行，因为人们开始意识到这些食物对健康的潜在危害。",
+    "en": "The phrase originates from the English word \"junk,\" meaning \"worthless things,\" and \"food,\" meaning \"something intended to be eaten.\" \"Junk food\" is used to describe foods with low nutritional value, high fat, high sugar, high salt, often containing additives and preservatives, such as chips, candies, and fast food. The phrase became popular in the mid-20th century as people began to recognize the potential health risks associated with these foods."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He eats a lot of *junk food*, which is why he's gaining weight.",
+          "zh": "他吃了很多垃圾食品，这就是他体重增加的原因。"
+        }
+      ],
+      "audio": "audio/691.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Try to avoid eating too much *junk food* and focus on healthier options.",
+          "zh": "尽量避免吃过多的垃圾食品，多关注更健康的选择。"
+        }
+      ],
+      "audio": "audio/691.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Children often crave *junk food* because of the flavors and marketing.",
+          "zh": "孩子们经常因为味道和宣传而渴望垃圾食品。"
+        }
+      ],
+      "audio": "audio/691.3.mp3"
+    }
+  ]
+}

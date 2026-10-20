@@ -1,0 +1,37 @@
+{
+  "n": 315,
+  "name": "Deep down",
+  "meaning": {
+    "zh": "“内心深处”，指的是某人真实的感受或想法，通常是在表面上无法察觉的情绪或态度。\n\n这个短语来源于表示情感或态度在心理上深层次的位置。人们常用它来表达那些不容易显露出来的真实感受或根本观点，甚至是个人内心最隐秘、最真诚的部分。",
+    "en": "This phrase stems from the idea of emotions or attitudes being located deep within one's psyche. People often use it to express those true feelings or fundamental beliefs that are not easily visible on the surface, reflecting the most private and genuine part of oneself."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Deep down, he knows he should apologize.",
+          "zh": "内心深处，他知道自己应该道歉。"
+        }
+      ],
+      "audio": "audio/315.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She seems happy, but deep down, she's struggling.",
+          "zh": "她表面上看起来很开心，但内心深处却在挣扎。"
+        }
+      ],
+      "audio": "audio/315.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I think deep down, he still has feelings for her.",
+          "zh": "我觉得内心深处，他还是对她有感情的。"
+        }
+      ],
+      "audio": "audio/315.3.mp3"
+    }
+  ]
+}

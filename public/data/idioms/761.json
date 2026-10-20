@@ -1,0 +1,37 @@
+{
+  "n": 761,
+  "name": "Letter perfect",
+  "meaning": {
+    "zh": "“完美无缺”，通常用来描述某人的表现或作品没有错误，非常出色。\n\n这个短语起源于舞台剧或剧本的演出，其中演员的台词或表演必须一字不差。在很早之前，就有这个要求来指演员背台词要完全准确无误，才能不出错地演绎整个剧本。",
+    "en": "This phrase originates from stage plays or scripts, where actors are required to deliver their lines word-for-word perfectly. Historically, this term was used to imply that actors needed to memorize their lines with complete accuracy to perform the script flawlessly."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Her presentation was *letter perfect* and impressed everyone in the meeting.",
+          "zh": "她的演讲完美无缺，让会议上的每个人都印象深刻。"
+        }
+      ],
+      "audio": "audio/761.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He rehearsed his speech until it was *letter perfect*.",
+          "zh": "他反复排练他的讲话，直到完美无缺。"
+        }
+      ],
+      "audio": "audio/761.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The proposal was *letter perfect*, leaving no room for criticism.",
+          "zh": "这个提案完美无缺，没有留下任何批评的余地。"
+        }
+      ],
+      "audio": "audio/761.3.mp3"
+    }
+  ]
+}

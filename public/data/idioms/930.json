@@ -1,0 +1,37 @@
+{
+  "n": 930,
+  "name": "Pipe down",
+  "meaning": {
+    "zh": "“安静下来” 或 “住嘴”。\n\n这个短语的起源可以追溯到19世纪英国海军时期。当时，船上的船长会用船上的口哨（pipe）来传达命令，随着一声哨音（pipe down），表示船员们完成工作任务后，可以停止活动并安静下来。随着时间的推移，这个短语成为了让人们保持安静或停止说话的口语表达。",
+    "en": "This phrase can be traced back to the 19th-century British Navy. The captain would use a pipe (whistle) to give commands, and the \"pipe down\" signal indicated that the crew could stop their activities and settle down. Over time, it entered general colloquial usage to mean telling people to be quiet or stop talking."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The teacher told the noisy students to *pipe down*.",
+          "zh": "老师让吵闹的学生们安静下来。"
+        }
+      ],
+      "audio": "audio/930.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Can you two please *pipe down*? I'm trying to concentrate.",
+          "zh": "你们两个能安静点吗？我在努力集中精力。"
+        }
+      ],
+      "audio": "audio/930.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The movie is starting, everyone *pipe down*!",
+          "zh": "电影要开始了，大家安静点！"
+        }
+      ],
+      "audio": "audio/930.3.mp3"
+    }
+  ]
+}

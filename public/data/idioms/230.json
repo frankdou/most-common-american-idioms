@@ -1,0 +1,37 @@
+{
+  "n": 230,
+  "name": "Caught someone red-handed",
+  "meaning": {
+    "zh": "“当场抓获” 或 “人赃并获”。\n\n这个短语起源于15世纪的苏格兰法庭语言，即 “red hand”，指的是手上沾满新鲜血迹的人，通常是犯下谋杀罪或偷猎罪的人。这类人因为手上有罪证，即 “红手”，而被逮捕。在现代英语中，“caught red-handed” 仍然用来描述当场抓住正在进行犯罪或不当行为的人。",
+    "en": "This phrase originates from 15th-century Scottish law court language, \"red hand,\" referring to someone caught with fresh blood on their hands, usually in the act of murder or poaching. The term evolved such that anyone caught in the very act of committing a crime or wrongdoing was said to be \"caught red-handed.\" In modern English, it is used to describe catching someone in the act."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The shoplifter was *caught red-handed* trying to steal a necklace.",
+          "zh": "那名扒手在试图偷项链时被当场抓获。"
+        }
+      ],
+      "audio": "audio/230.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He was *caught red-handed* cheating on the test.",
+          "zh": "他在考试作弊时被人当场抓住。"
+        }
+      ],
+      "audio": "audio/230.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The kids were *caught red-handed* breaking the neighbor's window.",
+          "zh": "那些孩子们在打破邻居家的窗户时被人逮了个正着。"
+        }
+      ],
+      "audio": "audio/230.3.mp3"
+    }
+  ]
+}

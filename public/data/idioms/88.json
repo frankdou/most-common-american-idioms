@@ -1,0 +1,37 @@
+{
+  "n": 88,
+  "name": "As quiet as a mouse",
+  "meaning": {
+    "zh": "“像老鼠一样安静” 或 “非常安静”。\n\n这个成语的起源是因为老鼠在我们周围活动时常常是极为安静、悄无声息的。因此，“as quiet as a mouse” 用来形容一个人或环境非常安静，不发出任何声音。这个短语通常用来描述某人的行为极为安静或微不足道的状态。",
+    "en": "This idiom originates from the behavior of mice, which are known to be very quiet and stealthy when they move around. Therefore, \"as quiet as a mouse\" is used to describe someone or something that is extremely quiet or does not make any noise. This phrase is often used to illustrate a person's very silent or diminutive presence."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The children were *as quiet as a mouse* during the movie.",
+          "zh": "孩子们在看电影时像老鼠一样安静。"
+        }
+      ],
+      "audio": "audio/088.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She was *as quiet as a mouse* when sneaking into the kitchen for a midnight snack.",
+          "zh": "她偷偷摸摸去厨房吃夜宵时，像老鼠一样安静。"
+        }
+      ],
+      "audio": "audio/088.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Despite the chaos around him, he remained *as quiet as a mouse*.",
+          "zh": "尽管周围一片混乱，他依然像老鼠一样安静。"
+        }
+      ],
+      "audio": "audio/088.3.mp3"
+    }
+  ]
+}

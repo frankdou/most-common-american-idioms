@@ -1,0 +1,37 @@
+{
+  "n": 1233,
+  "name": "To nix something",
+  "meaning": {
+    "zh": "“取消某事” 或 “否决某事”。\n\n这个短语起源于19世纪末的美国俚语，可能来源于德国词汇 “nichts”，意思是 “无” 或 “没有”。当用作动词时，“nix” 表示取消、否决、停止或终止。此外，这个短语常被用于描述正式或非正式场合中，一个计划、想法或建议被取消或否决的情况。",
+    "en": "This phrase originates from late 19th-century American slang, likely derived from the German word \"nichts,\" meaning \"nothing.\" Used as a verb, \"nix\" signifies the cancellation, rejection, or stopping of something. This idiom is commonly used to describe situations where a plan, idea, or proposal is canceled or vetoed, in both formal and informal contexts."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The manager decided to *nix* the project due to budget constraints.",
+          "zh": "由于预算限制，经理决定取消这个项目。"
+        }
+      ],
+      "audio": "audio/1233.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "They had to *nix* their vacation plans because of the outbreak.",
+          "zh": "由于疫情爆发，他们不得不取消度假计划。"
+        }
+      ],
+      "audio": "audio/1233.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The proposal was *nixed* at the last minute by the board members.",
+          "zh": "提案在最后一刻被董事会成员否决了。"
+        }
+      ],
+      "audio": "audio/1233.3.mp3"
+    }
+  ]
+}

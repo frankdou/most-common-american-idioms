@@ -1,0 +1,37 @@
+{
+  "n": 616,
+  "name": "Hold the fort",
+  "meaning": {
+    "zh": "“守住阵地” 或 “暂时负责”。\n\n这个短语起源于军事用语，指的是在敌方攻击的情况下，坚守要塞或阵地不被攻占。在日常生活中，这个短语常用于表示暂时负责某个任务或工作，尤其是在主要负责人不在的情况下。",
+    "en": "This phrase originates from military terminology, referring to maintaining a stronghold or fortification against enemy attacks. In everyday usage, it typically means to temporarily take charge of a duty or task, especially in the absence of the primary person responsible."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Can you *hold the fort* while I go out for lunch?",
+          "zh": "我去吃午饭的时候，你能暂时负责一下吗？"
+        }
+      ],
+      "audio": "audio/616.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The manager asked me to *hold the fort* until she returns.",
+          "zh": "经理让我在她回来之前暂时负责。"
+        }
+      ],
+      "audio": "audio/616.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Don't worry, I'll *hold the fort* while you're away.",
+          "zh": "别担心，你不在的时候我会暂时负责的。"
+        }
+      ],
+      "audio": "audio/616.3.mp3"
+    }
+  ]
+}

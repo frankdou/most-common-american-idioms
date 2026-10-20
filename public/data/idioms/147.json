@@ -1,0 +1,37 @@
+{
+  "n": 147,
+  "name": "Bite the bullet",
+  "meaning": {
+    "zh": "“咬紧牙关” 或 “硬着头皮”。\n\n这个短语的起源与战争时期的医疗条件有关。在现代麻醉剂普及之前，战场上的士兵若需接受手术，往往会被要求咬住子弹以忍受痛苦。虽然这是一种痛苦但必要的做法，但由于没有更好的选择，士兵们只能 “咬紧牙关”。如今，这个成语用来描述在面对困难或痛苦的情况下，决心承受并继续进行某事。",
+    "en": "This phrase originates from the medical practices during wars when anesthesia was not available. Soldiers undergoing surgery would bite on a bullet to endure the pain. Though painful and necessary, soldiers had no better choice but to \"bite the bullet.\" Nowadays, it refers to the determination to endure a tough situation and carry on."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "She had to *bite the bullet* and go to the dentist despite her fear.",
+          "zh": "尽管她很害怕，她还是必须咬紧牙关去看牙医。"
+        }
+      ],
+      "audio": "audio/147.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "When the team faced a major setback, they decided to *bite the bullet* and work overtime to meet the deadline.",
+          "zh": "当团队遇到重大挫折时，他们决定咬紧牙关，加班以赶上最后期限。"
+        }
+      ],
+      "audio": "audio/147.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He didn't want to move, but he had to *bite the bullet* and accept the transfer for the sake of his career.",
+          "zh": "他不想搬家，但为了自己的事业，他不得不咬紧牙关接受调动。"
+        }
+      ],
+      "audio": "audio/147.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 1119,
+  "name": "Tell me about it",
+  "meaning": {
+    "zh": "“就是啊” 或 “可不是嘛”。\n\n这个短语通常用来表示对他人的陈述完全同意或感同身受。虽然短语字面上看似在要求对方提供更多信息，但实际上它表达的是说话者与对方有相似的经历或感受。",
+    "en": "This phrase is often used to convey complete agreement or empathy with someone else's statement. Though the phrase literally seems to be asking for more information, it actually expresses that the speaker has similar experiences or feelings as the other person."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "\"The traffic this morning was terrible.\" \"Tell me about it.\"",
+          "zh": "“今天早上的交通糟透了。”“就是啊。”"
+        }
+      ],
+      "audio": "audio/1119.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "\"I can't believe how expensive groceries are getting.\" \"Tell me about it.\"",
+          "zh": "“我真不敢相信食品杂货越来越贵了。”“可不是嘛。”"
+        }
+      ],
+      "audio": "audio/1119.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "\"I've been so busy with work lately.\" \"Tell me about it.\"",
+          "zh": "“我最近工作太忙了。”“就是啊。”"
+        }
+      ],
+      "audio": "audio/1119.3.mp3"
+    }
+  ]
+}

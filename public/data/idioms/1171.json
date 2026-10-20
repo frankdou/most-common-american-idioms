@@ -1,0 +1,37 @@
+{
+  "n": 1171,
+  "name": "Three sheets to the wind",
+  "meaning": {
+    "zh": "“喝得酩酊大醉” 或 “烂醉如泥”。\n\n这个短语起源于18世纪英国航海术语。在航海中，“sheet” 并不是指床单，而是操控帆的绳索。当三条绳索都松开时，船容易失控，摇摆不定，通俗来说就是东倒西歪。因此，形容一个人醉酒得控制不住自己，就像失控的船一样。",
+    "en": "This phrase originates from 18th-century British nautical terminology. In sailing, a \"sheet\" does not refer to a bedsheet but to a rope that controls the sail. When three sheets are loose, the ship is hard to control and sways back and forth, much like a person who is heavily intoxicated and unsteady."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He came home *three sheets to the wind* after the party.",
+          "zh": "他在聚会后喝得烂醉如泥回了家。"
+        }
+      ],
+      "audio": "audio/1171.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "By midnight, most of the guests were *three sheets to the wind*.",
+          "zh": "到午夜时，绝大部分客人都喝得酩酊大醉。"
+        }
+      ],
+      "audio": "audio/1171.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "You could tell he was *three sheets to the wind* just by looking at his stagger.",
+          "zh": "只要看他摇摇晃晃的样子，你就知道他喝得烂醉如泥。"
+        }
+      ],
+      "audio": "audio/1171.3.mp3"
+    }
+  ]
+}

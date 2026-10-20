@@ -1,0 +1,37 @@
+{
+  "n": 890,
+  "name": "Once and for all",
+  "meaning": {
+    "zh": "“一劳永逸” 或 “彻底地、最终地解决问题”。\n\n这个短语源自于表达某件事情要在一次尝试中彻底解决，不留问题或疑问。在日常生活中，该表达用于强调做某事的最终决心，或解决问题的一次性、彻底性。",
+    "en": "This phrase originates from the idea of resolving something completely and definitively in one effort, leaving no issues or doubts behind. In everyday life, it's used to emphasize the final decision to do something or the definitiveness of resolving an issue."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Let's settle this *once and for all*.",
+          "zh": "让我们一劳永逸地解决这个问题。"
+        }
+      ],
+      "audio": "audio/890.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He decided to quit smoking *once and for all*.",
+          "zh": "他决定彻底戒烟。"
+        }
+      ],
+      "audio": "audio/890.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "It's time to finish the project *once and for all*.",
+          "zh": "是时候彻底完成这个项目了。"
+        }
+      ],
+      "audio": "audio/890.3.mp3"
+    }
+  ]
+}

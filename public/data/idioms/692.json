@@ -1,0 +1,37 @@
+{
+  "n": 692,
+  "name": "Jury is still out",
+  "meaning": {
+    "zh": "“尚无定论” 或 “悬而未决”。\n\n这个短语源自法律术语，当陪审团（jury）在讨论判决尚未做决定之前，我们说 “jury is still out”。在日常用语中，这个成语被用来表示某件事情或某个问题尚未最终确定，仍有待观察或讨论。",
+    "en": "This phrase originates from legal terminology, where it refers to the time before a jury has reached a verdict. In everyday language, it is used to indicate that something is still undecided or remains to be seen."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The *jury is still out* on whether the new policy will be effective.",
+          "zh": "关于新政策是否有效尚无定论。"
+        }
+      ],
+      "audio": "audio/692.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The *jury is still out* regarding the success of the new product.",
+          "zh": "新产品是否成功尚无定论。"
+        }
+      ],
+      "audio": "audio/692.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "We can't make a decision yet; the *jury is still out* on this issue.",
+          "zh": "我们还不能做决定，这个问题尚无定论。"
+        }
+      ],
+      "audio": "audio/692.3.mp3"
+    }
+  ]
+}

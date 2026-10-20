@@ -1,0 +1,37 @@
+{
+  "n": 136,
+  "name": "Between the devil and the deep blue sea",
+  "meaning": {
+    "zh": "“进退两难” 或 “两难之间”。\n\n这个成语起源于航海世界。最早的记录可以追溯到17世纪，它用来描述水手们在暴风雨中忙碌在甲板上的情景：一方面是必须面对的危险甲板工作（devil），另一方面是随时可能被甩入深蓝大海。这个短语用来形容人在面临两种同样糟糕的选择时的处境，即无论选择哪一个都不理想。",
+    "en": "This idiom originated from the maritime world. The earliest records can be traced back to the 17th century, describing sailors busy on deck during a storm: on one hand, facing the dangerous deck work (devil), and on the other, the deep blue sea that could swallow them at any moment. This phrase is used to describe a situation where one has to choose between two equally undesirable options."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I felt like I was *between the devil and the deep blue sea* when deciding to either stay in a bad job or quit without another one lined up.",
+          "zh": "决定是留在糟糕的工作还是在没有找到另一个工作之前辞职时，我感觉进退两难。"
+        }
+      ],
+      "audio": "audio/136.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She was *between the devil and the deep blue sea* when she had to either lie to her friend or reveal a secret.",
+          "zh": "她在是对朋友撒谎还是泄露一个秘密之间进退两难。"
+        }
+      ],
+      "audio": "audio/136.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "John found himself *between the devil and the deep blue sea* when he had to choose between a pay cut or losing his job entirely.",
+          "zh": "约翰在面临是接受减薪还是完全失业时，进退两难。"
+        }
+      ],
+      "audio": "audio/136.3.mp3"
+    }
+  ]
+}

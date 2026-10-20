@@ -1,0 +1,37 @@
+{
+  "n": 1344,
+  "name": "You can't judge a book by its cover",
+  "meaning": {
+    "zh": "“人不可貌相，海水不可斗量”，即不要以表面来评价某事物或某人。\n\n这个短语出自19世纪的一本书《The Mill on the Floss》，作者乔治·艾略特（George Eliot）在小说中写到 “不要从封面来判断一本书，因为封面只是展示的表象”，而真正的内容需要深入其中才能了解。现如今，这个短语常用来提醒人们不要以貌取人，或不要仅凭外表来判断某件事物的好坏。",
+    "en": "This phrase originated from the 19th-century book \"The Mill on the Floss\" by George Eliot, who wrote that one should not judge a book by its cover as the cover is merely the superficial presentation, while the true content requires deeper exploration. Nowadays, this idiom is commonly used to remind people not to judge others by appearances or to assess things based on superficial traits."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The old house may look shabby, but you can't judge a book by its cover. It is beautifully decorated inside.",
+          "zh": "这间旧房子可能看起来很破旧，但你不能以貌取人。它里面装饰得很漂亮。"
+        }
+      ],
+      "audio": "audio/1344.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He might seem quiet and reserved, but you can't judge a book by its cover.",
+          "zh": "他可能看起来安静而内向，但你不能根据外表来判断一个人。"
+        }
+      ],
+      "audio": "audio/1344.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "You can't judge a book by its cover. She might look unassuming, but she's very talented.",
+          "zh": "你不能仅凭外表来判断一个人。她可能看起来不起眼，但她非常有才华。"
+        }
+      ],
+      "audio": "audio/1344.3.mp3"
+    }
+  ]
+}

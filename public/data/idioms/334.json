@@ -1,0 +1,37 @@
+{
+  "n": 334,
+  "name": "Don't cry over spilt milk",
+  "meaning": {
+    "zh": "“不必为已成定局的事而懊悔” 或 “覆水难收”。\n\n这个短语起源于早期的英国文学，意指牛奶一旦洒了，就没有办法恢复原状，因此为此懊悔是没有意义的。这个表达用来告诉人们，不要纠结于无法改变的过去，应该向前看。",
+    "en": "This phrase originates from early British literature and implies that once milk is spilled, it cannot be put back, thus it's pointless to regret it. This expression is used to advise people not to dwell on things that cannot be changed and to look forward instead."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "You failed the test, but *don't cry over spilt milk*; focus on the next one.",
+          "zh": "你考试没通过，但覆水难收，专注于下一次考试吧。"
+        }
+      ],
+      "audio": "audio/334.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "It's sad that the meeting was canceled, but *there's no use crying over spilt milk*.",
+          "zh": "会议取消了是挺遗憾的，但没必要为已成定局的事情懊悔。"
+        }
+      ],
+      "audio": "audio/334.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "*Don't cry over spilt milk*; learn from your mistakes and move on.",
+          "zh": "不要为覆水难收而懊恼，从错误中吸取教训并继续前进。"
+        }
+      ],
+      "audio": "audio/334.3.mp3"
+    }
+  ]
+}

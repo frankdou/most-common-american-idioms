@@ -1,0 +1,37 @@
+{
+  "n": 1327,
+  "name": "With bated breath",
+  "meaning": {
+    "zh": "“屏息以待” 或 “焦急地等待”。\n\n这个短语最早出现在莎士比亚的作品《威尼斯商人》中，其中 “bated” 是一个古老的形式，来源于 “abated”，意为 “减弱、抑制”。“屏息以待” 描述的是一种焦急、期待的情绪，人们在等待某些重要事情时，甚至呼吸都似乎变得短促和紧张。",
+    "en": "This phrase first appeared in Shakespeare's work “The Merchant of Venice,” where “bated” is an archaic form derived from “abated,” meaning “lessened, restrained.” It describes a feeling of anxious or eager anticipation, where people seem to hold their breath in suspense while waiting for something significant."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "She waited with *bated breath* for the results of the competition.",
+          "zh": "她屏息以待地等待比赛结果。"
+        }
+      ],
+      "audio": "audio/1327.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Everyone in the room was listening with *bated breath* as the announcement was made.",
+          "zh": "在宣布结果的时候，房间里所有人都屏息而听。"
+        }
+      ],
+      "audio": "audio/1327.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "We watched the final moments of the game with *bated breath*.",
+          "zh": "我们屏息以待地观看比赛的最后时刻。"
+        }
+      ],
+      "audio": "audio/1327.3.mp3"
+    }
+  ]
+}

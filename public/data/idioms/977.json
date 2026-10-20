@@ -1,0 +1,37 @@
+{
+  "n": 977,
+  "name": "Raise Cain",
+  "meaning": {
+    "zh": "“惹是生非” 或 “生事”。\n\n这个习语来源于《圣经》中的该隐（Cain）和亚伯（Abel）兄弟故事。该隐是亚当和夏娃的长子，因妒忌而杀害弟弟亚伯。这个故事让该隐成为邪恶和暴力的象征，因此 “Raise Cain” 的意思就是引起混乱或制造麻烦。",
+    "en": "This idiom originates from the biblical story of Cain and Abel, the sons of Adam and Eve. Cain, the elder brother, killed his younger brother Abel out of jealousy. As a result, Cain became synonymous with evil and violence, giving rise to the expression “Raise Cain,” meaning to cause a disturbance or trouble."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The kids started to *raise Cain* when the teacher left the room.",
+          "zh": "老师离开房间时，孩子们开始惹是生非。"
+        }
+      ],
+      "audio": "audio/977.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "My neighbors were *raising Cain* last night with their loud party.",
+          "zh": "我的邻居昨晚开着大声派对，闹得天翻地覆。"
+        }
+      ],
+      "audio": "audio/977.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "If the boss finds out about the mistake, he's going to *raise Cain.*",
+          "zh": "如果老板发现了这个错误，他会大发雷霆。"
+        }
+      ],
+      "audio": "audio/977.3.mp3"
+    }
+  ]
+}

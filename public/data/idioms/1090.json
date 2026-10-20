@@ -1,0 +1,37 @@
+{
+  "n": 1090,
+  "name": "Strike it rich",
+  "meaning": {
+    "zh": "“暴富” 或 “突然致富”。\n\n这个短语起源于19世纪的淘金热时期，当时人们常常会使用 “strike” 来表示发现了一条富矿脉，立即变得富有。因此，“strike it rich” 就表示突然发现了某种财富或机会，迅速致富。",
+    "en": "This phrase originated during the 19th-century gold rush era when people would use the term \"strike\" to denote finding a rich vein of gold, thus becoming wealthy instantly. Therefore, \"strike it rich\" means suddenly discovering a source of wealth or opportunity, resulting in rapid enrichment."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "They think they'll *strike it rich* by investing in that startup.",
+          "zh": "他们认为投资那家初创公司会让他们暴富。"
+        }
+      ],
+      "audio": "audio/1090.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Many people dream of winning the lottery and *striking it rich*.",
+          "zh": "许多人梦想着中彩票而一夜暴富。"
+        }
+      ],
+      "audio": "audio/1090.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He *struck it rich* when he discovered oil on his land.",
+          "zh": "他在自己土地上发现了石油，从而迅速致富。"
+        }
+      ],
+      "audio": "audio/1090.3.mp3"
+    }
+  ]
+}

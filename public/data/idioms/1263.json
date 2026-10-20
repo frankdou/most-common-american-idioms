@@ -1,0 +1,37 @@
+{
+  "n": 1263,
+  "name": "Tuckered out",
+  "meaning": {
+    "zh": "“筋疲力尽” 或 “累坏了”。\n\n这个短语源自美国的方言，特别是新英格兰的农村地区。动词 \"tucker\" 意味着 “累疲”，常用来形容某人耗尽了所有体力或精力。后来，随着时间的推移，它演变成 “tuckered out”，用来表示疲惫不堪的状态，特别是经过长时间的工作或剧烈活动之后。",
+    "en": "This phrase originates from American dialect, particularly in rural New England areas. The verb \"tucker\" means \"to tire,\" often used to describe someone who is completely worn out. Over time, it evolved into \"tuckered out\" to indicate a state of exhaustion, especially after prolonged work or strenuous activity."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "After the hike, we were all *tuckered out* and went straight to bed.",
+          "zh": "徒步旅行后，我们都筋疲力尽，直接上床睡觉了。"
+        }
+      ],
+      "audio": "audio/1263.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The kids are *tuckered out* after playing in the park all day.",
+          "zh": "孩子们在公园玩了一整天后累坏了。"
+        }
+      ],
+      "audio": "audio/1263.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I'm completely *tuckered out* from working these long hours.",
+          "zh": "长时间工作让我筋疲力尽。"
+        }
+      ],
+      "audio": "audio/1263.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 509,
+  "name": "Go around in circles",
+  "meaning": {
+    "zh": "“原地打转” 或 “徒劳无功”。\n\n这个短语源自于一种毫无方向感的状态，形象地表示反复进行某种活动却无法得出实际成果。通常用来形容人们在处理问题或任务时，没有找到有效的解决方案，来回反复地做同样的事而没有进展。",
+    "en": "This idiom originates from the idea of moving in a circular path without making any real progress, representing repetitive actions without achieving productive results. It is often used to describe situations where people continue doing the same thing without making effective progress in solving a problem or completing a task."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "We've been trying to solve this issue for hours, but we’re just *going around in circles*.",
+          "zh": "我们已经试图解决这个问题好几个小时了，但结果只是原地打转。"
+        }
+      ],
+      "audio": "audio/509.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "If we keep arguing without finding a solution, we’re just *going around in circles*.",
+          "zh": "如果我们继续争论而不找到解决方案，那只是徒劳无功。"
+        }
+      ],
+      "audio": "audio/509.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I feel like this meeting is just *going around in circles* with no clear direction.",
+          "zh": "我觉得这个会议只是原地打转，没有明确的方向。"
+        }
+      ],
+      "audio": "audio/509.3.mp3"
+    }
+  ]
+}

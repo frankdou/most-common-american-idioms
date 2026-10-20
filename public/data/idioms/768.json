@@ -1,0 +1,37 @@
+{
+  "n": 768,
+  "name": "Like nailing jello to the wall",
+  "meaning": {
+    "zh": "“像把果冻钉在墙上”，指的是做一件几乎不可能完成的任务，或是非常难以实现的事情。通常用来形容某件事情非常难处理、几乎不可能成功。\n\n这个短语的起源于人们试图用钉子把果冻固定在墙上的想象。这基本是不可能完成的，因为果冻质地柔软，无法被钉住不动。这个比喻非常形象地表达了任务的难度和无用功。",
+    "en": "This idiom originates from the image of trying to nail jello to a wall, which is practically impossible because of the jello's soft and unstable nature. This vivid metaphor effectively conveys the difficulty and futility of the task at hand."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Getting my toddler to sit still is like nailing jello to the wall.",
+          "zh": "让我的小孩安静地坐着就像是把果冻钉在墙上。"
+        }
+      ],
+      "audio": "audio/768.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Trying to understand his abstract ideas is like nailing jello to the wall.",
+          "zh": "试图理解他的抽象想法就像是把果冻钉在墙上。"
+        }
+      ],
+      "audio": "audio/768.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Persuading him to change his mind is like nailing jello to the wall.",
+          "zh": "说服他改变主意就像是把果冻钉在墙上。"
+        }
+      ],
+      "audio": "audio/768.3.mp3"
+    }
+  ]
+}

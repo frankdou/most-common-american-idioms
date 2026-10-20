@@ -1,0 +1,37 @@
+{
+  "n": 672,
+  "name": "It takes one to know one",
+  "meaning": {
+    "zh": "“半斤八两” 或 “彼此彼此”。\n\n这个短语最早起源于人们对彼此性格或行为特点的相互认同，意思是只有同类的人才能辨认出同类。例如，如果一个人被称为 “骗子”，而另一个人指出这一点，那么这个人也很可能具备相似的特点。在现代用法中，这个短语通常用于回应他人的批评或指责，暗示对方和自己其实是同一类人，具有相同的缺点或问题。",
+    "en": "This phrase originates from the idea that only someone with similar traits or behavior can recognize those traits in someone else. For example, if someone calls another person a \"liar,\" it might be implied that the accuser is familiar with lying too. In modern usage, it's often used as a retort to criticism or accusation, suggesting that the accuser shares the same flaws or problems."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "\"You're so lazy.\" \"Well, it takes one to know one.\"",
+          "zh": "“你真懒。”“彼此彼此！”"
+        }
+      ],
+      "audio": "audio/672.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "\"He's so arrogant.\" \"It takes one to know one.\"",
+          "zh": "“他真傲慢。”“半斤八两。”"
+        }
+      ],
+      "audio": "audio/672.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "\"You're always late!\" \"It takes one to know one!\"",
+          "zh": "“你总是迟到！” “彼此彼此！”"
+        }
+      ],
+      "audio": "audio/672.3.mp3"
+    }
+  ]
+}

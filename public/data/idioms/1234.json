@@ -1,0 +1,37 @@
+{
+  "n": 1234,
+  "name": "To outdo oneself",
+  "meaning": {
+    "zh": "“超越自我” 或 “超越之前的水平”。\n\n这个短语的起源可以追溯到竞赛或成就的概念，意思是一个人超过了自己以前的成绩或水平。在日常生活中，当一个人做出了比他们之前更好的成绩或表现时，就可以使用这个表达。",
+    "en": "This phrase originates from the concept of competition or achievement, meaning that a person has surpassed their previous accomplishments or level of performance. In everyday life, this expression is used when someone performs better than they did before."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "She really outdid herself with this year’s presentation.",
+          "zh": "她今年的演示真的超越了自我。"
+        }
+      ],
+      "audio": "audio/1234.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He always tries to outdo himself every year with his holiday decorations.",
+          "zh": "他每年都力图在假日装饰上超越自我。"
+        }
+      ],
+      "audio": "audio/1234.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "With this new project, our team has truly outdone themselves.",
+          "zh": "通过这个新项目，我们的团队真的超越了之前的水平。"
+        }
+      ],
+      "audio": "audio/1234.3.mp3"
+    }
+  ]
+}

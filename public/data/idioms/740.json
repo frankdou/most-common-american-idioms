@@ -1,0 +1,37 @@
+{
+  "n": 740,
+  "name": "Lay an egg",
+  "meaning": {
+    "zh": "“失败” 或 “表演、项目等遭遇滑铁卢”。\n\n这个短语源于美国的棒球界，当一个球队一分未得时，得分板上会显示一个大大的零，形状如同一个鸡蛋。后来，这个短语被引申用于表演艺术领域，尤指演出或项目惨遭失败。如今被广泛应用于描述任何形式的失败。",
+    "en": "This phrase originates from American baseball, where if a team scores no runs, the scoreboard shows a big zero, shaped like an egg. The term was later adopted in the performing arts to refer to a performance or project that flops miserably. It is now widely used to describe any form of failure."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The comedian *laid an egg* with his latest routine; nobody laughed.",
+          "zh": "这位喜剧演员最近的段子彻底失败了，没人笑。"
+        }
+      ],
+      "audio": "audio/740.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Our marketing campaign *laid an egg*, and sales actually went down.",
+          "zh": "我们的营销活动惨败了，销量居然下降了。"
+        }
+      ],
+      "audio": "audio/740.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The new product launch *laid an egg*; customers were not interested.",
+          "zh": "新产品发布会失败了，顾客们并不感兴趣。"
+        }
+      ],
+      "audio": "audio/740.3.mp3"
+    }
+  ]
+}

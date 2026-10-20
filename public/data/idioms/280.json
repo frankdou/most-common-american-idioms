@@ -1,0 +1,37 @@
+{
+  "n": 280,
+  "name": "Couch potato",
+  "meaning": {
+    "zh": "“电视迷” 或 “懒惰的人”。\n\n这个短语起源于20世纪70年代的美国，一个叫汤姆·伊塞尔（Tom Isern）的卡通画家创造了这个词，指那些整天坐在沙发上看电视、缺乏运动的人。字面意思就是 “沙发上的土豆”，形象地描绘出这些人长期呆在一个地方，不愿动弹的样子。",
+    "en": "This phrase originated in the United States in the 1970s when a cartoonist named Tom Isern coined the term to describe people who spend a lot of time sitting on a couch and watching TV, thereby lacking physical activity. Literally, it means \"a potato on the couch,\" vividly illustrating those who remain in one place for an extended period, unwilling to move."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He became a *couch potato* after retiring from work.",
+          "zh": "退休后，他变成了一个电视迷。"
+        }
+      ],
+      "audio": "audio/280.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Instead of being a *couch potato* all weekend, let's go for a hike.",
+          "zh": "别整周末都当个电视迷了，咱们去远足吧。"
+        }
+      ],
+      "audio": "audio/280.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "My brother is such a *couch potato*; he watches TV for hours every day.",
+          "zh": "我哥哥真是个电视迷，他每天能看电视好几个小时。"
+        }
+      ],
+      "audio": "audio/280.3.mp3"
+    }
+  ]
+}

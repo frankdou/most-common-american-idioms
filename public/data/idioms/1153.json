@@ -1,0 +1,37 @@
+{
+  "n": 1153,
+  "name": "The same wavelength",
+  "meaning": {
+    "zh": "“在同一频率上” 或 “有相同的想法或观点”。\n\n这个短语源自于无线电通信技术，指两个设备在同一频率上才能相互通信。在日常用语中，这个短语用来比喻两个人或一群人之间达成一致，分享相同的观点或感觉，或彼此非常理解对方的意思。",
+    "en": "This idiom originates from radio communication technology, where two devices need to be on the same frequency to communicate with each other. In everyday usage, this phrase is metaphorically used to describe two or more people who are in agreement, share the same opinions or feelings, or understand each other very well."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "We always seem to be on *the same wavelength* during team projects.",
+          "zh": "在团队项目中，我们似乎总是在同一个频率上。"
+        }
+      ],
+      "audio": "audio/1153.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "It's great to have a friend who is on *the same wavelength* as you.",
+          "zh": "有一个和你在同一频率上的朋友真是太好了。"
+        }
+      ],
+      "audio": "audio/1153.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The new manager and I are *on the same wavelength* about the project goals.",
+          "zh": "新经理和我对项目目标意见一致。"
+        }
+      ],
+      "audio": "audio/1153.3.mp3"
+    }
+  ]
+}

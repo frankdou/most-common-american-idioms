@@ -1,0 +1,37 @@
+{
+  "n": 545,
+  "name": "Good to know",
+  "meaning": {
+    "zh": "“知道了” 或 “好知道”。\n\n这个短语用来表示某些信息或消息有用或者感兴趣。通常用于对他人提供的信息表示感谢或确认其重要性。这种表达比较随意、口语化，适用于日常交流中。",
+    "en": "This phrase is used to acknowledge that some information or news is useful or interesting. It is commonly used to show appreciation for the information provided or to confirm its importance. This expression is rather informal and is suitable for everyday conversations."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "\"There's a new coffee shop opening down the street.\" \"Oh, *good to know*.\"",
+          "zh": "“街上有一家新的咖啡馆开张。” “哦，知道了。”"
+        }
+      ],
+      "audio": "audio/545.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "\"The meeting has been moved to 3 PM.\" \"Thanks for the update, *good to know*.\"",
+          "zh": "“会议改到下午3点了。” “谢谢通知，好知道。”"
+        }
+      ],
+      "audio": "audio/545.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "\"You can get a discount if you order online.\" \"Really? *Good to know*!\"",
+          "zh": "“如果你在网上订购可以有折扣。” “真的吗？好知道！”"
+        }
+      ],
+      "audio": "audio/545.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 1162,
+  "name": "There are clouds on the horizon",
+  "meaning": {
+    "zh": "“乌云压境” 或 “前景不妙”。\n\n这个短语源自于乌云在地平线上出现的景象，意味着风暴即将来临。在此背景下，该短语被用来形容未来可能会出现问题或困难的迹象。它通常用于表达对未来某段时间内可能发生问题或危机的担忧或预感。",
+    "en": "This phrase originates from the image of clouds appearing on the horizon, signifying an impending storm. Within this context, the phrase is used to describe signs of potential problems or difficulties in the future. It is often employed to convey concerns or foresight about potential issues or crises in the near future."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "With the economy slowing down, there are clouds on the horizon for many businesses.",
+          "zh": "经济放缓意味着许多企业的前景不妙。"
+        }
+      ],
+      "audio": "audio/1162.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The doctor's serious tone made it clear that there are clouds on the horizon regarding his health.",
+          "zh": "医生严肃的语气显然预示着他的健康状况前景堪忧。"
+        }
+      ],
+      "audio": "audio/1162.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Despite the current success, there are clouds on the horizon about the company's future.",
+          "zh": "尽管目前很成功，但公司的未来前景不妙。"
+        }
+      ],
+      "audio": "audio/1162.3.mp3"
+    }
+  ]
+}

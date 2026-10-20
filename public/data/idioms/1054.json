@@ -1,0 +1,37 @@
+{
+  "n": 1054,
+  "name": "Small world",
+  "meaning": {
+    "zh": "“世界真小”。\n\n这个短语用来表示当两个人在意想不到的地方遇见，或者发现彼此有某种出乎意料的联系时。这种情况让人感到惊讶，因为原本认为世界很大，不容易遇到熟人或有共同点的人。但通过这种偶然的相遇或发现，反而让人感觉世界变小了。",
+    "en": "This phrase is used to express surprise when two people meet unexpectedly or discover they have an unforeseen connection. It highlights the astonishment of finding a familiar face or a shared experience in a vast world, making the world seem smaller."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I can't believe I ran into my old college roommate in Tokyo. *Small world*!",
+          "zh": "我简直不敢相信我在东京遇见了我以前的大学室友。世界真小！"
+        }
+      ],
+      "audio": "audio/1054.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "You know John? *Small world*, I went to high school with him.",
+          "zh": "你认识约翰？世界真小，我和他是高中同学。"
+        }
+      ],
+      "audio": "audio/1054.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Meeting an old friend on the other side of the globe really makes you think, *small world*.",
+          "zh": "在地球的另一边遇见一个老朋友真让人觉得，世界真小。"
+        }
+      ],
+      "audio": "audio/1054.3.mp3"
+    }
+  ]
+}

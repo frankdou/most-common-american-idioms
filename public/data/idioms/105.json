@@ -1,0 +1,37 @@
+{
+  "n": 105,
+  "name": "Back to the drawing board",
+  "meaning": {
+    "zh": "“回到起点” 或 “重新开始”。\n\n这个短语来源于工程和设计领域，在绘图板上重新设计一个项目或计划。它通常用来表示由于失败或无法实现目标，需要重新开始、重新设计或重新计划。",
+    "en": "This phrase originates from the fields of engineering and design, where one literally goes back to the drawing board to redesign a project or plan. It is commonly used to indicate the need to restart, redesign, or replan due to failure or inability to achieve the desired outcome."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The initial plan didn't work, so it's back to the drawing board.",
+          "zh": "最初的计划失败了，所以我们需要重新开始。"
+        }
+      ],
+      "audio": "audio/105.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "After the prototype failed, the team had to go back to the drawing board.",
+          "zh": "在原型失败后，团队不得不重新设计。"
+        }
+      ],
+      "audio": "audio/105.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "If this marketing strategy doesn't work, we'll go back to the drawing board and come up with a new one.",
+          "zh": "如果这个营销策略不起作用，我们将重新开始，制定一个新的。"
+        }
+      ],
+      "audio": "audio/105.3.mp3"
+    }
+  ]
+}

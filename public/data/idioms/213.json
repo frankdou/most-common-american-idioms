@@ -1,0 +1,37 @@
+{
+  "n": 213,
+  "name": "Can't keep up",
+  "meaning": {
+    "zh": "“赶不上” 或 “跟不上”。\n\n这个短语源自于需要跟上某事物的速度或进度时使用的表达。如果某人 “can't keep up”，意思就是他无法跟上节奏、速度或进度，可能是因为能力不足或者情况变化太快。在日常生活和工作中，这个短语常用于描述无法跟上工作节奏、学习进度或某些变化。",
+    "en": "This phrase originates from the need to keep pace or stay up-to-date with something. If someone \"can't keep up,\" it means they are unable to maintain the speed or progress, possibly due to lack of ability or the situation changing too fast. In everyday life and work, this idiom is often used to describe being unable to match the speed of work, learning progress, or some changes."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I'm sorry, I just *can't keep up* with all these new tasks.",
+          "zh": "抱歉，我实在是跟不上这些新任务的节奏。"
+        }
+      ],
+      "audio": "audio/213.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He's working so fast, I *can't keep up* with him.",
+          "zh": "他工作太快了，我跟不上他的节奏。"
+        }
+      ],
+      "audio": "audio/213.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I *can't keep up* with all the latest tech trends.",
+          "zh": "我跟不上所有最新的科技趋势。"
+        }
+      ],
+      "audio": "audio/213.3.mp3"
+    }
+  ]
+}

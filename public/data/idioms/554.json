@@ -1,0 +1,37 @@
+{
+  "n": 554,
+  "name": "Gray area",
+  "meaning": {
+    "zh": "“灰色地带” 或 “模棱两可的区域”。\n\n这个短语起源于法律术语，用来描述那些没有明确法律规定的领域或情况，这些事情通常不清楚如何归类或处理。在现代语境中，\"gray area\" 被广泛用于指代不明确、不清晰或难以做出明确判断的情况。",
+    "en": "This phrase originates from legal terminology, used to describe areas or situations that are not clearly defined by law. These matters are often difficult to categorize or resolve. In modern contexts, \"gray area\" is widely used to refer to situations that are ambiguous, unclear, or hard to make definitive judgments about."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The legality of that business practice exists in a *gray area*.",
+          "zh": "那种商业行为的合法性存在于灰色地带。"
+        }
+      ],
+      "audio": "audio/554.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "There's a *gray area* in our policy about social media use at work.",
+          "zh": "我们的政策中关于工作时使用社交媒体有一个模棱两可的区域。"
+        }
+      ],
+      "audio": "audio/554.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Intellectual property law can often be a *gray area*.",
+          "zh": "知识产权法往往可以是一个灰色地带。"
+        }
+      ],
+      "audio": "audio/554.3.mp3"
+    }
+  ]
+}

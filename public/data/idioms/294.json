@@ -1,0 +1,37 @@
+{
+  "n": 294,
+  "name": "Cup of Joe",
+  "meaning": {
+    "zh": "“一杯咖啡”。\n\n这个短语的具体起源尚无定论，但最常见的一种解释是它来源于美国海军部长约瑟夫斯·丹尼尔斯（Josephus \"Joe\" Daniels），他在1914年禁止海军舰船上供应酒类，这样水手们就转向喝咖啡了。另一种解释更为简单：\"Joe\" 是 \"man\" 或 \"fellow\" 的非正式称呼，而咖啡是普通大众每日必饮之物，所以就成为了 \"a cup of Joe\"。",
+    "en": "The exact origin of this phrase is uncertain, but the most common explanation is that it is linked to Josephus \"Joe\" Daniels, the Secretary of the Navy, who prohibited alcohol on Navy ships in 1914, leading sailors to drink more coffee instead. Another simpler explanation is that \"Joe\" is a slang term for \"man\" or \"fellow,\" and coffee is a common beverage, making it \"a cup of Joe.\""
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I need a *cup of Joe* to start my day.",
+          "zh": "我需要一杯咖啡来开始我的一天。"
+        }
+      ],
+      "audio": "audio/294.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Let's grab a *cup of Joe* and catch up.",
+          "zh": "我们去喝杯咖啡，聊聊近况吧。"
+        }
+      ],
+      "audio": "audio/294.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "A *cup of Joe* always helps me wake up in the morning.",
+          "zh": "一杯咖啡总是能让我在早晨醒过来。"
+        }
+      ],
+      "audio": "audio/294.3.mp3"
+    }
+  ]
+}

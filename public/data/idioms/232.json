@@ -1,0 +1,37 @@
+{
+  "n": 232,
+  "name": "Change horses in midstream",
+  "meaning": {
+    "zh": "“在半路换马” 或 “在进行过程中改变计划或策略”。\n\n这个成语源自美国政治家将此语用于形容在关键时刻改变领导或政策的不明智。它的背景来自换马这个实际情况，因为在河中换马非常危险且难以成功，被用来形容改变计划或策略在关键或紧张时刻是不智之举。",
+    "en": "This idiom originates from American politicians who used it to describe the folly of changing leaders or policies at critical moments. The background comes from the actual scenario of changing horses in a river, which is dangerous and difficult to accomplish successfully, thereby used to illustrate the imprudence of changing plans or strategies during critical or tense moments."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "We can't *change horses in midstream* now; let's see this through to the end.",
+          "zh": "我们现在不能在半路换马；还是把这件事做到底吧。"
+        }
+      ],
+      "audio": "audio/232.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He suggested a new approach, but it’s too late to *change horses in midstream*.",
+          "zh": "他建议一种新方法，但要在半路换马已经太迟了。"
+        }
+      ],
+      "audio": "audio/232.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "During our project, we realized it was risky to *change horses in midstream*.",
+          "zh": "在我们的项目进行过程中，我们意识到在半路换马是有风险的。"
+        }
+      ],
+      "audio": "audio/232.3.mp3"
+    }
+  ]
+}

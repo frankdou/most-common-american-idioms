@@ -1,0 +1,37 @@
+{
+  "n": 1221,
+  "name": "To have another thing coming",
+  "meaning": {
+    "zh": "“另有期待 “或” 大错特错 “。\n\n这个短语最早源于19世纪末期的美国，通常用来表示某人的预期或希望是不现实的，通常用在别人的想法或预期是大错特错的场合。这个表达在现代英语中已变得相当流行，用以表示某人的预期与现实将大相径庭。",
+    "en": "This phrase originates from late 19th century America and is typically used to express that someone's expectations or hopes are unrealistic. It is often used to mean that someone is greatly mistaken. In contemporary English, this expression has become quite popular to indicate that there will be a significant difference between what someone expects and what actually happens."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "If he thinks he'll get away without punishment, he has another thing coming.",
+          "zh": "如果他认为自己会逃脱惩罚，那他就大错特错了。"
+        }
+      ],
+      "audio": "audio/1221.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Anyone who thinks it's easy to raise a child has another thing coming.",
+          "zh": "任何认为养育孩子很容易的人都大错特错。"
+        }
+      ],
+      "audio": "audio/1221.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "If she believes everything will go according to plan, she has another thing coming.",
+          "zh": "如果她认为一切都会按计划进行，那她就另有期待了。"
+        }
+      ],
+      "audio": "audio/1221.3.mp3"
+    }
+  ]
+}

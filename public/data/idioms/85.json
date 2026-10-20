@@ -1,0 +1,37 @@
+{
+  "n": 85,
+  "name": "As easy as pie",
+  "meaning": {
+    "zh": "“轻而易举” 或 “无比简单”。\n\n这个短语起源于19世纪的美国，当时做派通常被认为是简单而令人愉快的事情。与做派的甜美和简单制作过程相结合，“as easy as pie” 就被用来形容某事非常简单，无需费力。",
+    "en": "This phrase originated in 19th century America, where baking a pie was considered a simple and enjoyable task. Combining the sweet and simple nature of pie-making, “as easy as pie” came to describe something very easy and effortless to do."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The math problem was *as easy as pie*.",
+          "zh": "这道数学题轻而易举。"
+        }
+      ],
+      "audio": "audio/085.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Fixing the computer was *as easy as pie* for her.",
+          "zh": "修理电脑对她来说简直轻而易举。"
+        }
+      ],
+      "audio": "audio/085.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He said the test was *as easy as pie*.",
+          "zh": "他说考试简直轻而易举。"
+        }
+      ],
+      "audio": "audio/085.3.mp3"
+    }
+  ]
+}

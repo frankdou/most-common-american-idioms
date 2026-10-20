@@ -1,0 +1,37 @@
+{
+  "n": 1192,
+  "name": "To bend someone's ear",
+  "meaning": {
+    "zh": "“借他人的耳朵” 或 “向某人唠叨”。\n\n这个成语起源于英语，描述某人不停地跟另一个人说话，尤其是延续很长时间，通常是为了抱怨或倾诉。这种行为可能让人感到烦扰或者无奈。",
+    "en": "This idiom originates from English and describes someone talking persistently to another, often for a long period, usually to complain or vent. This behavior can often make the listener feel annoyed or helpless."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He wouldn't stop *bending my ear* about the lousy service he received.",
+          "zh": "他不停地向我唠叨他所遭遇的糟糕服务。"
+        }
+      ],
+      "audio": "audio/1192.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Whenever she has a problem, she always *bends my ear* for hours.",
+          "zh": "每当她有问题时，她总是向我唠叨好几个小时。"
+        }
+      ],
+      "audio": "audio/1192.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "I hate when people *try to bend my ear* about things I have no control over.",
+          "zh": "我讨厌人们试图向我唠叨那些我无法控制的事情。"
+        }
+      ],
+      "audio": "audio/1192.3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n": 902,
+  "name": "Out of the question",
+  "meaning": {
+    "zh": "“毫无可能” 或 “完全不可能”。\n\n这个短语起源于18世纪，最初用于表示某件事无法进行讨论，因为它根本不可能实现。随着时间的推移，这个短语逐渐演变成用于描述那些不可能实现或不可行的事情。",
+    "en": "This phrase originated in the 18th century and was initially used to indicate that something could not be discussed because it was impossible. Over time, it evolved to describe things that are not possible or not feasible."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Having a picnic today is *out of the question* because of the rain.",
+          "zh": "由于下雨，今天去野餐是完全不可能的。"
+        }
+      ],
+      "audio": "audio/902.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Traveling abroad this year is *out of the question* given our budget.",
+          "zh": "鉴于我们的预算，今年出国旅行是完全不可能的。"
+        }
+      ],
+      "audio": "audio/902.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Asking for another loan is *out of the question* after you just defaulted.",
+          "zh": "在你刚刚违约之后，再要求贷款是完全不可能的。"
+        }
+      ],
+      "audio": "audio/902.3.mp3"
+    }
+  ]
+}

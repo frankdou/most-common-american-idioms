@@ -1,0 +1,37 @@
+{
+  "n": 789,
+  "name": "Lose your touch",
+  "meaning": {
+    "zh": "失去能力、不再擅长某方面的工作。\n\n这个短语来源于 “身手” 或 “技能” 的概念。如果一个人 “失去 touch”，意味着他们在某个领域或方面不再像以前那样擅长或有技巧。常常用于描述那些原本在某个活动或职业中表现出色的人，但由于某些原因，现在已经不再那么优秀。",
+    "en": "This phrase originates from the concept of \"skill\" or \"touch.\" If someone \"loses their touch,\" it means they are no longer as skilled or adept in a particular area or activity as they once were. It is often used to describe those who were once very good at something but have seen a decline in their abilities for some reason."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I can't seem to bake cookies like I used to; I must have *lost my touch*.",
+          "zh": "我似乎再也做不出以前那样的饼干了，我肯定是失去了能力。"
+        }
+      ],
+      "audio": "audio/789.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He was a great pianist, but after the long break, he has *lost his touch*.",
+          "zh": "他曾是个很棒的钢琴家，但长时间的休息之后，他已经失去了以前的技艺。"
+        }
+      ],
+      "audio": "audio/789.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "After taking a year off from painting, she feels she has *lost her touch*.",
+          "zh": "在休息一年没有画画后，她觉得自己已经失去了技艺。"
+        }
+      ],
+      "audio": "audio/789.3.mp3"
+    }
+  ]
+}

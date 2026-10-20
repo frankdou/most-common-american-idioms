@@ -1,0 +1,37 @@
+{
+  "n": 1299,
+  "name": "We'll cross that bridge when we come to it",
+  "meaning": {
+    "zh": "“船到桥头自然直”。\n\n这个短语起源于字面意思，即指当你去旅行或行进时，在遇到一座桥之前不需要处理与过桥相关的问题。在现代语境中，这个谚语被用来表示当前无需操心未来可能遇到的问题，等到实际遇到困难时再解决。",
+    "en": "This phrase originates from its literal meaning, referring to the act of not needing to deal with problems related to crossing a bridge until you actually arrive at one during your journey. In a modern context, it is used to signify that there is no need to worry about potential future issues until they actually arise."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "If we run out of money, we'll cross that bridge when we come to it.",
+          "zh": "如果我们耗尽了钱，到时候再解决。"
+        }
+      ],
+      "audio": "audio/1299.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Don't worry about the project failing; we'll cross that bridge when we come to it.",
+          "zh": "别担心项目失败，船到桥头自然直。"
+        }
+      ],
+      "audio": "audio/1299.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "What if the weather is bad on the day of the event? We'll cross that bridge when we come to it.",
+          "zh": "如果活动当天天气不好怎么办？到时候再说吧。"
+        }
+      ],
+      "audio": "audio/1299.3.mp3"
+    }
+  ]
+}

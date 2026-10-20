@@ -1,0 +1,37 @@
+{
+  "n": 151,
+  "name": "Black market",
+  "meaning": {
+    "zh": "“黑市” 或 “非法市场”。\n\n“黑市” 指的是不受政府监管的市场或交易，通常涉及非法商品或服务。这种市场通常在避开法律监管的情况下运行，包括交易违禁品、走私物品、或回避高税收的商品等。",
+    "en": "The term \"black market\" refers to markets or trading activities that are not regulated by the government, often involving illegal goods or services. These markets typically operate in the shadows, dealing in contraband, smuggled items, or tax-evading goods."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He bought cheap electronics from the *black market*.",
+          "zh": "他从黑市购买了便宜的电子产品。"
+        }
+      ],
+      "audio": "audio/151.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "During war times, food was often available only on the *black market*.",
+          "zh": "在战争时期，食物通常只有在黑市才可以买到。"
+        }
+      ],
+      "audio": "audio/151.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Authorities are cracking down on the *black market* for counterfeit goods.",
+          "zh": "当局正在打击假货的黑市交易。"
+        }
+      ],
+      "audio": "audio/151.3.mp3"
+    }
+  ]
+}

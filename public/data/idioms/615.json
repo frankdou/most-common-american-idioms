@@ -1,0 +1,37 @@
+{
+  "n": 615,
+  "name": "Hocus-pocus",
+  "meaning": {
+    "zh": "“戏法” 或 “魔术般的伎俩”。\n\n这个短语起源于17世纪，通常用于描述魔术师在表演魔术时所说的咒语。最初，这个术语可能是为了模仿拉丁语宗教仪式中的某些声音。后来，它被用来泛指任何骗人的把戏或哄人的手段。",
+    "en": "This phrase originated in the 17th century and was typically used to describe the incantations spoken by magicians when performing tricks. Initially, this term may have been intended to mimic the sounds of certain Latin religious rites. Over time, it came to be used more broadly to refer to any trickery or deceptive means."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The magician's show was full of impressive *hocus-pocus*.",
+          "zh": "那个魔术师的表演充满了令人印象深刻的戏法。"
+        }
+      ],
+      "audio": "audio/615.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Don't believe his *hocus-pocus*; it's all sleight of hand.",
+          "zh": "别相信他的那些戏法；这都是手法而已。"
+        }
+      ],
+      "audio": "audio/615.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The politician's promises sounded like *hocus-pocus* to the skeptical audience.",
+          "zh": "对怀疑的观众来说，那位政客的承诺听起来就像是哄人的把戏。"
+        }
+      ],
+      "audio": "audio/615.3.mp3"
+    }
+  ]
+}

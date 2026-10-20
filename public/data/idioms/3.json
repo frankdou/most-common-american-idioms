@@ -1,0 +1,37 @@
+{
+  "n": 3,
+  "name": "A baker's dozen",
+  "meaning": {
+    "zh": "“十三个”。这个短语用来表示数量时，比通常的一打（十二个）多一个。\n\n这个短语起源于中世纪的英格兰。为了避免因缺斤少两而受到惩罚，烘焙师在卖面包时常常会多给一个，以确保足够的分量。因此，“baker's dozen” 通常指的是十三个。",
+    "en": "This phrase originates from medieval England. To avoid punishment for selling short-weight bread, bakers often gave an extra loaf to ensure they met the legal weight requirements. Hence, \"baker's dozen\" typically means thirteen."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I ordered a dozen bagels, but the kind baker gave me a *baker's dozen*.",
+          "zh": "我订了一打贝果，但是善良的面包师给了我十三个。"
+        }
+      ],
+      "audio": "audio/003.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "With a *baker's dozen* of cookies, there's enough for everyone to have more than one.",
+          "zh": "有十三块饼干，足够每个人多吃一块了。"
+        }
+      ],
+      "audio": "audio/003.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The bakery always includes an extra muffin, making it a *baker's dozen*.",
+          "zh": "那家面包店总会多给一个松饼，使其成为十三个。"
+        }
+      ],
+      "audio": "audio/003.3.mp3"
+    }
+  ]
+}

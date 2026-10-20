@@ -1,0 +1,37 @@
+{
+  "n": 100,
+  "name": "At the end of your rope",
+  "meaning": {
+    "zh": "“走投无路” 或 “忍无可忍”。\n\n这个短语源自农场工作，用来表示一条绳子到了尽头。比喻某人已经使尽了最后的手段或忍耐到了极限。通常用于表达极度的疲劳或无助。",
+    "en": "This phrase originates from farm work, referring to the point where a rope has reached its maximum length. It symbolizes someone having exhausted all means or patience. It is often used to convey extreme fatigue or helplessness."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "I'm really *at the end of my rope* with this project; nothing seems to work.",
+          "zh": "我对这个项目真的走投无路了；没有什么方案有效。"
+        }
+      ],
+      "audio": "audio/100.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She was *at the end of her rope*, unable to find a solution to her problems.",
+          "zh": "她已经忍无可忍，无法找到解决问题的方法。"
+        }
+      ],
+      "audio": "audio/100.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "John is *at the end of his rope* with his job; he can't take it anymore.",
+          "zh": "约翰对他的工作已经忍无可忍了；他再也受不了了。"
+        }
+      ],
+      "audio": "audio/100.3.mp3"
+    }
+  ]
+}

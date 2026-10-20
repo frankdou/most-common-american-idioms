@@ -1,0 +1,37 @@
+{
+  "n": 391,
+  "name": "Fall on deaf ears",
+  "meaning": {
+    "zh": "“充耳不闻” 或 “未受理会”。\n\n这个短语字面上的意思是说话者的话语被视为无关紧要，传达了但没有被接收或重视。它最早可以追溯到16世纪，人们用它来形容那些拒绝听取建议或信息的人。",
+    "en": "This phrase literally means that the speaker's words are considered trivial, delivered but neither received nor valued. It can be traced back to the 16th century and was used to describe people who refuse to heed advice or information."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "Her concerns about the project *fell on deaf ears*.",
+          "zh": "她对项目的关切未被理会。"
+        }
+      ],
+      "audio": "audio/391.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "The warning *fell on deaf ears*, and no one took action.",
+          "zh": "那个警告被充耳不闻，没有人采取行动。"
+        }
+      ],
+      "audio": "audio/391.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "When he tried to explain his side of the story, it *fell on deaf ears*.",
+          "zh": "当他试图解释他的故事时，遭到了无视。"
+        }
+      ],
+      "audio": "audio/391.3.mp3"
+    }
+  ]
+}

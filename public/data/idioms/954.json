@@ -1,0 +1,37 @@
+{
+  "n": 954,
+  "name": "Pull yourself together",
+  "meaning": {
+    "zh": "\"冷静下来\" 或 \"振作起来\"。\n\n这个短语起源于物理上的动作，即将分散的东西拉在一起。后来，这个短语被用来表示一个人控制自己的情绪或心态，通常是在面对压力或困难时。就是说要清醒过来，重新整理自己的思绪并恢复冷静和理智。",
+    "en": "This phrase originates from the physical action of pulling scattered things together. Subsequently, it came to be used to describe someone gaining control over their emotions or mental state, typically in response to stress or difficulties. It means to become calm and regain composure and stability."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "After hearing the bad news, he took a moment to *pull himself together* before continuing the presentation.",
+          "zh": "听到坏消息后，他花了一分钟时间让自己冷静下来，然后继续进行演讲。"
+        }
+      ],
+      "audio": "audio/954.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She had a good cry but then decided to *pull herself together* and face the problem head-on.",
+          "zh": "她痛痛快快地哭了一场，但随后决定振作起来，直接面对问题。"
+        }
+      ],
+      "audio": "audio/954.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "You need to *pull yourself together* and start making decisions about your future.",
+          "zh": "你需要冷静下来，开始对你的未来做出决定。"
+        }
+      ],
+      "audio": "audio/954.3.mp3"
+    }
+  ]
+}

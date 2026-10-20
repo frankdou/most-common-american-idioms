@@ -1,0 +1,37 @@
+{
+  "n": 600,
+  "name": "*Here and there*",
+  "meaning": {
+    "zh": "“到处” 或 “各处”。\n\n这个短语用于形容某物或某人分布在不同地点或地方。其起源具有日常性，因为 “*here*” 表示 “这里”，而 “*there*” 表示 “那里”，合在一起就是 “到处” 的意思。这种表达方式用于描述某些元素，特质，或活动不集中于一个地点，而是散布在各地。",
+    "en": "This phrase is used to describe something scattered in different places or locations. Its origin is quite straightforward, as \"here\" means \"this place\" and \"there\" means \"that place.\" Combined, they form the idea of something being present in multiple locations. This expression is commonly used to describe elements, features, or activities that are not centralized but spread out."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "We found small cafes *here and there* in the city.",
+          "zh": "我们在城市的各处发现了小咖啡馆。"
+        }
+      ],
+      "audio": "audio/600.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "He has friends *here and there* around the world.",
+          "zh": "他在世界各地都有朋友。"
+        }
+      ],
+      "audio": "audio/600.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "You can find wildflowers *here and there* in the meadow.",
+          "zh": "你可以在草地上到处找到野花。"
+        }
+      ],
+      "audio": "audio/600.3.mp3"
+    }
+  ]
+}

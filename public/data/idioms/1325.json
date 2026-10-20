@@ -1,0 +1,37 @@
+{
+  "n": 1325,
+  "name": "Wine and dine",
+  "meaning": {
+    "zh": "“款待” 或 “盛情款待”。\n\n这个短语起源于较早的英语中，用 “wine”(葡萄酒) 和 “dine”(进餐) 来表达通过美酒佳肴来招待客人。如今，这个表达通常用来描述通过精致美食和饮品来招待或取悦他人，尤其是在商务场合或为了赢得某人的青睐时。",
+    "en": "This phrase originates from earlier English, where \"wine\" and \"dine\" were used to express entertaining guests with good food and drinks. Today, it is commonly used to describe the act of entertaining or pleasing someone, especially in a business context or to gain someone's favor."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He wined and dined his prospective clients at the fancy restaurant.",
+          "zh": "他在豪华餐厅款待了潜在客户。"
+        }
+      ],
+      "audio": "audio/1325.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "They were wined and dined by the hosts during their visit.",
+          "zh": "在他们参观期间，主人盛情款待了他们。"
+        }
+      ],
+      "audio": "audio/1325.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "She enjoys being wined and dined at the finest places in town.",
+          "zh": "她喜欢在城里最好的地方享受款待。"
+        }
+      ],
+      "audio": "audio/1325.3.mp3"
+    }
+  ]
+}

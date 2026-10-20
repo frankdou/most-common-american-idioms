@@ -1,0 +1,37 @@
+{
+  "n": 93,
+  "name": "At best",
+  "meaning": {
+    "zh": "“顶多” 或” 最好也不过是”。\n\n这个短语用于表示某事物在最理想、最好的情况下也不过如此，可能与期望值有较大差距。通常这个短语会带有一种不满或失望的意味。",
+    "en": "This phrase is used to indicate that something is at its optimal or best possible condition, although this condition still might be unsatisfactory or below expectations. It often carries a tone of dissatisfaction or disappointment."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "The weather will be cloudy *at best* this weekend.",
+          "zh": "这个周末的天气顶多是阴天。"
+        }
+      ],
+      "audio": "audio/093.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "*At best*, the project will be completed by next month.",
+          "zh": "这个项目最早也要到下个月才能完成。"
+        }
+      ],
+      "audio": "audio/093.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "His performance was mediocre *at best*.",
+          "zh": "他的表现顶多也就是一般。"
+        }
+      ],
+      "audio": "audio/093.3.mp3"
+    }
+  ]
+}

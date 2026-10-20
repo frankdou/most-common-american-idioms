@@ -1,0 +1,37 @@
+{
+  "n": 917,
+  "name": "Pay a pretty penny",
+  "meaning": {
+    "zh": "“花大价钱” 或 “花很多钱”。\n\n这个短语起源于18世纪左右，其中 “penny（便士）” 是英国的最基本的货币单位。短语中的 “pretty” 并不是指 “漂亮”，而是强调数量多，意思上跟 “相当多的钱” 类似。所以 “pay a pretty penny” 意指支付一笔相当昂贵的费用。",
+    "en": "This phrase originated around the 18th century, with \"penny\" being the basic unit of currency in Britain. In this context, \"pretty\" doesn't mean \"beautiful\", but rather it emphasizes a large amount. So \"pay a pretty penny\" means to pay a quite expensive amount."
+  },
+  "examples": [
+    {
+      "lines": [
+        {
+          "en": "He paid a pretty penny for that vintage car.",
+          "zh": "他为了那辆古董车花了大价钱。"
+        }
+      ],
+      "audio": "audio/917.1.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "We had to pay a pretty penny to get front-row seats at the concert.",
+          "zh": "为了得到演唱会前排的座位，我们不得不花很多钱。"
+        }
+      ],
+      "audio": "audio/917.2.mp3"
+    },
+    {
+      "lines": [
+        {
+          "en": "Buying a house in this neighborhood will cost you a pretty penny.",
+          "zh": "在这个小区买房会花去你不少钱。"
+        }
+      ],
+      "audio": "audio/917.3.mp3"
+    }
+  ]
+}
